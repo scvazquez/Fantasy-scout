@@ -37,7 +37,7 @@ Lineup: 1 QB · 2 RB · 4 WR · 1 TE · 1 FLEX · 1 K · 1 DEF
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-05-26 11:04 PM PT
+Last synced: 2026-05-27 12:06 PM PT
 
 ## Ownership Index
 ```
@@ -162,6 +162,7 @@ Last synced: 2026-05-26 11:04 PM PT
 8110
 8111
 8112
+8116
 8117
 8119
 8121
@@ -173,7 +174,6 @@ Last synced: 2026-05-26 11:04 PM PT
 8136
 8137
 8138
-8139
 8142
 8143
 8144
@@ -185,6 +185,7 @@ Last synced: 2026-05-26 11:04 PM PT
 8155
 8161
 8167
+8172
 8180
 8183
 8188
@@ -458,12 +459,12 @@ WAS
 | RB | David Montgomery | RB | HOU | 28 |
 | WR | CeeDee Lamb | WR | DAL | 27 |
 | WR | Justin Jefferson | WR | MIN | 26 |
-| WR | Kyle Pitts | TE | ATL | 25 |
 | WR | Ladd McConkey | WR | LAC | 24 |
-| TE | Terry McLaurin | WR | WAS | 30 |
+| WR | Terry McLaurin | WR | WAS | 30 |
+| TE | Kyle Pitts | TE | ATL | 25 |
 | FLEX | Rico Dowdle | RB | PIT | 27 |
 | K | Ben Sauls | K | NYG | 24 |
-| DEF | Unknown (0) | UNK | UNK | ? |
+| DEF | Detroit Lions | DEF | DET | ? |
 | LB | Edgerrin Cooper | LB | GB | 24 |
 | LB | Quay Walker | LB | LV | 26 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
@@ -471,27 +472,26 @@ WAS
 
 ### Bench
 
-- Justin Fields (QB, KC, Age 27, 5 yr exp)
-- Alvin Kamara (RB, NO, Age 30, 9 yr exp)
-- Donovan Edwards (RB, MIA, Age 23, 1 yr exp)
-- LeQuint Allen (RB, JAX, Age 21, 1 yr exp)
-- Najee Harris (RB, FA, Age 27, 5 yr exp)
-- Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
-- Zamir White (RB, FA, Age 26, 4 yr exp)
-- Arian Smith (WR, NYJ, Age 24, 1 yr exp)
-- Cyrus Allen (WR, KC, Age 23, 0 yr exp) 🟡 ROOKIE
-- Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
-- Jimmy Horn (WR, CAR, Age 23, 1 yr exp)
-- Jordan Addison (WR, MIN, Age 24, 3 yr exp)
 - Tre' Harris (WR, LAC, Age 24, 1 yr exp)
+- Donovan Edwards (RB, MIA, Age 23, 1 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
+- Jimmy Horn (WR, CAR, Age 23, 1 yr exp)
+- Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
+- Arian Smith (WR, NYJ, Age 24, 1 yr exp)
+- Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
+- LeQuint Allen (RB, JAX, Age 21, 1 yr exp)
+- Alvin Kamara (RB, NO, Age 30, 9 yr exp)
 - Mark Andrews (TE, BAL, Age 30, 8 yr exp)
-- Detroit Lions (DEF, DET, Age ?, ? yr exp)
 - Zack Baun (LB, PHI, Age 29, 6 yr exp)
+- Najee Harris (RB, FA, Age 27, 5 yr exp)
+- Justin Fields (QB, KC, Age 27, 5 yr exp)
+- Pierre Strong (RB, GB, Age 27, 4 yr exp)
+- Greg Dulcich (TE, MIA, Age 26, 4 yr exp)
+- Jordan Addison (WR, MIN, Age 24, 3 yr exp)
 
 ### Taxi Squad
 
-_(empty)_
+- Cyrus Allen (WR, KC, Age 23)
 
 ## All Opponent Rosters
 
@@ -516,36 +516,36 @@ _(empty)_
 
 **QB Room (3 QBs):**
 - Joe Burrow (CIN)
-- Jordan Love (GB)
 - Shedeur Sanders (CLE)
+- Jordan Love (GB)
 
 **Positional Surplus (3+ players at same position):**
-- QB (3): Joe Burrow, Jordan Love, Shedeur Sanders
-- RB (8): Bucky Irving, J'Mari Taylor, Jahmyr Gibbs, Jaydon Blue, Kalel Mullings, Ollie Gordon, Robert Henry, TreVeyon Henderson
-- WR (19): Chris Brazzell, Christian Kirk, DJ Moore, Darnell Mooney, DeVonta Smith, Isaac TeSlaa, Jayden Reed, Jaylin Lane, Keon Coleman, Malik Benson, Michael Wilson, Puka Nacua, Ryan Flournoy, Savion Williams, Skyler Bell, Ted Hurst, Tory Horton, Tyreek Hill, Zavion Thomas
+- QB (3): Joe Burrow, Shedeur Sanders, Jordan Love
+- RB (10): Kalel Mullings, J'Mari Taylor, Jahmyr Gibbs, Jaydon Blue, Ollie Gordon, TreVeyon Henderson, Robert Henry, Bucky Irving, J'Mari Taylor, Robert Henry
 - TE (3): AJ Barner, George Kittle, Jake Tonges
+- WR (20): Ted Hurst, Malik Benson, Ryan Flournoy, Skyler Bell, Keon Coleman, Zavion Thomas, Christian Kirk, Tory Horton, Darnell Mooney, DeVonta Smith, DJ Moore, Jaylin Lane, Chris Brazzell, Puka Nacua, Savion Williams, Tyreek Hill, Michael Wilson, Isaac TeSlaa, Jayden Reed, Ted Hurst
 
 **Bench depth:**
-- Jordan Love (QB, GB)
-- Shedeur Sanders (QB, CLE)
-- Jaydon Blue (RB, DAL)
-- Kalel Mullings (RB, TEN)
-- Ollie Gordon (RB, MIA)
-- Chris Brazzell (WR, CAR) 🟡 ROOKIE
-- Christian Kirk (WR, SF)
-- Darnell Mooney (WR, NYG)
-- Isaac TeSlaa (WR, DET)
-- Jayden Reed (WR, GB)
-- Jaylin Lane (WR, WAS)
-- Keon Coleman (WR, BUF)
 - Malik Benson (WR, LV) 🟡 ROOKIE
 - Ryan Flournoy (WR, DAL)
-- Savion Williams (WR, GB)
 - Skyler Bell (WR, BUF) 🟡 ROOKIE
-- Tory Horton (WR, SEA)
-- Tyreek Hill (WR, FA)
-- Zavion Thomas (WR, CHI) 🟡 ROOKIE
+- Kalel Mullings (RB, TEN)
+- Keon Coleman (WR, BUF)
 - AJ Barner (TE, SEA)
+- Zavion Thomas (WR, CHI) 🟡 ROOKIE
+- Christian Kirk (WR, SF)
+- Tory Horton (WR, SEA)
+- Darnell Mooney (WR, NYG)
+- Jaydon Blue (RB, DAL)
+- Ollie Gordon (RB, MIA)
+- Jaylin Lane (WR, WAS)
+- Chris Brazzell (WR, CAR) 🟡 ROOKIE
+- Savion Williams (WR, GB)
+- Tyreek Hill (WR, FA)
+- Shedeur Sanders (QB, CLE)
+- Jordan Love (QB, GB)
+- Isaac TeSlaa (WR, DET)
+- Jayden Reed (WR, GB)
 - Jake Tonges (TE, SF)
 
 **Taxi Squad:**
@@ -569,42 +569,43 @@ _(empty)_
 - Houston Texans (DEF, HOU)
 - Carson Schwesinger (LB, CLE)
 - Unknown (0) (UNK, UNK)
-- Travis Hunter (DB, JAX)
+- Travis Hunter (WR, JAX)
 - Unknown (0) (UNK, UNK)
 
-**QB Room (5 QBs):**
+**QB Room (6 QBs):**
+- Drake Maye (NE)
+- Jacoby Brissett (ARI)
+- Gardner Minshew (ARI)
 - Brock Purdy (SF)
 - Carson Beck (ARI)
-- Drake Maye (NE)
-- Gardner Minshew (ARI)
-- Jacoby Brissett (ARI)
+- Carson Beck (ARI)
 
 **Positional Surplus (3+ players at same position):**
-- QB (5): Brock Purdy, Carson Beck, Drake Maye, Gardner Minshew, Jacoby Brissett
-- RB (11): Blake Corum, Emmett Johnson, Jam Miller, Jarquez Hunter, Jeremiyah Love, Kenneth Walker, Nicholas Singleton, Rhamondre Stevenson, Trevor Etienne, Tyler Allgeier, Zach Charbonnet
-- WR (10): Dontayvion Wicks, Jalen Royals, Jayden Higgins, Kyle Williams, Luther Burden, Marvin Harrison, Pat Bryant, Romeo Doubs, Tetairoa McMillan, Xavier Legette
-- TE (4): Dallas Goedert, Eli Raridon, Oronde Gadsden, T.J. Hockenson
+- QB (6): Drake Maye, Jacoby Brissett, Gardner Minshew, Brock Purdy, Carson Beck, Carson Beck
+- RB (12): Zach Charbonnet, Jarquez Hunter, Nicholas Singleton, Rhamondre Stevenson, Emmett Johnson, Kenneth Walker, Trevor Etienne, Jeremiyah Love, Jam Miller, Tyler Allgeier, Blake Corum, Jam Miller
+- TE (5): Dallas Goedert, T.J. Hockenson, Eli Raridon, Oronde Gadsden, Eli Raridon
+- WR (11): Jalen Royals, Jayden Higgins, Xavier Legette, Romeo Doubs, Kyle Williams, Tetairoa McMillan, Pat Bryant, Marvin Harrison, Travis Hunter, Dontayvion Wicks, Luther Burden
 
 **Bench depth:**
-- Brock Purdy (QB, SF)
-- Gardner Minshew (QB, ARI)
+- Jalen Royals (WR, KC)
+- Zach Charbonnet (RB, SEA)
 - Jacoby Brissett (QB, ARI)
-- Blake Corum (RB, LAR)
-- Emmett Johnson (RB, KC) 🟡 ROOKIE
 - Jarquez Hunter (RB, LAR)
 - Nicholas Singleton (RB, TEN) 🟡 ROOKIE
-- Trevor Etienne (RB, CAR)
-- Tyler Allgeier (RB, ARI)
-- Zach Charbonnet (RB, SEA)
-- Dontayvion Wicks (WR, PHI)
-- Jalen Royals (WR, KC)
 - Jayden Higgins (WR, HOU)
-- Kyle Williams (WR, NE)
-- Pat Bryant (WR, DEN)
 - Xavier Legette (WR, CAR)
+- Gardner Minshew (QB, ARI)
+- Kyle Williams (WR, NE)
+- Emmett Johnson (RB, KC) 🟡 ROOKIE
+- Pat Bryant (WR, DEN)
+- Brock Purdy (QB, SF)
+- Trevor Etienne (RB, CAR)
 - Dallas Goedert (TE, PHI)
-- Oronde Gadsden (TE, LAC)
+- Tyler Allgeier (RB, ARI)
+- Blake Corum (RB, LAR)
+- Dontayvion Wicks (WR, PHI)
 - New England Patriots (DEF, NE)
+- Oronde Gadsden (TE, LAC)
 
 **Taxi Squad:**
 - Carson Beck (QB, ARI)
@@ -631,28 +632,28 @@ _(empty)_
 - Dillon Thieneman (DB, CHI)
 
 **QB Room (2 QBs):**
-- Jared Goff (DET)
 - Jaxson Dart (NYG)
+- Jared Goff (DET)
 
 **Positional Surplus (3+ players at same position):**
-- RB (5): Bhayshul Tuten, James Cook, Kyle Monangai, Tyjae Spears, Woody Marks
-- WR (9): Antonio Williams, Brian Thomas, Carnell Tate, Ja'Kobi Lane, Kayshon Boutte, Matthew Golden, Quentin Johnston, Ricky Pearsall, Rome Odunze
-- LB (4): Jihaad Campbell, Jordyn Brooks, Sonny Styles, Zaire Franklin
+- LB (4): Jihaad Campbell, Sonny Styles, Zaire Franklin, Jordyn Brooks
+- RB (5): Woody Marks, Bhayshul Tuten, Kyle Monangai, James Cook, Tyjae Spears
+- WR (9): Rome Odunze, Brian Thomas, Ricky Pearsall, Matthew Golden, Carnell Tate, Ja'Kobi Lane, Antonio Williams, Kayshon Boutte, Quentin Johnston
 
 **Bench depth:**
-- Jared Goff (QB, DET)
-- Tyjae Spears (RB, TEN)
 - Woody Marks (RB, HOU)
-- Antonio Williams (WR, WAS) 🟡 ROOKIE
-- Ja'Kobi Lane (WR, BAL) 🟡 ROOKIE
-- Kayshon Boutte (WR, NE)
 - Matthew Golden (WR, GB)
-- Quentin Johnston (WR, LAC)
-- Travis Kelce (TE, KC)
-- Andy Borregales (K, NE)
 - Jihaad Campbell (LB, PHI)
+- Andy Borregales (K, NE)
+- Ja'Kobi Lane (WR, BAL) 🟡 ROOKIE
+- Antonio Williams (WR, WAS) 🟡 ROOKIE
+- Travis Kelce (TE, KC)
+- Jared Goff (QB, DET)
 - Zaire Franklin (LB, GB)
 - Kayvon Thibodeaux (DL, NYG)
+- Kayshon Boutte (WR, NE)
+- Tyjae Spears (RB, TEN)
+- Quentin Johnston (WR, LAC)
 
 ### Bombas (Roster 4)
 
@@ -674,40 +675,40 @@ _(empty)_
 - Unknown (0) (UNK, UNK)
 
 **QB Room (5 QBs):**
-- Diego Pavia (BAL)
-- Fernando Mendoza (LV)
 - Malik Willis (MIA)
+- Fernando Mendoza (LV)
+- Diego Pavia (BAL)
 - Michael Penix (ATL)
 - Trevor Lawrence (JAX)
 
 **Positional Surplus (3+ players at same position):**
-- QB (5): Diego Pavia, Fernando Mendoza, Malik Willis, Michael Penix, Trevor Lawrence
-- RB (10): Braelon Allen, Brashard Smith, Demond Claiborne, Dylan Sampson, Jadarian Price, Joe Mixon, Kaleb Johnson, Kaytron Allen, RJ Harvey, Tank Bigsby
-- WR (13): Adonai Mitchell, Calvin Ridley, Colbie Young, Denzel Boston, Germie Bernard, Jack Bech, KC Concepcion, Malachi Fields, Marvin Mims, Omar Cooper, Rashod Bateman, Tre Tucker, Troy Franklin
-- TE (5): Darnell Washington, Eli Stowers, Kenyon Sadiq, Sam Roush, Will Kacmarek
+- QB (5): Malik Willis, Fernando Mendoza, Diego Pavia, Michael Penix, Trevor Lawrence
+- RB (11): Joe Mixon, Tank Bigsby, Dylan Sampson, Kaytron Allen, Jadarian Price, RJ Harvey, Kaleb Johnson, Braelon Allen, Brashard Smith, Demond Claiborne, Demond Claiborne
+- TE (6): Sam Roush, Will Kacmarek, Darnell Washington, Kenyon Sadiq, Eli Stowers, Will Kacmarek
+- WR (14): KC Concepcion, Denzel Boston, Germie Bernard, Adonai Mitchell, Colbie Young, Rashod Bateman, Omar Cooper, Jack Bech, Troy Franklin, Marvin Mims, Malachi Fields, Tre Tucker, Calvin Ridley, Colbie Young
 
 **Bench depth:**
-- Diego Pavia (QB, BAL) 🟡 ROOKIE
-- Fernando Mendoza (QB, LV) 🟡 ROOKIE
+- Sam Roush (TE, CHI) 🟡 ROOKIE
+- Germie Bernard (WR, PIT) 🟡 ROOKIE
+- Adonai Mitchell (WR, NYJ)
 - Malik Willis (QB, MIA)
+- Joe Mixon (RB, FA)
+- Tank Bigsby (RB, PHI)
+- Rashod Bateman (WR, BAL)
+- Dylan Sampson (RB, CLE)
+- Kaytron Allen (RB, WAS) 🟡 ROOKIE
+- Fernando Mendoza (QB, LV) 🟡 ROOKIE
+- Jack Bech (WR, LV)
+- Diego Pavia (QB, BAL) 🟡 ROOKIE
+- Troy Franklin (WR, DEN)
 - Michael Penix (QB, ATL)
+- Marvin Mims (WR, DEN)
+- Tre Tucker (WR, LV)
+- Darnell Washington (TE, PIT)
+- Calvin Ridley (WR, TEN)
+- Kaleb Johnson (RB, PIT)
 - Braelon Allen (RB, NYJ)
 - Brashard Smith (RB, KC)
-- Dylan Sampson (RB, CLE)
-- Joe Mixon (RB, FA)
-- Kaleb Johnson (RB, PIT)
-- Kaytron Allen (RB, WAS) 🟡 ROOKIE
-- Tank Bigsby (RB, PHI)
-- Adonai Mitchell (WR, NYJ)
-- Calvin Ridley (WR, TEN)
-- Germie Bernard (WR, PIT) 🟡 ROOKIE
-- Jack Bech (WR, LV)
-- Marvin Mims (WR, DEN)
-- Rashod Bateman (WR, BAL)
-- Tre Tucker (WR, LV)
-- Troy Franklin (WR, DEN)
-- Darnell Washington (TE, PIT)
-- Sam Roush (TE, CHI) 🟡 ROOKIE
 
 **Taxi Squad:**
 - Demond Claiborne (RB, MIN)
@@ -733,38 +734,40 @@ _(empty)_
 - Unknown (0) (UNK, UNK)
 - Cooper DeJean (DB, PHI)
 
-**QB Room (6 QBs):**
-- Anthony Richardson (IND)
-- Dak Prescott (DAL)
-- Lamar Jackson (BAL)
-- Matthew Stafford (LAR)
+**QB Room (8 QBs):**
 - Taylen Green (CLE)
 - Ty Simpson (LAR)
+- Anthony Richardson (IND)
+- Lamar Jackson (BAL)
+- Matthew Stafford (LAR)
+- Dak Prescott (DAL)
+- Ty Simpson (LAR)
+- Taylen Green (CLE)
 
 **Positional Surplus (3+ players at same position):**
-- QB (6): Anthony Richardson, Dak Prescott, Lamar Jackson, Matthew Stafford, Taylen Green, Ty Simpson
-- RB (8): Brian Robinson, Chuba Hubbard, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
-- WR (10): Alec Pierce, Elijah Sarratt, Jalen Coker, Jalen Tolbert, Jaxon Smith-Njigba, Jeff Caldwell, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
-- TE (4): Chig Okonkwo, Dalton Schultz, Michael Mayer, Terrance Ferguson
+- QB (8): Taylen Green, Ty Simpson, Anthony Richardson, Lamar Jackson, Matthew Stafford, Dak Prescott, Ty Simpson, Taylen Green
+- RB (8): Javonte Williams, Chuba Hubbard, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Brian Robinson, Omarion Hampton
+- TE (4): Dalton Schultz, Chig Okonkwo, Michael Mayer, Terrance Ferguson
+- WR (11): Makai Lemon, Wan'Dale Robinson, Jalen Coker, Rashee Rice, Jeff Caldwell, Alec Pierce, Jalen Tolbert, Elijah Sarratt, Jaxon Smith-Njigba, Parker Washington, Jeff Caldwell
 
 **Bench depth:**
-- Anthony Richardson (QB, IND)
-- Lamar Jackson (QB, BAL)
-- Matthew Stafford (QB, LAR)
-- Brian Robinson (RB, ATL)
-- Jonah Coleman (RB, DEN) 🟡 ROOKIE
-- Jonathon Brooks (RB, CAR)
-- Kaelon Black (RB, SF) 🟡 ROOKIE
-- Keaton Mitchell (RB, LAC)
-- Elijah Sarratt (WR, BAL) 🟡 ROOKIE
-- Jalen Coker (WR, CAR)
-- Jalen Tolbert (WR, MIA)
 - Makai Lemon (WR, PHI) 🟡 ROOKIE
-- Wan'Dale Robinson (WR, TEN)
 - Dalton Schultz (TE, HOU)
 - Michael Mayer (TE, LV)
-- Terrance Ferguson (TE, LAR)
+- Jonah Coleman (RB, DEN) 🟡 ROOKIE
+- Wan'Dale Robinson (WR, TEN)
+- Jalen Coker (WR, CAR)
+- Jonathon Brooks (RB, CAR)
+- Anthony Richardson (QB, IND)
 - Los Angeles Rams (DEF, LAR)
+- Kaelon Black (RB, SF) 🟡 ROOKIE
+- Keaton Mitchell (RB, LAC)
+- Terrance Ferguson (TE, LAR)
+- Lamar Jackson (QB, BAL)
+- Jalen Tolbert (WR, MIA)
+- Brian Robinson (RB, ATL)
+- Elijah Sarratt (WR, BAL) 🟡 ROOKIE
+- Matthew Stafford (QB, LAR)
 
 **Taxi Squad:**
 - Ty Simpson (QB, LAR)
@@ -786,41 +789,40 @@ _(empty)_
 - Lucas Havrisik (K, GB)
 - Seattle Seahawks (DEF, SEA)
 - Foyesade Oluokun (LB, JAX)
-- Carl Granderson (DL, NO)
+- Carl Granderson (DE, NO)
 - Jermod McCoy (DB, LV)
 - Avieon Terrell (DB, ATL)
 
 **QB Room (2 QBs):**
-- Jalen Hurts (PHI)
 - Josh Allen (BUF)
+- Jalen Hurts (PHI)
 
 **Positional Surplus (3+ players at same position):**
-- RB (3): Bijan Robinson, Jacory Croskey-Merritt, Josh Jacobs
-- WR (7): Chris Godwin, DK Metcalf, Jaylen Waddle, Josh Downs, Michael Pittman, Stefon Diggs, Tee Higgins
-- LB (11): Bobby Okereke, Bobby Wagner, Dee Winters, Devin White, Ernest Jones, Foyesade Oluokun, Nick Bolton, Payton Wilson, Robert Spillane, Terrel Bernard, Tyrel Dodson
-- DL (3): Carl Granderson, David Bailey, Yaya Diaby
-- DB (4): Avieon Terrell, Genesis Smith, Jaquan Brisker, Jermod McCoy
+- DB (4): Jermod McCoy, Jaquan Brisker, Avieon Terrell, Genesis Smith
+- LB (12): Nick Bolton, Terrel Bernard, Ernest Jones, Payton Wilson, Robert Spillane, Dee Winters, Foyesade Oluokun, Tyrel Dodson, Bobby Wagner, Bobby Okereke, David Bailey, Devin White
+- RB (3): Josh Jacobs, Bijan Robinson, Jacory Croskey-Merritt
+- WR (7): DK Metcalf, Michael Pittman, Josh Downs, Stefon Diggs, Tee Higgins, Chris Godwin, Jaylen Waddle
 
 **Bench depth:**
-- Jalen Hurts (QB, PHI)
-- Josh Downs (WR, IND)
-- Michael Pittman (WR, PIT)
-- Stefon Diggs (WR, FA)
 - Juwan Johnson (TE, NO)
-- Bobby Okereke (LB, FA)
-- Bobby Wagner (LB, FA)
-- Dee Winters (LB, DAL)
-- Devin White (LB, FA)
-- Ernest Jones (LB, SEA)
+- Michael Pittman (WR, PIT)
 - Nick Bolton (LB, KC)
-- Payton Wilson (LB, PIT)
-- Robert Spillane (LB, NE)
 - Terrel Bernard (LB, BUF)
-- Tyrel Dodson (LB, MIA)
-- David Bailey (DL, NYJ) 🟡 ROOKIE
-- Yaya Diaby (DL, TB)
-- Genesis Smith (DB, LAC) 🟡 ROOKIE
+- Ernest Jones (LB, SEA)
+- Payton Wilson (LB, PIT)
+- Josh Downs (WR, IND)
+- Robert Spillane (LB, NE)
+- Stefon Diggs (WR, FA)
+- Dee Winters (LB, DAL)
 - Jaquan Brisker (DB, PIT)
+- Tyrel Dodson (LB, MIA)
+- Bobby Wagner (LB, FA)
+- Bobby Okereke (LB, FA)
+- Genesis Smith (DB, LAC) 🟡 ROOKIE
+- Yaya Diaby (DL, TB)
+- David Bailey (LB, NYJ) 🟡 ROOKIE
+- Jalen Hurts (QB, PHI)
+- Devin White (LB, FA)
 
 ### Darkkaze (Roster 7)
 
@@ -841,36 +843,37 @@ _(empty)_
 - Kam Curl (DB, LAR)
 - Unknown (0) (UNK, UNK)
 
-**QB Room (4 QBs):**
-- Caleb Williams (CHI)
+**QB Room (5 QBs):**
 - Drew Allar (PIT)
-- Sam Darnold (SEA)
+- Caleb Williams (CHI)
 - Tyler Shough (NO)
+- Sam Darnold (SEA)
+- Drew Allar (PIT)
 
 **Positional Surplus (3+ players at same position):**
-- QB (4): Caleb Williams, Drew Allar, Sam Darnold, Tyler Shough
-- RB (10): Chase Brown, De'Von Achane, Emanuel Wilson, J.K. Dobbins, Jaylen Warren, Jaylen Wright, Jordan James, Jordan Mason, Kenneth Gainwell, Travis Etienne
-- WR (8): Amon-Ra St. Brown, Bryce Lance, Drake London, George Pickens, Khalil Shakir, Malik Washington, Rashid Shaheed, Tyren Montgomery
-- TE (6): Cade Otton, Gunnar Helm, Justin Joly, Matt Hibner, Max Klare, Tyler Warren
+- QB (5): Drew Allar, Caleb Williams, Tyler Shough, Sam Darnold, Drew Allar
+- RB (10): J.K. Dobbins, Jaylen Wright, Emanuel Wilson, Jordan James, Chase Brown, Jaylen Warren, Travis Etienne, Kenneth Gainwell, De'Von Achane, Jordan Mason
+- TE (8): Matt Hibner, Max Klare, Gunnar Helm, Tyler Warren, Justin Joly, Cade Otton, Max Klare, Justin Joly
+- WR (8): Amon-Ra St. Brown, Bryce Lance, Drake London, Rashid Shaheed, George Pickens, Malik Washington, Khalil Shakir, Tyren Montgomery
 
 **Bench depth:**
-- Sam Darnold (QB, SEA)
-- Tyler Shough (QB, NO)
-- Emanuel Wilson (RB, SEA)
 - J.K. Dobbins (RB, DEN)
+- Matt Hibner (TE, BAL) 🟡 ROOKIE
 - Jaylen Wright (RB, MIA)
+- Emanuel Wilson (RB, SEA)
 - Jordan James (RB, SF)
-- Jordan Mason (RB, MIN)
+- Gunnar Helm (TE, TEN)
 - Kenneth Gainwell (RB, TB)
 - Bryce Lance (WR, NO) 🟡 ROOKIE
-- Khalil Shakir (WR, BUF)
-- Malik Washington (WR, MIA)
 - Rashid Shaheed (WR, SEA)
-- Tyren Montgomery (WR, TEN) 🟡 ROOKIE
-- Cade Otton (TE, TB)
-- Gunnar Helm (TE, TEN)
-- Matt Hibner (TE, BAL) 🟡 ROOKIE
+- Jordan Mason (RB, MIN)
+- Tyler Shough (QB, NO)
 - Pittsburgh Steelers (DEF, PIT)
+- Cade Otton (TE, TB)
+- Sam Darnold (QB, SEA)
+- Malik Washington (WR, MIA)
+- Khalil Shakir (WR, BUF)
+- Tyren Montgomery (WR, TEN) 🟡 ROOKIE
 
 **Taxi Squad:**
 - Max Klare (TE, LAR)
@@ -897,40 +900,40 @@ _(empty)_
 - Cam Bynum (DB, IND)
 
 **QB Room (7 QBs):**
-- Aaron Rodgers (PIT)
+- C.J. Stroud (HOU)
 - Bo Nix (DEN)
 - Bryce Young (CAR)
-- C.J. Stroud (HOU)
-- Daniel Jones (IND)
-- Kirk Cousins (LV)
+- Aaron Rodgers (PIT)
 - Patrick Mahomes (KC)
+- Kirk Cousins (LV)
+- Daniel Jones (IND)
 
 **Positional Surplus (3+ players at same position):**
-- QB (7): Aaron Rodgers, Bo Nix, Bryce Young, C.J. Stroud, Daniel Jones, Kirk Cousins, Patrick Mahomes
-- RB (7): Aaron Jones, Breece Hall, Devin Neal, Isiah Pacheco, Kyren Williams, Mike Washington, Quinshon Judkins
-- WR (9): Chris Olave, Deebo Samuel, Elic Ayomanor, Garrett Wilson, Jalen Nailor, Jerry Jeudy, Tank Dell, Xavier Worthy, Zachariah Branch
-- TE (5): Brenton Strange, Harold Fannin, Jake Ferguson, Mason Taylor, Sam LaPorta
 - LB (3): Devin Bush, Frankie Luvu, SirVocea Dennis
+- QB (7): C.J. Stroud, Bo Nix, Bryce Young, Aaron Rodgers, Patrick Mahomes, Kirk Cousins, Daniel Jones
+- RB (8): Breece Hall, Mike Washington, Kyren Williams, Aaron Jones, Quinshon Judkins, Devin Neal, Isiah Pacheco, Mike Washington
+- TE (5): Harold Fannin, Mason Taylor, Brenton Strange, Sam LaPorta, Jake Ferguson
+- WR (10): Tank Dell, Chris Olave, Zachariah Branch, Elic Ayomanor, Xavier Worthy, Garrett Wilson, Deebo Samuel, Jalen Nailor, Jerry Jeudy, Zachariah Branch
 
 **Bench depth:**
-- Aaron Rodgers (QB, PIT)
-- Bo Nix (QB, DEN)
-- Bryce Young (QB, CAR)
-- C.J. Stroud (QB, HOU)
-- Daniel Jones (QB, IND)
-- Kirk Cousins (QB, LV)
-- Aaron Jones (RB, MIN)
-- Devin Neal (RB, NO)
-- Isiah Pacheco (RB, DET)
-- Deebo Samuel (WR, FA)
-- Elic Ayomanor (WR, TEN)
-- Jalen Nailor (WR, LV)
-- Jerry Jeudy (WR, CLE)
-- Tank Dell (WR, HOU)
-- Xavier Worthy (WR, KC)
-- Jake Ferguson (TE, DAL)
-- Mason Taylor (TE, NYJ)
 - Devin Bush (LB, CHI)
+- Tank Dell (WR, HOU)
+- C.J. Stroud (QB, HOU)
+- Mason Taylor (TE, NYJ)
+- Aaron Jones (RB, MIN)
+- Bo Nix (QB, DEN)
+- Elic Ayomanor (WR, TEN)
+- Xavier Worthy (WR, KC)
+- Devin Neal (RB, NO)
+- Bryce Young (QB, CAR)
+- Deebo Samuel (WR, FA)
+- Aaron Rodgers (QB, PIT)
+- Jalen Nailor (WR, LV)
+- Jake Ferguson (TE, DAL)
+- Kirk Cousins (QB, LV)
+- Isiah Pacheco (RB, DET)
+- Daniel Jones (QB, IND)
+- Jerry Jeudy (WR, CLE)
 
 **Taxi Squad:**
 - Mike Washington (RB, LV)
@@ -951,47 +954,48 @@ _(empty)_
 - Unknown (0) (UNK, UNK)
 - Los Angeles Chargers (DEF, LAC)
 - Patrick Queen (LB, PIT)
-- Nik Bonitto (DL, DEN)
+- Nik Bonitto (LB, DEN)
 - Unknown (0) (UNK, UNK)
 - Unknown (0) (UNK, UNK)
 
-**QB Room (7 QBs):**
+**QB Room (8 QBs):**
+- Kyler Murray (MIN)
+- Deshaun Watson (CLE)
 - Cade Klubnik (NYJ)
+- Will Howard (PIT)
 - Cam Ward (TEN)
 - Cole Payton (PHI)
-- Deshaun Watson (CLE)
 - Geno Smith (NYJ)
-- Kyler Murray (MIN)
-- Will Howard (PIT)
+- Cole Payton (PHI)
 
 **Positional Surplus (3+ players at same position):**
-- QB (7): Cade Klubnik, Cam Ward, Cole Payton, Deshaun Watson, Geno Smith, Kyler Murray, Will Howard
-- RB (10): Ashton Jeanty, Cam Skattebo, Chris Brooks, Chris Rodriguez, Damien Martinez, MarShawn Lloyd, Ray Davis, Seth McGowan, Tony Pollard, Tyrone Tracy
-- WR (9): Brandon Aiyuk, Caleb Douglas, Chris Bell, Christian Watson, Ja'Marr Chase, Jalen McMillan, Jordyn Tyson, Malik Nabers, Will Pauling
-- TE (5): Colston Loveland, Marlin Klein, Oscar Delp, Theo Johnson, Tucker Kraft
+- QB (8): Kyler Murray, Deshaun Watson, Cade Klubnik, Will Howard, Cam Ward, Cole Payton, Geno Smith, Cole Payton
+- RB (11): Ray Davis, Cam Skattebo, MarShawn Lloyd, Damien Martinez, Tyrone Tracy, Chris Rodriguez, Ashton Jeanty, Tony Pollard, Seth McGowan, Chris Brooks, Seth McGowan
+- TE (6): Oscar Delp, Marlin Klein, Theo Johnson, Tucker Kraft, Colston Loveland, Oscar Delp
+- WR (9): Brandon Aiyuk, Jordyn Tyson, Will Pauling, Malik Nabers, Chris Bell, Caleb Douglas, Christian Watson, Jalen McMillan, Ja'Marr Chase
 
 **Bench depth:**
-- Cade Klubnik (QB, NYJ) 🟡 ROOKIE
-- Cam Ward (QB, TEN)
-- Deshaun Watson (QB, CLE)
-- Geno Smith (QB, NYJ)
-- Will Howard (QB, PIT)
-- Chris Brooks (RB, GB)
-- Chris Rodriguez (RB, JAX)
-- Damien Martinez (RB, GB)
-- MarShawn Lloyd (RB, GB)
 - Ray Davis (RB, BUF)
-- Tyrone Tracy (RB, NYG)
+- Deshaun Watson (QB, CLE)
 - Brandon Aiyuk (WR, SF)
-- Caleb Douglas (WR, MIA) 🟡 ROOKIE
-- Chris Bell (WR, MIA) 🟡 ROOKIE
-- Jalen McMillan (WR, TB)
-- Malik Nabers (WR, NYG)
-- Will Pauling (WR, SF) 🟡 ROOKIE
-- Marlin Klein (TE, HOU) 🟡 ROOKIE
-- Theo Johnson (TE, NYG)
-- Cleveland Browns (DEF, CLE)
 - Talanoa Hufanga (DB, DEN)
+- Cade Klubnik (QB, NYJ) 🟡 ROOKIE
+- MarShawn Lloyd (RB, GB)
+- Damien Martinez (RB, GB)
+- Will Pauling (WR, SF) 🟡 ROOKIE
+- Malik Nabers (WR, NYG)
+- Will Howard (QB, PIT)
+- Tyrone Tracy (RB, NYG)
+- Chris Rodriguez (RB, JAX)
+- Marlin Klein (TE, HOU) 🟡 ROOKIE
+- Cleveland Browns (DEF, CLE)
+- Cam Ward (QB, TEN)
+- Chris Bell (WR, MIA) 🟡 ROOKIE
+- Theo Johnson (TE, NYG)
+- Caleb Douglas (WR, MIA) 🟡 ROOKIE
+- Jalen McMillan (WR, TB)
+- Geno Smith (QB, NYJ)
+- Chris Brooks (RB, GB)
 
 **Taxi Squad:**
 - Oscar Delp (TE, NO)
@@ -1023,30 +1027,30 @@ _(empty)_
 - Tua Tagovailoa (ATL)
 
 **Positional Surplus (3+ players at same position):**
+- LB (4): Jack Campbell, Micah Parsons, Roquan Smith, Arvell Reese
 - QB (3): Garrett Nussmeier, Justin Herbert, Tua Tagovailoa
-- RB (8): Christian McCaffrey, D'Andre Swift, DJ Giddens, Isaac Guerendo, James Conner, Jonathan Taylor, Sean Tucker, Trey Benson
-- WR (11): A.J. Brown, Brenen Thompson, CJ Daniels, Courtland Sutton, Davante Adams, DeMario Douglas, Deion Burks, Jameson Williams, Kevin Coleman, Nico Collins, Tyquan Thornton
-- TE (5): David Njoku, Hunter Henry, John Michael Gyllenborg, Mike Gesicki, Nate Boerkircher
-- LB (3): Arvell Reese, Jack Campbell, Roquan Smith
+- RB (8): Jonathan Taylor, DJ Giddens, Christian McCaffrey, Isaac Guerendo, Sean Tucker, James Conner, Trey Benson, D'Andre Swift
+- TE (6): David Njoku, Mike Gesicki, Hunter Henry, Nate Boerkircher, John Michael Gyllenborg, Nate Boerkircher
+- WR (13): Tyquan Thornton, Deion Burks, Kevin Coleman, Courtland Sutton, Jameson Williams, A.J. Brown, Nico Collins, Davante Adams, DeMario Douglas, Brenen Thompson, CJ Daniels, CJ Daniels, Brenen Thompson
 
 **Bench depth:**
-- Garrett Nussmeier (QB, KC) 🟡 ROOKIE
-- Tua Tagovailoa (QB, ATL)
-- DJ Giddens (RB, IND)
-- Isaac Guerendo (RB, SF)
-- James Conner (RB, ARI)
-- Sean Tucker (RB, TB)
-- Trey Benson (RB, ARI)
-- Courtland Sutton (WR, DEN)
-- DeMario Douglas (WR, NE)
-- Deion Burks (WR, IND) 🟡 ROOKIE
-- Kevin Coleman (WR, MIA) 🟡 ROOKIE
 - Tyquan Thornton (WR, KC)
+- Deion Burks (WR, IND) 🟡 ROOKIE
 - David Njoku (TE, LAC)
-- John Michael Gyllenborg (TE, KC) 🟡 ROOKIE
-- Mike Gesicki (TE, CIN)
+- Kevin Coleman (WR, MIA) 🟡 ROOKIE
+- Courtland Sutton (WR, DEN)
+- DJ Giddens (RB, IND)
+- Garrett Nussmeier (QB, KC) 🟡 ROOKIE
+- Micah Parsons (LB, GB)
 - Arvell Reese (LB, NYG) 🟡 ROOKIE
-- Micah Parsons (DL, GB)
+- Mike Gesicki (TE, CIN)
+- Isaac Guerendo (RB, SF)
+- Sean Tucker (RB, TB)
+- James Conner (RB, ARI)
+- DeMario Douglas (WR, NE)
+- Trey Benson (RB, ARI)
+- John Michael Gyllenborg (TE, KC) 🟡 ROOKIE
+- Tua Tagovailoa (QB, ATL)
 
 **Taxi Squad:**
 - CJ Daniels (WR, LAR)
@@ -1073,36 +1077,37 @@ _(empty)_
 - Jessie Bates (DB, ATL)
 
 **QB Room (2 QBs):**
-- Baker Mayfield (TB)
 - J.J. McCarthy (MIN)
+- Baker Mayfield (TB)
 
 **Positional Surplus (3+ players at same position):**
-- RB (9): Adam Randall, Derrick Henry, Eli Heidenreich, Jerome Ford, Justice Hill, Kimani Vidal, Nick Chubb, Rachaad White, Ty Johnson
-- WR (10): Chimere Dike, Cooper Kupp, Darius Slayton, De'Zhaun Stribling, Devaughn Vele, Emeka Egbuka, Jahan Dotson, Jakobi Meyers, Mike Evans, Zay Flowers
-- TE (4): Colby Parkinson, Dalton Kincaid, Isaiah Likely, Michael Trigg
 - DEF (3): Minnesota Vikings, New York Giants, Philadelphia Eagles
+- LB (3): Tremaine Edmunds, Fred Warner, T.J. Watt
+- RB (9): Ty Johnson, Jerome Ford, Derrick Henry, Eli Heidenreich, Nick Chubb, Kimani Vidal, Rachaad White, Justice Hill, Adam Randall
+- TE (5): Colby Parkinson, Dalton Kincaid, Michael Trigg, Isaiah Likely, Michael Trigg
+- WR (10): Darius Slayton, Devaughn Vele, Zay Flowers, Cooper Kupp, Chimere Dike, De'Zhaun Stribling, Mike Evans, Emeka Egbuka, Jakobi Meyers, Jahan Dotson
 
 **Bench depth:**
-- J.J. McCarthy (QB, MIN)
-- Adam Randall (RB, BAL) 🟡 ROOKIE
-- Eli Heidenreich (RB, PIT) 🟡 ROOKIE
-- Jerome Ford (RB, WAS)
-- Justice Hill (RB, BAL)
-- Kimani Vidal (RB, LAC)
-- Nick Chubb (RB, FA)
-- Ty Johnson (RB, BUF)
-- Chimere Dike (WR, TEN)
-- Darius Slayton (WR, NYG)
-- De'Zhaun Stribling (WR, SF) 🟡 ROOKIE
-- Devaughn Vele (WR, NO)
-- Jahan Dotson (WR, ATL)
-- Jakobi Meyers (WR, JAX)
 - Colby Parkinson (TE, LAR)
 - Minnesota Vikings (DEF, MIN)
+- Darius Slayton (WR, NYG)
+- Devaughn Vele (WR, NO)
+- Ty Johnson (RB, BUF)
 - New York Giants (DEF, NYG)
 - Philadelphia Eagles (DEF, PHI)
 - Abdul Carter (DL, NYG)
-- T.J. Watt (DL, PIT)
+- J.J. McCarthy (QB, MIN)
+- Chimere Dike (WR, TEN)
+- De'Zhaun Stribling (WR, SF) 🟡 ROOKIE
+- Jerome Ford (RB, WAS)
+- Eli Heidenreich (RB, PIT) 🟡 ROOKIE
+- T.J. Watt (LB, PIT)
+- Nick Chubb (RB, FA)
+- Jakobi Meyers (WR, JAX)
+- Kimani Vidal (RB, LAC)
+- Jahan Dotson (WR, ATL)
+- Justice Hill (RB, BAL)
+- Adam Randall (RB, BAL) 🟡 ROOKIE
 
 **Taxi Squad:**
 - Michael Trigg (TE, DAL)
