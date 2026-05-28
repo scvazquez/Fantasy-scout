@@ -24,11 +24,165 @@ explicitly flagging the dynasty cost.
 - DRoj (Roster 8): 7 QBs — will cut soon, watch for desperation
   value trades
 
+## League Name
+FOOTBALL JUNKIES — Season 2026
+
 ## League Format
 12-team dynasty IDP
-Lineup: 1 QB · 2 RB · 4 WR · 1 TE · 1 FLEX · 1 K · 1 DEF
-        · 2 LB · 2 DB
-31-player rosters + 3 taxi slots
+Roster: 31 players + 3 taxi slots (rookies only) + 2 IR slots
+
+Lineup (exact slot order from API):
+  QB   × 1
+  RB   × 2
+  WR   × 2
+  TE   × 1
+  FLEX × 3  ← RB/WR/TE eligible
+  K    × 1
+  DEF  × 1
+  LB   × 2
+  DB   × 2
+  Total starters: 15
+
+Note: 3 FLEX slots make RB and WR depth interchangeable.
+Do not treat WR surplus and RB surplus as separate — they
+compete for the same 3 flex spots. Evaluate positional
+value accordingly.
+
+## Scoring System
+
+### Passing
+| Category              | Points |
+|-----------------------|--------|
+| Passing yard          | 0.04   |
+| Passing TD            | 6      |
+| Interception thrown   | -1     |
+| 2-point conversion    | 2      |
+| First down (pass)     | 1      |
+| TD 40+ yards bonus    | +1     |
+| TD 50+ yards bonus    | +2     |
+| Completion 40+ bonus  | +1     |
+
+Note: 25 passing yards = 1 point. 6-point passing TDs —
+premium QB value league.
+
+### Rushing
+| Category              | Points |
+|-----------------------|--------|
+| Rushing yard          | 0.1    |
+| Rushing TD            | 6      |
+| 2-point conversion    | 2      |
+| First down (rush)     | 1      |
+| Rush 40+ yards bonus  | +1     |
+| Rush TD 40+ bonus     | +1     |
+| Rush TD 50+ bonus     | +2     |
+
+Note: 10 rushing yards = 1 point.
+
+### Receiving
+| Category              | Points |
+|-----------------------|--------|
+| Reception             | 1      |
+| Receiving yard        | 0.1    |
+| Receiving TD          | 6      |
+| 2-point conversion    | 2      |
+| First down (rec)      | 1      |
+| Rec 40+ yards bonus   | +1     |
+| Rec TD 40+ bonus      | +1     |
+| Rec TD 50+ bonus      | +2     |
+
+Note: Full PPR (1 point per reception). 10 receiving yards
+= 1 point. Target hogs and high-volume slot receivers are
+significantly boosted in this format.
+
+### Fumbles
+| Category              | Points |
+|-----------------------|--------|
+| Fumble lost           | -2     |
+| Fumble recovered      | 2      |
+| Fumble rec TD         | 6      |
+| Fumble (no penalty)   | 0      |
+
+### Kicking
+| Category              | Points |
+|-----------------------|--------|
+| FG 0–29 yards         | 3      |
+| FG 30–39 yards        | 3      |
+| FG 40–49 yards        | 4      |
+| FG 50+ yards          | 5      |
+| FG miss               | -1     |
+| Extra point made      | 1      |
+| Extra point miss      | -3     |
+
+### Team Defense
+| Category              | Points |
+|-----------------------|--------|
+| Sack                  | 1      |
+| Interception          | 2      |
+| Fumble recovery       | 2      |
+| Defensive TD          | 6      |
+| Safety                | 2      |
+| Blocked kick          | 2      |
+| Points allowed 0      | 10     |
+| Points allowed 1–6    | 7      |
+| Points allowed 7–13   | 4      |
+| Points allowed 14–20  | 1      |
+| Points allowed 21–27  | 0      |
+| Points allowed 28–34  | -1     |
+| Points allowed 35+    | -4     |
+| Forced fumble         | 1      |
+| 3-and-out             | 1      |
+| 4th down stop         | 1      |
+| ST fumble recovery    | 1      |
+| ST forced fumble      | 1      |
+| ST TD                 | 6      |
+| Tackle for loss       | 1      |
+| Sack 2+ in game bonus | 1      |
+
+### IDP Scoring
+| Category              | Points |
+|-----------------------|--------|
+| Solo tackle           | 1      |
+| Assist tackle         | 0.5    |
+| Tackle for loss       | 1      |
+| Sack                  | 2      |
+| Interception          | 2      |
+| Pass deflection       | 1      |
+| Pass deflection 3+    | +1     |
+| Forced fumble         | 2      |
+| Fumble recovery       | 2      |
+| Safety                | 2      |
+| Blocked kick          | 2      |
+| Defensive TD          | 6      |
+| 10+ tackle game bonus | 2      |
+| QB hit                | 0      |
+
+Note: IDP sacks (2 pts) and INTs (2 pts) are high-value.
+High-volume tacklers benefit from the 10+ tackle game
+bonus (+2). QB hits score 0 — do not value players for
+QB hit totals.
+
+## League Rules & Settings
+- Format: Dynasty (type 2), Season 2026
+- Teams: 12
+- Waiver type: FAAB ($500 budget)
+- Waiver processing: Tuesday
+- Trade deadline: Week 11
+- Trade review period: 1 day
+- Playoff teams: 6 (top 6 qualify)
+- Playoff start: Week 15
+- Draft rounds: 5 per year
+- Pick trading: Enabled
+- Taxi eligibility: Rookies only (vets cannot be taxied)
+- Reserve/IR slots: 2
+- League average matchup: No
+- Best ball: No
+
+## Waiver Wire Strategy
+FAAB format with $500 budget. Blind bidding — opponent bids
+are not visible. Budget management is a season-long asset.
+Do not burn large FAAB on speculative adds. Reserve
+significant budget (100+) for high-impact injury
+replacements mid-season.
 
 <!-- ============================================================ -->
 <!-- AUTO SECTION — managed entirely by Roster Sync routine       -->
@@ -459,9 +613,9 @@ WAS
 | RB | David Montgomery | RB | HOU | 28 |
 | WR | CeeDee Lamb | WR | DAL | 27 |
 | WR | Justin Jefferson | WR | MIN | 26 |
-| WR | Kyle Pitts | TE | ATL | 25 |
-| WR | Ladd McConkey | WR | LAC | 24 |
-| TE | Terry McLaurin | WR | WAS | 30 |
+| TE | Kyle Pitts | TE | ATL | 25 |
+| FLEX | Ladd McConkey | WR | LAC | 24 |
+| FLEX | Terry McLaurin | WR | WAS | 30 |
 | FLEX | Rico Dowdle | RB | PIT | 27 |
 | K | Ben Sauls | K | NYG | 24 |
 | DEF | Detroit Lions | DEF | DET | ? |
