@@ -191,7 +191,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-05-28 12:46 PM PT
+Last synced: 2026-05-29 12:47 PM PT
 
 ## Ownership Index
 ```
@@ -237,7 +237,6 @@ Last synced: 2026-05-28 12:46 PM PT
 4981
 4983
 4984
-4988
 4993
 5001
 5012
@@ -290,6 +289,7 @@ Last synced: 2026-05-28 12:46 PM PT
 7002
 7016
 7021
+7049
 7090
 7136
 7523
@@ -317,7 +317,6 @@ Last synced: 2026-05-28 12:46 PM PT
 8111
 8112
 8116
-8119
 8121
 8126
 8130
@@ -614,34 +613,34 @@ WAS
 | WR | CeeDee Lamb | WR | DAL | 27 |
 | WR | Justin Jefferson | WR | MIN | 26 |
 | TE | Kyle Pitts | TE | ATL | 25 |
+| FLEX | Ladd McConkey | WR | LAC | 24 |
+| FLEX | Terry McLaurin | WR | WAS | 30 |
+| FLEX | Rico Dowdle | RB | PIT | 27 |
 | K | Ben Sauls | K | NYG | 24 |
-| DEF | Detroit Lions | DEF | DET | ? |
+| DEF | Lions | DEF | DET | ? |
 | LB | Edgerrin Cooper | LB | GB | 24 |
 | LB | Quay Walker | LB | LV | 26 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
 | DB | Derwin James | DB | LAC | 29 |
-| FLEX | Ladd McConkey | WR | LAC | 24 |
-| FLEX | Terry McLaurin | WR | WAS | 30 |
-| FLEX | Rico Dowdle | RB | PIT | 27 |
 
 ### Bench
 
-- Alvin Kamara (RB, NO, Age 30, 9 yr exp)
-- Arian Smith (WR, NYJ, Age 24, 1 yr exp)
-- Donovan Edwards (RB, MIA, Age 23, 1 yr exp)
-- Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
-- Greg Dulcich (TE, MIA, Age 26, 4 yr exp)
-- Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
-- Jimmy Horn (WR, CAR, Age 23, 1 yr exp)
-- Jordan Addison (WR, MIN, Age 24, 3 yr exp)
+- Zack Baun (LB, PHI, Age 29, 6 yr exp)
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
+- Alvin Kamara (RB, NO, Age 30, 9 yr exp)
+- Donovan Edwards (RB, MIA, Age 23, 1 yr exp)
 - LeQuint Allen (RB, JAX, Age 21, 1 yr exp)
-- Mark Andrews (TE, BAL, Age 30, 8 yr exp)
 - Najee Harris (RB, FA, Age 27, 5 yr exp)
 - Pierre Strong (RB, GB, Age 27, 4 yr exp)
 - Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
+- Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
+- Greg Dulcich (TE, MIA, Age 26, 4 yr exp)
+- Mark Andrews (TE, BAL, Age 30, 8 yr exp)
+- Arian Smith (WR, NYJ, Age 24, 1 yr exp)
+- Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
+- Jimmy Horn (WR, CAR, Age 23, 1 yr exp)
+- Jordan Addison (WR, MIN, Age 24, 3 yr exp)
 - Tre' Harris (WR, LAC, Age 24, 1 yr exp)
-- Zack Baun (LB, PHI, Age 29, 6 yr exp)
 
 ### Taxi Squad
 
@@ -661,7 +660,7 @@ WAS
 - TreVeyon Henderson (RB, NE)
 - DJ Moore (WR, BUF)
 - Michael Wilson (WR, ARI)
-- Atlanta Falcons (DEF, ATL)
+- Falcons (DEF, ATL)
 
 **QB Room (3 QBs):**
 - Joe Burrow (CIN)
@@ -715,15 +714,15 @@ WAS
 - Rhamondre Stevenson (RB, NE)
 - Romeo Doubs (WR, NE)
 - Cam Little (K, JAX)
-- Houston Texans (DEF, HOU)
+- Texans (DEF, HOU)
 - Carson Schwesinger (LB, CLE)
 - Travis Hunter (DB, JAX)
 
 **QB Room (5 QBs):**
-- Jacoby Brissett (ARI)
-- Brock Purdy (SF)
 - Drake Maye (NE)
+- Jacoby Brissett (ARI)
 - Gardner Minshew (ARI)
+- Brock Purdy (SF)
 - Carson Beck (ARI)
 
 **Positional Surplus (3+ players at same position):**
@@ -744,10 +743,10 @@ WAS
 - Jarquez Hunter (RB, LAR)
 - Jayden Higgins (WR, HOU)
 - Kyle Williams (WR, NE)
-- New England Patriots (DEF, NE)
 - Nicholas Singleton (RB, TEN) 🟡 ROOKIE
 - Oronde Gadsden (TE, LAC)
 - Pat Bryant (WR, DEN)
+- Patriots (DEF, NE)
 - Trevor Etienne (RB, CAR)
 - Tyler Allgeier (RB, ARI)
 - Xavier Legette (WR, CAR)
@@ -770,7 +769,7 @@ WAS
 - Kyle Monangai (RB, CHI)
 - Brian Thomas (WR, JAX)
 - Ricky Pearsall (WR, SF)
-- New Orleans Saints (DEF, NO)
+- Saints (DEF, NO)
 - Jordyn Brooks (LB, MIA)
 - Sonny Styles (LB, WAS)
 - Nick Cross (DB, WAS)
@@ -815,14 +814,14 @@ WAS
 - Denzel Boston (WR, CLE)
 - Eli Stowers (TE, PHI)
 - Malachi Fields (WR, NYG)
-- Tampa Bay Buccaneers (DEF, TB)
+- Buccaneers (DEF, TB)
 
 **QB Room (5 QBs):**
+- Malik Willis (MIA)
 - Fernando Mendoza (LV)
 - Diego Pavia (BAL)
 - Michael Penix (ATL)
 - Trevor Lawrence (JAX)
-- Malik Willis (MIA)
 
 **Positional Surplus (3+ players at same position):**
 - QB (5): Diego Pavia, Fernando Mendoza, Malik Willis, Michael Penix, Trevor Lawrence
@@ -866,24 +865,24 @@ WAS
 - Javonte Williams (RB, DAL)
 - Jaxon Smith-Njigba (WR, SEA)
 - Rashee Rice (WR, KC)
-- Chig Okonkwo (TE, WAS)
+- Dalton Schultz (TE, HOU)
 - Chuba Hubbard (RB, CAR)
 - Alec Pierce (WR, IND)
 - Parker Washington (WR, JAX)
 - Cameron Dicker (K, LAC)
-- Jacksonville Jaguars (DEF, JAX)
+- Rams (DEF, LAR)
 - Jamien Sherwood (LB, NYJ)
 - Cedric Gray (LB, TEN)
 - Tykee Smith (DB, TB)
 - Cooper DeJean (DB, PHI)
 
 **QB Room (6 QBs):**
-- Anthony Richardson (IND)
-- Lamar Jackson (BAL)
-- Dak Prescott (DAL)
 - Taylen Green (CLE)
 - Ty Simpson (LAR)
+- Anthony Richardson (IND)
+- Lamar Jackson (BAL)
 - Matthew Stafford (LAR)
+- Dak Prescott (DAL)
 
 **Positional Surplus (3+ players at same position):**
 - QB (6): Anthony Richardson, Dak Prescott, Lamar Jackson, Matthew Stafford, Taylen Green, Ty Simpson
@@ -894,15 +893,15 @@ WAS
 **Bench depth:**
 - Anthony Richardson (QB, IND)
 - Brian Robinson (RB, ATL)
-- Dalton Schultz (TE, HOU)
+- Chig Okonkwo (TE, WAS)
 - Elijah Sarratt (WR, BAL) 🟡 ROOKIE
+- Jaguars (DEF, JAX)
 - Jalen Coker (WR, CAR)
 - Jonah Coleman (RB, DEN) 🟡 ROOKIE
 - Jonathon Brooks (RB, CAR)
 - Kaelon Black (RB, SF) 🟡 ROOKIE
 - Keaton Mitchell (RB, LAC)
 - Lamar Jackson (QB, BAL)
-- Los Angeles Rams (DEF, LAR)
 - Makai Lemon (WR, PHI) 🟡 ROOKIE
 - Matthew Stafford (QB, LAR)
 - Michael Mayer (TE, LV)
@@ -927,7 +926,7 @@ WAS
 - Chris Godwin (WR, TB)
 - Jacory Croskey-Merritt (RB, WAS)
 - Lucas Havrisik (K, GB)
-- Seattle Seahawks (DEF, SEA)
+- Seahawks (DEF, SEA)
 - Foyesade Oluokun (LB, JAX)
 - Carl Granderson (DL, NO)
 - Jermod McCoy (DB, LV)
@@ -981,7 +980,7 @@ WAS
 - Travis Etienne (RB, NO)
 - Jaylen Warren (RB, PIT)
 - Ka'imi Fairbairn (K, HOU)
-- Denver Broncos (DEF, DEN)
+- Broncos (DEF, DEN)
 - Nate Landman (LB, LAR)
 - Jeremy Chinn (DB, LV)
 - Kam Curl (DB, LAR)
@@ -1011,9 +1010,9 @@ WAS
 - Khalil Shakir (WR, BUF)
 - Malik Washington (WR, MIA)
 - Matt Hibner (TE, BAL) 🟡 ROOKIE
-- Pittsburgh Steelers (DEF, PIT)
 - Rashid Shaheed (WR, SEA)
 - Sam Darnold (QB, SEA)
+- Steelers (DEF, PIT)
 - Tyler Shough (QB, NO)
 - Tyren Montgomery (WR, TEN) 🟡 ROOKIE
 
@@ -1035,7 +1034,7 @@ WAS
 - Quinshon Judkins (RB, CLE)
 - Sam LaPorta (TE, DET)
 - Harrison Butker (K, KC)
-- Washington Commanders (DEF, WAS)
+- Commanders (DEF, WAS)
 - Frankie Luvu (LB, WAS)
 - SirVocea Dennis (LB, TB)
 - Malaki Starks (DB, BAL)
@@ -1043,12 +1042,12 @@ WAS
 
 **QB Room (7 QBs):**
 - C.J. Stroud (HOU)
-- Daniel Jones (IND)
 - Bo Nix (DEN)
-- Aaron Rodgers (PIT)
 - Bryce Young (CAR)
-- Kirk Cousins (LV)
+- Aaron Rodgers (PIT)
 - Patrick Mahomes (KC)
+- Kirk Cousins (LV)
+- Daniel Jones (IND)
 
 **Positional Surplus (3+ players at same position):**
 - LB (3): Devin Bush, Frankie Luvu, SirVocea Dennis
@@ -1093,18 +1092,18 @@ WAS
 - Jordyn Tyson (WR, NO)
 - Tony Pollard (RB, TEN)
 - Tucker Kraft (TE, GB)
-- Los Angeles Chargers (DEF, LAC)
+- Chargers (DEF, LAC)
 - Patrick Queen (LB, PIT)
 - Nik Bonitto (DL, DEN)
 
 **QB Room (7 QBs):**
-- Will Howard (PIT)
+- Kyler Murray (MIN)
 - Deshaun Watson (CLE)
-- Geno Smith (NYJ)
+- Cade Klubnik (NYJ)
+- Will Howard (PIT)
 - Cam Ward (TEN)
 - Cole Payton (PHI)
-- Kyler Murray (MIN)
-- Cade Klubnik (NYJ)
+- Geno Smith (NYJ)
 
 **Positional Surplus (3+ players at same position):**
 - QB (7): Cade Klubnik, Cam Ward, Cole Payton, Deshaun Watson, Geno Smith, Kyler Murray, Will Howard
@@ -1114,13 +1113,13 @@ WAS
 
 **Bench depth:**
 - Brandon Aiyuk (WR, SF)
+- Browns (DEF, CLE)
 - Cade Klubnik (QB, NYJ) 🟡 ROOKIE
 - Caleb Douglas (WR, MIA) 🟡 ROOKIE
 - Cam Ward (QB, TEN)
 - Chris Bell (WR, MIA) 🟡 ROOKIE
 - Chris Brooks (RB, GB)
 - Chris Rodriguez (RB, JAX)
-- Cleveland Browns (DEF, CLE)
 - Damien Martinez (RB, GB)
 - Deshaun Watson (QB, CLE)
 - Geno Smith (QB, NYJ)
@@ -1153,16 +1152,16 @@ WAS
 - D'Andre Swift (RB, CHI)
 - Jameson Williams (WR, DET)
 - Jason Myers (K, SEA)
-- Baltimore Ravens (DEF, BAL)
+- Ravens (DEF, BAL)
 - Jack Campbell (LB, DET)
 - Roquan Smith (LB, BAL)
 - Brian Branch (DB, DET)
 - Caleb Downs (DB, DAL)
 
 **QB Room (3 QBs):**
-- Tua Tagovailoa (ATL)
 - Garrett Nussmeier (KC)
 - Justin Herbert (LAC)
+- Tua Tagovailoa (ATL)
 
 **Positional Surplus (3+ players at same position):**
 - LB (3): Arvell Reese, Jack Campbell, Roquan Smith
@@ -1218,10 +1217,10 @@ WAS
 - Baker Mayfield (TB)
 
 **Positional Surplus (3+ players at same position):**
-- DEF (3): Minnesota Vikings, New York Giants, Philadelphia Eagles
-- RB (9): Adam Randall, Derrick Henry, Eli Heidenreich, Jerome Ford, Justice Hill, Kimani Vidal, Nick Chubb, Rachaad White, Ty Johnson
+- DEF (3): Eagles, Giants, Vikings
+- RB (8): Adam Randall, Derrick Henry, Eli Heidenreich, Jerome Ford, Justice Hill, Kimani Vidal, Rachaad White, Ty Johnson
 - TE (4): Colby Parkinson, Dalton Kincaid, Isaiah Likely, Michael Trigg
-- WR (10): Chimere Dike, Cooper Kupp, Darius Slayton, De'Zhaun Stribling, Devaughn Vele, Emeka Egbuka, Jahan Dotson, Jakobi Meyers, Mike Evans, Zay Flowers
+- WR (10): Chimere Dike, Cooper Kupp, Darius Slayton, De'Zhaun Stribling, Devaughn Vele, Emeka Egbuka, Jakobi Meyers, Jauan Jennings, Mike Evans, Zay Flowers
 
 **Bench depth:**
 - Abdul Carter (DL, NYG)
@@ -1230,18 +1229,17 @@ WAS
 - Darius Slayton (WR, NYG)
 - De'Zhaun Stribling (WR, SF) 🟡 ROOKIE
 - Devaughn Vele (WR, NO)
+- Eagles (DEF, PHI)
+- Giants (DEF, NYG)
 - J.J. McCarthy (QB, MIN)
-- Jahan Dotson (WR, ATL)
 - Jakobi Meyers (WR, JAX)
+- Jauan Jennings (WR, MIN)
 - Jerome Ford (RB, WAS)
 - Justice Hill (RB, BAL)
 - Kimani Vidal (RB, LAC)
-- Minnesota Vikings (DEF, MIN)
-- New York Giants (DEF, NYG)
-- Nick Chubb (RB, FA)
-- Philadelphia Eagles (DEF, PHI)
 - T.J. Watt (DL, PIT)
 - Ty Johnson (RB, BUF)
+- Vikings (DEF, MIN)
 
 **Taxi Squad:**
 - Adam Randall (RB, BAL) 🟡 ROOKIE
