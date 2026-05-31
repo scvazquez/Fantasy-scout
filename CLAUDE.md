@@ -189,9 +189,8 @@ replacements mid-season.
 <!-- DO NOT EDIT BELOW THIS LINE                                  -->
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
-
 ## Roster State
-Last synced: 2026-05-30 12:47 PM PT
+Last synced: 2026-05-31 05:46 AM PT
 
 ## Ownership Index
 ```
