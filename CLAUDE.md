@@ -191,7 +191,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-06-02 05:46 AM PT
+Last synced: 2026-06-03 12:47 PM PT
 
 ## Ownership Index
 ```
@@ -722,7 +722,7 @@ WAS
 - Houston Texans (DEF, HOU)
 - Carson Schwesinger (LB, CLE)
 - 0 (UNK, FA)
-- Travis Hunter (DB, JAX)
+- Travis Hunter (WR, JAX)
 - 0 (UNK, FA)
 
 **QB Room (5 QBs):**
@@ -736,7 +736,7 @@ WAS
 - QB (5): Drake Maye, Jacoby Brissett, Gardner Minshew, Brock Purdy, Carson Beck
 - RB (11): Zach Charbonnet, Jarquez Hunter, Malik Davis, Nicholas Singleton, Rhamondre Stevenson, Emmett Johnson, Kenneth Walker, Trevor Etienne, Jeremiyah Love, Jam Miller, Tyler Allgeier
 - TE (4): Pat Freiermuth, Dallas Goedert, T.J. Hockenson, Eli Raridon
-- WR (10): Jalen Royals, Jayden Higgins, Xavier Legette, Romeo Doubs, Kyle Williams, Tetairoa McMillan, Pat Bryant, Marvin Harrison, Dontayvion Wicks, Luther Burden
+- WR (11): Jalen Royals, Jayden Higgins, Xavier Legette, Romeo Doubs, Kyle Williams, Tetairoa McMillan, Pat Bryant, Marvin Harrison, Travis Hunter, Dontayvion Wicks, Luther Burden
 
 **Bench depth:**
 - Jalen Royals (WR, KC)
@@ -818,7 +818,7 @@ WAS
 - Kenyon Sadiq (TE, NYJ)
 - Denzel Boston (WR, CLE)
 - Eli Stowers (TE, PHI)
-- Malachi Fields (WR, NYG)
+- Oronde Gadsden (TE, LAC)
 - 0 (UNK, FA)
 - 0 (UNK, FA)
 - 0 (UNK, FA)
@@ -853,6 +853,7 @@ WAS
 - Troy Franklin (WR, DEN)
 - Michael Penix (QB, ATL)
 - Marvin Mims (WR, DEN)
+- Malachi Fields (WR, NYG) 🟡 ROOKIE
 - Tre Tucker (WR, LV)
 - Darnell Washington (TE, PIT)
 - Calvin Ridley (WR, TEN)
@@ -860,7 +861,6 @@ WAS
 - Blake Corum (RB, LAR)
 - Braelon Allen (RB, NYJ)
 - Brashard Smith (RB, KC)
-- Oronde Gadsden (TE, LAC)
 
 **Taxi Squad:**
 - Demond Claiborne (RB, MIN) 🟡 ROOKIE
@@ -938,7 +938,7 @@ WAS
 - Lucas Havrisik (K, GB)
 - Seattle Seahawks (DEF, SEA)
 - Foyesade Oluokun (LB, JAX)
-- Carl Granderson (DL, NO)
+- Carl Granderson (DE, NO)
 - Jermod McCoy (DB, LV)
 - Avieon Terrell (DB, ATL)
 
@@ -948,8 +948,7 @@ WAS
 
 **Positional Surplus (3+ players at same position):**
 - DB (4): Jermod McCoy, Jaquan Brisker, Avieon Terrell, Genesis Smith
-- DL (3): Carl Granderson, Yaya Diaby, David Bailey
-- LB (11): Nick Bolton, Terrel Bernard, Ernest Jones, Payton Wilson, Robert Spillane, Dee Winters, Foyesade Oluokun, Tyrel Dodson, Bobby Wagner, Bobby Okereke, Devin White
+- LB (12): Nick Bolton, Terrel Bernard, Ernest Jones, Payton Wilson, Robert Spillane, Dee Winters, Foyesade Oluokun, Tyrel Dodson, Bobby Wagner, Bobby Okereke, David Bailey, Devin White
 - RB (3): Josh Jacobs, Bijan Robinson, Jacory Croskey-Merritt
 - WR (7): DK Metcalf, Michael Pittman, Josh Downs, Stefon Diggs, Tee Higgins, Chris Godwin, Jaylen Waddle
 
@@ -970,7 +969,7 @@ WAS
 - Bobby Okereke (LB, FA)
 - Genesis Smith (DB, LAC) 🟡 ROOKIE
 - Yaya Diaby (DL, TB)
-- David Bailey (DL, NYJ) 🟡 ROOKIE
+- David Bailey (LB, NYJ) 🟡 ROOKIE
 - Jalen Hurts (QB, PHI)
 - Devin White (LB, FA)
 
@@ -1103,7 +1102,7 @@ WAS
 - 0 (UNK, FA)
 - Los Angeles Chargers (DEF, LAC)
 - Patrick Queen (LB, PIT)
-- Nik Bonitto (DL, DEN)
+- Nik Bonitto (LB, DEN)
 - 0 (UNK, FA)
 - 0 (UNK, FA)
 
@@ -1175,7 +1174,7 @@ WAS
 - Tua Tagovailoa (ATL)
 
 **Positional Surplus (3+ players at same position):**
-- LB (3): Jack Campbell, Roquan Smith, Arvell Reese
+- LB (4): Jack Campbell, Micah Parsons, Roquan Smith, Arvell Reese
 - QB (3): Garrett Nussmeier, Justin Herbert, Tua Tagovailoa
 - RB (8): Jonathan Taylor, DJ Giddens, Christian McCaffrey, Isaac Guerendo, Sean Tucker, James Conner, Trey Benson, D'Andre Swift
 - TE (5): David Njoku, Mike Gesicki, Hunter Henry, Nate Boerkircher, John Michael Gyllenborg
@@ -1189,7 +1188,7 @@ WAS
 - Courtland Sutton (WR, DEN)
 - DJ Giddens (RB, IND)
 - Garrett Nussmeier (QB, KC) 🟡 ROOKIE
-- Micah Parsons (DL, GB)
+- Micah Parsons (LB, GB)
 - Arvell Reese (LB, NYG) 🟡 ROOKIE
 - Mike Gesicki (TE, CIN)
 - Isaac Guerendo (RB, SF)
@@ -1230,6 +1229,7 @@ WAS
 
 **Positional Surplus (3+ players at same position):**
 - DEF (3): Minnesota Vikings, New York Giants, Philadelphia Eagles
+- LB (3): Tremaine Edmunds, Fred Warner, T.J. Watt
 - RB (7): Ty Johnson, Derrick Henry, Eli Heidenreich, Kimani Vidal, Rachaad White, Justice Hill, Adam Randall
 - TE (4): Colby Parkinson, Dalton Kincaid, Michael Trigg, Isaiah Likely
 - WR (11): Darius Slayton, Devaughn Vele, Zay Flowers, Odell Beckham, Cooper Kupp, Chimere Dike, De'Zhaun Stribling, Mike Evans, Emeka Egbuka, Jakobi Meyers, Jauan Jennings
@@ -1246,7 +1246,7 @@ WAS
 - J.J. McCarthy (QB, MIN)
 - Chimere Dike (WR, TEN)
 - De'Zhaun Stribling (WR, SF) 🟡 ROOKIE
-- T.J. Watt (DL, PIT)
+- T.J. Watt (LB, PIT)
 - Jakobi Meyers (WR, JAX)
 - Kimani Vidal (RB, LAC)
 - Jauan Jennings (WR, MIN)
