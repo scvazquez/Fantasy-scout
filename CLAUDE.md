@@ -191,7 +191,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-06-03 12:47 PM PT
+Last synced: 2026-06-04 12:46 PM PT
 
 ## Ownership Index
 ```
@@ -264,7 +264,6 @@ Last synced: 2026-06-03 12:47 PM PT
 5947
 5967
 5995
-6011
 6039
 6119
 6149
@@ -296,6 +295,7 @@ Last synced: 2026-06-03 12:47 PM PT
 7523
 7525
 7526
+7527
 7528
 7543
 7547
@@ -357,7 +357,6 @@ Last synced: 2026-06-03 12:47 PM PT
 8659
 8676
 8698
-8800
 8932
 9221
 9224
@@ -617,7 +616,7 @@ WAS
 | FLEX | Terry McLaurin | WR | WAS | 30 |
 | FLEX | Rico Dowdle | RB | PIT | 27 |
 | K | Ben Sauls | K | NYG | 24 |
-| DEF | Detroit Lions | DEF | DET | ? |
+| DEF | Lions | DEF | DET | ? |
 | LB | Edgerrin Cooper | LB | GB | 24 |
 | LB | Quay Walker | LB | LV | 26 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
@@ -661,7 +660,7 @@ WAS
 - DJ Moore (WR, BUF)
 - Michael Wilson (WR, ARI)
 - 0 (UNK, FA)
-- Atlanta Falcons (DEF, ATL)
+- Falcons (DEF, ATL)
 - 0 (UNK, FA)
 - 0 (UNK, FA)
 - 0 (UNK, FA)
@@ -719,7 +718,7 @@ WAS
 - Rhamondre Stevenson (RB, NE)
 - Romeo Doubs (WR, NE)
 - Cam Little (K, JAX)
-- Houston Texans (DEF, HOU)
+- Texans (DEF, HOU)
 - Carson Schwesinger (LB, CLE)
 - 0 (UNK, FA)
 - Travis Hunter (WR, JAX)
@@ -727,27 +726,26 @@ WAS
 
 **QB Room (5 QBs):**
 - Drake Maye (NE)
+- Mac Jones (SF)
 - Jacoby Brissett (ARI)
-- Gardner Minshew (ARI)
 - Brock Purdy (SF)
 - Carson Beck (ARI)
 
 **Positional Surplus (3+ players at same position):**
-- QB (5): Drake Maye, Jacoby Brissett, Gardner Minshew, Brock Purdy, Carson Beck
-- RB (11): Zach Charbonnet, Jarquez Hunter, Malik Davis, Nicholas Singleton, Rhamondre Stevenson, Emmett Johnson, Kenneth Walker, Trevor Etienne, Jeremiyah Love, Jam Miller, Tyler Allgeier
+- QB (5): Drake Maye, Mac Jones, Jacoby Brissett, Brock Purdy, Carson Beck
+- RB (11): Zach Charbonnet, Jarquez Hunter, Nicholas Singleton, Rhamondre Stevenson, Emmett Johnson, Kenneth Walker, Trevor Etienne, Jeremiyah Love, Jam Miller, Tyler Allgeier, Blake Corum
 - TE (4): Pat Freiermuth, Dallas Goedert, T.J. Hockenson, Eli Raridon
 - WR (11): Jalen Royals, Jayden Higgins, Xavier Legette, Romeo Doubs, Kyle Williams, Tetairoa McMillan, Pat Bryant, Marvin Harrison, Travis Hunter, Dontayvion Wicks, Luther Burden
 
 **Bench depth:**
 - Jalen Royals (WR, KC)
+- Mac Jones (QB, SF)
 - Zach Charbonnet (RB, SEA)
 - Jacoby Brissett (QB, ARI)
 - Jarquez Hunter (RB, LAR)
-- Malik Davis (RB, DAL)
 - Nicholas Singleton (RB, TEN) 🟡 ROOKIE
 - Jayden Higgins (WR, HOU)
 - Xavier Legette (WR, CAR)
-- Gardner Minshew (QB, ARI)
 - Pat Freiermuth (TE, PIT)
 - Kyle Williams (WR, NE)
 - Emmett Johnson (RB, KC) 🟡 ROOKIE
@@ -756,8 +754,9 @@ WAS
 - Trevor Etienne (RB, CAR)
 - Dallas Goedert (TE, PHI)
 - Tyler Allgeier (RB, ARI)
+- Blake Corum (RB, LAR)
 - Dontayvion Wicks (WR, PHI)
-- New England Patriots (DEF, NE)
+- Patriots (DEF, NE)
 
 **Taxi Squad:**
 - Carson Beck (QB, ARI) 🟡 ROOKIE
@@ -777,7 +776,7 @@ WAS
 - Brian Thomas (WR, JAX)
 - Ricky Pearsall (WR, SF)
 - 0 (UNK, FA)
-- New Orleans Saints (DEF, NO)
+- Saints (DEF, NO)
 - Jordyn Brooks (LB, MIA)
 - Sonny Styles (LB, WAS)
 - Nick Cross (DB, WAS)
@@ -834,7 +833,7 @@ WAS
 
 **Positional Surplus (3+ players at same position):**
 - QB (4): Malik Willis, Fernando Mendoza, Michael Penix, Trevor Lawrence
-- RB (11): Joe Mixon, Tank Bigsby, Dylan Sampson, Kaytron Allen, Jadarian Price, RJ Harvey, Kaleb Johnson, Blake Corum, Braelon Allen, Brashard Smith, Demond Claiborne
+- RB (10): Joe Mixon, Tank Bigsby, Dylan Sampson, Kaytron Allen, Jadarian Price, RJ Harvey, Kaleb Johnson, Braelon Allen, Brashard Smith, Demond Claiborne
 - TE (6): Sam Roush, Will Kacmarek, Darnell Washington, Kenyon Sadiq, Eli Stowers, Oronde Gadsden
 - WR (13): KC Concepcion, Denzel Boston, Germie Bernard, Adonai Mitchell, Colbie Young, Rashod Bateman, Omar Cooper, Jack Bech, Troy Franklin, Marvin Mims, Malachi Fields, Tre Tucker, Calvin Ridley
 
@@ -858,7 +857,6 @@ WAS
 - Darnell Washington (TE, PIT)
 - Calvin Ridley (WR, TEN)
 - Kaleb Johnson (RB, PIT)
-- Blake Corum (RB, LAR)
 - Braelon Allen (RB, NYJ)
 - Brashard Smith (RB, KC)
 
@@ -880,7 +878,7 @@ WAS
 - Alec Pierce (WR, IND)
 - Parker Washington (WR, JAX)
 - Cameron Dicker (K, LAC)
-- Los Angeles Rams (DEF, LAR)
+- Rams (DEF, LAR)
 - Jamien Sherwood (LB, NYJ)
 - Cedric Gray (LB, TEN)
 - Tykee Smith (DB, TB)
@@ -909,7 +907,7 @@ WAS
 - Jalen Coker (WR, CAR)
 - Jonathon Brooks (RB, CAR)
 - Anthony Richardson (QB, IND)
-- Jacksonville Jaguars (DEF, JAX)
+- Jaguars (DEF, JAX)
 - Kaelon Black (RB, SF) 🟡 ROOKIE
 - Keaton Mitchell (RB, LAC)
 - Terrance Ferguson (TE, LAR)
@@ -936,7 +934,7 @@ WAS
 - Chris Godwin (WR, TB)
 - Jacory Croskey-Merritt (RB, WAS)
 - Lucas Havrisik (K, GB)
-- Seattle Seahawks (DEF, SEA)
+- Seahawks (DEF, SEA)
 - Foyesade Oluokun (LB, JAX)
 - Carl Granderson (DE, NO)
 - Jermod McCoy (DB, LV)
@@ -986,7 +984,7 @@ WAS
 - Travis Etienne (RB, NO)
 - Jaylen Warren (RB, PIT)
 - Ka'imi Fairbairn (K, HOU)
-- Denver Broncos (DEF, DEN)
+- Broncos (DEF, DEN)
 - Nate Landman (LB, LAR)
 - Jeremy Chinn (DB, LV)
 - Kam Curl (DB, LAR)
@@ -1016,7 +1014,7 @@ WAS
 - Rashid Shaheed (WR, SEA)
 - Jordan Mason (RB, MIN)
 - Tyler Shough (QB, NO)
-- Pittsburgh Steelers (DEF, PIT)
+- Steelers (DEF, PIT)
 - Cade Otton (TE, TB)
 - Sam Darnold (QB, SEA)
 - Malik Washington (WR, MIA)
@@ -1041,7 +1039,7 @@ WAS
 - Quinshon Judkins (RB, CLE)
 - Sam LaPorta (TE, DET)
 - Harrison Butker (K, KC)
-- Washington Commanders (DEF, WAS)
+- Commanders (DEF, WAS)
 - Frankie Luvu (LB, WAS)
 - SirVocea Dennis (LB, TB)
 - Malaki Starks (DB, BAL)
@@ -1100,7 +1098,7 @@ WAS
 - Tony Pollard (RB, TEN)
 - Tucker Kraft (TE, GB)
 - 0 (UNK, FA)
-- Los Angeles Chargers (DEF, LAC)
+- Chargers (DEF, LAC)
 - Patrick Queen (LB, PIT)
 - Nik Bonitto (LB, DEN)
 - 0 (UNK, FA)
@@ -1135,7 +1133,7 @@ WAS
 - Tyrone Tracy (RB, NYG)
 - Chris Rodriguez (RB, JAX)
 - Marlin Klein (TE, HOU) 🟡 ROOKIE
-- Cleveland Browns (DEF, CLE)
+- Browns (DEF, CLE)
 - Cam Ward (QB, TEN)
 - Chris Bell (WR, MIA) 🟡 ROOKIE
 - Theo Johnson (TE, NYG)
@@ -1162,7 +1160,7 @@ WAS
 - D'Andre Swift (RB, CHI)
 - Jameson Williams (WR, DET)
 - Jason Myers (K, SEA)
-- Baltimore Ravens (DEF, BAL)
+- Ravens (DEF, BAL)
 - Jack Campbell (LB, DET)
 - Roquan Smith (LB, BAL)
 - Brian Branch (DB, DET)
@@ -1217,7 +1215,7 @@ WAS
 - Isaiah Likely (TE, NYG)
 - Cooper Kupp (WR, SEA)
 - Brandon Aubrey (K, DAL)
-- Philadelphia Eagles (DEF, PHI)
+- Eagles (DEF, PHI)
 - Abdul Carter (DL, NYG)
 - Fred Warner (LB, SF)
 - Budda Baker (DB, ARI)
@@ -1228,7 +1226,7 @@ WAS
 - Baker Mayfield (TB)
 
 **Positional Surplus (3+ players at same position):**
-- DEF (3): Minnesota Vikings, New York Giants, Philadelphia Eagles
+- DEF (3): Vikings, Giants, Eagles
 - LB (3): Tremaine Edmunds, Fred Warner, T.J. Watt
 - RB (7): Ty Johnson, Derrick Henry, Eli Heidenreich, Kimani Vidal, Rachaad White, Justice Hill, Adam Randall
 - TE (4): Colby Parkinson, Dalton Kincaid, Michael Trigg, Isaiah Likely
@@ -1236,12 +1234,12 @@ WAS
 
 **Bench depth:**
 - Colby Parkinson (TE, LAR)
-- Minnesota Vikings (DEF, MIN)
+- Vikings (DEF, MIN)
 - Darius Slayton (WR, NYG)
 - Devaughn Vele (WR, NO)
 - Tremaine Edmunds (LB, NYG)
 - Ty Johnson (RB, BUF)
-- New York Giants (DEF, NYG)
+- Giants (DEF, NYG)
 - Odell Beckham (WR, NYG)
 - J.J. McCarthy (QB, MIN)
 - Chimere Dike (WR, TEN)
