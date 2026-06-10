@@ -191,10 +191,27 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-06-09 12:46 PM PT
+Last synced: 2026-06-10 12:46 PM PT
 
 ## Ownership Index
 ```
+ATL
+BAL
+CLE
+DEN
+DET
+HOU
+JAX
+LAC
+LAR
+MIN
+NE
+NO
+NYG
+PHI
+PIT
+SEA
+WAS
 96
 421
 1166
@@ -579,23 +596,6 @@ Last synced: 2026-06-09 12:46 PM PT
 13477
 13600
 13662
-ATL
-BAL
-CLE
-DEN
-DET
-HOU
-JAX
-LAC
-LAR
-MIN
-NE
-NO
-NYG
-PHI
-PIT
-SEA
-WAS
 ```
 
 ## My Roster — Scvazquez (Roster 9)
@@ -708,7 +708,7 @@ WAS
 **Starters:**
 - Drake Maye (QB, NE)
 - Kenneth Walker (RB, KC)
-- Jeremiyah Love (RB, ARI) 🟡 ROOKIE
+- Jeremiyah Love (RB, ARI)
 - Tetairoa McMillan (WR, CAR)
 - Luther Burden (WR, CHI)
 - T.J. Hockenson (TE, MIN)
@@ -719,7 +719,7 @@ WAS
 - Houston Texans (DEF, HOU)
 - Carson Schwesinger (LB, CLE)
 - Unknown(0) (UNK, FA)
-- Travis Hunter (WR, JAX)
+- Unknown(0) (UNK, FA)
 - Unknown(0) (UNK, FA)
 
 **QB Room (5 QBs):**
@@ -766,18 +766,18 @@ WAS
 - Jaxson Dart (QB, NYG)
 - James Cook (RB, BUF)
 - Bhayshul Tuten (RB, JAX)
-- Carnell Tate (WR, TEN) 🟡 ROOKIE
+- Carnell Tate (WR, TEN)
 - Rome Odunze (WR, CHI)
 - Brock Bowers (TE, LV)
 - Kyle Monangai (RB, CHI)
 - Brian Thomas (WR, JAX)
 - Ricky Pearsall (WR, SF)
-- Unknown(0) (UNK, FA)
+- Andy Borregales (K, NE)
 - New Orleans Saints (DEF, NO)
 - Jordyn Brooks (LB, MIA)
-- Sonny Styles (LB, WAS) 🟡 ROOKIE
+- Sonny Styles (LB, WAS)
 - Nick Cross (DB, WAS)
-- Dillon Thieneman (DB, CHI) 🟡 ROOKIE
+- Dillon Thieneman (DB, CHI)
 
 **QB Room (2 QBs):**
 - Jaxson Dart (NYG)
@@ -792,7 +792,6 @@ WAS
 - Woody Marks (RB, HOU)
 - Matthew Golden (WR, GB)
 - Jihaad Campbell (LB, PHI)
-- Andy Borregales (K, NE)
 - Ja'Kobi Lane (WR, BAL) 🟡 ROOKIE
 - Antonio Williams (WR, WAS) 🟡 ROOKIE
 - Travis Kelce (TE, KC)
@@ -808,12 +807,12 @@ WAS
 **Starters:**
 - Trevor Lawrence (QB, JAX)
 - RJ Harvey (RB, DEN)
-- Jadarian Price (RB, SEA) 🟡 ROOKIE
-- KC Concepcion (WR, CLE) 🟡 ROOKIE
-- Omar Cooper (WR, NYJ) 🟡 ROOKIE
-- Kenyon Sadiq (TE, NYJ) 🟡 ROOKIE
-- Denzel Boston (WR, CLE) 🟡 ROOKIE
-- Eli Stowers (TE, PHI) 🟡 ROOKIE
+- Jadarian Price (RB, SEA)
+- KC Concepcion (WR, CLE)
+- Omar Cooper (WR, NYJ)
+- Kenyon Sadiq (TE, NYJ)
+- Denzel Boston (WR, CLE)
+- Eli Stowers (TE, PHI)
 - Oronde Gadsden (TE, LAC)
 - Unknown(0) (UNK, FA)
 - Unknown(0) (UNK, FA)
@@ -933,9 +932,9 @@ WAS
 - Lucas Havrisik (K, GB)
 - Seattle Seahawks (DEF, SEA)
 - Foyesade Oluokun (LB, JAX)
-- Carl Granderson (DE, NO)
-- Jermod McCoy (DB, LV) 🟡 ROOKIE
-- Avieon Terrell (DB, ATL) 🟡 ROOKIE
+- Unknown(0) (UNK, FA)
+- Jermod McCoy (DB, LV)
+- Avieon Terrell (DB, ATL)
 
 **QB Room (2 QBs):**
 - Josh Allen (BUF)
@@ -983,9 +982,9 @@ WAS
 - Ka'imi Fairbairn (K, HOU)
 - Denver Broncos (DEF, DEN)
 - Nate Landman (LB, LAR)
+- Unknown(0) (UNK, FA)
 - Jeremy Chinn (DB, LV)
 - Kam Curl (DB, LAR)
-- Unknown(0) (UNK, FA)
 
 **QB Room (4 QBs):**
 - Drew Allar (PIT)
@@ -1091,13 +1090,13 @@ WAS
 - Ja'Marr Chase (WR, CIN)
 - Malik Nabers (WR, NYG)
 - Colston Loveland (TE, CHI)
-- Jordyn Tyson (WR, NO) 🟡 ROOKIE
+- Jordyn Tyson (WR, NO)
 - Christian Watson (WR, GB)
 - Tucker Kraft (TE, GB)
 - Unknown(0) (UNK, FA)
 - Los Angeles Chargers (DEF, LAC)
-- Unknown(0) (UNK, FA)
 - Nik Bonitto (LB, DEN)
+- Unknown(0) (UNK, FA)
 - Unknown(0) (UNK, FA)
 - Unknown(0) (UNK, FA)
 
@@ -1161,7 +1160,7 @@ WAS
 - Jack Campbell (LB, DET)
 - Roquan Smith (LB, BAL)
 - Brian Branch (DB, DET)
-- Caleb Downs (DB, DAL) 🟡 ROOKIE
+- Caleb Downs (DB, DAL)
 
 **QB Room (3 QBs):**
 - Garrett Nussmeier (KC)
@@ -1213,8 +1212,8 @@ WAS
 - Cooper Kupp (WR, SEA)
 - Brandon Aubrey (K, DAL)
 - Philadelphia Eagles (DEF, PHI)
-- Abdul Carter (DL, NYG)
 - Fred Warner (LB, SF)
+- Unknown(0) (UNK, FA)
 - Budda Baker (DB, ARI)
 - Jessie Bates (DB, ATL)
 
