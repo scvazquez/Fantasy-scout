@@ -191,27 +191,10 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-06-10 12:46 PM PT
+Last synced: 2026-06-11 12:48 PM PT
 
 ## Ownership Index
 ```
-ATL
-BAL
-CLE
-DEN
-DET
-HOU
-JAX
-LAC
-LAR
-MIN
-NE
-NO
-NYG
-PHI
-PIT
-SEA
-WAS
 96
 421
 1166
@@ -596,6 +579,23 @@ WAS
 13477
 13600
 13662
+ATL
+BAL
+CLE
+DEN
+DET
+HOU
+JAX
+LAC
+LAR
+MIN
+NE
+NO
+NYG
+PHI
+PIT
+SEA
+WAS
 ```
 
 ## My Roster — Scvazquez (Roster 9)
@@ -719,7 +719,7 @@ WAS
 - Houston Texans (DEF, HOU)
 - Carson Schwesinger (LB, CLE)
 - Unknown(0) (UNK, FA)
-- Unknown(0) (UNK, FA)
+- Travis Hunter (DB, JAX)
 - Unknown(0) (UNK, FA)
 
 **QB Room (5 QBs):**
@@ -733,7 +733,7 @@ WAS
 - QB (5): Drake Maye, Mac Jones, Jacoby Brissett, Brock Purdy, Carson Beck
 - RB (10): Zach Charbonnet, Jarquez Hunter, Nicholas Singleton, Rhamondre Stevenson, Emmett Johnson, Kenneth Walker, Jeremiyah Love, Jam Miller, Tyler Allgeier, Blake Corum
 - TE (4): Pat Freiermuth, Dallas Goedert, T.J. Hockenson, Eli Raridon
-- WR (11): Jalen Royals, Jayden Higgins, Xavier Legette, Romeo Doubs, Kyle Williams, Tetairoa McMillan, Pat Bryant, Marvin Harrison, Travis Hunter, Dontayvion Wicks, Luther Burden
+- WR (10): Jalen Royals, Jayden Higgins, Xavier Legette, Romeo Doubs, Kyle Williams, Tetairoa McMillan, Pat Bryant, Marvin Harrison, Dontayvion Wicks, Luther Burden
 
 **Bench depth:**
 - Jalen Royals (WR, KC)
@@ -932,7 +932,7 @@ WAS
 - Lucas Havrisik (K, GB)
 - Seattle Seahawks (DEF, SEA)
 - Foyesade Oluokun (LB, JAX)
-- Unknown(0) (UNK, FA)
+- Carl Granderson (DL, NO)
 - Jermod McCoy (DB, LV)
 - Avieon Terrell (DB, ATL)
 
@@ -942,7 +942,8 @@ WAS
 
 **Positional Surplus (3+ players at same position):**
 - DB (4): Jermod McCoy, Jaquan Brisker, Avieon Terrell, Genesis Smith
-- LB (12): Nick Bolton, Terrel Bernard, Ernest Jones, Payton Wilson, Robert Spillane, Dee Winters, Foyesade Oluokun, Tyrel Dodson, Bobby Wagner, Bobby Okereke, David Bailey, Devin White
+- DL (3): Carl Granderson, Yaya Diaby, David Bailey
+- LB (11): Nick Bolton, Terrel Bernard, Ernest Jones, Payton Wilson, Robert Spillane, Dee Winters, Foyesade Oluokun, Tyrel Dodson, Bobby Wagner, Bobby Okereke, Devin White
 - RB (3): Josh Jacobs, Bijan Robinson, Jacory Croskey-Merritt
 - WR (7): DK Metcalf, Michael Pittman, Josh Downs, Stefon Diggs, Tee Higgins, Chris Godwin, Jaylen Waddle
 
@@ -963,7 +964,7 @@ WAS
 - Bobby Okereke (LB, FA)
 - Genesis Smith (DB, LAC) 🟡 ROOKIE
 - Yaya Diaby (DL, TB)
-- David Bailey (LB, NYJ) 🟡 ROOKIE
+- David Bailey (DL, NYJ) 🟡 ROOKIE
 - Jalen Hurts (QB, PHI)
 - Devin White (LB, FA)
 
@@ -982,9 +983,9 @@ WAS
 - Ka'imi Fairbairn (K, HOU)
 - Denver Broncos (DEF, DEN)
 - Nate Landman (LB, LAR)
-- Unknown(0) (UNK, FA)
 - Jeremy Chinn (DB, LV)
 - Kam Curl (DB, LAR)
+- Unknown(0) (UNK, FA)
 
 **QB Room (4 QBs):**
 - Drew Allar (PIT)
@@ -1095,8 +1096,8 @@ WAS
 - Tucker Kraft (TE, GB)
 - Unknown(0) (UNK, FA)
 - Los Angeles Chargers (DEF, LAC)
-- Nik Bonitto (LB, DEN)
 - Unknown(0) (UNK, FA)
+- Nik Bonitto (DL, DEN)
 - Unknown(0) (UNK, FA)
 - Unknown(0) (UNK, FA)
 
@@ -1168,7 +1169,7 @@ WAS
 - Tua Tagovailoa (ATL)
 
 **Positional Surplus (3+ players at same position):**
-- LB (4): Jack Campbell, Micah Parsons, Roquan Smith, Arvell Reese
+- LB (3): Jack Campbell, Roquan Smith, Arvell Reese
 - QB (3): Garrett Nussmeier, Justin Herbert, Tua Tagovailoa
 - RB (8): Jonathan Taylor, DJ Giddens, Christian McCaffrey, Isaac Guerendo, Sean Tucker, James Conner, Trey Benson, D'Andre Swift
 - TE (5): David Njoku, Mike Gesicki, Hunter Henry, Nate Boerkircher, John Michael Gyllenborg
@@ -1182,7 +1183,7 @@ WAS
 - Courtland Sutton (WR, DEN)
 - DJ Giddens (RB, IND)
 - Garrett Nussmeier (QB, KC) 🟡 ROOKIE
-- Micah Parsons (LB, GB)
+- Micah Parsons (DL, GB)
 - Arvell Reese (LB, NYG) 🟡 ROOKIE
 - Mike Gesicki (TE, CIN)
 - Isaac Guerendo (RB, SF)
@@ -1212,8 +1213,8 @@ WAS
 - Cooper Kupp (WR, SEA)
 - Brandon Aubrey (K, DAL)
 - Philadelphia Eagles (DEF, PHI)
+- Abdul Carter (DL, NYG)
 - Fred Warner (LB, SF)
-- Unknown(0) (UNK, FA)
 - Budda Baker (DB, ARI)
 - Jessie Bates (DB, ATL)
 
@@ -1223,7 +1224,6 @@ WAS
 
 **Positional Surplus (3+ players at same position):**
 - DEF (3): Minnesota Vikings, New York Giants, Philadelphia Eagles
-- LB (3): Tremaine Edmunds, Fred Warner, T.J. Watt
 - RB (7): Ty Johnson, Derrick Henry, Eli Heidenreich, Kimani Vidal, Rachaad White, Justice Hill, Adam Randall
 - TE (4): Colby Parkinson, Dalton Kincaid, Michael Trigg, Isaiah Likely
 - WR (11): Darius Slayton, Devaughn Vele, Zay Flowers, Odell Beckham, Cooper Kupp, Chimere Dike, De'Zhaun Stribling, Mike Evans, Emeka Egbuka, Jakobi Meyers, Jauan Jennings
@@ -1240,7 +1240,7 @@ WAS
 - J.J. McCarthy (QB, MIN)
 - Chimere Dike (WR, TEN)
 - De'Zhaun Stribling (WR, SF) 🟡 ROOKIE
-- T.J. Watt (LB, PIT)
+- T.J. Watt (DL, PIT)
 - Jakobi Meyers (WR, JAX)
 - Kimani Vidal (RB, LAC)
 - Jauan Jennings (WR, MIN)
