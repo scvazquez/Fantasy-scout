@@ -191,7 +191,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-06-11 12:48 PM PT
+Last synced: 2026-06-12 12:47 PM PT
 
 ## Ownership Index
 ```
@@ -710,9 +710,9 @@ WAS
 - Kenneth Walker (RB, KC)
 - Jeremiyah Love (RB, ARI)
 - Tetairoa McMillan (WR, CAR)
-- Luther Burden (WR, CHI)
-- T.J. Hockenson (TE, MIN)
 - Marvin Harrison (WR, ARI)
+- T.J. Hockenson (TE, MIN)
+- Luther Burden (WR, CHI)
 - Rhamondre Stevenson (RB, NE)
 - Romeo Doubs (WR, NE)
 - Cam Little (K, JAX)
