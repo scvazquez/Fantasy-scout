@@ -191,7 +191,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-06-22 12:47 PM PT
+Last synced: 2026-06-23 05:48 AM PT
 
 ## Ownership Index
 ```
@@ -248,7 +248,6 @@ Last synced: 2026-06-22 12:47 PM PT
 5045
 5332
 5346
-5580
 5726
 5843
 5844
@@ -599,7 +598,6 @@ NYG
 PHI
 PIT
 SEA
-WAS
 ```
 
 ## My Roster — Scvazquez (Roster 9)
@@ -614,15 +612,15 @@ WAS
 | WR | CeeDee Lamb | WR | DAL | 27 |
 | WR | Justin Jefferson | WR | MIN | 27 |
 | TE | Kyle Pitts | TE | ATL | 25 |
+| FLEX | Ladd McConkey | WR | LAC | 24 |
+| FLEX | Terry McLaurin | WR | WAS | 30 |
+| FLEX | Rico Dowdle | RB | PIT | 28 |
 | K | Ben Sauls | K | NYG | 24 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Edgerrin Cooper | LB | GB | 24 |
 | LB | Quay Walker | LB | LV | 26 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
 | DB | Derwin James | DB | LAC | 29 |
-| FLEX | Ladd McConkey | WR | LAC | 24 |
-| FLEX | Terry McLaurin | WR | WAS | 30 |
-| FLEX | Rico Dowdle | RB | PIT | 28 |
 
 ### Bench
 
@@ -724,7 +722,7 @@ WAS
 - Houston Texans (DEF, HOU)
 - Carson Schwesinger (LB, CLE)
 - Unknown(0) (UNK, FA)
-- Travis Hunter (WR, JAX)
+- Travis Hunter (DB, JAX)
 - Unknown(0) (UNK, FA)
 
 **QB Room (3 QBs):**
@@ -734,9 +732,9 @@ WAS
 
 **Positional Surplus (3+ players at same position):**
 - QB (3): Drake Maye, Jalen Milroe, Tommy DeVito
-- RB (11): Blake Corum, Emmett Johnson, George Holani, Isaiah Davis, Jam Miller, Jarquez Hunter, Jeremiyah Love, Kenneth Walker, Nicholas Singleton, Rhamondre Stevenson, Tyler Allgeier
+- RB (9): Blake Corum, Emmett Johnson, George Holani, Isaiah Davis, Jam Miller, Jarquez Hunter, Jeremiyah Love, Kenneth Walker, Nicholas Singleton, Rhamondre Stevenson, Tyler Allgeier
 - TE (4): Dallas Goedert, Eli Raridon, Eli Stowers, T.J. Hockenson
-- WR (12): Dontayvion Wicks, Jahan Dotson, Jalen Royals, Jayden Higgins, Kyle Williams, Luther Burden, Marvin Harrison, Pat Bryant, Romeo Doubs, Tetairoa McMillan, Travis Hunter, Xavier Legette
+- WR (11): Dontayvion Wicks, Jahan Dotson, Jalen Royals, Jayden Higgins, Kyle Williams, Luther Burden, Marvin Harrison, Pat Bryant, Romeo Doubs, Tetairoa McMillan, Xavier Legette
 
 **Bench depth:**
 - Jalen Royals (WR, KC)
@@ -932,7 +930,7 @@ WAS
 - Lucas Havrisik (K, GB)
 - Seattle Seahawks (DEF, SEA)
 - Foyesade Oluokun (LB, JAX)
-- Carl Granderson (DE, NO)
+- Carl Granderson (DL, NO)
 - Jermod McCoy (DB, LV)
 - Avieon Terrell (DB, ATL)
 
@@ -942,7 +940,8 @@ WAS
 
 **Positional Surplus (3+ players at same position):**
 - DB (4): Avieon Terrell, Genesis Smith, Jaquan Brisker, Jermod McCoy
-- LB (12): Bobby Okereke, Bobby Wagner, David Bailey, Dee Winters, Devin White, Ernest Jones, Foyesade Oluokun, Nick Bolton, Payton Wilson, Robert Spillane, Terrel Bernard, Tyrel Dodson
+- DL (3): Carl Granderson, David Bailey, Yaya Diaby
+- LB (11): Bobby Okereke, Bobby Wagner, Dee Winters, Devin White, Ernest Jones, Foyesade Oluokun, Nick Bolton, Payton Wilson, Robert Spillane, Terrel Bernard, Tyrel Dodson
 - RB (3): Bijan Robinson, Jacory Croskey-Merritt, Josh Jacobs
 - WR (7): Chris Godwin, DK Metcalf, Jaylen Waddle, Josh Downs, Michael Pittman, Stefon Diggs, Tee Higgins
 
@@ -963,7 +962,7 @@ WAS
 - Bobby Okereke (LB, FA)
 - Genesis Smith (DB, LAC) 🟡 ROOKIE
 - Yaya Diaby (DL, TB)
-- David Bailey (LB, NYJ) 🟡 ROOKIE
+- David Bailey (DL, NYJ) 🟡 ROOKIE
 - Jalen Hurts (QB, PHI)
 - Devin White (LB, FA)
 
@@ -1035,8 +1034,8 @@ WAS
 - Quinshon Judkins (RB, CLE)
 - Sam LaPorta (TE, DET)
 - Harrison Butker (K, KC)
-- Washington Commanders (DEF, WAS)
-- Frankie Luvu (LB, WAS)
+- Unknown(0) (UNK, FA)
+- Devin Bush (LB, CHI)
 - SirVocea Dennis (LB, TB)
 - Malaki Starks (DB, BAL)
 - Cam Bynum (DB, IND)
@@ -1051,14 +1050,12 @@ WAS
 - Daniel Jones (IND)
 
 **Positional Surplus (3+ players at same position):**
-- LB (3): Devin Bush, Frankie Luvu, SirVocea Dennis
 - QB (7): Aaron Rodgers, Bo Nix, Bryce Young, C.J. Stroud, Daniel Jones, Kirk Cousins, Patrick Mahomes
 - RB (7): Aaron Jones, Breece Hall, Devin Neal, Isiah Pacheco, Kyren Williams, Mike Washington, Quinshon Judkins
 - TE (5): Brenton Strange, Harold Fannin, Jake Ferguson, Mason Taylor, Sam LaPorta
 - WR (9): Chris Olave, Deebo Samuel, Elic Ayomanor, Garrett Wilson, Jalen Nailor, Jerry Jeudy, Tank Dell, Xavier Worthy, Zachariah Branch
 
 **Bench depth:**
-- Devin Bush (LB, CHI)
 - Tank Dell (WR, HOU)
 - C.J. Stroud (QB, HOU)
 - Mason Taylor (TE, NYJ)
@@ -1096,7 +1093,7 @@ WAS
 - Unknown(0) (UNK, FA)
 - Los Angeles Chargers (DEF, LAC)
 - Unknown(0) (UNK, FA)
-- Nik Bonitto (LB, DEN)
+- Nik Bonitto (DL, DEN)
 - Unknown(0) (UNK, FA)
 - Unknown(0) (UNK, FA)
 
@@ -1168,7 +1165,7 @@ WAS
 - Tua Tagovailoa (ATL)
 
 **Positional Surplus (3+ players at same position):**
-- LB (4): Arvell Reese, Jack Campbell, Micah Parsons, Roquan Smith
+- LB (3): Arvell Reese, Jack Campbell, Roquan Smith
 - QB (3): Garrett Nussmeier, Justin Herbert, Tua Tagovailoa
 - RB (8): Christian McCaffrey, D'Andre Swift, DJ Giddens, Isaac Guerendo, James Conner, Jonathan Taylor, Sean Tucker, Trey Benson
 - TE (5): David Njoku, Hunter Henry, John Michael Gyllenborg, Mike Gesicki, Nate Boerkircher
@@ -1182,7 +1179,7 @@ WAS
 - Courtland Sutton (WR, DEN)
 - DJ Giddens (RB, IND)
 - Garrett Nussmeier (QB, KC) 🟡 ROOKIE
-- Micah Parsons (LB, GB)
+- Micah Parsons (DL, GB)
 - Arvell Reese (LB, NYG) 🟡 ROOKIE
 - Mike Gesicki (TE, CIN)
 - Isaac Guerendo (RB, SF)
@@ -1227,7 +1224,6 @@ WAS
 
 **Positional Surplus (3+ players at same position):**
 - DEF (3): Minnesota Vikings, New York Giants, Philadelphia Eagles
-- LB (3): Fred Warner, T.J. Watt, Tremaine Edmunds
 - QB (6): Baker Mayfield, Brock Purdy, Carson Beck, J.J. McCarthy, Jacoby Brissett, Mac Jones
 - RB (8): Adam Randall, Derrick Henry, Eli Heidenreich, Justice Hill, Kimani Vidal, Rachaad White, Ty Johnson, Zach Charbonnet
 - TE (4): Colby Parkinson, Dalton Kincaid, Isaiah Likely, Michael Trigg
@@ -1249,7 +1245,7 @@ WAS
 - J.J. McCarthy (QB, MIN)
 - Chimere Dike (WR, TEN)
 - De'Zhaun Stribling (WR, SF) 🟡 ROOKIE
-- T.J. Watt (LB, PIT)
+- T.J. Watt (DL, PIT)
 - Carson Beck (QB, ARI) 🟡 ROOKIE
 - Jakobi Meyers (WR, JAX)
 - Kimani Vidal (RB, LAC)
