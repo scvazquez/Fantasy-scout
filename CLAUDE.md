@@ -191,9 +191,14 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-07-02 05:46 AM PT
+Last synced: 2026-07-03 05:46 AM PT
 
 ## Ownership Index
+<!--
+  Full set of all owned player IDs across all 12 rosters.
+  Fantasy Scout uses this for verified free agent checks.
+  Format: one ID per line inside a code block for easy parsing.
+-->
 ```
 96
 421
@@ -700,9 +705,9 @@ SEA
 - Jake Tonges (TE, SF)
 
 **Taxi Squad:**
+- Ted Hurst (WR, TB) 🟡 ROOKIE
 - J'Mari Taylor (RB, JAX) 🟡 ROOKIE
 - Robert Henry (RB, WAS) 🟡 ROOKIE
-- Ted Hurst (WR, TB) 🟡 ROOKIE
 
 ### JQuinna10 (Roster 2)
 
@@ -856,9 +861,9 @@ SEA
 - Marvin Mims (WR, DEN)
 
 **Taxi Squad:**
-- Colbie Young (WR, CIN) 🟡 ROOKIE
-- Will Kacmarek (TE, MIA) 🟡 ROOKIE
 - Demond Claiborne (RB, MIN) 🟡 ROOKIE
+- Will Kacmarek (TE, MIA) 🟡 ROOKIE
+- Colbie Young (WR, CIN) 🟡 ROOKIE
 
 ### Larz1111 (Roster 5)
 
@@ -1015,9 +1020,9 @@ SEA
 - Khalil Shakir (WR, BUF)
 
 **Taxi Squad:**
+- Max Klare (TE, LAR) 🟡 ROOKIE
 - Drew Allar (QB, PIT) 🟡 ROOKIE
 - Justin Joly (TE, DEN) 🟡 ROOKIE
-- Max Klare (TE, LAR) 🟡 ROOKIE
 
 ### DRoj (Roster 8)
 
@@ -1073,8 +1078,8 @@ SEA
 - Jerry Jeudy (WR, CLE)
 
 **Taxi Squad:**
-- Zachariah Branch (WR, ATL) 🟡 ROOKIE
 - Mike Washington (RB, LV) 🟡 ROOKIE
+- Zachariah Branch (WR, ATL) 🟡 ROOKIE
 
 ### Jdunn502 (Roster 10)
 
@@ -1134,9 +1139,9 @@ SEA
 - Chris Brooks (RB, GB)
 
 **Taxi Squad:**
+- Oscar Delp (TE, NO) 🟡 ROOKIE
 - Cole Payton (QB, PHI) 🟡 ROOKIE
 - Seth McGowan (RB, IND) 🟡 ROOKIE
-- Oscar Delp (TE, NO) 🟡 ROOKIE
 
 ### nicoyepes (Roster 11)
 
@@ -1189,9 +1194,9 @@ SEA
 - Tua Tagovailoa (QB, ATL)
 
 **Taxi Squad:**
-- Brenen Thompson (WR, LAC) 🟡 ROOKIE
 - CJ Daniels (WR, LAR) 🟡 ROOKIE
 - Nate Boerkircher (TE, JAX) 🟡 ROOKIE
+- Brenen Thompson (WR, LAC) 🟡 ROOKIE
 
 ### BedStuyBallers21 (Roster 12)
 
@@ -1249,7 +1254,7 @@ SEA
 
 **Taxi Squad:**
 - Adam Randall (RB, BAL) 🟡 ROOKIE
-- Eli Heidenreich (RB, PIT) 🟡 ROOKIE
 - Michael Trigg (TE, DAL) 🟡 ROOKIE
+- Eli Heidenreich (RB, PIT) 🟡 ROOKIE
 
 <!-- END_AUTO_GENERATED -->
