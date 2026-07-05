@@ -191,7 +191,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-07-03 05:46 AM PT
+Last synced: 2026-07-05 12:46 PM PT
 
 ## Ownership Index
 <!--
@@ -236,7 +236,6 @@ Last synced: 2026-07-03 05:46 AM PT
 4881
 4892
 4943
-4950
 4960
 4971
 4981
@@ -348,9 +347,11 @@ Last synced: 2026-07-03 05:46 AM PT
 8228
 8259
 8266
+8267
 8280
 8311
 8323
+8329
 8339
 8355
 8392
@@ -403,6 +404,7 @@ Last synced: 2026-07-03 05:46 AM PT
 11370
 11435
 11533
+11539
 11559
 11560
 11563
@@ -438,6 +440,7 @@ Last synced: 2026-07-03 05:46 AM PT
 11643
 11646
 11647
+11650
 11651
 11655
 11678
@@ -445,12 +448,10 @@ Last synced: 2026-07-03 05:46 AM PT
 11705
 11727
 11742
-11783
 11786
 12048
 12455
 12457
-12462
 12467
 12469
 12471
@@ -471,7 +472,6 @@ Last synced: 2026-07-03 05:46 AM PT
 12499
 12501
 12502
-12503
 12504
 12505
 12506
@@ -615,9 +615,9 @@ SEA
 | WR | CeeDee Lamb | WR | DAL | 27 |
 | WR | Justin Jefferson | WR | MIN | 27 |
 | TE | Kyle Pitts | TE | ATL | 25 |
+| FLEX | Rico Dowdle | RB | PIT | 28 |
 | FLEX | Ladd McConkey | WR | LAC | 24 |
 | FLEX | Terry McLaurin | WR | WAS | 30 |
-| FLEX | Rico Dowdle | RB | PIT | 28 |
 | K | Ben Sauls | K | NYG | 24 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Edgerrin Cooper | LB | GB | 24 |
@@ -663,12 +663,9 @@ SEA
 - TreVeyon Henderson (RB, NE)
 - DJ Moore (WR, BUF)
 - Michael Wilson (WR, ARI)
-- 0 (UNK, FA)
+- Jake Bates (K, DET)
 - Atlanta Falcons (DEF, ATL)
-- 0 (UNK, FA)
-- 0 (UNK, FA)
-- 0 (UNK, FA)
-- 0 (UNK, FA)
+- Nakobe Dean (LB, LV)
 
 **QB Room (3 QBs):**
 - Joe Burrow (CIN)
@@ -679,17 +676,15 @@ SEA
 - QB (3): Joe Burrow, Jordan Love, Shedeur Sanders
 - RB (8): Bucky Irving, J'Mari Taylor, Jahmyr Gibbs, Jaydon Blue, Kalel Mullings, Ollie Gordon, Robert Henry, TreVeyon Henderson
 - TE (3): AJ Barner, George Kittle, Jake Tonges
-- WR (19): Chris Brazzell, Christian Kirk, DJ Moore, Darnell Mooney, DeVonta Smith, Isaac TeSlaa, Jayden Reed, Jaylin Lane, Keon Coleman, Malik Benson, Michael Wilson, Puka Nacua, Ryan Flournoy, Savion Williams, Skyler Bell, Ted Hurst, Tory Horton, Tyreek Hill, Zavion Thomas
+- WR (17): Chris Brazzell, DJ Moore, Darnell Mooney, DeVonta Smith, Isaac TeSlaa, Jayden Reed, Jaylin Lane, Keon Coleman, Malik Benson, Michael Wilson, Puka Nacua, Savion Williams, Skyler Bell, Ted Hurst, Tory Horton, Tyreek Hill, Zavion Thomas
 
 **Bench depth:**
 - Malik Benson (WR, LV) 🟡 ROOKIE
-- Ryan Flournoy (WR, DAL)
 - Skyler Bell (WR, BUF) 🟡 ROOKIE
 - Kalel Mullings (RB, TEN)
 - Keon Coleman (WR, BUF)
 - AJ Barner (TE, SEA)
 - Zavion Thomas (WR, CHI) 🟡 ROOKIE
-- Christian Kirk (WR, SF)
 - Tory Horton (WR, SEA)
 - Darnell Mooney (WR, NYG)
 - Jaydon Blue (RB, DAL)
@@ -724,9 +719,8 @@ SEA
 - Cam Little (K, JAX)
 - Houston Texans (DEF, HOU)
 - Carson Schwesinger (LB, CLE)
-- 0 (UNK, FA)
+- Devin Lloyd (LB, CAR)
 - Travis Hunter (WR, JAX)
-- 0 (UNK, FA)
 
 **QB Room (4 QBs):**
 - Carson Beck (ARI)
@@ -738,13 +732,12 @@ SEA
 - QB (4): Carson Beck, Drake Maye, Jacoby Brissett, Tommy DeVito
 - RB (10): Blake Corum, Emmett Johnson, George Holani, Jam Miller, Jarquez Hunter, Jeremiyah Love, Kenneth Walker, Nicholas Singleton, Rhamondre Stevenson, Tyler Allgeier
 - TE (4): Dallas Goedert, Eli Raridon, Eli Stowers, T.J. Hockenson
-- WR (12): Dontayvion Wicks, Isaiah Bond, Jalen Royals, Jayden Higgins, Kyle Williams, Luther Burden, Marvin Harrison, Pat Bryant, Romeo Doubs, Tetairoa McMillan, Travis Hunter, Xavier Legette
+- WR (11): Dontayvion Wicks, Jalen Royals, Jayden Higgins, Kyle Williams, Luther Burden, Marvin Harrison, Pat Bryant, Romeo Doubs, Tetairoa McMillan, Travis Hunter, Xavier Legette
 
 **Bench depth:**
 - Jalen Royals (WR, KC)
 - Jacoby Brissett (QB, ARI)
 - Jarquez Hunter (RB, LAR)
-- Isaiah Bond (WR, CLE)
 - Nicholas Singleton (RB, TEN) 🟡 ROOKIE
 - Xavier Legette (WR, CAR)
 - Romeo Doubs (WR, NE)
@@ -819,12 +812,6 @@ SEA
 - Denzel Boston (WR, CLE)
 - Tre Tucker (WR, LV)
 - Oronde Gadsden (TE, LAC)
-- 0 (UNK, FA)
-- 0 (UNK, FA)
-- 0 (UNK, FA)
-- 0 (UNK, FA)
-- 0 (UNK, FA)
-- 0 (UNK, FA)
 
 **QB Room (4 QBs):**
 - Fernando Mendoza (LV)
@@ -986,7 +973,6 @@ SEA
 - Nate Landman (LB, LAR)
 - Jeremy Chinn (DB, LV)
 - Kam Curl (DB, LAR)
-- 0 (UNK, FA)
 
 **QB Room (4 QBs):**
 - Caleb Williams (CHI)
@@ -1037,7 +1023,6 @@ SEA
 - Quinshon Judkins (RB, CLE)
 - Sam LaPorta (TE, DET)
 - Harrison Butker (K, KC)
-- 0 (UNK, FA)
 - Devin Bush (LB, CHI)
 - SirVocea Dennis (LB, TB)
 - Malaki Starks (DB, BAL)
@@ -1093,12 +1078,8 @@ SEA
 - Jordyn Tyson (WR, NO)
 - Christian Watson (WR, GB)
 - Tucker Kraft (TE, GB)
-- 0 (UNK, FA)
 - Los Angeles Chargers (DEF, LAC)
-- 0 (UNK, FA)
 - Nik Bonitto (LB, DEN)
-- 0 (UNK, FA)
-- 0 (UNK, FA)
 
 **QB Room (7 QBs):**
 - Cade Klubnik (NYJ)
@@ -1111,9 +1092,9 @@ SEA
 
 **Positional Surplus (3+ players at same position):**
 - QB (7): Cade Klubnik, Cam Ward, Cole Payton, Deshaun Watson, Geno Smith, Kyler Murray, Will Howard
-- RB (10): Ashton Jeanty, Cam Skattebo, Chris Brooks, Chris Rodriguez, Damien Martinez, MarShawn Lloyd, Ray Davis, Seth McGowan, Tony Pollard, Tyrone Tracy
+- RB (9): Ashton Jeanty, Cam Skattebo, Chris Brooks, Chris Rodriguez, MarShawn Lloyd, Ray Davis, Seth McGowan, Tony Pollard, Tyrone Tracy
 - TE (5): Colston Loveland, Marlin Klein, Oscar Delp, Theo Johnson, Tucker Kraft
-- WR (9): Brandon Aiyuk, Caleb Douglas, Chris Bell, Christian Watson, Ja'Marr Chase, Jalen McMillan, Jordyn Tyson, Malik Nabers, Will Pauling
+- WR (10): Brandon Aiyuk, Caleb Douglas, Chris Bell, Christian Watson, Ja'Marr Chase, Jalen McMillan, Jordyn Tyson, Luke McCaffrey, Malik Nabers, Will Pauling
 
 **Bench depth:**
 - Ray Davis (RB, BUF)
@@ -1122,7 +1103,6 @@ SEA
 - Talanoa Hufanga (DB, DEN)
 - Cade Klubnik (QB, NYJ) 🟡 ROOKIE
 - MarShawn Lloyd (RB, GB)
-- Damien Martinez (RB, GB)
 - Will Pauling (WR, SF) 🟡 ROOKIE
 - Will Howard (QB, PIT)
 - Tyrone Tracy (RB, NYG)
@@ -1134,6 +1114,7 @@ SEA
 - Chris Bell (WR, MIA) 🟡 ROOKIE
 - Theo Johnson (TE, NYG)
 - Caleb Douglas (WR, MIA) 🟡 ROOKIE
+- Luke McCaffrey (WR, WAS)
 - Jalen McMillan (WR, TB)
 - Geno Smith (QB, NYJ)
 - Chris Brooks (RB, GB)
