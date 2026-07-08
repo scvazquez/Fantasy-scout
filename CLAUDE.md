@@ -191,7 +191,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-07-07 12:47 PM UTC
+Last synced: 2026-07-08 12:00 PM UTC
 
 ## Ownership Index
 <!--
@@ -860,7 +860,7 @@ SEA
 - Javonte Williams (RB, DAL)
 - Jaxon Smith-Njigba (WR, SEA)
 - Rashee Rice (WR, KC)
-- Dalton Schultz (TE, HOU)
+- Chig Okonkwo (TE, WAS)
 - Chuba Hubbard (RB, CAR)
 - Alec Pierce (WR, IND)
 - Parker Washington (WR, JAX)
@@ -886,7 +886,7 @@ SEA
 
 **Bench depth:**
 - Makai Lemon (WR, PHI) 🟡 ROOKIE
-- Chig Okonkwo (TE, WAS)
+- Dalton Schultz (TE, HOU)
 - Jonah Coleman (RB, DEN) 🟡 ROOKIE
 - Wan'Dale Robinson (WR, TEN)
 - Ja'Tavion Sanders (TE, CAR)
