@@ -191,10 +191,10 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-07-11 12:48 PM UTC
+Last synced: 2026-07-12 12:48 PM UTC
 
 ## Ownership Index
-<!--
+<!-- 
   Full set of all owned player IDs across all 12 rosters.
   Fantasy Scout uses this for verified free agent checks.
   Format: one ID per line inside a code block for easy parsing.
@@ -675,18 +675,18 @@ SEA
 - WR (17): Chris Brazzell, DJ Moore, Darnell Mooney, DeVonta Smith, Isaac TeSlaa, Jayden Reed, Jaylin Lane, Keon Coleman, Malik Benson, Michael Wilson, Puka Nacua, Savion Williams, Skyler Bell, Ted Hurst, Tory Horton, Tyreek Hill, Zavion Thomas
 
 **Bench depth:**
-- Malik Benson (WR, LV) 🟡 ROOKIE
-- Skyler Bell (WR, BUF) 🟡 ROOKIE
+- Malik Benson (WR, LV)
+- Skyler Bell (WR, BUF)
 - Kalel Mullings (RB, TEN)
 - Keon Coleman (WR, BUF)
 - AJ Barner (TE, SEA)
-- Zavion Thomas (WR, CHI) 🟡 ROOKIE
+- Zavion Thomas (WR, CHI)
 - Tory Horton (WR, SEA)
 - Darnell Mooney (WR, NYG)
 - Jaydon Blue (RB, DAL)
 - Ollie Gordon (RB, MIA)
 - Jaylin Lane (WR, WAS)
-- Chris Brazzell (WR, CAR) 🟡 ROOKIE
+- Chris Brazzell (WR, CAR)
 - Savion Williams (WR, GB)
 - Tyreek Hill (WR, FA)
 - Shedeur Sanders (QB, CLE)
@@ -734,14 +734,14 @@ SEA
 - Zach Charbonnet (RB, SEA)
 - Jacoby Brissett (QB, ARI)
 - Jarquez Hunter (RB, LAR)
-- Nicholas Singleton (RB, TEN) 🟡 ROOKIE
+- Nicholas Singleton (RB, TEN)
 - Xavier Legette (WR, CAR)
 - Romeo Doubs (WR, NE)
 - Kyle Williams (WR, NE)
-- Emmett Johnson (RB, KC) 🟡 ROOKIE
+- Emmett Johnson (RB, KC)
 - Pat Bryant (WR, DEN)
 - Tommy DeVito (QB, NE)
-- Jam Miller (RB, NE) 🟡 ROOKIE
+- Jam Miller (RB, NE)
 - Dallas Goedert (TE, PHI)
 - George Holani (RB, SEA)
 - Tyler Allgeier (RB, ARI)
@@ -786,8 +786,8 @@ SEA
 - Woody Marks (RB, HOU)
 - Matthew Golden (WR, GB)
 - Jihaad Campbell (LB, PHI)
-- Ja'Kobi Lane (WR, BAL) 🟡 ROOKIE
-- Antonio Williams (WR, WAS) 🟡 ROOKIE
+- Ja'Kobi Lane (WR, BAL)
+- Antonio Williams (WR, WAS)
 - Travis Kelce (TE, KC)
 - Jared Goff (QB, DET)
 - Zaire Franklin (LB, GB)
@@ -830,11 +830,11 @@ SEA
 - Dylan Sampson (RB, CLE)
 - Jack Bech (WR, LV)
 - Kaleb Johnson (RB, PIT)
-- Fernando Mendoza (QB, LV) 🟡 ROOKIE
-- Germie Bernard (WR, PIT) 🟡 ROOKIE
-- Malachi Fields (WR, NYG) 🟡 ROOKIE
-- Sam Roush (TE, CHI) 🟡 ROOKIE
-- Kaytron Allen (RB, WAS) 🟡 ROOKIE
+- Fernando Mendoza (QB, LV)
+- Germie Bernard (WR, PIT)
+- Malachi Fields (WR, NYG)
+- Sam Roush (TE, CHI)
+- Kaytron Allen (RB, WAS)
 - Joe Mixon (RB, FA)
 - Calvin Ridley (WR, TEN)
 - Rashod Bateman (WR, BAL)
@@ -881,21 +881,21 @@ SEA
 - WR (9): Alec Pierce, Elijah Sarratt, Jalen Coker, Jaxon Smith-Njigba, Jeff Caldwell, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
 
 **Bench depth:**
-- Makai Lemon (WR, PHI) 🟡 ROOKIE
+- Makai Lemon (WR, PHI)
 - Dalton Schultz (TE, HOU)
-- Jonah Coleman (RB, DEN) 🟡 ROOKIE
+- Jonah Coleman (RB, DEN)
 - Wan'Dale Robinson (WR, TEN)
 - Ja'Tavion Sanders (TE, CAR)
 - Jalen Coker (WR, CAR)
 - Jonathon Brooks (RB, CAR)
 - Anthony Richardson (QB, IND)
 - Jacksonville Jaguars (DEF, JAX)
-- Kaelon Black (RB, SF) 🟡 ROOKIE
+- Kaelon Black (RB, SF)
 - Keaton Mitchell (RB, LAC)
 - Terrance Ferguson (TE, LAR)
 - Lamar Jackson (QB, BAL)
 - Brian Robinson (RB, ATL)
-- Elijah Sarratt (WR, BAL) 🟡 ROOKIE
+- Elijah Sarratt (WR, BAL)
 
 **Taxi Squad:**
 - Ty Simpson (QB, LAR, Age 23) 🟡 ROOKIE
@@ -946,9 +946,9 @@ SEA
 - Tyrel Dodson (LB, MIA)
 - Bobby Wagner (LB, FA)
 - Bobby Okereke (LB, FA)
-- Genesis Smith (DB, LAC) 🟡 ROOKIE
+- Genesis Smith (DB, LAC)
 - Yaya Diaby (DL, TB)
-- David Bailey (LB, NYJ) 🟡 ROOKIE
+- David Bailey (LB, NYJ)
 - Jalen Hurts (QB, PHI)
 - Devin White (LB, FA)
 
@@ -984,13 +984,13 @@ SEA
 
 **Bench depth:**
 - J.K. Dobbins (RB, DEN)
-- Matt Hibner (TE, BAL) 🟡 ROOKIE
+- Matt Hibner (TE, BAL)
 - Jaylen Wright (RB, MIA)
 - Emanuel Wilson (RB, SEA)
 - Jordan James (RB, SF)
 - Gunnar Helm (TE, TEN)
 - Kenny Gainwell (RB, TB)
-- Bryce Lance (WR, NO) 🟡 ROOKIE
+- Bryce Lance (WR, NO)
 - Rashid Shaheed (WR, SEA)
 - Evan Engram (TE, DEN)
 - Jordan Mason (RB, MIN)
@@ -1097,19 +1097,19 @@ SEA
 - Deshaun Watson (QB, CLE)
 - Brandon Aiyuk (WR, SF)
 - Talanoa Hufanga (DB, DEN)
-- Cade Klubnik (QB, NYJ) 🟡 ROOKIE
+- Cade Klubnik (QB, NYJ)
 - MarShawn Lloyd (RB, GB)
-- Will Pauling (WR, SF) 🟡 ROOKIE
+- Will Pauling (WR, SF)
 - Will Howard (QB, PIT)
 - Tyrone Tracy (RB, NYG)
 - Chris Rodriguez (RB, JAX)
 - Tony Pollard (RB, TEN)
-- Marlin Klein (TE, HOU) 🟡 ROOKIE
+- Marlin Klein (TE, HOU)
 - Cleveland Browns (DEF, CLE)
 - Cam Ward (QB, TEN)
-- Chris Bell (WR, MIA) 🟡 ROOKIE
+- Chris Bell (WR, MIA)
 - Theo Johnson (TE, NYG)
-- Caleb Douglas (WR, MIA) 🟡 ROOKIE
+- Caleb Douglas (WR, MIA)
 - Luke McCaffrey (WR, WAS)
 - Jalen McMillan (WR, TB)
 - Geno Smith (QB, NYJ)
@@ -1153,21 +1153,21 @@ SEA
 
 **Bench depth:**
 - Tyquan Thornton (WR, KC)
-- Deion Burks (WR, IND) 🟡 ROOKIE
+- Deion Burks (WR, IND)
 - David Njoku (TE, LAC)
-- Kevin Coleman (WR, MIA) 🟡 ROOKIE
+- Kevin Coleman (WR, MIA)
 - Courtland Sutton (WR, DEN)
 - DJ Giddens (RB, IND)
-- Garrett Nussmeier (QB, KC) 🟡 ROOKIE
+- Garrett Nussmeier (QB, KC)
 - Micah Parsons (LB, GB)
-- Arvell Reese (LB, NYG) 🟡 ROOKIE
+- Arvell Reese (LB, NYG)
 - Mike Gesicki (TE, CIN)
 - Isaac Guerendo (RB, SF)
 - Sean Tucker (RB, TB)
 - James Conner (RB, ARI)
 - DeMario Douglas (WR, NE)
 - Trey Benson (RB, ARI)
-- John Michael Gyllenborg (TE, KC) 🟡 ROOKIE
+- John Michael Gyllenborg (TE, KC)
 - Tua Tagovailoa (QB, ATL)
 
 **Taxi Squad:**
@@ -1220,7 +1220,7 @@ SEA
 - Brock Purdy (QB, SF)
 - J.J. McCarthy (QB, MIN)
 - Chimere Dike (WR, TEN)
-- De'Zhaun Stribling (WR, SF) 🟡 ROOKIE
+- De'Zhaun Stribling (WR, SF)
 - Jakobi Meyers (WR, JAX)
 - Isaiah Davis (RB, NYJ)
 - Kimani Vidal (RB, LAC)
