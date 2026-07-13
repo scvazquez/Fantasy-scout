@@ -1,3 +1,4 @@
+
 # Fantasy Scout — League Intelligence
 <!-- Roster Sync routine manages everything between AUTO markers -->
 
@@ -191,7 +192,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-07-11 12:48 PM UTC
+Last synced: 2026-07-13 12:47 PM UTC
 
 ## Ownership Index
 <!--
@@ -624,22 +625,22 @@ SEA
 
 ### Bench
 
+- Tre' Harris (WR, LAC, Age 24, 1 yr exp)
+- Donovan Edwards (RB, MIA, Age 23, 1 yr exp)
+- Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
+- Jimmy Horn (WR, CAR, Age 23, 1 yr exp)
+- Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
+- Arian Smith (WR, NYJ, Age 24, 1 yr exp)
+- Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
+- LeQuint Allen (RB, JAX, Age 21, 1 yr exp)
+- Alvin Kamara (RB, NO, Age 30, 9 yr exp)
+- Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
+- Mark Andrews (TE, BAL, Age 30, 8 yr exp)
 - Zack Baun (LB, PHI, Age 29, 6 yr exp)
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
-- Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
-- Alvin Kamara (RB, NO, Age 30, 9 yr exp)
-- Donovan Edwards (RB, MIA, Age 23, 1 yr exp)
-- LeQuint Allen (RB, JAX, Age 21, 1 yr exp)
-- Malik Davis (RB, DAL, Age 27, 4 yr exp)
-- Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
-- Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
 - Greg Dulcich (TE, MIA, Age 26, 4 yr exp)
-- Mark Andrews (TE, BAL, Age 30, 8 yr exp)
-- Arian Smith (WR, NYJ, Age 24, 1 yr exp)
-- Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
-- Jimmy Horn (WR, CAR, Age 23, 1 yr exp)
+- Malik Davis (RB, DAL, Age 27, 4 yr exp)
 - Jordan Addison (WR, MIN, Age 24, 3 yr exp)
-- Tre' Harris (WR, LAC, Age 24, 1 yr exp)
 
 ### Taxi Squad
 
