@@ -192,7 +192,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-07-13 12:47 PM UTC
+Last synced: 2026-07-14 12:52 PM UTC
 
 ## Ownership Index
 <!--
@@ -439,13 +439,13 @@ Last synced: 2026-07-13 12:47 PM UTC
 11646
 11647
 11650
-11651
 11655
 11678
 11687
 11705
 11727
 11742
+11783
 11786
 12048
 12455
@@ -1148,22 +1148,22 @@ SEA
 **Positional Surplus (3+ players at same position):**
 - LB (4): Arvell Reese, Jack Campbell, Micah Parsons, Roquan Smith
 - QB (3): Garrett Nussmeier, Justin Herbert, Tua Tagovailoa
-- RB (8): Christian McCaffrey, D'Andre Swift, DJ Giddens, Isaac Guerendo, James Conner, Jonathan Taylor, Sean Tucker, Trey Benson
+- RB (7): Christian McCaffrey, D'Andre Swift, DJ Giddens, James Conner, Jonathan Taylor, Sean Tucker, Trey Benson
 - TE (5): David Njoku, Hunter Henry, John Michael Gyllenborg, Mike Gesicki, Nate Boerkircher
-- WR (11): A.J. Brown, Brenen Thompson, CJ Daniels, Courtland Sutton, Davante Adams, DeMario Douglas, Deion Burks, Jameson Williams, Kevin Coleman, Nico Collins, Tyquan Thornton
+- WR (12): A.J. Brown, Brenen Thompson, CJ Daniels, Courtland Sutton, Davante Adams, DeMario Douglas, Deion Burks, Jameson Williams, Kevin Coleman, Nico Collins, Ryan Flournoy, Tyquan Thornton
 
 **Bench depth:**
 - Tyquan Thornton (WR, KC)
 - Deion Burks (WR, IND) 🟡 ROOKIE
 - David Njoku (TE, LAC)
 - Kevin Coleman (WR, MIA) 🟡 ROOKIE
+- Ryan Flournoy (WR, DAL)
 - Courtland Sutton (WR, DEN)
 - DJ Giddens (RB, IND)
 - Garrett Nussmeier (QB, KC) 🟡 ROOKIE
 - Micah Parsons (LB, GB)
 - Arvell Reese (LB, NYG) 🟡 ROOKIE
 - Mike Gesicki (TE, CIN)
-- Isaac Guerendo (RB, SF)
 - Sean Tucker (RB, TB)
 - James Conner (RB, ARI)
 - DeMario Douglas (WR, NE)
@@ -1229,7 +1229,7 @@ SEA
 - Justice Hill (RB, BAL)
 
 **Taxi Squad:**
-- Adam Randall (RB, BAL, Age 21) 🟡 ROOKIE
+- Adam Randall (RB, BAL, Age 22) 🟡 ROOKIE
 - Michael Trigg (TE, DAL, Age 24) 🟡 ROOKIE
 - Eli Heidenreich (RB, PIT, Age 23) 🟡 ROOKIE
 
