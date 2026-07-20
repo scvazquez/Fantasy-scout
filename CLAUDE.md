@@ -190,9 +190,8 @@ replacements mid-season.
 <!-- DO NOT EDIT BELOW THIS LINE                                  -->
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
-
 ## Roster State
-Last synced: 2026-07-19 12:47 PM UTC
+Last synced: 2026-07-20 12:47 PM UTC
 
 ## Ownership Index
 ```
@@ -693,9 +692,9 @@ SEA
 - Jake Tonges (TE, SF)
 
 **Taxi Squad:**
-- Ted Hurst (WR, TB, Age 22) 🟡 ROOKIE
 - J'Mari Taylor (RB, JAX, Age 24) 🟡 ROOKIE
 - Robert Henry (RB, WAS, Age 24) 🟡 ROOKIE
+- Ted Hurst (WR, TB, Age 22) 🟡 ROOKIE
 
 ### JQuinna10 (Roster 2)
 
@@ -748,8 +747,8 @@ SEA
 
 **Taxi Squad:**
 - Carson Beck (QB, ARI, Age 23) 🟡 ROOKIE
-- Eli Stowers (TE, PHI, Age 23) 🟡 ROOKIE
 - Eli Raridon (TE, NE, Age 22) 🟡 ROOKIE
+- Eli Stowers (TE, PHI, Age 23) 🟡 ROOKIE
 
 ### WOODYWOOD1978 (Roster 3)
 
@@ -841,9 +840,9 @@ SEA
 - Marvin Mims (WR, DEN)
 
 **Taxi Squad:**
+- Colbie Young (WR, CIN, Age 23) 🟡 ROOKIE
 - Demond Claiborne (RB, MIN, Age 22) 🟡 ROOKIE
 - Will Kacmarek (TE, MIA, Age 23) 🟡 ROOKIE
-- Colbie Young (WR, CIN, Age 23) 🟡 ROOKIE
 
 ### Larz1111 (Roster 5)
 
@@ -897,9 +896,9 @@ SEA
 - Elijah Sarratt (WR, BAL)
 
 **Taxi Squad:**
-- Ty Simpson (QB, LAR, Age 23) 🟡 ROOKIE
-- Taylen Green (QB, CLE, Age 23) 🟡 ROOKIE
 - Jeff Caldwell (WR, KC, Age 23) 🟡 ROOKIE
+- Taylen Green (QB, CLE, Age 23) 🟡 ROOKIE
+- Ty Simpson (QB, LAR, Age 23) 🟡 ROOKIE
 
 ### DopeOne83 (Roster 6)
 
@@ -1001,9 +1000,9 @@ SEA
 - Khalil Shakir (WR, BUF)
 
 **Taxi Squad:**
-- Max Klare (TE, LAR, Age 23) 🟡 ROOKIE
 - Drew Allar (QB, PIT, Age 22) 🟡 ROOKIE
 - Justin Joly (TE, DEN, Age 22) 🟡 ROOKIE
+- Max Klare (TE, LAR, Age 23) 🟡 ROOKIE
 
 ### DRoj (Roster 8)
 
@@ -1115,8 +1114,8 @@ SEA
 - Chris Brooks (RB, GB)
 
 **Taxi Squad:**
-- Oscar Delp (TE, NO, Age 22) 🟡 ROOKIE
 - Cole Payton (QB, PHI, Age 23) 🟡 ROOKIE
+- Oscar Delp (TE, NO, Age 22) 🟡 ROOKIE
 - Seth McGowan (RB, IND, Age 24) 🟡 ROOKIE
 
 ### nicoyepes (Roster 11)
@@ -1170,9 +1169,9 @@ SEA
 - Tua Tagovailoa (QB, ATL)
 
 **Taxi Squad:**
+- Brenen Thompson (WR, LAC, Age 22) 🟡 ROOKIE
 - CJ Daniels (WR, LAR, Age 24) 🟡 ROOKIE
 - Nate Boerkircher (TE, JAX, Age 24) 🟡 ROOKIE
-- Brenen Thompson (WR, LAC, Age 22) 🟡 ROOKIE
 
 ### BedStuyBallers21 (Roster 12)
 
@@ -1228,7 +1227,7 @@ SEA
 
 **Taxi Squad:**
 - Adam Randall (RB, BAL, Age 22) 🟡 ROOKIE
-- Michael Trigg (TE, DAL, Age 24) 🟡 ROOKIE
 - Eli Heidenreich (RB, PIT, Age 23) 🟡 ROOKIE
+- Michael Trigg (TE, DAL, Age 24) 🟡 ROOKIE
 
 <!-- END_AUTO_GENERATED -->
