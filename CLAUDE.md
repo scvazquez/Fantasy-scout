@@ -192,7 +192,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-07-25 12:47 PM UTC
+Last synced: 2026-07-26 05:47 AM PT
 
 ## Ownership Index
 <!--
@@ -396,12 +396,12 @@ Last synced: 2026-07-25 12:47 PM UTC
 10236
 10859
 10880
+10892
 10905
 10921
 10980
 11017
 11292
-11370
 11435
 11533
 11539
@@ -1085,6 +1085,7 @@ SEA
 - Tucker Kraft (TE, GB)
 - Chris Boswell (K, PIT)
 - Los Angeles Chargers (DEF, LAC)
+- Will Anderson (DL, HOU)
 - Nik Bonitto (LB, DEN)
 
 **QB Room (7 QBs):**
@@ -1098,7 +1099,7 @@ SEA
 
 **Positional Surplus (3+ players at same position):**
 - QB (7): Cade Klubnik, Cam Ward, Cole Payton, Deshaun Watson, Geno Smith, Kyler Murray, Will Howard
-- RB (9): Ashton Jeanty, Cam Skattebo, Chris Brooks, Chris Rodriguez, MarShawn Lloyd, Ray Davis, Seth McGowan, Tony Pollard, Tyrone Tracy
+- RB (8): Ashton Jeanty, Cam Skattebo, Chris Rodriguez, MarShawn Lloyd, Ray Davis, Seth McGowan, Tony Pollard, Tyrone Tracy
 - TE (6): Colston Loveland, Erick All, Marlin Klein, Oscar Delp, Theo Johnson, Tucker Kraft
 - WR (9): Brandon Aiyuk, Caleb Douglas, Chris Bell, Christian Watson, Ja'Marr Chase, Jalen McMillan, Jordyn Tyson, Malik Nabers, Will Pauling
 
@@ -1123,7 +1124,6 @@ SEA
 - Jalen McMillan (WR, TB)
 - Erick All (TE, CIN)
 - Geno Smith (QB, NYJ)
-- Chris Brooks (RB, GB)
 
 **Taxi Squad:**
 - Oscar Delp (TE, NO, Age 22) 🟡 ROOKIE
