@@ -191,7 +191,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-07-28 12:48 PM UTC
+Last synced: 2026-07-29 (auto sync)
 
 ## Ownership Index
 ```
@@ -266,10 +266,9 @@ Last synced: 2026-07-28 12:48 PM UTC
 5947
 5967
 5995
-6011
 6039
 6119
-6217
+6302
 6315
 6768
 6770
@@ -282,6 +281,7 @@ Last synced: 2026-07-28 12:48 PM UTC
 6803
 6804
 6806
+6807
 6813
 6815
 6819
@@ -317,6 +317,7 @@ Last synced: 2026-07-28 12:48 PM UTC
 7811
 7841
 8110
+8111
 8112
 8121
 8126
@@ -347,7 +348,6 @@ Last synced: 2026-07-28 12:48 PM UTC
 8259
 8266
 8267
-8280
 8311
 8323
 8329
@@ -395,7 +395,6 @@ Last synced: 2026-07-28 12:48 PM UTC
 10236
 10859
 10880
-10892
 10905
 10921
 10980
@@ -432,6 +431,7 @@ Last synced: 2026-07-28 12:48 PM UTC
 11626
 11627
 11628
+11630
 11631
 11632
 11635
@@ -718,7 +718,6 @@ SEA
 - Cam Little (K, JAX)
 - Houston Texans (DEF, HOU)
 - Carson Schwesinger (LB, CLE)
-- Blake Cashman (LB, MIN)
 - Travis Hunter (WR, JAX)
 
 **QB Room (4 QBs):**
@@ -731,7 +730,7 @@ SEA
 - QB (4): Carson Beck, Drake Maye, Jacoby Brissett, Tommy DeVito
 - RB (11): Blake Corum, Emmett Johnson, George Holani, Jam Miller, Jarquez Hunter, Jeremiyah Love, Kenneth Walker, Nicholas Singleton, Rhamondre Stevenson, Tyler Allgeier, Zach Charbonnet
 - TE (4): Dallas Goedert, Eli Raridon, Eli Stowers, T.J. Hockenson
-- WR (11): Dontayvion Wicks, Jalen Royals, Jayden Higgins, Kyle Williams, Luther Burden, Marvin Harrison, Pat Bryant, Romeo Doubs, Tetairoa McMillan, Travis Hunter, Xavier Legette
+- WR (12): Dontayvion Wicks, Jalen Royals, Jayden Higgins, Kyle Williams, Luther Burden, Marvin Harrison, Pat Bryant, Roman Wilson, Romeo Doubs, Tetairoa McMillan, Travis Hunter, Xavier Legette
 
 **Bench depth:**
 - Jalen Royals (WR, KC)
@@ -750,6 +749,7 @@ SEA
 - George Holani (RB, SEA)
 - Tyler Allgeier (RB, ARI)
 - Blake Corum (RB, LAR)
+- Roman Wilson (WR, PIT)
 - Dontayvion Wicks (WR, PHI)
 - Nick Emmanwori (DB, SEA)
 - New England Patriots (DEF, NE)
@@ -860,10 +860,10 @@ SEA
 - Omarion Hampton (RB, LAC)
 - Javonte Williams (RB, DAL)
 - Jaxon Smith-Njigba (WR, SEA)
-- Rashee Rice (WR, KC)
+- Alec Pierce (WR, IND)
 - Dalton Schultz (TE, HOU)
 - Chuba Hubbard (RB, CAR)
-- Alec Pierce (WR, IND)
+- Rashee Rice (WR, KC)
 - Parker Washington (WR, JAX)
 - Cameron Dicker (K, LAC)
 - Jacksonville Jaguars (DEF, JAX)
@@ -872,18 +872,17 @@ SEA
 - Tykee Smith (DB, TB)
 - Cooper DeJean (DB, PHI)
 
-**QB Room (6 QBs):**
+**QB Room (5 QBs):**
 - Taylen Green (CLE)
-- Gardner Minshew (ARI)
 - Ty Simpson (LAR)
 - Anthony Richardson (IND)
 - Lamar Jackson (BAL)
 - Dak Prescott (DAL)
 
 **Positional Surplus (3+ players at same position):**
-- QB (6): Anthony Richardson, Dak Prescott, Gardner Minshew, Lamar Jackson, Taylen Green, Ty Simpson
+- QB (5): Anthony Richardson, Dak Prescott, Lamar Jackson, Taylen Green, Ty Simpson
 - RB (8): Brian Robinson, Chuba Hubbard, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
-- TE (4): Chig Okonkwo, Dalton Schultz, Ja'Tavion Sanders, Terrance Ferguson
+- TE (5): Cade Otton, Chig Okonkwo, Dalton Schultz, Ja'Tavion Sanders, Terrance Ferguson
 - WR (9): Alec Pierce, Elijah Sarratt, Jalen Coker, Jaxon Smith-Njigba, Jeff Caldwell, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
 
 **Bench depth:**
@@ -892,7 +891,6 @@ SEA
 - Jonah Coleman (RB, DEN)
 - Wan'Dale Robinson (WR, TEN)
 - Ja'Tavion Sanders (TE, CAR)
-- Gardner Minshew (QB, ARI)
 - Jalen Coker (WR, CAR)
 - Jonathon Brooks (RB, CAR)
 - Green Bay Packers (DEF, GB)
@@ -903,6 +901,7 @@ SEA
 - Lamar Jackson (QB, BAL)
 - Brian Robinson (RB, ATL)
 - Elijah Sarratt (WR, BAL)
+- Cade Otton (TE, TB)
 
 **Taxi Squad:**
 - Ty Simpson (QB, LAR, Age 23) 🟡 ROOKIE
@@ -1081,11 +1080,12 @@ SEA
 - Colston Loveland (TE, CHI)
 - Jordyn Tyson (WR, NO)
 - Christian Watson (WR, GB)
-- Tucker Kraft (TE, GB)
+- Tony Pollard (RB, TEN)
 - Chris Boswell (K, PIT)
 - Los Angeles Chargers (DEF, LAC)
-- Will Anderson (DL, HOU)
-- Nik Bonitto (LB, DEN)
+- Kaden Elliss (LB, NO)
+- Patrick Queen (LB, PIT)
+- Talanoa Hufanga (DB, DEN)
 
 **QB Room (7 QBs):**
 - Kyler Murray (MIN)
@@ -1106,19 +1106,18 @@ SEA
 - Ray Davis (RB, BUF)
 - Deshaun Watson (QB, CLE)
 - Brandon Aiyuk (WR, SF)
-- Talanoa Hufanga (DB, DEN)
 - Cade Klubnik (QB, NYJ)
 - MarShawn Lloyd (RB, GB)
 - Will Pauling (WR, SF)
 - Will Howard (QB, PIT)
 - Tyrone Tracy (RB, NYG)
 - Chris Rodriguez (RB, JAX)
-- Tony Pollard (RB, TEN)
 - Marlin Klein (TE, HOU)
 - Cleveland Browns (DEF, CLE)
 - Cam Ward (QB, TEN)
 - Chris Bell (WR, MIA)
 - Theo Johnson (TE, NYG)
+- Tucker Kraft (TE, GB)
 - Caleb Douglas (WR, MIA)
 - Jalen McMillan (WR, TB)
 - Erick All (TE, CIN)
