@@ -191,7 +191,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-07-29 (auto sync)
+Last synced: 2026-07-30 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -920,7 +920,7 @@ SEA
 - DK Metcalf (WR, PIT)
 - Chris Godwin (WR, TB)
 - Jacory Croskey-Merritt (RB, WAS)
-- Lucas Havrisik (K, GB)
+- Lucas Havrisik (K, FA)
 - Seattle Seahawks (DEF, SEA)
 - Foyesade Oluokun (LB, JAX)
 - Carl Granderson (DE, NO)
