@@ -191,7 +191,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-07-30 12:46 PM UTC (auto sync)
+Last synced: 2026-07-31 12:48 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -618,7 +618,7 @@ SEA
 | FLEX | Ladd McConkey | WR | LAC | 24 |
 | FLEX | Terry McLaurin | WR | WAS | 30 |
 | FLEX | Rico Dowdle | RB | PIT | 28 |
-| K | Ben Sauls | K | NYG | 24 |
+| K | Ben Sauls | K | NYG | 25 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Edgerrin Cooper | LB | GB | 24 |
 | LB | Quay Walker | LB | LV | 26 |
@@ -655,11 +655,11 @@ SEA
 **Starters:**
 - Joe Burrow (QB, CIN)
 - Jahmyr Gibbs (RB, DET)
-- Bucky Irving (RB, TB)
+- TreVeyon Henderson (RB, NE)
 - Puka Nacua (WR, LAR)
 - DeVonta Smith (WR, PHI)
 - George Kittle (TE, SF)
-- TreVeyon Henderson (RB, NE)
+- Bucky Irving (RB, TB)
 - DJ Moore (WR, BUF)
 - Michael Wilson (WR, ARI)
 - Jake Bates (K, DET)
@@ -1056,7 +1056,7 @@ SEA
 - Xavier Worthy (WR, KC)
 - Devin Neal (RB, NO)
 - Bryce Young (QB, CAR)
-- Deebo Samuel (WR, FA)
+- Deebo Samuel (WR, SF)
 - Aaron Rodgers (QB, PIT)
 - Jalen Nailor (WR, LV)
 - Jake Ferguson (TE, DAL)
