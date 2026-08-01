@@ -191,7 +191,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-07-30 12:46 PM UTC (auto sync)
+Last synced: 2026-08-01 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -618,7 +618,7 @@ SEA
 | FLEX | Ladd McConkey | WR | LAC | 24 |
 | FLEX | Terry McLaurin | WR | WAS | 30 |
 | FLEX | Rico Dowdle | RB | PIT | 28 |
-| K | Ben Sauls | K | NYG | 24 |
+| K | Ben Sauls | K | NYG | 25 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Edgerrin Cooper | LB | GB | 24 |
 | LB | Quay Walker | LB | LV | 26 |
@@ -655,11 +655,11 @@ SEA
 **Starters:**
 - Joe Burrow (QB, CIN)
 - Jahmyr Gibbs (RB, DET)
-- Bucky Irving (RB, TB)
+- TreVeyon Henderson (RB, NE)
 - Puka Nacua (WR, LAR)
 - DeVonta Smith (WR, PHI)
 - George Kittle (TE, SF)
-- TreVeyon Henderson (RB, NE)
+- Bucky Irving (RB, TB)
 - DJ Moore (WR, BUF)
 - Michael Wilson (WR, ARI)
 - Jake Bates (K, DET)
@@ -669,8 +669,8 @@ SEA
 
 **QB Room (3 QBs):**
 - Joe Burrow (CIN)
-- Shedeur Sanders (CLE)
 - Jordan Love (GB)
+- Shedeur Sanders (CLE)
 
 **Positional Surplus (3+ players at same position):**
 - QB (3): Joe Burrow, Jordan Love, Shedeur Sanders
@@ -699,8 +699,8 @@ SEA
 - Jake Tonges (TE, SF)
 
 **Taxi Squad:**
-- Ted Hurst (WR, TB, Age 22) 🟡 ROOKIE
 - J'Mari Taylor (RB, JAX, Age 24) 🟡 ROOKIE
+- Ted Hurst (WR, TB, Age 22) 🟡 ROOKIE
 - Robert Henry (RB, WAS, Age 24) 🟡 ROOKIE
 
 ### JQuinna10 (Roster 2)
@@ -721,10 +721,10 @@ SEA
 - Travis Hunter (WR, JAX)
 
 **QB Room (4 QBs):**
+- Carson Beck (ARI)
 - Drake Maye (NE)
 - Jacoby Brissett (ARI)
 - Tommy DeVito (NE)
-- Carson Beck (ARI)
 
 **Positional Surplus (3+ players at same position):**
 - QB (4): Carson Beck, Drake Maye, Jacoby Brissett, Tommy DeVito
@@ -755,8 +755,8 @@ SEA
 - New England Patriots (DEF, NE)
 
 **Taxi Squad:**
-- Carson Beck (QB, ARI, Age 23) 🟡 ROOKIE
 - Eli Stowers (TE, PHI, Age 23) 🟡 ROOKIE
+- Carson Beck (QB, ARI, Age 23) 🟡 ROOKIE
 - Eli Raridon (TE, NE, Age 22) 🟡 ROOKIE
 
 ### WOODYWOOD1978 (Roster 3)
@@ -779,8 +779,8 @@ SEA
 - Dillon Thieneman (DB, CHI)
 
 **QB Room (2 QBs):**
-- Jaxson Dart (NYG)
 - Jared Goff (DET)
+- Jaxson Dart (NYG)
 
 **Positional Surplus (3+ players at same position):**
 - LB (4): Jihaad Campbell, Jordyn Brooks, Sonny Styles, Zaire Franklin
@@ -815,10 +815,10 @@ SEA
 - Oronde Gadsden (TE, LAC)
 
 **QB Room (4 QBs):**
-- Michael Penix (ATL)
 - Fernando Mendoza (LV)
-- Trevor Lawrence (JAX)
 - Malik Willis (MIA)
+- Michael Penix (ATL)
+- Trevor Lawrence (JAX)
 
 **Positional Surplus (3+ players at same position):**
 - QB (4): Fernando Mendoza, Malik Willis, Michael Penix, Trevor Lawrence
@@ -849,8 +849,8 @@ SEA
 - Marvin Mims (WR, DEN)
 
 **Taxi Squad:**
-- Demond Claiborne (RB, MIN, Age 22) 🟡 ROOKIE
 - Will Kacmarek (TE, MIA, Age 23) 🟡 ROOKIE
+- Demond Claiborne (RB, MIN, Age 22) 🟡 ROOKIE
 - Colbie Young (WR, CIN, Age 24) 🟡 ROOKIE
 
 ### Larz1111 (Roster 5)
@@ -873,11 +873,11 @@ SEA
 - Cooper DeJean (DB, PHI)
 
 **QB Room (5 QBs):**
+- Anthony Richardson (IND)
+- Dak Prescott (DAL)
+- Lamar Jackson (BAL)
 - Taylen Green (CLE)
 - Ty Simpson (LAR)
-- Anthony Richardson (IND)
-- Lamar Jackson (BAL)
-- Dak Prescott (DAL)
 
 **Positional Surplus (3+ players at same position):**
 - QB (5): Anthony Richardson, Dak Prescott, Lamar Jackson, Taylen Green, Ty Simpson
@@ -928,8 +928,8 @@ SEA
 - Avieon Terrell (DB, ATL)
 
 **QB Room (2 QBs):**
-- Josh Allen (BUF)
 - Jalen Hurts (PHI)
+- Josh Allen (BUF)
 
 **Positional Surplus (3+ players at same position):**
 - DB (4): Avieon Terrell, Genesis Smith, Jaquan Brisker, Jermod McCoy
@@ -978,10 +978,10 @@ SEA
 - Tre'von Moehrig (DB, CAR)
 
 **QB Room (4 QBs):**
-- Drew Allar (PIT)
 - Caleb Williams (CHI)
-- Tyler Shough (NO)
+- Drew Allar (PIT)
 - Sam Darnold (SEA)
+- Tyler Shough (NO)
 
 **Positional Surplus (3+ players at same position):**
 - DB (3): Jeremy Chinn, Kam Curl, Tre'von Moehrig
@@ -1032,13 +1032,13 @@ SEA
 - Cam Bynum (DB, IND)
 
 **QB Room (7 QBs):**
-- C.J. Stroud (HOU)
+- Aaron Rodgers (PIT)
 - Bo Nix (DEN)
 - Bryce Young (CAR)
-- Aaron Rodgers (PIT)
-- Patrick Mahomes (KC)
-- Kirk Cousins (LV)
+- C.J. Stroud (HOU)
 - Daniel Jones (IND)
+- Kirk Cousins (LV)
+- Patrick Mahomes (KC)
 
 **Positional Surplus (3+ players at same position):**
 - QB (7): Aaron Rodgers, Bo Nix, Bryce Young, C.J. Stroud, Daniel Jones, Kirk Cousins, Patrick Mahomes
@@ -1056,7 +1056,7 @@ SEA
 - Xavier Worthy (WR, KC)
 - Devin Neal (RB, NO)
 - Bryce Young (QB, CAR)
-- Deebo Samuel (WR, FA)
+- Deebo Samuel (WR, SF)
 - Aaron Rodgers (QB, PIT)
 - Jalen Nailor (WR, LV)
 - Jake Ferguson (TE, DAL)
@@ -1088,13 +1088,13 @@ SEA
 - Talanoa Hufanga (DB, DEN)
 
 **QB Room (7 QBs):**
-- Kyler Murray (MIN)
-- Deshaun Watson (CLE)
 - Cade Klubnik (NYJ)
-- Will Howard (PIT)
 - Cam Ward (TEN)
 - Cole Payton (PHI)
+- Deshaun Watson (CLE)
 - Geno Smith (NYJ)
+- Kyler Murray (MIN)
+- Will Howard (PIT)
 
 **Positional Surplus (3+ players at same position):**
 - QB (7): Cade Klubnik, Cam Ward, Cole Payton, Deshaun Watson, Geno Smith, Kyler Murray, Will Howard
@@ -1124,8 +1124,8 @@ SEA
 - Geno Smith (QB, NYJ)
 
 **Taxi Squad:**
-- Oscar Delp (TE, NO, Age 22) 🟡 ROOKIE
 - Cole Payton (QB, PHI, Age 23) 🟡 ROOKIE
+- Oscar Delp (TE, NO, Age 22) 🟡 ROOKIE
 - Seth McGowan (RB, IND, Age 24) 🟡 ROOKIE
 
 ### nicoyepes (Roster 11)
@@ -1179,9 +1179,9 @@ SEA
 - Tua Tagovailoa (QB, ATL)
 
 **Taxi Squad:**
+- Brenen Thompson (WR, LAC, Age 23) 🟡 ROOKIE
 - CJ Daniels (WR, LAR, Age 24) 🟡 ROOKIE
 - Nate Boerkircher (TE, JAX, Age 24) 🟡 ROOKIE
-- Brenen Thompson (WR, LAC, Age 23) 🟡 ROOKIE
 
 ### BedStuyBallers21 (Roster 12)
 
@@ -1203,11 +1203,11 @@ SEA
 - Jessie Bates (DB, ATL)
 
 **QB Room (5 QBs):**
-- Mac Jones (SF)
-- Jalen Milroe (SEA)
+- Baker Mayfield (TB)
 - Brock Purdy (SF)
 - J.J. McCarthy (MIN)
-- Baker Mayfield (TB)
+- Jalen Milroe (SEA)
+- Mac Jones (SF)
 
 **Positional Surplus (3+ players at same position):**
 - QB (5): Baker Mayfield, Brock Purdy, J.J. McCarthy, Jalen Milroe, Mac Jones
@@ -1234,8 +1234,8 @@ SEA
 - Justice Hill (RB, BAL)
 
 **Taxi Squad:**
+- Eli Heidenreich (RB, PIT, Age 23) 🟡 ROOKIE
 - Adam Randall (RB, BAL, Age 22) 🟡 ROOKIE
 - Michael Trigg (TE, DAL, Age 24) 🟡 ROOKIE
-- Eli Heidenreich (RB, PIT, Age 23) 🟡 ROOKIE
 
 <!-- END_AUTO_GENERATED -->
