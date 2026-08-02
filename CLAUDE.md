@@ -189,9 +189,8 @@ replacements mid-season.
 <!-- DO NOT EDIT BELOW THIS LINE                                  -->
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
-
 ## Roster State
-Last synced: 2026-07-30 12:46 PM UTC (auto sync)
+Last synced: 2026-08-02 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -395,6 +394,7 @@ Last synced: 2026-07-30 12:46 PM UTC (auto sync)
 10236
 10859
 10880
+10892
 10905
 10921
 10980
@@ -448,6 +448,7 @@ Last synced: 2026-07-30 12:46 PM UTC (auto sync)
 11742
 11783
 11786
+11792
 12048
 12455
 12457
@@ -489,7 +490,6 @@ Last synced: 2026-07-30 12:46 PM UTC (auto sync)
 12519
 12521
 12522
-12523
 12524
 12526
 12527
@@ -499,7 +499,6 @@ Last synced: 2026-07-30 12:46 PM UTC (auto sync)
 12534
 12535
 12536
-12539
 12540
 12543
 12544
@@ -512,7 +511,6 @@ Last synced: 2026-07-30 12:46 PM UTC (auto sync)
 12597
 12641
 12713
-13066
 13268
 13269
 13270
@@ -585,6 +583,7 @@ Last synced: 2026-07-30 12:46 PM UTC (auto sync)
 13424
 13434
 13477
+13602
 13662
 BAL
 CLE
@@ -618,7 +617,7 @@ SEA
 | FLEX | Ladd McConkey | WR | LAC | 24 |
 | FLEX | Terry McLaurin | WR | WAS | 30 |
 | FLEX | Rico Dowdle | RB | PIT | 28 |
-| K | Ben Sauls | K | NYG | 24 |
+| K | Will Reichard | K | MIN | 25 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Edgerrin Cooper | LB | GB | 24 |
 | LB | Quay Walker | LB | LV | 26 |
@@ -627,22 +626,22 @@ SEA
 
 ### Bench
 
-- Tre' Harris (WR, LAC, Age 24, 1 yr exp)
-- Donovan Edwards (RB, MIA, Age 23, 1 yr exp)
-- Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
-- Jimmy Horn (WR, CAR, Age 23, 1 yr exp)
-- Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
-- Arian Smith (WR, NYJ, Age 24, 1 yr exp)
-- Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
-- LeQuint Allen (RB, JAX, Age 21, 1 yr exp)
-- Alvin Kamara (RB, NO, Age 31, 9 yr exp)
-- Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
-- Mark Andrews (TE, BAL, Age 30, 8 yr exp)
+- Will Anderson (DL, HOU, Age 24, 3 yr exp)
 - Zack Baun (LB, PHI, Age 29, 6 yr exp)
+- Jack Strand (QB, ATL, Age 22, 0 yr exp) 🟡 ROOKIE
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
-- Greg Dulcich (TE, MIA, Age 26, 4 yr exp)
+- Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
+- Alvin Kamara (RB, NO, Age 31, 9 yr exp)
+- Donovan Edwards (RB, MIA, Age 23, 1 yr exp)
+- LeQuint Allen (RB, JAX, Age 21, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
+- Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
+- Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
+- Greg Dulcich (TE, MIA, Age 26, 4 yr exp)
+- Mark Andrews (TE, BAL, Age 30, 8 yr exp)
+- Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
 - Jordan Addison (WR, MIN, Age 24, 3 yr exp)
+- Tre' Harris (WR, LAC, Age 24, 1 yr exp)
 
 ### Taxi Squad
 
@@ -655,11 +654,11 @@ SEA
 **Starters:**
 - Joe Burrow (QB, CIN)
 - Jahmyr Gibbs (RB, DET)
-- Bucky Irving (RB, TB)
+- TreVeyon Henderson (RB, NE)
 - Puka Nacua (WR, LAR)
 - DeVonta Smith (WR, PHI)
 - George Kittle (TE, SF)
-- TreVeyon Henderson (RB, NE)
+- Bucky Irving (RB, TB)
 - DJ Moore (WR, BUF)
 - Michael Wilson (WR, ARI)
 - Jake Bates (K, DET)
@@ -956,7 +955,7 @@ SEA
 - Yaya Diaby (DL, TB)
 - David Bailey (LB, NYJ)
 - Jalen Hurts (QB, PHI)
-- Devin White (LB, FA)
+- Devin White (LB, DET)
 
 ### Darkkaze (Roster 7)
 
@@ -1056,7 +1055,7 @@ SEA
 - Xavier Worthy (WR, KC)
 - Devin Neal (RB, NO)
 - Bryce Young (QB, CAR)
-- Deebo Samuel (WR, FA)
+- Deebo Samuel (WR, SF)
 - Aaron Rodgers (QB, PIT)
 - Jalen Nailor (WR, LV)
 - Jake Ferguson (TE, DAL)
