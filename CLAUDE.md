@@ -190,7 +190,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-08-02 12:46 PM UTC (auto sync)
+Last synced: 2026-08-03 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -622,26 +622,26 @@ SEA
 | LB | Edgerrin Cooper | LB | GB | 24 |
 | LB | Quay Walker | LB | LV | 26 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
-| DB | Derwin James | DB | LAC | 29 |
+| DB | Derwin James | DB | LAC | 30 |
 
 ### Bench
 
 - Will Anderson (DL, HOU, Age 24, 3 yr exp)
-- Zack Baun (LB, PHI, Age 29, 6 yr exp)
-- Jack Strand (QB, ATL, Age 22, 0 yr exp) 🟡 ROOKIE
-- Justin Fields (QB, KC, Age 27, 5 yr exp)
-- Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
-- Alvin Kamara (RB, NO, Age 31, 9 yr exp)
-- Donovan Edwards (RB, MIA, Age 23, 1 yr exp)
-- LeQuint Allen (RB, JAX, Age 21, 1 yr exp)
-- Malik Davis (RB, DAL, Age 27, 4 yr exp)
-- Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
-- Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
-- Greg Dulcich (TE, MIA, Age 26, 4 yr exp)
-- Mark Andrews (TE, BAL, Age 30, 8 yr exp)
-- Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
-- Jordan Addison (WR, MIN, Age 24, 3 yr exp)
 - Tre' Harris (WR, LAC, Age 24, 1 yr exp)
+- Donovan Edwards (RB, MIA, Age 23, 1 yr exp)
+- Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
+- Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
+- Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
+- LeQuint Allen (RB, JAX, Age 21, 1 yr exp)
+- Jack Strand (QB, ATL, Age 22, 0 yr exp) 🟡 ROOKIE
+- Alvin Kamara (RB, NO, Age 31, 9 yr exp)
+- Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
+- Mark Andrews (TE, BAL, Age 30, 8 yr exp)
+- Zack Baun (LB, PHI, Age 29, 6 yr exp)
+- Justin Fields (QB, KC, Age 27, 5 yr exp)
+- Greg Dulcich (TE, MIA, Age 26, 4 yr exp)
+- Malik Davis (RB, DAL, Age 27, 4 yr exp)
+- Jordan Addison (WR, MIN, Age 24, 3 yr exp)
 
 ### Taxi Squad
 
@@ -859,7 +859,7 @@ SEA
 - Omarion Hampton (RB, LAC)
 - Javonte Williams (RB, DAL)
 - Jaxon Smith-Njigba (WR, SEA)
-- Alec Pierce (WR, IND)
+- Wan'Dale Robinson (WR, TEN)
 - Dalton Schultz (TE, HOU)
 - Chuba Hubbard (RB, CAR)
 - Rashee Rice (WR, KC)
@@ -888,13 +888,13 @@ SEA
 - Makai Lemon (WR, PHI)
 - Chig Okonkwo (TE, WAS)
 - Jonah Coleman (RB, DEN)
-- Wan'Dale Robinson (WR, TEN)
 - Ja'Tavion Sanders (TE, CAR)
 - Jalen Coker (WR, CAR)
 - Jonathon Brooks (RB, CAR)
 - Green Bay Packers (DEF, GB)
 - Anthony Richardson (QB, IND)
 - Kaelon Black (RB, SF)
+- Alec Pierce (WR, IND)
 - Keaton Mitchell (RB, LAC)
 - Terrance Ferguson (TE, LAR)
 - Lamar Jackson (QB, BAL)
