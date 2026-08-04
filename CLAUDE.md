@@ -189,8 +189,9 @@ replacements mid-season.
 <!-- DO NOT EDIT BELOW THIS LINE                                  -->
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
+
 ## Roster State
-Last synced: 2026-08-03 12:47 PM UTC (auto sync)
+Last synced: 2026-08-04 12:49 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -273,6 +274,7 @@ Last synced: 2026-08-03 12:47 PM UTC (auto sync)
 6770
 6783
 6786
+6788
 6790
 6794
 6797
@@ -307,6 +309,7 @@ Last synced: 2026-08-03 12:47 PM UTC (auto sync)
 7588
 7591
 7594
+7600
 7611
 7640
 7648
@@ -320,6 +323,7 @@ Last synced: 2026-08-03 12:47 PM UTC (auto sync)
 8112
 8121
 8126
+8127
 8130
 8131
 8132
@@ -337,7 +341,6 @@ Last synced: 2026-08-03 12:47 PM UTC (auto sync)
 8155
 8161
 8167
-8172
 8180
 8183
 8188
@@ -367,6 +370,7 @@ Last synced: 2026-08-03 12:47 PM UTC (auto sync)
 9229
 9479
 9480
+9482
 9484
 9486
 9487
@@ -400,6 +404,7 @@ Last synced: 2026-08-03 12:47 PM UTC (auto sync)
 10980
 11017
 11292
+11370
 11435
 11533
 11539
@@ -420,7 +425,6 @@ Last synced: 2026-08-03 12:47 PM UTC (auto sync)
 11589
 11592
 11597
-11600
 11603
 11604
 11610
@@ -564,7 +568,6 @@ Last synced: 2026-08-03 12:47 PM UTC (auto sync)
 13377
 13380
 13389
-13392
 13399
 13400
 13401
@@ -637,9 +640,9 @@ SEA
 - Alvin Kamara (RB, NO, Age 31, 9 yr exp)
 - Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
 - Mark Andrews (TE, BAL, Age 30, 8 yr exp)
+- Xavier McKinney (DB, GB, Age 27, 6 yr exp)
 - Zack Baun (LB, PHI, Age 29, 6 yr exp)
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
-- Greg Dulcich (TE, MIA, Age 26, 4 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
 - Jordan Addison (WR, MIN, Age 24, 3 yr exp)
 
@@ -880,20 +883,21 @@ SEA
 
 **Positional Surplus (3+ players at same position):**
 - QB (5): Anthony Richardson, Dak Prescott, Lamar Jackson, Taylen Green, Ty Simpson
-- RB (8): Brian Robinson, Chuba Hubbard, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
-- TE (5): Cade Otton, Chig Okonkwo, Dalton Schultz, Ja'Tavion Sanders, Terrance Ferguson
-- WR (9): Alec Pierce, Elijah Sarratt, Jalen Coker, Jaxon Smith-Njigba, Jeff Caldwell, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
+- RB (9): Brian Robinson, Chris Brooks, Chuba Hubbard, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
+- TE (7): Cade Otton, Charlie Kolar, Chig Okonkwo, Dalton Schultz, Michael Mayer, Pat Freiermuth, Terrance Ferguson
+- WR (8): Alec Pierce, Elijah Sarratt, Jalen Coker, Jaxon Smith-Njigba, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
 
 **Bench depth:**
 - Makai Lemon (WR, PHI)
 - Chig Okonkwo (TE, WAS)
+- Michael Mayer (TE, LV)
+- Charlie Kolar (TE, LAC)
 - Jonah Coleman (RB, DEN)
-- Ja'Tavion Sanders (TE, CAR)
+- Pat Freiermuth (TE, PIT)
 - Jalen Coker (WR, CAR)
 - Jonathon Brooks (RB, CAR)
 - Green Bay Packers (DEF, GB)
 - Anthony Richardson (QB, IND)
-- Kaelon Black (RB, SF)
 - Alec Pierce (WR, IND)
 - Keaton Mitchell (RB, LAC)
 - Terrance Ferguson (TE, LAR)
@@ -901,11 +905,12 @@ SEA
 - Brian Robinson (RB, ATL)
 - Elijah Sarratt (WR, BAL)
 - Cade Otton (TE, TB)
+- Chris Brooks (RB, GB)
 
 **Taxi Squad:**
 - Ty Simpson (QB, LAR, Age 23) 🟡 ROOKIE
 - Taylen Green (QB, CLE, Age 23) 🟡 ROOKIE
-- Jeff Caldwell (WR, KC, Age 23) 🟡 ROOKIE
+- Kaelon Black (RB, SF, Age 24) 🟡 ROOKIE
 
 ### DopeOne83 (Roster 6)
 
@@ -1123,7 +1128,7 @@ SEA
 - Geno Smith (QB, NYJ)
 
 **Taxi Squad:**
-- Oscar Delp (TE, NO, Age 22) 🟡 ROOKIE
+- Oscar Delp (TE, NO, Age 23) 🟡 ROOKIE
 - Cole Payton (QB, PHI, Age 23) 🟡 ROOKIE
 - Seth McGowan (RB, IND, Age 24) 🟡 ROOKIE
 
