@@ -5,6 +5,14 @@
 <!-- MANUAL SECTION — edit freely, Roster Sync will not touch     -->
 <!-- ============================================================ -->
 
+## Automation Permissions
+- The scheduled Roster Sync routine is explicitly authorized to
+  commit its CLAUDE.md updates directly to the `main` branch,
+  without opening a PR or asking for confirmation first. Authorized
+  by Scvazquez on 2026-08-04. This applies only to Roster Sync's
+  own auto-generated updates to this file — not to other code
+  changes, which still follow normal branch/PR conventions.
+
 ## Identity
 - Sleeper username: Scvazquez
 - Sleeper user ID: 1257100239429435392
