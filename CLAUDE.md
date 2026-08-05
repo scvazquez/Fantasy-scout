@@ -197,9 +197,8 @@ replacements mid-season.
 <!-- DO NOT EDIT BELOW THIS LINE                                  -->
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
-
 ## Roster State
-Last synced: 2026-08-04 12:49 PM UTC (auto sync)
+Last synced: 2026-08-05 12:48 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -235,6 +234,7 @@ Last synced: 2026-08-04 12:49 PM UTC (auto sync)
 4037
 4039
 4046
+4066
 4081
 4137
 4199
@@ -318,6 +318,7 @@ Last synced: 2026-08-04 12:49 PM UTC (auto sync)
 7591
 7594
 7600
+7608
 7611
 7640
 7648
@@ -331,7 +332,6 @@ Last synced: 2026-08-04 12:49 PM UTC (auto sync)
 8112
 8121
 8126
-8127
 8130
 8131
 8132
@@ -349,6 +349,7 @@ Last synced: 2026-08-04 12:49 PM UTC (auto sync)
 8155
 8161
 8167
+8172
 8180
 8183
 8188
@@ -411,6 +412,7 @@ Last synced: 2026-08-04 12:49 PM UTC (auto sync)
 10921
 10980
 11017
+11199
 11292
 11370
 11435
@@ -521,7 +523,6 @@ Last synced: 2026-08-04 12:49 PM UTC (auto sync)
 12574
 12578
 12597
-12641
 12713
 13268
 13269
@@ -637,26 +638,27 @@ SEA
 
 ### Bench
 
-- Will Anderson (DL, HOU, Age 24, 3 yr exp)
-- Tre' Harris (WR, LAC, Age 24, 1 yr exp)
 - Donovan Edwards (RB, MIA, Age 23, 1 yr exp)
+- Xavier McKinney (DB, GB, Age 27, 6 yr exp)
+- Jordan Addison (WR, MIN, Age 24, 3 yr exp)
+- Alvin Kamara (RB, NO, Age 31, 9 yr exp)
+- Malik Davis (RB, DAL, Age 27, 4 yr exp)
+- LeQuint Allen (RB, JAX, Age 22, 1 yr exp)
+- Zack Baun (LB, PHI, Age 29, 6 yr exp)
+- Mark Andrews (TE, BAL, Age 30, 8 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
 - Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
-- Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
-- LeQuint Allen (RB, JAX, Age 21, 1 yr exp)
-- Jack Strand (QB, ATL, Age 22, 0 yr exp) 🟡 ROOKIE
-- Alvin Kamara (RB, NO, Age 31, 9 yr exp)
-- Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
-- Mark Andrews (TE, BAL, Age 30, 8 yr exp)
-- Xavier McKinney (DB, GB, Age 27, 6 yr exp)
-- Zack Baun (LB, PHI, Age 29, 6 yr exp)
+- Will Anderson (DL, HOU, Age 24, 3 yr exp)
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
-- Malik Davis (RB, DAL, Age 27, 4 yr exp)
-- Jordan Addison (WR, MIN, Age 24, 3 yr exp)
+- Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
+- Tre' Harris (WR, LAC, Age 24, 1 yr exp)
+- Khalil Herbert (RB, SF, Age 28, 5 yr exp)
+- Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
 
 ### Taxi Squad
 
 - Cyrus Allen (WR, KC, Age 23) 🟡 ROOKIE
+- Jack Strand (QB, ATL, Age 22) 🟡 ROOKIE
 
 ## All Opponent Rosters
 
@@ -684,21 +686,22 @@ SEA
 
 **Positional Surplus (3+ players at same position):**
 - QB (3): Joe Burrow, Jordan Love, Shedeur Sanders
-- RB (8): Bucky Irving, J'Mari Taylor, Jahmyr Gibbs, Jaydon Blue, Kalel Mullings, Ollie Gordon, Robert Henry, TreVeyon Henderson
-- TE (3): AJ Barner, George Kittle, Jake Tonges
-- WR (16): Chris Brazzell, DJ Moore, DeVonta Smith, Isaac TeSlaa, Jayden Reed, Jaylin Lane, Keon Coleman, Malik Benson, Michael Wilson, Puka Nacua, Savion Williams, Skyler Bell, Ted Hurst, Tory Horton, Tyreek Hill, Zavion Thomas
+- RB (9): Bucky Irving, Emari Demercado, J'Mari Taylor, Jahmyr Gibbs, Jaydon Blue, Kalel Mullings, Ollie Gordon, Robert Henry, TreVeyon Henderson
+- TE (4): AJ Barner, Evan Engram, George Kittle, Jake Tonges
+- WR (15): Chris Brazzell, DJ Moore, DeVonta Smith, Isaac TeSlaa, Jayden Reed, Keon Coleman, Malik Benson, Michael Wilson, Puka Nacua, Savion Williams, Skyler Bell, Ted Hurst, Tory Horton, Tyreek Hill, Zavion Thomas
 
 **Bench depth:**
 - Malik Benson (WR, LV)
 - Skyler Bell (WR, BUF)
 - Kalel Mullings (RB, TEN)
 - Keon Coleman (WR, BUF)
+- Emari Demercado (RB, KC)
 - AJ Barner (TE, SEA)
 - Zavion Thomas (WR, CHI)
 - Tory Horton (WR, SEA)
 - Jaydon Blue (RB, DAL)
 - Ollie Gordon (RB, MIA)
-- Jaylin Lane (WR, WAS)
+- Evan Engram (TE, DEN)
 - Chris Brazzell (WR, CAR)
 - Savion Williams (WR, GB)
 - Tyreek Hill (WR, FA)
@@ -892,15 +895,15 @@ SEA
 **Positional Surplus (3+ players at same position):**
 - QB (5): Anthony Richardson, Dak Prescott, Lamar Jackson, Taylen Green, Ty Simpson
 - RB (9): Brian Robinson, Chris Brooks, Chuba Hubbard, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
-- TE (7): Cade Otton, Charlie Kolar, Chig Okonkwo, Dalton Schultz, Michael Mayer, Pat Freiermuth, Terrance Ferguson
+- TE (7): Cade Otton, Chig Okonkwo, Dalton Schultz, Greg Dulcich, Michael Mayer, Pat Freiermuth, Terrance Ferguson
 - WR (8): Alec Pierce, Elijah Sarratt, Jalen Coker, Jaxon Smith-Njigba, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
 
 **Bench depth:**
 - Makai Lemon (WR, PHI)
 - Chig Okonkwo (TE, WAS)
 - Michael Mayer (TE, LV)
-- Charlie Kolar (TE, LAC)
 - Jonah Coleman (RB, DEN)
+- Greg Dulcich (TE, MIA)
 - Pat Freiermuth (TE, PIT)
 - Jalen Coker (WR, CAR)
 - Jonathon Brooks (RB, CAR)
