@@ -202,7 +202,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-08-05 02:12 PM UTC (auto sync)
+Last synced: 2026-08-06 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -414,6 +414,7 @@ Last synced: 2026-08-05 02:12 PM UTC (auto sync)
 10892
 10905
 10921
+10949
 10980
 11017
 11199
@@ -502,7 +503,6 @@ Last synced: 2026-08-05 02:12 PM UTC (auto sync)
 12512
 12514
 12515
-12516
 12517
 12518
 12519
@@ -682,6 +682,7 @@ SEA
 - Los Angeles Rams (DEF, LAR)
 - Nakobe Dean (LB, LV)
 - Devin Lloyd (LB, CAR)
+- Chamarri Conner (DB, KC)
 
 **QB Room (3 QBs):**
 - Joe Burrow (CIN)
@@ -690,14 +691,13 @@ SEA
 
 **Positional Surplus (3+ players at same position):**
 - QB (3): Joe Burrow, Jordan Love, Shedeur Sanders
-- RB (9): Bucky Irving, Emari Demercado, J'Mari Taylor, Jahmyr Gibbs, Jaydon Blue, Kalel Mullings, Ollie Gordon, Robert Henry, TreVeyon Henderson
+- RB (8): Bucky Irving, Emari Demercado, J'Mari Taylor, Jahmyr Gibbs, Jaydon Blue, Ollie Gordon, Robert Henry, TreVeyon Henderson
 - TE (4): AJ Barner, Evan Engram, George Kittle, Jake Tonges
 - WR (15): Chris Brazzell, DJ Moore, DeVonta Smith, Isaac TeSlaa, Jayden Reed, Keon Coleman, Malik Benson, Michael Wilson, Puka Nacua, Savion Williams, Skyler Bell, Ted Hurst, Tory Horton, Tyreek Hill, Zavion Thomas
 
 **Bench depth:**
 - Malik Benson (WR, LV)
 - Skyler Bell (WR, BUF)
-- Kalel Mullings (RB, TEN)
 - Keon Coleman (WR, BUF)
 - Emari Demercado (RB, KC)
 - AJ Barner (TE, SEA)
@@ -773,8 +773,8 @@ SEA
 
 **Taxi Squad:**
 - Carson Beck (QB, ARI, Age 23) 🟡 ROOKIE
-- Eli Raridon (TE, NE, Age 22) 🟡 ROOKIE
 - Eli Stowers (TE, PHI, Age 23) 🟡 ROOKIE
+- Eli Raridon (TE, NE, Age 22) 🟡 ROOKIE
 
 ### WOODYWOOD1978 (Roster 3)
 
@@ -866,8 +866,8 @@ SEA
 - Marvin Mims (WR, DEN)
 
 **Taxi Squad:**
-- Will Kacmarek (TE, MIA, Age 23) 🟡 ROOKIE
 - Demond Claiborne (RB, MIN, Age 22) 🟡 ROOKIE
+- Will Kacmarek (TE, MIA, Age 23) 🟡 ROOKIE
 - Colbie Young (WR, CIN, Age 24) 🟡 ROOKIE
 
 ### Larz1111 (Roster 5)
@@ -923,8 +923,8 @@ SEA
 - Chris Brooks (RB, GB)
 
 **Taxi Squad:**
-- Taylen Green (QB, CLE, Age 23) 🟡 ROOKIE
 - Ty Simpson (QB, LAR, Age 23) 🟡 ROOKIE
+- Taylen Green (QB, CLE, Age 23) 🟡 ROOKIE
 - Kaelon Black (RB, SF, Age 24) 🟡 ROOKIE
 
 ### DopeOne83 (Roster 6)
@@ -965,7 +965,7 @@ SEA
 - Payton Wilson (LB, PIT)
 - Josh Downs (WR, IND)
 - Robert Spillane (LB, NE)
-- Stefon Diggs (WR, FA)
+- Stefon Diggs (WR, WAS)
 - Dee Winters (LB, DAL)
 - Jaquan Brisker (DB, PIT)
 - Tyrel Dodson (LB, MIA)
@@ -1143,9 +1143,9 @@ SEA
 - Geno Smith (QB, NYJ)
 
 **Taxi Squad:**
-- Seth McGowan (RB, IND, Age 24) 🟡 ROOKIE
-- Cole Payton (QB, PHI, Age 23) 🟡 ROOKIE
 - Oscar Delp (TE, NO, Age 23) 🟡 ROOKIE
+- Cole Payton (QB, PHI, Age 23) 🟡 ROOKIE
+- Seth McGowan (RB, IND, Age 24) 🟡 ROOKIE
 
 ### nicoyepes (Roster 11)
 
@@ -1253,8 +1253,8 @@ SEA
 - Justice Hill (RB, BAL)
 
 **Taxi Squad:**
-- Eli Heidenreich (RB, PIT, Age 23) 🟡 ROOKIE
-- Michael Trigg (TE, DAL, Age 24) 🟡 ROOKIE
 - Adam Randall (RB, BAL, Age 22) 🟡 ROOKIE
+- Michael Trigg (TE, DAL, Age 24) 🟡 ROOKIE
+- Eli Heidenreich (RB, PIT, Age 23) 🟡 ROOKIE
 
 <!-- END_AUTO_GENERATED -->
