@@ -6,12 +6,18 @@
 <!-- ============================================================ -->
 
 ## Automation Permissions
+- Scope: this exception applies only within the Fantasy-scout
+  repository. It does not extend to any other project or repo —
+  the standard "develop on the assigned branch, never push
+  elsewhere without explicit permission" guard rail stays in
+  force everywhere else.
 - The scheduled Roster Sync routine is explicitly authorized to
   commit its CLAUDE.md updates directly to the `main` branch,
   without opening a PR or asking for confirmation first. Authorized
-  by Scvazquez on 2026-08-04. This applies only to Roster Sync's
-  own auto-generated updates to this file — not to other code
-  changes, which still follow normal branch/PR conventions.
+  by Scvazquez on 2026-08-04, reaffirmed live 2026-08-08. This
+  applies only to Roster Sync's own auto-generated updates to this
+  file — not to other code changes in this repo, which still
+  follow normal branch/PR conventions.
 
 ## Identity
 - Sleeper username: Scvazquez
