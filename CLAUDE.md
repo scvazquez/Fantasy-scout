@@ -12,12 +12,21 @@
   elsewhere without explicit permission" guard rail stays in
   force everywhere else.
 - The scheduled Roster Sync routine is explicitly authorized to
-  commit its CLAUDE.md updates directly to the `main` branch,
-  without opening a PR or asking for confirmation first. Authorized
-  by Scvazquez on 2026-08-04, reaffirmed live 2026-08-08. This
-  applies only to Roster Sync's own auto-generated updates to this
-  file — not to other code changes in this repo, which still
-  follow normal branch/PR conventions.
+  commit directly to the `main` branch, without opening a PR or
+  asking for confirmation first — push-then-review, not
+  review-then-push. This applies ONLY to changes strictly inside
+  the `<!-- BEGIN_AUTO_GENERATED -->` / `<!-- END_AUTO_GENERATED -->`
+  markers in this file. It never covers edits to this MANUAL
+  section, to any other file, or to any other automation in this
+  repo — those still follow normal branch/PR conventions and still
+  require confirmation.
+- Authorization history: granted by Scvazquez 2026-08-04; reaffirmed
+  live in an interactive chat session on 2026-08-09 (the session
+  that produced the 2026-08-09 12:47 PM UTC roster sync commit),
+  after the routine held off on a direct-to-main push pending
+  exactly this kind of live confirmation. Future re-affirmations
+  should be added as new dated lines here, not by editing this
+  line in place, so the history stays auditable.
 
 ## Identity
 - Sleeper username: Scvazquez
