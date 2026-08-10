@@ -217,7 +217,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-08-09 12:47 PM UTC (auto sync)
+Last synced: 2026-08-10 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -433,7 +433,6 @@ Last synced: 2026-08-09 12:47 PM UTC (auto sync)
 11017
 11199
 11292
-11370
 11435
 11533
 11539
@@ -602,6 +601,7 @@ Last synced: 2026-08-09 12:47 PM UTC (auto sync)
 13403
 13404
 13405
+13408
 13411
 13413
 13414
@@ -621,7 +621,6 @@ BAL
 CLE
 DEN
 DET
-GB
 HOU
 JAX
 LAC
@@ -916,8 +915,8 @@ SEA
 
 **Positional Surplus (3+ players at same position):**
 - QB (6): Anthony Richardson, Dak Prescott, Haynes King, Lamar Jackson, Taylen Green, Ty Simpson
-- RB (9): Brian Robinson, Chris Brooks, Chuba Hubbard, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
-- TE (6): Cade Otton, Chig Okonkwo, Dalton Schultz, Greg Dulcich, Pat Freiermuth, Terrance Ferguson
+- RB (8): Brian Robinson, Chuba Hubbard, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
+- TE (7): Cade Otton, Chig Okonkwo, Dalton Schultz, Greg Dulcich, Pat Freiermuth, Tanner Koziol, Terrance Ferguson
 - WR (8): Alec Pierce, Elijah Sarratt, Jalen Coker, Jaxon Smith-Njigba, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
 
 **Bench depth:**
@@ -925,10 +924,10 @@ SEA
 - Chig Okonkwo (TE, WAS)
 - Jonah Coleman (RB, DEN)
 - Greg Dulcich (TE, MIA)
+- Tanner Koziol (TE, JAX)
 - Pat Freiermuth (TE, PIT)
 - Jalen Coker (WR, CAR)
 - Jonathon Brooks (RB, CAR)
-- Green Bay Packers (DEF, GB)
 - Anthony Richardson (QB, IND)
 - Alec Pierce (WR, IND)
 - Haynes King (QB, CAR)
@@ -938,7 +937,6 @@ SEA
 - Brian Robinson (RB, ATL)
 - Elijah Sarratt (WR, BAL)
 - Cade Otton (TE, TB)
-- Chris Brooks (RB, GB)
 
 **Taxi Squad:**
 - Ty Simpson (QB, LAR, Age 23) 🟡 ROOKIE
