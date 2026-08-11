@@ -217,7 +217,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-08-09 12:47 PM UTC (auto sync)
+Last synced: 2026-08-11 (auto sync)
 
 ## Ownership Index
 ```
@@ -349,6 +349,7 @@ Last synced: 2026-08-09 12:47 PM UTC (auto sync)
 8110
 8111
 8112
+8119
 8121
 8126
 8130
@@ -433,7 +434,6 @@ Last synced: 2026-08-09 12:47 PM UTC (auto sync)
 11017
 11199
 11292
-11370
 11435
 11533
 11539
@@ -489,7 +489,6 @@ Last synced: 2026-08-09 12:47 PM UTC (auto sync)
 12469
 12471
 12474
-12476
 12481
 12482
 12483
@@ -542,6 +541,7 @@ Last synced: 2026-08-09 12:47 PM UTC (auto sync)
 12578
 12597
 12713
+13150
 13268
 13269
 13270
@@ -602,10 +602,10 @@ Last synced: 2026-08-09 12:47 PM UTC (auto sync)
 13403
 13404
 13405
+13408
 13411
 13413
 13414
-13415
 13417
 13418
 13420
@@ -621,9 +621,9 @@ BAL
 CLE
 DEN
 DET
-GB
 HOU
 JAX
+KC
 LAC
 LAR
 MIN
@@ -803,7 +803,7 @@ SEA
 - Brock Bowers (TE, LV)
 - Kyle Monangai (RB, CHI)
 - Brian Thomas (WR, JAX)
-- Ricky Pearsall (WR, SF)
+- Travis Kelce (TE, KC)
 - Andy Borregales (K, NE)
 - New Orleans Saints (DEF, NO)
 - Jordyn Brooks (LB, MIA)
@@ -818,15 +818,16 @@ SEA
 **Positional Surplus (3+ players at same position):**
 - LB (4): Jihaad Campbell, Jordyn Brooks, Sonny Styles, Zaire Franklin
 - RB (5): Bhayshul Tuten, James Cook, Kyle Monangai, Tyjae Spears, Woody Marks
-- WR (9): Antonio Williams, Brian Thomas, Carnell Tate, Ja'Kobi Lane, Kayshon Boutte, Matthew Golden, Quentin Johnston, Ricky Pearsall, Rome Odunze
+- WR (10): Antonio Williams, Brian Thomas, Carnell Tate, Darius Cooper, Ja'Kobi Lane, Kayshon Boutte, Matthew Golden, Quentin Johnston, Ricky Pearsall, Rome Odunze
 
 **Bench depth:**
+- Ricky Pearsall (WR, SF)
 - Woody Marks (RB, HOU)
 - Matthew Golden (WR, GB)
 - Jihaad Campbell (LB, PHI)
+- Darius Cooper (WR, PHI)
 - Ja'Kobi Lane (WR, BAL)
 - Antonio Williams (WR, WAS)
-- Travis Kelce (TE, KC)
 - Jared Goff (QB, DET)
 - Zaire Franklin (LB, GB)
 - Kayvon Thibodeaux (DL, NYG)
@@ -894,10 +895,10 @@ SEA
 - Omarion Hampton (RB, LAC)
 - Javonte Williams (RB, DAL)
 - Jaxon Smith-Njigba (WR, SEA)
-- Wan'Dale Robinson (WR, TEN)
+- Rashee Rice (WR, KC)
 - Dalton Schultz (TE, HOU)
 - Chuba Hubbard (RB, CAR)
-- Rashee Rice (WR, KC)
+- Jalen Coker (WR, CAR)
 - Parker Washington (WR, JAX)
 - Cameron Dicker (K, LAC)
 - Jacksonville Jaguars (DEF, JAX)
@@ -906,39 +907,37 @@ SEA
 - Tykee Smith (DB, TB)
 - Cooper DeJean (DB, PHI)
 
-**QB Room (6 QBs):**
+**QB Room (5 QBs):**
 - Taylen Green (CLE)
 - Ty Simpson (LAR)
 - Anthony Richardson (IND)
-- Haynes King (CAR)
 - Lamar Jackson (BAL)
 - Dak Prescott (DAL)
 
 **Positional Surplus (3+ players at same position):**
-- QB (6): Anthony Richardson, Dak Prescott, Haynes King, Lamar Jackson, Taylen Green, Ty Simpson
-- RB (9): Brian Robinson, Chris Brooks, Chuba Hubbard, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
-- TE (6): Cade Otton, Chig Okonkwo, Dalton Schultz, Greg Dulcich, Pat Freiermuth, Terrance Ferguson
-- WR (8): Alec Pierce, Elijah Sarratt, Jalen Coker, Jaxon Smith-Njigba, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
+- QB (5): Anthony Richardson, Dak Prescott, Lamar Jackson, Taylen Green, Ty Simpson
+- RB (8): Brian Robinson, Chuba Hubbard, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
+- TE (7): Cade Otton, Chig Okonkwo, Dalton Schultz, Greg Dulcich, Pat Freiermuth, Tanner Koziol, Terrance Ferguson
+- WR (9): Alec Pierce, Elijah Sarratt, Jahan Dotson, Jalen Coker, Jaxon Smith-Njigba, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
 
 **Bench depth:**
 - Makai Lemon (WR, PHI)
 - Chig Okonkwo (TE, WAS)
 - Jonah Coleman (RB, DEN)
+- Wan'Dale Robinson (WR, TEN)
 - Greg Dulcich (TE, MIA)
+- Tanner Koziol (TE, JAX)
 - Pat Freiermuth (TE, PIT)
-- Jalen Coker (WR, CAR)
 - Jonathon Brooks (RB, CAR)
-- Green Bay Packers (DEF, GB)
 - Anthony Richardson (QB, IND)
 - Alec Pierce (WR, IND)
-- Haynes King (QB, CAR)
 - Keaton Mitchell (RB, LAC)
 - Terrance Ferguson (TE, LAR)
 - Lamar Jackson (QB, BAL)
 - Brian Robinson (RB, ATL)
 - Elijah Sarratt (WR, BAL)
 - Cade Otton (TE, TB)
-- Chris Brooks (RB, GB)
+- Jahan Dotson (WR, ATL)
 
 **Taxi Squad:**
 - Ty Simpson (QB, LAR, Age 23) 🟡 ROOKIE
@@ -1063,6 +1062,7 @@ SEA
 - Quinshon Judkins (RB, CLE)
 - Sam LaPorta (TE, DET)
 - Harrison Butker (K, KC)
+- Kansas City Chiefs (DEF, KC)
 - Devin Bush (LB, CHI)
 - SirVocea Dennis (LB, TB)
 - Malaki Starks (DB, BAL)
@@ -1079,7 +1079,7 @@ SEA
 
 **Positional Surplus (3+ players at same position):**
 - QB (7): Aaron Rodgers, Bo Nix, Bryce Young, C.J. Stroud, Daniel Jones, Kirk Cousins, Patrick Mahomes
-- RB (7): Aaron Jones, Breece Hall, Devin Neal, Isiah Pacheco, Kyren Williams, Mike Washington, Quinshon Judkins
+- RB (6): Aaron Jones, Breece Hall, Isiah Pacheco, Kyren Williams, Mike Washington, Quinshon Judkins
 - TE (5): Brenton Strange, Harold Fannin, Jake Ferguson, Mason Taylor, Sam LaPorta
 - WR (9): Chris Olave, Deebo Samuel, Elic Ayomanor, Garrett Wilson, Jalen Nailor, Jerry Jeudy, Tank Dell, Xavier Worthy, Zachariah Branch
 
@@ -1091,7 +1091,6 @@ SEA
 - Bo Nix (QB, DEN)
 - Elic Ayomanor (WR, TEN)
 - Xavier Worthy (WR, KC)
-- Devin Neal (RB, NO)
 - Bryce Young (QB, CAR)
 - Deebo Samuel (WR, SF)
 - Aaron Rodgers (QB, PIT)
