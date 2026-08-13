@@ -217,7 +217,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-08-12 12:52 PM UTC (auto sync)
+Last synced: 2026-08-13 (auto sync)
 
 ## Ownership Index
 ```
@@ -844,7 +844,7 @@ SEA
 - KC Concepcion (WR, CLE)
 - Omar Cooper (WR, NYJ)
 - Kenyon Sadiq (TE, NYJ)
-- Denzel Boston (WR, CLE)
+- Dylan Sampson (RB, CLE)
 - Tre Tucker (WR, LV)
 - Oronde Gadsden (TE, LAC)
 
@@ -862,6 +862,7 @@ SEA
 
 **Bench depth:**
 - Sam Roush (TE, CHI)
+- Denzel Boston (WR, CLE)
 - Germie Bernard (WR, PIT)
 - Adonai Mitchell (WR, NYJ)
 - Keon Coleman (WR, BUF)
@@ -869,7 +870,6 @@ SEA
 - Joe Mixon (RB, FA)
 - Tank Bigsby (RB, PHI)
 - Rashod Bateman (WR, BAL)
-- Dylan Sampson (RB, CLE)
 - Kaytron Allen (RB, WAS)
 - Fernando Mendoza (QB, LV)
 - Jack Bech (WR, LV)
