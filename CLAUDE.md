@@ -215,8 +215,9 @@ replacements mid-season.
 <!-- DO NOT EDIT BELOW THIS LINE                                  -->
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
+
 ## Roster State
-Last synced: 2026-08-14 (auto sync)
+Last synced: 2026-08-15 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -711,7 +712,6 @@ SEA
 
 **Bench depth:**
 - Jalen Brooks (WR, ARI)
-- Malik Benson (WR, LV)
 - Skyler Bell (WR, BUF)
 - Emari Demercado (RB, KC)
 - AJ Barner (TE, SEA)
@@ -727,12 +727,13 @@ SEA
 - Jordan Love (QB, GB)
 - Isaac TeSlaa (WR, DET)
 - Jayden Reed (WR, GB)
+- Robert Henry (RB, WAS)
 - Jake Tonges (TE, SF)
 
 **Taxi Squad:**
 - Ted Hurst (WR, TB, Age 22) 🟡 ROOKIE
+- Malik Benson (WR, LV, Age 23) 🟡 ROOKIE
 - J'Mari Taylor (RB, JAX, Age 24) 🟡 ROOKIE
-- Robert Henry (RB, WAS, Age 24) 🟡 ROOKIE
 
 ### JQuinna10 (Roster 2)
 
