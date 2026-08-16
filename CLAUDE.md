@@ -217,7 +217,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-08-15 12:47 PM UTC (auto sync)
+Last synced: 2026-08-16 12:48 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -367,7 +367,6 @@ Last synced: 2026-08-15 12:47 PM UTC (auto sync)
 8155
 8161
 8167
-8172
 8180
 8183
 8188
@@ -396,6 +395,7 @@ Last synced: 2026-08-15 12:47 PM UTC (auto sync)
 9229
 9479
 9480
+9482
 9484
 9486
 9487
@@ -689,7 +689,6 @@ SEA
 - TreVeyon Henderson (RB, NE)
 - Puka Nacua (WR, LAR)
 - DeVonta Smith (WR, PHI)
-- George Kittle (TE, SF)
 - Bucky Irving (RB, TB)
 - DJ Moore (WR, BUF)
 - Michael Wilson (WR, ARI)
@@ -718,6 +717,7 @@ SEA
 - Zavion Thomas (WR, CHI)
 - Tory Horton (WR, SEA)
 - Barion Brown (WR, NO)
+- George Kittle (TE, SF)
 - Jaydon Blue (RB, DAL)
 - Ollie Gordon (RB, MIA)
 - Chris Brazzell (WR, CAR)
@@ -916,15 +916,15 @@ SEA
 **Positional Surplus (3+ players at same position):**
 - QB (5): Anthony Richardson, Dak Prescott, Lamar Jackson, Taylen Green, Ty Simpson
 - RB (8): Brian Robinson, Chuba Hubbard, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
-- TE (7): Cade Otton, Chig Okonkwo, Dalton Schultz, Greg Dulcich, Pat Freiermuth, Tanner Koziol, Terrance Ferguson
+- TE (7): Cade Otton, Chig Okonkwo, Dalton Schultz, Michael Mayer, Pat Freiermuth, Tanner Koziol, Terrance Ferguson
 - WR (9): Alec Pierce, Elijah Sarratt, Jahan Dotson, Jalen Coker, Jaxon Smith-Njigba, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
 
 **Bench depth:**
 - Makai Lemon (WR, PHI)
 - Dalton Schultz (TE, HOU)
+- Michael Mayer (TE, LV)
 - Jonah Coleman (RB, DEN)
 - Wan'Dale Robinson (WR, TEN)
-- Greg Dulcich (TE, MIA)
 - Tanner Koziol (TE, JAX)
 - Pat Freiermuth (TE, PIT)
 - Jonathon Brooks (RB, CAR)
