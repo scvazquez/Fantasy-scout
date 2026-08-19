@@ -215,8 +215,9 @@ replacements mid-season.
 <!-- DO NOT EDIT BELOW THIS LINE                                  -->
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
+
 ## Roster State
-Last synced: 2026-08-18 12:47 PM UTC (auto sync)
+Last synced: 2026-08-19 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -323,6 +324,7 @@ Last synced: 2026-08-18 12:47 PM UTC (auto sync)
 7525
 7526
 7527
+7528
 7543
 7547
 7553
@@ -510,7 +512,6 @@ Last synced: 2026-08-18 12:47 PM UTC (auto sync)
 12507
 12508
 12509
-12510
 12511
 12512
 12514
@@ -671,7 +672,7 @@ SEA
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
 - Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
 - Tre' Harris (WR, LAC, Age 24, 1 yr exp)
-- Khalil Herbert (RB, SF, Age 28, 5 yr exp)
+- Khalil Herbert (RB, FA, Age 28, 5 yr exp)
 - Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
 
 ### Taxi Squad
@@ -1236,16 +1237,15 @@ SEA
 - Fred Warner (LB, SF)
 - Budda Baker (DB, ARI)
 
-**QB Room (5 QBs):**
+**QB Room (4 QBs):**
 - Mac Jones (SF)
-- Jalen Milroe (SEA)
 - Brock Purdy (SF)
 - J.J. McCarthy (MIN)
 - Baker Mayfield (TB)
 
 **Positional Surplus (3+ players at same position):**
-- QB (5): Baker Mayfield, Brock Purdy, J.J. McCarthy, Jalen Milroe, Mac Jones
-- RB (9): Adam Randall, Derrick Henry, Devin Neal, Eli Heidenreich, George Holani, Isaiah Davis, Justice Hill, Kimani Vidal, Rachaad White
+- QB (4): Baker Mayfield, Brock Purdy, J.J. McCarthy, Mac Jones
+- RB (10): Adam Randall, Derrick Henry, Devin Neal, Eli Heidenreich, George Holani, Isaiah Davis, Justice Hill, Kimani Vidal, Najee Harris, Rachaad White
 - TE (4): Colby Parkinson, Dalton Kincaid, Isaiah Likely, Michael Trigg
 - WR (11): Chimere Dike, Cooper Kupp, Darnell Mooney, De'Zhaun Stribling, Emeka Egbuka, Jakobi Meyers, Jauan Jennings, Mike Evans, Odell Beckham, Roman Wilson, Zay Flowers
 
@@ -1253,7 +1253,7 @@ SEA
 - Colby Parkinson (TE, LAR)
 - Minnesota Vikings (DEF, MIN)
 - Mac Jones (QB, SF)
-- Jalen Milroe (QB, SEA)
+- Najee Harris (RB, NYG)
 - Odell Beckham (WR, NYG)
 - Brock Purdy (QB, SF)
 - Darnell Mooney (WR, NYG)
