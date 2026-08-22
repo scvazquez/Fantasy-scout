@@ -217,7 +217,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-08-20 05:47 AM PT (auto sync)
+Last synced: 2026-08-22 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -238,6 +238,7 @@ Last synced: 2026-08-20 05:47 AM PT (auto sync)
 2133
 2216
 2449
+2505
 2747
 3163
 3198
@@ -336,7 +337,6 @@ Last synced: 2026-08-20 05:47 AM PT (auto sync)
 7591
 7594
 7600
-7608
 7611
 7640
 7648
@@ -613,6 +613,7 @@ Last synced: 2026-08-20 05:47 AM PT (auto sync)
 13434
 13477
 13533
+13541
 13602
 13662
 13726
@@ -641,17 +642,17 @@ SEA
 | Slot | Player | Pos | Team | Age |
 |------|--------|-----|------|-----|
 | QB | Jayden Daniels | QB | WAS | 25 |
-| RB | Saquon Barkley | RB | PHI | 29 |
+| RB | Rico Dowdle | RB | PIT | 28 |
 | RB | David Montgomery | RB | HOU | 29 |
-| WR | CeeDee Lamb | WR | DAL | 27 |
+| WR | Ladd McConkey | WR | LAC | 24 |
 | WR | Justin Jefferson | WR | MIN | 27 |
 | TE | Kyle Pitts | TE | ATL | 25 |
-| FLEX | Ladd McConkey | WR | LAC | 24 |
+| FLEX | Saquon Barkley | RB | PHI | 29 |
 | FLEX | Terry McLaurin | WR | WAS | 30 |
-| FLEX | Rico Dowdle | RB | PIT | 28 |
+| FLEX | CeeDee Lamb | WR | DAL | 27 |
 | K | Will Reichard | K | MIN | 25 |
-| DEF | Detroit Lions | DEF | DET | ? |
-| LB | Edgerrin Cooper | LB | GB | 24 |
+| DEF | Detroit Lions | DEF | DET | None |
+| LB | Zack Baun | LB | PHI | 29 |
 | LB | Quay Walker | LB | LV | 26 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
 | DB | Derwin James | DB | LAC | 30 |
@@ -661,10 +662,11 @@ SEA
 - Donovan Edwards (RB, MIA, Age 23, 1 yr exp)
 - Xavier McKinney (DB, GB, Age 28, 6 yr exp)
 - Jordan Addison (WR, MIN, Age 24, 3 yr exp)
+- Darren Waller (TE, CAR, Age 33, 11 yr exp)
+- Edgerrin Cooper (LB, GB, Age 24, 2 yr exp)
 - Alvin Kamara (RB, NO, Age 31, 9 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
 - LeQuint Allen (RB, JAX, Age 22, 1 yr exp)
-- Zack Baun (LB, PHI, Age 29, 6 yr exp)
 - Mark Andrews (TE, BAL, Age 30, 8 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
 - Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
@@ -672,7 +674,6 @@ SEA
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
 - Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
 - Tre' Harris (WR, LAC, Age 24, 1 yr exp)
-- Khalil Herbert (RB, FA, Age 28, 5 yr exp)
 - Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
 
 ### Taxi Squad
@@ -817,7 +818,7 @@ SEA
 - LB (3): Jordyn Brooks, Sonny Styles, Zaire Franklin
 - RB (5): Bhayshul Tuten, James Cook, Kyle Monangai, Tyjae Spears, Woody Marks
 - TE (3): Brock Bowers, Charlie Kolar, Travis Kelce
-- WR (13): Antonio Williams, Brian Thomas, Camden Brown, Carnell Tate, Darius Cooper, Devaughn Vele, Isaiah Williams, Ja'Kobi Lane, Kayshon Boutte, Matthew Golden, Quentin Johnston, Ricky Pearsall, Rome Odunze
+- WR (14): Antonio Williams, Brian Thomas, Camden Brown, Carnell Tate, Darius Cooper, Devaughn Vele, Isaiah Williams, Ja'Kobi Lane, Kayshon Boutte, Lewis Bond, Matthew Golden, Quentin Johnston, Ricky Pearsall, Rome Odunze
 
 **Bench depth:**
 - Isaiah Williams (WR, NYJ)
@@ -828,6 +829,7 @@ SEA
 - Darius Cooper (WR, PHI)
 - Ja'Kobi Lane (WR, BAL)
 - Antonio Williams (WR, WAS)
+- Lewis Bond (WR, HOU)
 - Camden Brown (WR, DAL)
 - Jared Goff (QB, DET)
 - Zaire Franklin (LB, GB)
