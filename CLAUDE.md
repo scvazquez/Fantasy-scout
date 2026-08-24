@@ -215,9 +215,8 @@ replacements mid-season.
 <!-- DO NOT EDIT BELOW THIS LINE                                  -->
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
-
 ## Roster State
-Last synced: 2026-08-22 12:47 PM UTC (auto sync)
+Last synced: 2026-08-24 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -538,7 +537,7 @@ Last synced: 2026-08-22 12:47 PM UTC (auto sync)
 12567
 12578
 12597
-12713
+12711
 13150
 13268
 13269
@@ -800,12 +799,12 @@ SEA
 - Carnell Tate (WR, TEN)
 - Rome Odunze (WR, CHI)
 - Brock Bowers (TE, LV)
-- Kyle Monangai (RB, CHI)
+- Quentin Johnston (WR, LAC)
 - Brian Thomas (WR, JAX)
 - Travis Kelce (TE, KC)
-- Andy Borregales (K, NE)
+- Tyler Loop (K, BAL)
 - Green Bay Packers (DEF, GB)
-- Jordyn Brooks (LB, MIA)
+- Zaire Franklin (LB, GB)
 - Sonny Styles (LB, WAS)
 - Nick Cross (DB, WAS)
 - Dillon Thieneman (DB, CHI)
@@ -826,17 +825,17 @@ SEA
 - Devaughn Vele (WR, NO)
 - Woody Marks (RB, HOU)
 - Matthew Golden (WR, GB)
+- Kyle Monangai (RB, CHI)
 - Darius Cooper (WR, PHI)
 - Ja'Kobi Lane (WR, BAL)
 - Antonio Williams (WR, WAS)
 - Lewis Bond (WR, HOU)
 - Camden Brown (WR, DAL)
 - Jared Goff (QB, DET)
-- Zaire Franklin (LB, GB)
+- Jordyn Brooks (LB, MIA)
 - Charlie Kolar (TE, LAC)
 - Kayshon Boutte (WR, NE)
 - Tyjae Spears (RB, TEN)
-- Quentin Johnston (WR, LAC)
 
 ### Bombas (Roster 4)
 
