@@ -217,7 +217,7 @@ replacements mid-season.
 <!-- BEGIN_AUTO_GENERATED -->
 
 ## Roster State
-Last synced: 2026-08-27 12:54 PM UTC (auto sync)
+Last synced: 2026-08-28 12:50 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -257,6 +257,7 @@ Last synced: 2026-08-27 12:54 PM UTC (auto sync)
 4046
 4081
 4137
+4144
 4199
 4217
 4227
@@ -451,7 +452,6 @@ Last synced: 2026-08-27 12:54 PM UTC (auto sync)
 11584
 11586
 11589
-11592
 11597
 11603
 11604
@@ -565,7 +565,6 @@ Last synced: 2026-08-27 12:54 PM UTC (auto sync)
 13303
 13305
 13306
-13307
 13311
 13317
 13319
@@ -659,22 +658,22 @@ SEA
 
 ### Bench
 
-- Xavier McKinney (DB, GB, Age 28, 6 yr exp)
-- Will Anderson (DL, HOU, Age 24, 3 yr exp)
-- Edgerrin Cooper (LB, GB, Age 24, 2 yr exp)
-- Justin Fields (QB, KC, Age 27, 5 yr exp)
-- Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
-- Alvin Kamara (RB, NO, Age 31, 9 yr exp)
 - Donovan Edwards (RB, MIA, Age 23, 1 yr exp)
-- LeQuint Allen (RB, JAX, Age 22, 1 yr exp)
-- Malik Davis (RB, DAL, Age 27, 4 yr exp)
-- Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
-- Darren Waller (TE, CAR, Age 33, 11 yr exp)
-- Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
-- Mark Andrews (TE, BAL, Age 30, 8 yr exp)
-- Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
+- Xavier McKinney (DB, GB, Age 28, 6 yr exp)
 - Jordan Addison (WR, MIN, Age 24, 3 yr exp)
+- Darren Waller (TE, CAR, Age 33, 11 yr exp)
+- Edgerrin Cooper (LB, GB, Age 24, 2 yr exp)
+- Alvin Kamara (RB, NO, Age 31, 9 yr exp)
+- Malik Davis (RB, DAL, Age 27, 4 yr exp)
+- LeQuint Allen (RB, JAX, Age 22, 1 yr exp)
+- Mark Andrews (TE, BAL, Age 30, 8 yr exp)
+- Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
+- Jaylin Noel (WR, HOU, Age 23, 1 yr exp)
+- Will Anderson (DL, HOU, Age 24, 3 yr exp)
+- Justin Fields (QB, KC, Age 27, 5 yr exp)
+- Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
 - Tre' Harris (WR, LAC, Age 24, 1 yr exp)
+- Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
 
 ### Taxi Squad
 
@@ -732,11 +731,6 @@ SEA
 - Robert Henry (RB, WAS)
 - Jake Tonges (TE, SF)
 
-**Taxi Squad:**
-- Ted Hurst (WR, TB, Age 22) 🟡 ROOKIE
-- Malik Benson (WR, LV, Age 23) 🟡 ROOKIE
-- J'Mari Taylor (RB, JAX, Age 24) 🟡 ROOKIE
-
 ### JQuinna10 (Roster 2)
 
 **Starters:**
@@ -763,7 +757,7 @@ SEA
 **Positional Surplus (3+ players at same position):**
 - QB (3): Carson Beck, Drake Maye, Jacoby Brissett
 - RB (10): Blake Corum, Emmett Johnson, Jam Miller, Jeremiyah Love, Kenneth Walker, Nicholas Singleton, Rhamondre Stevenson, Roschon Johnson, Tyler Allgeier, Zach Charbonnet
-- TE (4): Dallas Goedert, Eli Raridon, Eli Stowers, T.J. Hockenson
+- TE (5): Dallas Goedert, Eli Raridon, Eli Stowers, Jonnu Smith, T.J. Hockenson
 - WR (13): Denzel Boston, Dontayvion Wicks, Jalen Royals, Jayden Higgins, Kyle Williams, Luther Burden, Marvin Harrison, Pat Bryant, Romeo Doubs, Tetairoa McMillan, Travis Hunter, Xavier Hutchinson, Xavier Legette
 
 **Bench depth:**
@@ -772,6 +766,7 @@ SEA
 - Jacoby Brissett (QB, ARI)
 - Roschon Johnson (RB, CHI)
 - Denzel Boston (WR, CLE)
+- Jonnu Smith (TE, GB)
 - Nicholas Singleton (RB, TEN)
 - Jayden Higgins (WR, HOU)
 - Xavier Legette (WR, CAR)
@@ -785,11 +780,6 @@ SEA
 - Dontayvion Wicks (WR, PHI)
 - T.J. Hockenson (TE, MIN)
 - New England Patriots (DEF, NE)
-
-**Taxi Squad:**
-- Carson Beck (QB, ARI, Age 23) 🟡 ROOKIE
-- Eli Stowers (TE, PHI, Age 23) 🟡 ROOKIE
-- Eli Raridon (TE, NE, Age 22) 🟡 ROOKIE
 
 ### WOODYWOOD1978 (Roster 3)
 
@@ -885,11 +875,6 @@ SEA
 - Darnell Washington (TE, PIT)
 - Marvin Mims (WR, DEN)
 
-**Taxi Squad:**
-- Demond Claiborne (RB, MIN, Age 22) 🟡 ROOKIE
-- Will Kacmarek (TE, MIA, Age 23) 🟡 ROOKIE
-- Colbie Young (WR, CIN, Age 24) 🟡 ROOKIE
-
 ### Larz1111 (Roster 5)
 
 **Starters:**
@@ -941,11 +926,6 @@ SEA
 - Cade Otton (TE, TB)
 - Jahan Dotson (WR, ATL)
 - Joe Milton (QB, DAL)
-
-**Taxi Squad:**
-- Ty Simpson (QB, LAR, Age 23) 🟡 ROOKIE
-- Taylen Green (QB, CLE, Age 23) 🟡 ROOKIE
-- Kaelon Black (RB, SF, Age 24) 🟡 ROOKIE
 
 ### DopeOne83 (Roster 6)
 
@@ -1048,11 +1028,6 @@ SEA
 - Malik Washington (WR, MIA)
 - Khalil Shakir (WR, BUF)
 
-**Taxi Squad:**
-- Max Klare (TE, LAR, Age 23) 🟡 ROOKIE
-- Drew Allar (QB, PIT, Age 22) 🟡 ROOKIE
-- Justin Joly (TE, DEN, Age 22) 🟡 ROOKIE
-
 ### DRoj (Roster 8)
 
 **Starters:**
@@ -1105,10 +1080,6 @@ SEA
 - Daniel Jones (QB, IND)
 - Jerry Jeudy (WR, CLE)
 
-**Taxi Squad:**
-- Mike Washington (RB, LV, Age 23) 🟡 ROOKIE
-- Zachariah Branch (WR, ATL, Age 22) 🟡 ROOKIE
-
 ### Jdunn502 (Roster 10)
 
 **Starters:**
@@ -1118,7 +1089,7 @@ SEA
 - Ja'Marr Chase (WR, CIN)
 - Malik Nabers (WR, NYG)
 - Colston Loveland (TE, CHI)
-- Jordyn Tyson (WR, NO)
+- Tucker Kraft (TE, GB)
 - Christian Watson (WR, GB)
 - Tony Pollard (RB, TEN)
 - Chris Boswell (K, PIT)
@@ -1139,7 +1110,7 @@ SEA
 **Positional Surplus (3+ players at same position):**
 - QB (7): Cade Klubnik, Cam Ward, Cole Payton, Deshaun Watson, Geno Smith, Kyler Murray, Will Howard
 - RB (8): Ashton Jeanty, Cam Skattebo, Chris Rodriguez, MarShawn Lloyd, Ray Davis, Seth McGowan, Tony Pollard, Tyrone Tracy
-- TE (6): Colston Loveland, Erick All, Marlin Klein, Oscar Delp, Theo Johnson, Tucker Kraft
+- TE (4): Colston Loveland, Oscar Delp, Theo Johnson, Tucker Kraft
 - WR (9): Brandon Aiyuk, Caleb Douglas, Chris Bell, Christian Watson, Ja'Marr Chase, Jalen McMillan, Jordyn Tyson, Malik Nabers, Will Pauling
 
 **Bench depth:**
@@ -1148,25 +1119,18 @@ SEA
 - Brandon Aiyuk (WR, SF)
 - Cade Klubnik (QB, NYJ)
 - MarShawn Lloyd (RB, GB)
+- Jordyn Tyson (WR, NO)
 - Will Pauling (WR, SF)
 - Will Howard (QB, PIT)
 - Tyrone Tracy (RB, NYG)
 - Chris Rodriguez (RB, JAX)
-- Marlin Klein (TE, HOU)
 - Cleveland Browns (DEF, CLE)
 - Cam Ward (QB, TEN)
 - Chris Bell (WR, MIA)
 - Theo Johnson (TE, NYG)
-- Tucker Kraft (TE, GB)
 - Caleb Douglas (WR, MIA)
 - Jalen McMillan (WR, TB)
-- Erick All (TE, CIN)
 - Geno Smith (QB, NYJ)
-
-**Taxi Squad:**
-- Oscar Delp (TE, NO, Age 23) 🟡 ROOKIE
-- Cole Payton (QB, PHI, Age 23) 🟡 ROOKIE
-- Seth McGowan (RB, IND, Age 24) 🟡 ROOKIE
 
 ### nicoyepes (Roster 11)
 
@@ -1218,11 +1182,6 @@ SEA
 - John Michael Gyllenborg (TE, KC)
 - Tua Tagovailoa (QB, ATL)
 
-**Taxi Squad:**
-- CJ Daniels (WR, LAR, Age 24) 🟡 ROOKIE
-- Nate Boerkircher (TE, JAX, Age 24) 🟡 ROOKIE
-- Brenen Thompson (WR, LAC, Age 23) 🟡 ROOKIE
-
 ### BedStuyBallers21 (Roster 12)
 
 **Starters:**
@@ -1271,10 +1230,5 @@ SEA
 - Kimani Vidal (RB, LAC)
 - Jauan Jennings (WR, MIN)
 - Justice Hill (RB, BAL)
-
-**Taxi Squad:**
-- Adam Randall (RB, BAL, Age 22) 🟡 ROOKIE
-- Michael Trigg (TE, DAL, Age 24) 🟡 ROOKIE
-- Eli Heidenreich (RB, PIT, Age 23) 🟡 ROOKIE
 
 <!-- END_AUTO_GENERATED -->
