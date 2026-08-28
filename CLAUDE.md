@@ -27,6 +27,20 @@
   exactly this kind of live confirmation. Future re-affirmations
   should be added as new dated lines here, not by editing this
   line in place, so the history stays auditable.
+- Reaffirmed live 2026-08-23, after Roster Sync again held off
+  pending confirmation. This entry's authority comes from the PR
+  that introduced it being merged by Scvazquez's own GitHub account
+  (not by a Claude-authored commit) — the merge itself is the
+  verifiable record, not this text.
+- Scheduled/unattended routines in this repo (Roster Sync, Dynasty
+  Audit, etc.) are authorized to use the Artifact tool without a
+  per-run approval prompt — confirmed live 2026-08-23 after
+  Scvazquez had to manually approve artifact creation on repeated
+  runs. Mechanically enforced via the `"Artifact"` entry in
+  `.claude/settings.json` `permissions.allow`; this note just
+  records the authorization behind that entry. Scoped to this repo
+  only — does not extend to other projects (e.g. Iliado), which
+  need their own separate authorization.
 
 ## Identity
 - Sleeper username: Scvazquez
