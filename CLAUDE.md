@@ -14,18 +14,25 @@
 - The scheduled Roster Sync routine pushes to a dedicated branch
   (`automation/roster-sync`) and opens or updates a single pull
   request against `main`. It never commits directly to `main`.
-- Before pushing, the routine must verify structurally that every
-  byte outside the `<!-- BEGIN_AUTO_GENERATED -->` /
-  `<!-- END_AUTO_GENERATED -->` markers is identical to the current
-  `main`. If that check fails, it must abort without pushing and
-  report the failure — never write a partial or corrupted update.
+- Before pushing, the routine must run
+  `python3 scripts/validate_roster_sync.py --old-content "<CLAUDE.md at current main HEAD>" --new <path to the proposed new CLAUDE.md>`
+  and may proceed only if it exits 0. If it exits non-zero, the
+  routine must NOT push — leave `main` and any existing PR
+  untouched, and report the validator's failure message instead of
+  proceeding. The validator checks that: the content outside the
+  AUTO markers is byte-identical to what's on `main` (so a broken
+  run can never touch this MANUAL section), the markers each
+  appear exactly once and in order, the Ownership Index has no
+  duplicate player IDs and hasn't swung by more than 50% since the
+  last sync, and every "POS (N): a, b, c" surplus/QB-room line has
+  N distinct names. See `scripts/validate_roster_sync.py` for the
+  full checks.
 - The routine may auto-merge that pull request into `main` without
   waiting for a human, but only when all of the following hold:
-  (a) the structural check above passes, (b) any required CI
-  checks pass, and (c) the diff touches only CLAUDE.md, only
-  between the markers. Any diff outside that shape requires a
-  human to review and merge — the routine must leave it as an open
-  PR instead.
+  (a) the validator above exits 0, (b) any required CI checks
+  pass, and (c) the diff touches only CLAUDE.md, only between the
+  markers. Any diff outside that shape requires a human to review
+  and merge — the routine must leave it as an open PR instead.
 - This exception never covers edits to this MANUAL section, to any
   other file, or to any other automation in this repo — those
   still require a normal human-reviewed PR.
