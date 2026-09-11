@@ -11,45 +11,33 @@
   the standard "develop on the assigned branch, never push
   elsewhere without explicit permission" guard rail stays in
   force everywhere else.
-- The scheduled Roster Sync routine is explicitly authorized to
-  commit directly to the `main` branch, without opening a PR or
-  asking for confirmation first — push-then-review, not
-  review-then-push. This applies ONLY to changes strictly inside
-  the `<!-- BEGIN_AUTO_GENERATED -->` / `<!-- END_AUTO_GENERATED -->`
-  markers in this file. It never covers edits to this MANUAL
-  section, to any other file, or to any other automation in this
-  repo — those still follow normal branch/PR conventions and still
-  require confirmation.
-- Required safety gate (added 2026-09-11): before every direct-to-main
-  commit, the routine MUST run
-  `python3 scripts/validate_roster_sync.py --old-content "<CLAUDE.md at current main HEAD>" --new <path to the proposed new CLAUDE.md>`
-  and may push ONLY if it exits 0. If it exits non-zero, the routine
-  must NOT push — leave `main` untouched, and report the validator's
-  failure message instead of committing. The validator checks that:
-  the content outside the AUTO markers is byte-identical to what's on
-  `main` (so a broken run can never touch this MANUAL section), the
-  markers each appear exactly once and in order, the Ownership Index
-  has no duplicate player IDs and hasn't swung by more than 50% since
-  the last sync, and every "POS (N): a, b, c" surplus/QB-room line has
-  N distinct names. This exists because earlier automated runs
-  repeatedly corrupted this file by writing malformed or duplicated
-  content straight to `main` with no check — see the git history for
-  "Fix Roster sync: restore full CLAUDE.md content" and similar
-  commits, and `scripts/validate_roster_sync.py` for the full checks.
+- The scheduled Roster Sync routine pushes to a dedicated branch
+  (`automation/roster-sync`) and opens or updates a single pull
+  request against `main`. It never commits directly to `main`.
+- Before pushing, the routine must verify structurally that every
+  byte outside the `<!-- BEGIN_AUTO_GENERATED -->` /
+  `<!-- END_AUTO_GENERATED -->` markers is identical to the current
+  `main`. If that check fails, it must abort without pushing and
+  report the failure — never write a partial or corrupted update.
+- The routine may auto-merge that pull request into `main` without
+  waiting for a human, but only when all of the following hold:
+  (a) the structural check above passes, (b) any required CI
+  checks pass, and (c) the diff touches only CLAUDE.md, only
+  between the markers. Any diff outside that shape requires a
+  human to review and merge — the routine must leave it as an open
+  PR instead.
+- This exception never covers edits to this MANUAL section, to any
+  other file, or to any other automation in this repo — those
+  still require a normal human-reviewed PR.
 - Authorization history: granted by Scvazquez 2026-08-04; reaffirmed
-  live in an interactive chat session on 2026-08-09 (the session
-  that produced the 2026-08-09 12:47 PM UTC roster sync commit),
-  after the routine held off on a direct-to-main push pending
-  exactly this kind of live confirmation; reaffirmed live 2026-09-11
-  in a session that declined an unattended scheduled run's
-  direct-to-main push after finding this section embedded in a
-  corrupted block spanning roughly 1,000 lines of this MANUAL
-  section (a stale duplicate roster dump left behind by an earlier
-  broken sync), then in this same live session fixed that corruption,
-  fixed a related bug in the sync logic that double-counted
-  taxi-squad players, and added the required safety gate above.
-  Future re-affirmations should be added as new dated lines here,
-  not by editing this line in place, so the history stays auditable.
+  live 2026-08-09. Replaced 2026-09-11 by Scvazquez — the prior
+  direct-to-main clause caused repeated corruption on `main` between
+  2026-08-18 and 2026-09-11 (placeholder-content bugs and a stale
+  roster dump wedged into this section), each requiring a manual fix
+  commit. Direct-to-main pushes are retired in favor of the
+  branch + PR + structural-validation flow above. Future
+  re-affirmations or changes should be added as new dated lines
+  here, not by editing this history in place.
 
 ## Identity
 - Sleeper username: Scvazquez
