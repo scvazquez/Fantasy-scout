@@ -233,9 +233,8 @@ replacements mid-season.
 <!-- DO NOT EDIT BELOW THIS LINE                                  -->
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
-
 ## Roster State
-Last synced: 2026-09-11 03:38 PM UTC (auto sync)
+Last synced: 2026-09-12 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -256,6 +255,7 @@ Last synced: 2026-09-11 03:38 PM UTC (auto sync)
 2216
 2449
 2505
+2617
 2747
 3163
 3198
@@ -497,7 +497,6 @@ Last synced: 2026-09-11 03:38 PM UTC (auto sync)
 11687
 11705
 11729
-11742
 11783
 11786
 11792
@@ -716,8 +715,8 @@ SEA
 
 **QB Room (3 QBs):**
 - Joe Burrow (CIN)
-- Shedeur Sanders (CLE)
 - Jordan Love (GB)
+- Shedeur Sanders (CLE)
 
 **Positional Surplus (3+ players at same position):**
 - QB (3): Joe Burrow, Jordan Love, Shedeur Sanders
@@ -768,9 +767,9 @@ SEA
 - Kevin Byard (DB, NE)
 
 **QB Room (3 QBs):**
+- Carson Beck (ARI)
 - Drake Maye (NE)
 - Jacoby Brissett (ARI)
-- Carson Beck (ARI)
 
 **Positional Surplus (3+ players at same position):**
 - QB (3): Carson Beck, Drake Maye, Jacoby Brissett
@@ -873,8 +872,8 @@ SEA
 - Julian Love (DB, SEA)
 
 **QB Room (4 QBs):**
-- Malik Willis (MIA)
 - Fernando Mendoza (LV)
+- Malik Willis (MIA)
 - Michael Penix (ATL)
 - Trevor Lawrence (JAX)
 
@@ -920,17 +919,17 @@ SEA
 - Cameron Dicker (K, LAC)
 - Jacksonville Jaguars (DEF, JAX)
 - Jamien Sherwood (LB, NYJ)
-- Cedric Gray (LB, TEN)
+- Alex Singleton (LB, DEN)
 - Tykee Smith (DB, TB)
 - Cooper DeJean (DB, PHI)
 
 **QB Room (6 QBs):**
-- Taylen Green (CLE)
-- Sam Howell (DAL)
-- Ty Simpson (LAR)
 - Anthony Richardson (IND)
-- Lamar Jackson (BAL)
 - Dak Prescott (DAL)
+- Lamar Jackson (BAL)
+- Sam Howell (DAL)
+- Taylen Green (CLE)
+- Ty Simpson (LAR)
 
 **Positional Surplus (3+ players at same position):**
 - QB (6): Anthony Richardson, Dak Prescott, Lamar Jackson, Sam Howell, Taylen Green, Ty Simpson
@@ -979,8 +978,8 @@ SEA
 - Avieon Terrell (DB, ATL)
 
 **QB Room (2 QBs):**
-- Josh Allen (BUF)
 - Jalen Hurts (PHI)
+- Josh Allen (BUF)
 
 **Positional Surplus (3+ players at same position):**
 - LB (4): Ernest Jones, Foyesade Oluokun, Nick Bolton, Robert Spillane
@@ -1017,10 +1016,10 @@ SEA
 - Tre'von Moehrig (DB, CAR)
 
 **QB Room (4 QBs):**
-- Drew Allar (PIT)
 - Caleb Williams (CHI)
-- Tyler Shough (NO)
+- Drew Allar (PIT)
 - Sam Darnold (SEA)
+- Tyler Shough (NO)
 
 **Positional Surplus (3+ players at same position):**
 - DB (3): Jeremy Chinn, Kam Curl, Tre'von Moehrig
@@ -1071,13 +1070,13 @@ SEA
 - Cam Bynum (DB, IND)
 
 **QB Room (7 QBs):**
-- C.J. Stroud (HOU)
+- Aaron Rodgers (PIT)
 - Bo Nix (DEN)
 - Bryce Young (CAR)
-- Aaron Rodgers (PIT)
-- Patrick Mahomes (KC)
-- Kirk Cousins (LV)
+- C.J. Stroud (HOU)
 - Daniel Jones (IND)
+- Kirk Cousins (LV)
+- Patrick Mahomes (KC)
 
 **Positional Surplus (3+ players at same position):**
 - LB (3): Devin Bush, SirVocea Dennis, T.J. Edwards
@@ -1127,14 +1126,14 @@ SEA
 - Kamari Lassiter (DB, HOU)
 
 **QB Room (8 QBs):**
-- Kyler Murray (MIN)
-- Deshaun Watson (CLE)
-- Jalon Daniels (TB)
 - Cade Klubnik (NYJ)
-- Will Howard (PIT)
 - Cam Ward (TEN)
 - Cole Payton (PHI)
+- Deshaun Watson (CLE)
 - Geno Smith (NYJ)
+- Jalon Daniels (TB)
+- Kyler Murray (MIN)
+- Will Howard (PIT)
 
 **Positional Surplus (3+ players at same position):**
 - LB (3): Devin White, Kaden Elliss, Patrick Queen
@@ -1236,10 +1235,10 @@ SEA
 - Budda Baker (DB, ARI)
 
 **QB Room (4 QBs):**
-- Mac Jones (SF)
+- Baker Mayfield (TB)
 - Brock Purdy (SF)
 - J.J. McCarthy (MIN)
-- Baker Mayfield (TB)
+- Mac Jones (SF)
 
 **Positional Surplus (3+ players at same position):**
 - QB (4): Baker Mayfield, Brock Purdy, J.J. McCarthy, Mac Jones
