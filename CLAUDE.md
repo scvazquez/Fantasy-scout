@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-09-12 12:46 PM UTC (auto sync)
+Last synced: 2026-09-13 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -673,7 +673,7 @@ SEA
 - Donovan Edwards (RB, FA, Age 23, 1 yr exp)
 - Xavier McKinney (DB, GB, Age 28, 6 yr exp)
 - Jordan Addison (WR, MIN, Age 24, 3 yr exp)
-- Darren Waller (TE, CAR, Age 33, 11 yr exp)
+- Darren Waller (TE, CAR, Age 34, 11 yr exp)
 - Edgerrin Cooper (LB, GB, Age 24, 2 yr exp)
 - Alvin Kamara (RB, NO, Age 31, 9 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
@@ -863,7 +863,7 @@ SEA
 - Oronde Gadsden (TE, LAC)
 - Dylan Sampson (RB, CLE)
 - Tre Tucker (WR, LV)
-- Rashod Bateman (WR, BAL)
+- Calvin Ridley (WR, TEN)
 - Harrison Mevis (K, LAR)
 - Dallas Cowboys (DEF, DAL)
 - Ventrell Miller (LB, JAX)
@@ -889,6 +889,7 @@ SEA
 - Keon Coleman (WR, BUF)
 - Malik Willis (QB, MIA)
 - Tank Bigsby (RB, PHI)
+- Rashod Bateman (WR, BAL)
 - Omar Cooper (WR, NYJ)
 - Kaytron Allen (RB, WAS)
 - Fernando Mendoza (QB, LV)
@@ -896,7 +897,6 @@ SEA
 - Troy Franklin (WR, DEN)
 - Michael Penix (QB, ATL)
 - Darnell Washington (TE, PIT)
-- Calvin Ridley (WR, TEN)
 - Kaleb Johnson (RB, GB)
 - Braelon Allen (RB, NYJ)
 - Kenyon Sadiq (TE, NYJ)
