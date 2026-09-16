@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(curl -s \"https://api.sleeper.app/*)",
-      "Artifact"
+      "Artifact",
+      "Artifact(publish)"
     ]
   }
 }
