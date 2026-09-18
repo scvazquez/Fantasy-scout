@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-09-17 12:48 PM UTC (auto sync)
+Last synced: 2026-09-18 12:48 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -316,7 +316,6 @@ Last synced: 2026-09-17 12:48 PM UTC (auto sync)
 5995
 6083
 6130
-6217
 6650
 6711
 6768
@@ -433,6 +432,7 @@ Last synced: 2026-09-17 12:48 PM UTC (auto sync)
 9753
 9754
 9756
+9757
 9758
 9997
 10213
@@ -550,6 +550,7 @@ Last synced: 2026-09-17 12:48 PM UTC (auto sync)
 12544
 12545
 12547
+12566
 12567
 12578
 12591
@@ -660,24 +661,24 @@ TB
 | RB | Saquon Barkley | RB | PHI | 29 |
 | RB | David Montgomery | RB | HOU | 29 |
 | WR | Justin Jefferson | WR | MIN | 27 |
-| WR | Jordan Addison | WR | MIN | 24 |
+| WR | Ladd McConkey | WR | LAC | 24 |
 | TE | Mark Andrews | TE | BAL | 31 |
 | FLEX | Terry McLaurin | WR | WAS | 31 |
 | FLEX | CeeDee Lamb | WR | DAL | 27 |
-| FLEX | Ladd McConkey | WR | LAC | 24 |
+| FLEX | Rico Dowdle | RB | PIT | 28 |
 | K | Will Reichard | K | MIN | 25 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Zack Baun | LB | PHI | 29 |
-| LB | Quay Walker | LB | LV | 26 |
-| DB | Kyle Hamilton | DB | BAL | 25 |
+| LB | Edgerrin Cooper | LB | GB | 24 |
 | DB | Derwin James | DB | LAC | 30 |
+| DB | Kyle Hamilton | DB | BAL | 25 |
 
 ### Bench
 
 - Donovan Edwards (RB, FA, Age 23, 1 yr exp)
 - Xavier McKinney (DB, GB, Age 28, 6 yr exp)
+- Jordan Addison (WR, MIN, Age 24, 3 yr exp)
 - Darren Waller (TE, CAR, Age 34, 11 yr exp)
-- Edgerrin Cooper (LB, GB, Age 24, 2 yr exp)
 - Alvin Kamara (RB, NO, Age 31, 9 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
 - LeQuint Allen (RB, JAX, Age 22, 1 yr exp)
@@ -685,8 +686,8 @@ TB
 - Jaylin Noel (WR, HOU, Age 24, 1 yr exp)
 - Will Anderson (DL, HOU, Age 25, 3 yr exp)
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
+- Quay Walker (LB, LV, Age 26, 4 yr exp)
 - Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
-- Rico Dowdle (RB, PIT, Age 28, 6 yr exp)
 - Tre' Harris (WR, LAC, Age 24, 1 yr exp)
 - Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
 - Kyle Pitts (TE, ATL, Age 25, 5 yr exp)
@@ -766,7 +767,7 @@ TB
 - Cam Little (K, JAX)
 - New England Patriots (DEF, NE)
 - Carson Schwesinger (LB, CLE)
-- Blake Cashman (LB, MIN)
+- Jihaad Campbell (LB, PHI)
 - Travis Hunter (DB, JAX)
 - Nick Emmanwori (DB, SEA)
 
@@ -862,7 +863,7 @@ TB
 **Starters:**
 - Trevor Lawrence (QB, JAX)
 - RJ Harvey (RB, DEN)
-- Jadarian Price (RB, SEA)
+- Demond Claiborne (RB, MIN)
 - KC Concepcion (WR, CLE)
 - Adonai Mitchell (WR, NYJ)
 - Kenyon Sadiq (TE, NYJ)
@@ -884,7 +885,7 @@ TB
 
 **Positional Surplus (3+ players at same position):**
 - QB (4): Fernando Mendoza, Malik Willis, Michael Penix, Trevor Lawrence
-- RB (9): Braelon Allen, Demond Claiborne, Dylan Sampson, Jadarian Price, Kaleb Johnson, Kaytron Allen, RJ Harvey, Roschon Johnson, Tank Bigsby
+- RB (10): Braelon Allen, Demond Claiborne, Dylan Sampson, Jadarian Price, Kaleb Johnson, Kaytron Allen, Kendre Miller, RJ Harvey, Roschon Johnson, Tank Bigsby
 - TE (3): Darnell Washington, Kenyon Sadiq, Oronde Gadsden
 - WR (12): Adonai Mitchell, Calvin Ridley, Germie Bernard, Jack Bech, Josh Cameron, KC Concepcion, Keon Coleman, Malachi Fields, Omar Cooper, Rashod Bateman, Tre Tucker, Troy Franklin
 
@@ -892,13 +893,14 @@ TB
 - Braelon Allen (RB, NYJ)
 - Calvin Ridley (WR, TEN)
 - Darnell Washington (TE, PIT)
-- Demond Claiborne (RB, MIN) [TAXI]
 - Dylan Sampson (RB, CLE)
 - Fernando Mendoza (QB, LV)
 - Germie Bernard (WR, PIT) [TAXI]
-- Josh Cameron (WR, JAX)
+- Jadarian Price (RB, SEA)
+- Josh Cameron (WR, JAX) [TAXI]
 - Kaleb Johnson (RB, GB)
 - Kaytron Allen (RB, WAS)
+- Kendre Miller (RB, NO)
 - Keon Coleman (WR, BUF)
 - Malachi Fields (WR, NYG) [TAXI]
 - Malik Willis (QB, MIA)
@@ -1176,7 +1178,7 @@ TB
 - Jonathan Taylor (RB, IND)
 - Christian McCaffrey (RB, SF)
 - Nico Collins (WR, HOU)
-- A.J. Brown (WR, NE)
+- DeMario Douglas (WR, NE)
 - Hunter Henry (TE, NE)
 - Davante Adams (WR, LAR)
 - D'Andre Swift (RB, CHI)
@@ -1201,13 +1203,13 @@ TB
 - WR (12): A.J. Brown, Brenen Thompson, CJ Daniels, Courtland Sutton, Davante Adams, DeMario Douglas, Deion Burks, Jameson Williams, Kevin Coleman, Nico Collins, Ryan Flournoy, Tyquan Thornton
 
 **Bench depth:**
+- A.J. Brown (WR, NE)
 - Arvell Reese (LB, NYG)
 - Brenen Thompson (WR, LAC) [TAXI]
 - CJ Daniels (WR, LAR) [TAXI]
 - Courtland Sutton (WR, DEN)
 - DJ Giddens (RB, IND)
 - David Njoku (TE, LAC)
-- DeMario Douglas (WR, NE)
 - Deion Burks (WR, IND)
 - Garrett Nussmeier (QB, KC)
 - James Conner (RB, ARI)
