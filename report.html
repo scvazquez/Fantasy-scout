@@ -1,0 +1,566 @@
+<title>Nightly Dynasty Audit</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+  :root{
+    --ink:#F7F8FA;
+    --surface:#FFFFFF;
+    --surface-2:#EEF1F5;
+    --line:#DDE2E9;
+    --text:#1B222C;
+    --muted:#5B6472;
+    --accent:#0E9488;
+    --accent-soft:#DFF3F0;
+    --warn:#B3690A;
+    --warn-soft:#FBEDDC;
+    --danger:#C43D3D;
+    --danger-soft:#FBE4E4;
+    --good:#2E8B45;
+    --good-soft:#E3F3E6;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --ink:#11151C;
+      --surface:#1A2028;
+      --surface-2:#212934;
+      --line:#2B333F;
+      --text:#ECEFF3;
+      --muted:#93A0B2;
+      --accent:#4FD8C4;
+      --accent-soft:#1B3733;
+      --warn:#F0A94E;
+      --warn-soft:#3A2C15;
+      --danger:#F0797A;
+      --danger-soft:#3A1E1F;
+      --good:#7BD98A;
+      --good-soft:#1D3320;
+    }
+  }
+  :root[data-theme="dark"]{
+    --ink:#11151C;
+    --surface:#1A2028;
+    --surface-2:#212934;
+    --line:#2B333F;
+    --text:#ECEFF3;
+    --muted:#93A0B2;
+    --accent:#4FD8C4;
+    --accent-soft:#1B3733;
+    --warn:#F0A94E;
+    --warn-soft:#3A2C15;
+    --danger:#F0797A;
+    --danger-soft:#3A1E1F;
+    --good:#7BD98A;
+    --good-soft:#1D3320;
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    background:var(--ink);
+    color:var(--text);
+    font-family:'IBM Plex Sans',system-ui,sans-serif;
+    padding-inline:16px;
+    padding-block:20px 48px;
+    line-height:1.5;
+  }
+  .wrap{max-width:820px;margin:0 auto;}
+
+  h1,h2,h3{font-family:'Oswald',system-ui,sans-serif;text-transform:uppercase;letter-spacing:.01em;text-wrap:balance;margin:0;}
+  .mono{font-family:'IBM Plex Mono',monospace;font-variant-numeric:tabular-nums;}
+
+  /* Masthead */
+  .masthead{
+    display:flex;flex-direction:column;gap:10px;
+    padding-block:18px 20px;border-bottom:3px solid var(--text);margin-bottom:18px;
+  }
+  .eyebrow{
+    font-family:'Oswald',system-ui,sans-serif;font-size:12px;letter-spacing:.18em;
+    color:var(--accent);text-transform:uppercase;font-weight:600;
+  }
+  .masthead h1{font-size:clamp(28px,6vw,40px);font-weight:700;}
+  .masthead-meta{
+    display:flex;flex-wrap:wrap;gap:8px 18px;font-size:13px;color:var(--muted);
+    font-family:'IBM Plex Mono',monospace;
+  }
+  .sync-pill{
+    display:inline-flex;align-items:center;gap:6px;
+    background:var(--good-soft);color:var(--good);border:1px solid var(--good);
+    padding:3px 10px;border-radius:999px;font-size:12px;font-weight:600;
+    font-family:'IBM Plex Mono',monospace;
+  }
+  .sync-pill::before{content:"●";font-size:9px;}
+
+  /* Nav */
+  .nav{
+    display:flex;gap:6px;overflow-x:auto;padding-block:2px 22px;
+    -webkit-overflow-scrolling:touch;
+  }
+  .nav a{
+    flex:0 0 auto;font-family:'Oswald',system-ui,sans-serif;font-size:12px;letter-spacing:.04em;
+    text-transform:uppercase;color:var(--muted);text-decoration:none;
+    padding:6px 12px;border:1px solid var(--line);border-radius:999px;white-space:nowrap;
+  }
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+
+  section{margin-bottom:34px;scroll-margin-top:12px;}
+  .sec-head{
+    display:flex;align-items:baseline;gap:10px;margin-bottom:14px;
+    border-left:4px solid var(--accent);padding-left:12px;
+  }
+  .sec-head h2{font-size:20px;font-weight:600;}
+  .sec-sub{color:var(--muted);font-size:13px;margin-top:2px;}
+
+  /* Alert banner */
+  .stale{
+    display:none;background:var(--warn-soft);border:1px solid var(--warn);color:var(--warn);
+    padding:12px 14px;border-radius:8px;font-size:14px;margin-bottom:20px;font-weight:600;
+  }
+
+  /* Flag cards */
+  .flag{
+    background:var(--surface);border:1px solid var(--line);border-radius:10px;
+    padding:14px 16px;margin-bottom:10px;display:flex;flex-direction:column;gap:6px;
+  }
+  .flag-top{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;}
+  .flag-name{font-weight:600;font-size:15px;}
+  .chip{
+    font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;
+    padding:2px 9px;border-radius:999px;white-space:nowrap;text-transform:uppercase;letter-spacing:.03em;
+  }
+  .chip-danger{background:var(--danger-soft);color:var(--danger);}
+  .chip-warn{background:var(--warn-soft);color:var(--warn);}
+  .chip-good{background:var(--good-soft);color:var(--good);}
+  .chip-neutral{background:var(--surface-2);color:var(--muted);border:1px solid var(--line);}
+  .flag-body{color:var(--text);font-size:14px;}
+  .flag-tag{color:var(--muted);font-size:12.5px;}
+
+  /* Triage */
+  .triage-item{
+    background:var(--surface);border:1px solid var(--line);border-radius:10px;
+    padding:16px;margin-bottom:12px;
+  }
+  .triage-top{display:flex;align-items:center;gap:12px;margin-bottom:10px;}
+  .rank-badge{
+    font-family:'Oswald',system-ui,sans-serif;font-weight:700;font-size:18px;
+    width:32px;height:32px;border-radius:8px;display:flex;align-items:center;justify-content:center;
+    background:var(--accent);color:var(--surface);flex:0 0 auto;
+  }
+  .rank-badge.low{background:var(--surface-2);color:var(--muted);}
+  .triage-pos{font-size:17px;font-weight:600;}
+  .triage-urgency{margin-left:auto;font-size:11px;}
+  .triage-text{font-size:14px;color:var(--text);margin-bottom:12px;}
+  .meters{display:flex;flex-direction:column;gap:8px;}
+  .meter-row{display:grid;grid-template-columns:110px 1fr 34px;align-items:center;gap:10px;font-size:12px;color:var(--muted);}
+  .meter-track{height:7px;background:var(--surface-2);border-radius:999px;overflow:hidden;}
+  .meter-fill{height:100%;border-radius:999px;}
+
+  /* FA target cards */
+  .fa-card{
+    background:var(--surface);border:1px solid var(--line);border-radius:10px;
+    padding:16px;margin-bottom:12px;
+  }
+  .fa-top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap;margin-bottom:8px;}
+  .fa-name{font-size:16px;font-weight:600;}
+  .fa-meta{font-size:12.5px;color:var(--muted);font-family:'IBM Plex Mono',monospace;}
+  .fa-rank{
+    font-family:'Oswald',system-ui,sans-serif;font-size:11px;letter-spacing:.06em;
+    color:var(--accent);text-transform:uppercase;font-weight:600;
+  }
+  .fa-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:10px;font-size:13px;}
+  @media (max-width:480px){.fa-grid{grid-template-columns:1fr;}}
+  .fa-grid div span{color:var(--muted);display:block;font-size:11px;text-transform:uppercase;letter-spacing:.04em;margin-bottom:2px;}
+  .verify{
+    margin-top:10px;font-size:12.5px;color:var(--good);background:var(--good-soft);
+    padding:6px 10px;border-radius:6px;font-family:'IBM Plex Mono',monospace;display:inline-block;
+  }
+
+  /* Trade cards */
+  .trade-card{
+    background:var(--surface);border:1px solid var(--line);border-radius:10px;
+    padding:16px;margin-bottom:14px;
+  }
+  .trade-head{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:10px;flex-wrap:wrap;}
+  .trade-opp{font-size:16px;font-weight:600;}
+  .trade-package{
+    display:grid;grid-template-columns:1fr auto 1fr;gap:12px;align-items:center;
+    background:var(--surface-2);border-radius:8px;padding:12px;margin:10px 0;font-size:13.5px;
+  }
+  @media (max-width:480px){.trade-package{grid-template-columns:1fr;text-align:left;}}
+  .trade-arrow{font-family:'Oswald',system-ui,sans-serif;color:var(--accent);font-weight:700;text-align:center;}
+  .trade-side span{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.04em;display:block;margin-bottom:4px;}
+  .dynasty-flag{
+    display:flex;gap:8px;align-items:flex-start;background:var(--warn-soft);color:var(--warn);
+    border-radius:6px;padding:8px 10px;font-size:12.5px;margin-top:8px;
+  }
+  .tradeoff{font-size:13.5px;color:var(--text);margin-top:10px;}
+
+  /* Action items */
+  .action-list{list-style:none;padding:0;margin:0;counter-reset:actions;}
+  .action-list li{
+    counter-increment:actions;
+    display:flex;gap:12px;align-items:flex-start;
+    background:var(--surface);border:1px solid var(--line);border-radius:10px;
+    padding:13px 15px;margin-bottom:9px;font-size:14px;
+  }
+  .action-list li::before{
+    content:counter(actions);font-family:'Oswald',system-ui,sans-serif;font-weight:700;
+    background:var(--accent-soft);color:var(--accent);border-radius:6px;
+    width:26px;height:26px;flex:0 0 auto;display:flex;align-items:center;justify-content:center;font-size:13px;
+  }
+  .action-label{font-weight:600;margin-right:6px;}
+
+  /* Bold move */
+  .bold-box{
+    background:linear-gradient(155deg,var(--surface-2),var(--surface));
+    border:2px solid var(--accent);border-radius:12px;padding:20px;
+  }
+  .bold-box h3{font-size:18px;color:var(--accent);margin-bottom:10px;}
+  .bold-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px;}
+  @media (max-width:480px){.bold-grid{grid-template-columns:1fr;}}
+  .bold-block span{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:4px;}
+  .bold-block p{font-size:13.5px;margin:0;}
+
+  footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:12px;font-family:'IBM Plex Mono',monospace;}
+</style>
+
+<div class="wrap">
+
+  <div class="masthead">
+    <div class="eyebrow">Fantasy Scout — Nightly Dynasty Audit</div>
+    <h1>FOOTBALL JUNKIES · Roster 9</h1>
+    <div class="masthead-meta">
+      <span>Scvazquez</span>
+      <span>Report date: 2026-09-19</span>
+      <span class="sync-pill">Roster synced 12:47 PM UTC · 28 min old</span>
+    </div>
+  </div>
+
+  <div class="stale" id="staleBanner"></div>
+
+  <nav class="nav">
+    <a href="#flags">Injury &amp; News</a>
+    <a href="#triage">Roster Triage</a>
+    <a href="#fa">Free Agents</a>
+    <a href="#trades">Trade Alerts</a>
+    <a href="#actions">Action Items</a>
+    <a href="#bold">Bold Move</a>
+  </nav>
+
+  <section id="flags">
+    <div class="sec-head">
+      <div>
+        <h2>🚨 Injury &amp; News Flags</h2>
+        <div class="sec-sub">Affecting my starters, key bench pieces, and trade-corridor targets</div>
+      </div>
+    </div>
+
+    <div class="flag">
+      <div class="flag-top">
+        <span class="flag-name">Alvin Kamara — RB, NO (bench)</span>
+        <span class="chip chip-warn">Week-to-Week</span>
+      </div>
+      <div class="flag-body">MCL sprain kept him out Week 1; he says he's "full-go, no limitations" for Week 2 vs. Baltimore. Bigger issue: newcomer <strong>Travis Etienne now projects as New Orleans' true lead back even once Kamara is fully healthy</strong> — a structural role hit, not just a health scare.</div>
+      <div class="flag-tag">Impact: devalues my RB bench insurance at the position where I'm already thinnest.</div>
+    </div>
+
+    <div class="flag">
+      <div class="flag-top">
+        <span class="flag-name">Rico Dowdle — RB, PIT (bench)</span>
+        <span class="chip chip-neutral">Role Change</span>
+      </div>
+      <div class="flag-body">Week 1 backfield split went clearly to Jaylen Warren (73 all-purpose yards, +5 touches vs. Dowdle's 21 yards on 8 touches). Dowdle looks capped as the complementary back, not a real injury-fill option.</div>
+      <div class="flag-tag">Impact: lowest-value bench RB right now — see drop candidate in Action Items.</div>
+    </div>
+
+    <div class="flag">
+      <div class="flag-top">
+        <span class="flag-name">Kyle Pitts — TE, ATL (bench)</span>
+        <span class="chip chip-good">Positive Signal</span>
+      </div>
+      <div class="flag-body">Signed a 3-year, $54M extension with Atlanta in April — the largest 3-year TE deal in NFL history. He's no longer a trade-away risk for the Falcons; this is a genuine stability signal for a post-hype dynasty buy-low.</div>
+      <div class="flag-tag">Impact: upgrades Pitts' hold value inside my TE depth chart.</div>
+    </div>
+
+    <div class="flag">
+      <div class="flag-top">
+        <span class="flag-name">Darren Waller — TE, CAR (bench)</span>
+        <span class="chip chip-neutral">Monitor</span>
+      </div>
+      <div class="flag-body">Signed only a 1-year "prove it" deal with Carolina in August. No fresh injury, but his track record (hip strain, multiple IR stints) means treat him as a low-reliability TE2, not a trustworthy Andrews injury replacement.</div>
+      <div class="flag-tag">Impact: reinforces TE as a triage-urgent position — see below.</div>
+    </div>
+
+    <div class="flag">
+      <div class="flag-top">
+        <span class="flag-name">Jayden Daniels — QB, WAS (starter)</span>
+        <span class="chip chip-good">Clear</span>
+      </div>
+      <div class="flag-body">No current Week 3 designation found. Fully cleared for 2026 after last year's elbow dislocation ended his 2025 season early — worth a standing watch given that history, but no action needed today.</div>
+      <div class="flag-tag">Impact: none right now; QB stays low-urgency.</div>
+    </div>
+
+    <div class="flag">
+      <div class="flag-top">
+        <span class="flag-name">Saquon Barkley &amp; David Montgomery — RB (starters)</span>
+        <span class="chip chip-good">Clear</span>
+      </div>
+      <div class="flag-body">No current injury designations surfaced for either starter today. Chronic durability risk at age 29 for both remains a standing dynasty-health note, not a today action item.</div>
+      <div class="flag-tag">Impact: none right now; reinforces why RB bench depth still needs upgrading.</div>
+    </div>
+
+    <div class="flag">
+      <div class="flag-top">
+        <span class="flag-name">Sione Vaki — RB, DET (FA target)</span>
+        <span class="chip chip-good">Opportunity Riser</span>
+      </div>
+      <div class="flag-body">Detroit's Isiah Pacheco underwent back surgery with a ~12-week recovery timeline, vaulting Vaki to clear RB2 behind Jahmyr Gibbs. Only 22 snaps / 2 carries in Week 1, but the depth-chart move is real.</div>
+      <div class="flag-tag">Impact: directly informs the Bold Move below.</div>
+    </div>
+
+    <div class="flag">
+      <div class="flag-top">
+        <span class="flag-name">Evan Engram — TE, DEN (FA target)</span>
+        <span class="chip chip-neutral">Tempered</span>
+      </div>
+      <div class="flag-body">Just 42% offensive snaps in 2025, and reporting says he's "not a good bet for a larger role" in 2026 with Jaylen Waddle now in the offense. Solid floor, low ceiling.</div>
+      <div class="flag-tag">Impact: keep expectations modest if added.</div>
+    </div>
+
+    <div class="flag">
+      <div class="flag-top">
+        <span class="flag-name">Tony Pollard — RB, TEN (trade target)</span>
+        <span class="chip chip-warn">Sell-High Window</span>
+      </div>
+      <div class="flag-body">Projected for 12–16 carries/game now, but Tennessee's new staff has younger backs (Tyjae Spears, rookie Nicholas Singleton) waiting. Analysts are already flagging him as a dynasty sell-high.</div>
+      <div class="flag-tag">Impact: strengthens the case to acquire him now while his role is still strong — see Trade Alerts.</div>
+    </div>
+  </section>
+
+  <section id="triage">
+    <div class="sec-head">
+      <div>
+        <h2>📊 Roster Triage</h2>
+        <div class="sec-sub">Most urgent to least urgent, derived fresh from today's roster state</div>
+      </div>
+    </div>
+
+    <div class="triage-item">
+      <div class="triage-top">
+        <div class="rank-badge">1</div>
+        <div class="triage-pos">Running Back</div>
+        <div class="triage-urgency chip chip-danger">Most Urgent</div>
+      </div>
+      <div class="triage-text">Saquon Barkley (29) and David Montgomery (29) are both entering decline windows for the position with real injury histories, and the bench offers no reliable plug-in: Kamara (31) just lost his path to lead-back value to Travis Etienne, Dowdle (28) is buried in a Steelers committee, and the youth (Edwards 23, Davis 27, Allen 22, Brooks 24) is entirely unproven. Win-now floor and dynasty health are both weak — a single starter injury would be a real problem, and I have no clear RB building block for the back half of my 2-year window.</div>
+      <div class="meters">
+        <div class="meter-row"><span>Win-Now Floor</span><div class="meter-track"><div class="meter-fill" style="width:28%;background:var(--danger);"></div></div><span>Low</span></div>
+        <div class="meter-row"><span>Dynasty Health</span><div class="meter-track"><div class="meter-fill" style="width:22%;background:var(--danger);"></div></div><span>Low</span></div>
+      </div>
+    </div>
+
+    <div class="triage-item">
+      <div class="triage-top">
+        <div class="rank-badge">2</div>
+        <div class="triage-pos">Tight End</div>
+        <div class="triage-urgency chip chip-warn">Urgent</div>
+      </div>
+      <div class="triage-text">Mark Andrews (31) carries concussion history and no clean injury replacement behind him: Waller (34) is a one-year rental with a long IR track record, Arroyo (23) is an unproven rookie, and Pitts (25) — despite today's positive contract-stability news in Atlanta — still hasn't proven he's a weekly TE1. Win-now floor is shaky beyond Andrews; dynasty health is mixed, propped up mainly by the Pitts signal.</div>
+      <div class="meters">
+        <div class="meter-row"><span>Win-Now Floor</span><div class="meter-track"><div class="meter-fill" style="width:40%;background:var(--warn);"></div></div><span>Fair</span></div>
+        <div class="meter-row"><span>Dynasty Health</span><div class="meter-track"><div class="meter-fill" style="width:48%;background:var(--warn);"></div></div><span>Fair</span></div>
+      </div>
+    </div>
+
+    <div class="triage-item">
+      <div class="triage-top">
+        <div class="rank-badge low">3</div>
+        <div class="triage-pos">Quarterback</div>
+        <div class="triage-urgency chip chip-neutral">Monitor</div>
+      </div>
+      <div class="triage-text">Jayden Daniels (25) is a foundational dual-threat asset with no current injury designation, backed by a genuinely deep room in Fields (27) and Stafford (38). No action needed, but Daniels' 2025 elbow history earns a standing watch rather than a dismissal.</div>
+      <div class="meters">
+        <div class="meter-row"><span>Win-Now Floor</span><div class="meter-track"><div class="meter-fill" style="width:78%;background:var(--good);"></div></div><span>Good</span></div>
+        <div class="meter-row"><span>Dynasty Health</span><div class="meter-track"><div class="meter-fill" style="width:82%;background:var(--good);"></div></div><span>Good</span></div>
+      </div>
+    </div>
+
+    <div class="triage-item">
+      <div class="triage-top">
+        <div class="rank-badge low">4</div>
+        <div class="triage-pos">Linebacker / Secondary</div>
+        <div class="triage-urgency chip chip-neutral">Stable</div>
+      </div>
+      <div class="triage-text">Baun, Cooper, James, and Hamilton are all productive starters, with McKinney and Walker as capable bench depth. Nothing flagged today; no action required.</div>
+      <div class="meters">
+        <div class="meter-row"><span>Win-Now Floor</span><div class="meter-track"><div class="meter-fill" style="width:74%;background:var(--good);"></div></div><span>Good</span></div>
+        <div class="meter-row"><span>Dynasty Health</span><div class="meter-track"><div class="meter-fill" style="width:66%;background:var(--good);"></div></div><span>Good</span></div>
+      </div>
+    </div>
+
+    <div class="triage-item">
+      <div class="triage-top">
+        <div class="rank-badge low">5</div>
+        <div class="triage-pos">Wide Receiver</div>
+        <div class="triage-urgency chip chip-good">Strength</div>
+      </div>
+      <div class="triage-text">Jefferson, Addison, McLaurin, Lamb, and McConkey give me a stacked flex-eligible corps, with Noel and Harris as capable depth behind them. This is my tradeable surplus — the asset base for patching RB and TE below.</div>
+      <div class="meters">
+        <div class="meter-row"><span>Win-Now Floor</span><div class="meter-track"><div class="meter-fill" style="width:92%;background:var(--good);"></div></div><span>Elite</span></div>
+        <div class="meter-row"><span>Dynasty Health</span><div class="meter-track"><div class="meter-fill" style="width:88%;background:var(--good);"></div></div><span>Elite</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="fa">
+    <div class="sec-head">
+      <div>
+        <h2>🆓 Verified Free Agent Targets</h2>
+        <div class="sec-sub">Cross-checked player-by-player against the CLAUDE.md ownership index — no inference</div>
+      </div>
+    </div>
+
+    <div class="fa-card">
+      <div class="fa-top">
+        <div>
+          <div class="fa-rank">Rank 1 · Addresses RB (#1 weakness)</div>
+          <div class="fa-name">Sione Vaki</div>
+          <div class="fa-meta">RB · DET · Age 25</div>
+        </div>
+      </div>
+      <div class="fa-grid">
+        <div><span>Win-Now Value</span>Speculative but rising — clear RB2 behind Gibbs after Pacheco's 12-week back-surgery absence.</div>
+        <div><span>Dynasty Value</span>Modest but real call-option at 25; a Day-3 pedigree back who's earning legitimate offensive snaps for the first time.</div>
+      </div>
+      <div class="verify">Player ID 11729 — Not found in ownership index — available</div>
+    </div>
+
+    <div class="fa-card">
+      <div class="fa-top">
+        <div>
+          <div class="fa-rank">Rank 2 · Addresses TE (#2 weakness)</div>
+          <div class="fa-name">Evan Engram</div>
+          <div class="fa-meta">TE · DEN · Age 32</div>
+        </div>
+      </div>
+      <div class="fa-grid">
+        <div><span>Win-Now Value</span>Serviceable TE2 floor, but capped role (42% snaps in 2025) with Jaylen Waddle now drawing targets in Denver.</div>
+        <div><span>Dynasty Value</span>None — pure short-term hold at 32. Not aligned with win-now use.</div>
+      </div>
+      <div class="verify">Player ID 4066 — Not found in ownership index — available</div>
+    </div>
+
+    <div class="fa-card">
+      <div class="fa-top">
+        <div>
+          <div class="fa-rank">Rank 3 · Marginal RB depth</div>
+          <div class="fa-name">DeeJay Dallas</div>
+          <div class="fa-meta">RB · MIN · Age 28</div>
+        </div>
+      </div>
+      <div class="fa-grid">
+        <div><span>Win-Now Value</span>Low-upside handcuff/special-teamer; zero-cost roster-clog insurance if Kamara and Dowdle both keep trending down.</div>
+        <div><span>Dynasty Value</span>None — 28-year-old journeyman depth.</div>
+      </div>
+      <div class="verify">Player ID 6931 — Not found in ownership index — available</div>
+    </div>
+
+    <div class="fa-card" style="opacity:.7;">
+      <div class="fa-top">
+        <div>
+          <div class="fa-rank">Discarded — doesn't address a flagged weakness</div>
+          <div class="fa-name">Carson Wentz</div>
+          <div class="fa-meta">QB · MIN · Age 33</div>
+        </div>
+      </div>
+      <div class="fa-grid">
+        <div><span>Reason</span>QB room (Daniels/Fields/Stafford) is already my strongest position — no fit for today's triage.</div>
+        <div><span>Verified</span>ID 3161 confirmed absent from ownership index, listed for completeness only.</div>
+      </div>
+    </div>
+  </section>
+
+  <section id="trades">
+    <div class="sec-head">
+      <div>
+        <h2>🔁 Trade Alerts</h2>
+        <div class="sec-sub">Corridors built from opponent surplus vs. my flagged RB/TE weaknesses</div>
+      </div>
+    </div>
+
+    <div class="trade-card">
+      <div class="trade-head">
+        <div class="trade-opp">Jdunn502 · Roster 10</div>
+        <span class="chip chip-neutral">RB Surplus (8) · Thinnest WR room in the league (7)</span>
+      </div>
+      <div class="flag-body">Jeanty and Skattebo start, but Tony Pollard, Tyrone Tracy, Ray Davis, and MarShawn Lloyd are all buried behind them. Their WR corps (7) is the shallowest of any team carrying RB surplus this league — a real, unforced need I can fill from my own WR depth.</div>
+      <div class="trade-package">
+        <div class="trade-side"><span>I Send</span>Jaylin Noel (WR, 24)<br>Malik Davis (RB, 27)</div>
+        <div class="trade-arrow">⇄</div>
+        <div class="trade-side"><span>I Receive</span>Tony Pollard (RB, TEN, 28)</div>
+      </div>
+      <div class="dynasty-flag">⚠️ <span><strong>Dynasty cost flagged:</strong> Jaylin Noel is 24 — moving him gives up a real dynasty-window asset. Pollard himself carries sell-high risk (Spears/Singleton emerging in TEN), so this deal is a short-term swap on both sides.</span></div>
+      <div class="tradeoff"><strong>Win-Now vs. Dynasty:</strong> Clean Win-Now upgrade — Pollard projects 12–16 touches/game now, directly patching my #1 weakness. Dynasty cost is real and explicitly flagged above.</div>
+    </div>
+
+    <div class="trade-card">
+      <div class="trade-head">
+        <div class="trade-opp">Larz1111 · Roster 5</div>
+        <span class="chip chip-good">Warmest Trade Target · TE Surplus (5) + 6-QB Glut</span>
+      </div>
+      <div class="flag-body">Per my trade intelligence notes, Larz1111 is my father-in-law and the warmest target in the league. He starts Dalton Schultz at TE with four more TEs on the bench, and his 6-QB room (Richardson, Howell, Taylen Green, Ty Simpson buried behind Lamar Jackson/Dak Prescott) is known surplus he's likely motivated to thin.</div>
+      <div class="trade-package">
+        <div class="trade-side"><span>I Send</span>Matthew Stafford (QB, 38)<br>Tre' Harris (WR, 24)</div>
+        <div class="trade-arrow">⇄</div>
+        <div class="trade-side"><span>I Receive</span>Dalton Schultz (TE, HOU)</div>
+      </div>
+      <div class="dynasty-flag">⚠️ <span><strong>Dynasty cost flagged:</strong> Tre' Harris is 24 — moving him gives up a dynasty-window asset. Stafford has none, since he's pure win-now depth I have no path to starting.</span></div>
+      <div class="tradeoff"><strong>Win-Now vs. Dynasty:</strong> Directly solves my TE1 injury-insurance gap with a trustworthy veteran. For Larz1111, Stafford is a real upgrade over Howell/Green/Simpson bench arms, consistent with his own win-now build. Dynasty cost on my side is flagged above.</div>
+    </div>
+  </section>
+
+  <section id="actions">
+    <div class="sec-head">
+      <div>
+        <h2>✅ Roster Action Items</h2>
+        <div class="sec-sub">In priority order — every item is immediately actionable</div>
+      </div>
+    </div>
+    <ol class="action-list">
+      <li><span class="action-label">Add</span> Sione Vaki (RB, DET) off waivers with meaningful FAAB — patches the #1 flagged weakness. <em>(Both — see Bold Move)</em></li>
+      <li><span class="action-label">Drop</span> Rico Dowdle (RB, PIT) to make roster room — clearly buried behind Jaylen Warren after Week 1 usage. <em>(Win-Now, no dynasty value)</em></li>
+      <li><span class="action-label">Add</span> Evan Engram (TE, DEN) — light FAAB bid for TE2 insurance behind Andrews. <em>(Win-Now)</em></li>
+      <li><span class="action-label">Trade</span> Jaylin Noel + Malik Davis for Tony Pollard (Jdunn502) — directly fixes RB floor. <em>(Win-Now — dynasty cost on Noel flagged above)</em></li>
+      <li><span class="action-label">Trade</span> Matthew Stafford + Tre' Harris for Dalton Schultz (Larz1111) — directly fixes TE floor. <em>(Win-Now — dynasty cost on Harris flagged above)</em></li>
+      <li><span class="action-label">Hold</span> Kyle Pitts — new 3-year, $54M Atlanta extension is a genuine stability signal; re-evaluate after a few more games of usage data. <em>(Dynasty Asset)</em></li>
+      <li><span class="action-label">Hold</span> Alvin Kamara through his Week 2 return before making a final call — confirm how much role Etienne actually takes before cutting bait. <em>(Win-Now, watch)</em></li>
+    </ol>
+  </section>
+
+  <section id="bold">
+    <div class="sec-head">
+      <div>
+        <h2>⚡ One Bold Move of the Day</h2>
+      </div>
+    </div>
+    <div class="bold-box">
+      <h3>Overpay for Sione Vaki in FAAB — $30–40 instead of a token bid</h3>
+      <p style="font-size:14px;">Commit a meaningfully larger slice of the $500 FAAB budget than a standard speculative RB add, betting that Isiah Pacheco's ~12-week back-surgery recovery turns into a real complementary role for Vaki behind Jahmyr Gibbs in Detroit — not just a camp-body stopgap. <em>(Both — Win-Now flier with real dynasty optionality at 25)</em></p>
+      <div class="bold-grid">
+        <div class="bold-block"><span>Upside</span><p>A near-zero-cost stash at the exact position I'm thinnest, with real weekly-flex value if the complementary role sticks — and outright dynasty value if Gibbs ever misses time.</p></div>
+        <div class="bold-block"><span>Downside</span><p>Week 1 usage was minimal (22 snaps, 2 carries). If Pacheco returns on schedule or Detroit leans harder into Gibbs as a true 3-down back, Vaki reverts to special teams and the FAAB is sunk.</p></div>
+      </div>
+      <div class="bold-block" style="margin-top:14px;"><span>What needs to be true</span><p>Vaki's snap/carry share needs to keep climbing over the next 2–3 weeks independent of Pacheco's recovery clock — proof the coaching staff trusts him as a real change-of-pace piece, not just next-man-up by default.</p></div>
+    </div>
+  </section>
+
+  <footer>Fantasy Scout · Automated Nightly Audit · Generated 2026-09-19 · Roster ID 9 · FOOTBALL JUNKIES (12-team dynasty IDP)</footer>
+</div>
+
+<script>
+  try {
+    var syncedISOHoursOld = 0.47; // 12:47 PM UTC vs 13:15 PM UTC report run
+    if (syncedISOHoursOld > 3) {
+      var el = document.getElementById('staleBanner');
+      el.style.display = 'block';
+      el.textContent = '⚠️ STALE DATA: Roster state is ' + syncedISOHoursOld.toFixed(1) + ' hours old. Data may not reflect recent adds, drops, or trades. Verify key decisions on Sleeper before acting.';
+    }
+  } catch(e) {}
+</script>
