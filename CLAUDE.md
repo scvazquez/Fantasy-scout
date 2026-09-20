@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-09-19 12:47 PM UTC (auto sync)
+Last synced: 2026-09-20 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -662,11 +662,11 @@ TB
 | RB | Saquon Barkley | RB | PHI | 29 |
 | RB | David Montgomery | RB | HOU | 29 |
 | WR | Justin Jefferson | WR | MIN | 27 |
-| WR | Jordan Addison | WR | MIN | 24 |
+| WR | Ladd McConkey | WR | LAC | 24 |
 | TE | Mark Andrews | TE | BAL | 31 |
 | FLEX | Terry McLaurin | WR | WAS | 31 |
 | FLEX | CeeDee Lamb | WR | DAL | 27 |
-| FLEX | Ladd McConkey | WR | LAC | 24 |
+| FLEX | Rico Dowdle | RB | PIT | 28 |
 | K | Will Reichard | K | MIN | 25 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Zack Baun | LB | PHI | 29 |
@@ -678,6 +678,7 @@ TB
 
 - Donovan Edwards (RB, FA, Age 23, 1 yr exp)
 - Xavier McKinney (DB, GB, Age 28, 6 yr exp)
+- Jordan Addison (WR, MIN, Age 24, 3 yr exp)
 - Darren Waller (TE, CAR, Age 34, 11 yr exp)
 - Alvin Kamara (RB, NO, Age 31, 9 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
@@ -688,7 +689,6 @@ TB
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
 - Quay Walker (LB, LV, Age 26, 4 yr exp)
 - Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
-- Rico Dowdle (RB, PIT, Age 28, 6 yr exp)
 - Tre' Harris (WR, LAC, Age 24, 1 yr exp)
 - Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
 - Kyle Pitts (TE, ATL, Age 25, 5 yr exp)
@@ -758,12 +758,12 @@ TB
 **Starters:**
 - Drake Maye (QB, NE)
 - Kenneth Walker (RB, KC)
-- Rhamondre Stevenson (RB, NE)
+- Jeremiyah Love (RB, ARI)
 - Tetairoa McMillan (WR, CAR)
 - Luther Burden (WR, CHI)
 - Dallas Goedert (TE, PHI)
 - Marvin Harrison (WR, ARI)
-- Jeremiyah Love (RB, ARI)
+- Rhamondre Stevenson (RB, NE)
 - Romeo Doubs (WR, NE)
 - Cam Little (K, JAX)
 - New England Patriots (DEF, NE)
