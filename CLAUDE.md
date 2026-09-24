@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-09-23 12:47 PM UTC (auto sync)
+Last synced: 2026-09-24 12:48 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -659,21 +659,21 @@ SF
 
 | Slot | Player | Pos | Team | Age |
 |------|--------|-----|------|-----|
-| QB | Jayden Daniels | QB | WAS | 25 |
-| RB | Saquon Barkley | RB | PHI | 29 |
+| QB | Matthew Stafford | QB | LAR | 38 |
 | RB | David Montgomery | RB | HOU | 29 |
-| WR | Justin Jefferson | WR | MIN | 27 |
+| RB | Saquon Barkley | RB | PHI | 29 |
+| WR | Terry McLaurin | WR | WAS | 31 |
 | WR | Ladd McConkey | WR | LAC | 24 |
 | TE | Mark Andrews | TE | BAL | 31 |
-| FLEX | Terry McLaurin | WR | WAS | 31 |
 | FLEX | CeeDee Lamb | WR | DAL | 27 |
-| FLEX | Rico Dowdle | RB | PIT | 28 |
+| FLEX | Justin Jefferson | WR | MIN | 27 |
+| FLEX | Jordan Addison | WR | MIN | 24 |
 | K | Will Reichard | K | MIN | 25 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Zack Baun | LB | PHI | 29 |
 | LB | Edgerrin Cooper | LB | GB | 24 |
-| DB | Derwin James | DB | LAC | 30 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
+| DB | Derwin James | DB | LAC | 30 |
 
 ### Bench
 
@@ -681,14 +681,14 @@ SF
 - Darren Waller (TE, CAR, Age 34, 11 yr exp)
 - Donovan Edwards (RB, FA, Age 23, 1 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
+- Jayden Daniels (QB, WAS, Age 25, 2 yr exp)
 - Jaylin Noel (WR, HOU, Age 24, 1 yr exp)
-- Jordan Addison (WR, MIN, Age 24, 3 yr exp)
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
 - Kyle Pitts (TE, ATL, Age 25, 5 yr exp)
 - LeQuint Allen (RB, JAX, Age 22, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
-- Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
 - Quay Walker (LB, LV, Age 26, 4 yr exp)
+- Rico Dowdle (RB, PIT, Age 28, 6 yr exp)
 - Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
 - Tre' Harris (WR, LAC, Age 24, 1 yr exp)
 - Will Anderson (DL, HOU, Age 25, 3 yr exp)
@@ -819,7 +819,7 @@ SF
 - Rome Odunze (WR, CHI)
 - Travis Kelce (TE, KC)
 - Quentin Johnston (WR, LAC)
-- Kayshon Boutte (WR, HOU)
+- Brock Bowers (TE, LV)
 - Matthew Golden (WR, GB)
 - Tyler Loop (K, BAL)
 - Green Bay Packers (DEF, GB)
@@ -844,7 +844,6 @@ SF
 - Antonio Williams (WR, WAS)
 - Bhayshul Tuten (RB, JAX)
 - Brian Thomas (WR, JAX)
-- Brock Bowers (TE, LV)
 - Camden Brown (WR, DAL)
 - Carnell Tate (WR, TEN)
 - Charlie Kolar (TE, LAC)
@@ -855,6 +854,7 @@ SF
 - Ja'Kobi Lane (WR, BAL)
 - Jacob Saylors (RB, DET)
 - Jaxson Dart (QB, NYG)
+- Kayshon Boutte (WR, HOU)
 - Kyle Monangai (RB, CHI)
 - Lewis Bond (WR, HOU)
 - Ricky Pearsall (WR, SF)
