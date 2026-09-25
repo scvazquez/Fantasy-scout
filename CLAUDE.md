@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-09-24 12:48 PM UTC (auto sync)
+Last synced: 2026-09-25 12:49 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -318,6 +318,7 @@ Last synced: 2026-09-24 12:48 PM UTC (auto sync)
 5967
 5995
 6083
+6183
 6217
 6650
 6711
@@ -367,7 +368,6 @@ Last synced: 2026-09-24 12:48 PM UTC (auto sync)
 7715
 7811
 7839
-7841
 8110
 8111
 8112
@@ -402,11 +402,11 @@ Last synced: 2026-09-24 12:48 PM UTC (auto sync)
 8259
 8266
 8267
+8286
 8323
 8329
 8330
 8339
-8392
 8408
 8676
 8698
@@ -495,6 +495,7 @@ Last synced: 2026-09-24 12:48 PM UTC (auto sync)
 11647
 11655
 11678
+11682
 11685
 11687
 11705
@@ -767,7 +768,7 @@ SF
 - Rhamondre Stevenson (RB, NE)
 - Romeo Doubs (WR, NE)
 - Cam Little (K, JAX)
-- New England Patriots (DEF, NE)
+- Cincinnati Bengals (DEF, CIN)
 - Carson Schwesinger (LB, CLE)
 - Blake Cashman (LB, MIN)
 - Travis Hunter (DB, JAX)
@@ -789,7 +790,6 @@ SF
 **Bench depth:**
 - Blake Corum (RB, LAR)
 - Carson Beck (QB, ARI)
-- Cincinnati Bengals (DEF, CIN)
 - Dallas Goedert (TE, PHI)
 - Dontayvion Wicks (WR, PHI)
 - Eli Raridon (TE, NE)
@@ -801,6 +801,7 @@ SF
 - Jayden Higgins (WR, HOU)
 - Kyle Williams (WR, NE)
 - Marvin Harrison (WR, ARI)
+- New England Patriots (DEF, NE)
 - Nicholas Singleton (RB, TEN)
 - Pat Bryant (WR, DEN)
 - Raheim Sanders (RB, CLE)
@@ -816,16 +817,16 @@ SF
 - James Cook (RB, BUF)
 - Jadarian Price (RB, SEA)
 - Devaughn Vele (WR, NO)
-- Rome Odunze (WR, CHI)
+- Matthew Golden (WR, GB)
 - Travis Kelce (TE, KC)
 - Quentin Johnston (WR, LAC)
 - Brock Bowers (TE, LV)
-- Matthew Golden (WR, GB)
+- Bhayshul Tuten (RB, JAX)
 - Tyler Loop (K, BAL)
 - Green Bay Packers (DEF, GB)
 - Jordyn Brooks (LB, MIA)
 - Sonny Styles (LB, WAS)
-- Nick Cross (DB, WAS)
+- Cole Bishop (DB, BUF)
 - Dillon Thieneman (DB, CHI)
 
 **QB Room (3 QBs):**
@@ -842,7 +843,6 @@ SF
 
 **Bench depth:**
 - Antonio Williams (WR, WAS)
-- Bhayshul Tuten (RB, JAX)
 - Brian Thomas (WR, JAX)
 - Camden Brown (WR, DAL)
 - Carnell Tate (WR, TEN)
@@ -858,6 +858,7 @@ SF
 - Kyle Monangai (RB, CHI)
 - Lewis Bond (WR, HOU)
 - Ricky Pearsall (WR, SF)
+- Rome Odunze (WR, CHI)
 - Tyjae Spears (RB, TEN)
 - Woody Marks (RB, HOU)
 - Zaire Franklin (LB, GB)
@@ -929,7 +930,7 @@ SF
 - Parker Washington (WR, JAX)
 - Cameron Dicker (K, LAC)
 - Jacksonville Jaguars (DEF, JAX)
-- Jamien Sherwood (LB, NYJ)
+- Andrew Van Ginkel (LB, MIN)
 - Alex Singleton (LB, DEN)
 - Tykee Smith (DB, TB)
 - Cooper DeJean (DB, PHI)
@@ -986,18 +987,20 @@ SF
 - Foyesade Oluokun (LB, JAX)
 - Ernest Jones (LB, SEA)
 - Jaquan Brisker (DB, PIT)
-- Avieon Terrell (DB, ATL)
+- Dax Hill (DB, CIN)
 
 **QB Room (2 QBs):**
 - Jalen Hurts (PHI)
 - Josh Allen (BUF)
 
 **Positional Surplus (3+ players at same position):**
+- DB (3): Avieon Terrell, Dax Hill, Jaquan Brisker
 - LB (4): Ernest Jones, Foyesade Oluokun, Nick Bolton, Robert Spillane
 - RB (3): Bijan Robinson, Jacory Croskey-Merritt, Josh Jacobs
 - WR (8): Chris Godwin, DK Metcalf, Jaylen Waddle, Josh Downs, Kalif Raymond, Michael Pittman, Stefon Diggs, Tee Higgins
 
 **Bench depth:**
+- Avieon Terrell (DB, ATL)
 - Chase McLaughlin (K, TB)
 - Jalen Hurts (QB, PHI)
 - Josh Downs (WR, IND)
