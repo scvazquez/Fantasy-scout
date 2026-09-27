@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-09-26 12:47 PM UTC (auto sync)
+Last synced: 2026-09-27 12:48 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -311,7 +311,6 @@ Last synced: 2026-09-26 12:47 PM UTC (auto sync)
 5864
 5870
 5872
-5876
 5892
 5927
 5947
@@ -499,6 +498,7 @@ Last synced: 2026-09-26 12:47 PM UTC (auto sync)
 11685
 11687
 11705
+11731
 11742
 11783
 11786
@@ -531,6 +531,7 @@ Last synced: 2026-09-26 12:47 PM UTC (auto sync)
 12507
 12508
 12509
+12510
 12511
 12512
 12514
@@ -629,6 +630,7 @@ Last synced: 2026-09-26 12:47 PM UTC (auto sync)
 13423
 13424
 13425
+13477
 13533
 13541
 13545
@@ -880,7 +882,7 @@ SF
 - Ventrell Miller (LB, JAX)
 - Daiyan Henley (LB, LAC)
 - Jalen Thompson (DB, DAL)
-- Julian Love (DB, SEA)
+- Malik Mustapha (DB, SF)
 
 **QB Room (4 QBs):**
 - Fernando Mendoza (LV)
@@ -935,19 +937,20 @@ SF
 - Tykee Smith (DB, TB)
 - Cooper DeJean (DB, PHI)
 
-**QB Room (6 QBs):**
+**QB Room (7 QBs):**
 - Anthony Richardson (IND)
 - Dak Prescott (DAL)
+- Jalen Milroe (SEA)
 - Lamar Jackson (BAL)
 - Sam Howell (DAL)
 - Taylen Green (CLE)
 - Ty Simpson (LAR)
 
 **Positional Surplus (3+ players at same position):**
-- QB (6): Anthony Richardson, Dak Prescott, Lamar Jackson, Sam Howell, Taylen Green, Ty Simpson
+- QB (7): Anthony Richardson, Dak Prescott, Jalen Milroe, Lamar Jackson, Sam Howell, Taylen Green, Ty Simpson
 - RB (8): Brian Robinson, Chuba Hubbard, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
 - TE (5): Cade Otton, Chig Okonkwo, Dalton Schultz, Michael Mayer, Terrance Ferguson
-- WR (9): Alec Pierce, Elijah Sarratt, Jahan Dotson, Jalen Coker, Jaxon Smith-Njigba, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
+- WR (10): Alec Pierce, Colbie Young, Elijah Sarratt, Jahan Dotson, Jalen Coker, Jaxon Smith-Njigba, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
 
 **Bench depth:**
 - Alec Pierce (WR, IND)
@@ -955,9 +958,11 @@ SF
 - Brian Robinson (RB, ATL)
 - Cade Otton (TE, TB)
 - Chig Okonkwo (TE, WAS)
+- Colbie Young (WR, CIN)
 - Dak Prescott (QB, DAL)
 - Elijah Sarratt (WR, BAL)
 - Jahan Dotson (WR, ATL)
+- Jalen Milroe (QB, SEA)
 - Jonah Coleman (RB, DEN)
 - Jonathon Brooks (RB, CAR)
 - Kaelon Black (RB, SF)
@@ -1136,7 +1141,7 @@ SF
 - Trey Smack (K, GB)
 - Kansas City Chiefs (DEF, KC)
 - T.J. Watt (LB, PIT)
-- Josiah Trotter (LB, TB)
+- Anthony Hill (LB, TEN)
 - Talanoa Hufanga (DB, DEN)
 - Kamari Lassiter (DB, HOU)
 
@@ -1158,7 +1163,6 @@ SF
 - WR (7): Caleb Douglas, Chris Bell, Christian Watson, Ja'Marr Chase, Jalen McMillan, Jordyn Tyson, Malik Nabers
 
 **Bench depth:**
-- Anthony Hill (LB, TEN)
 - Cade Klubnik (QB, NYJ)
 - Cam Ward (QB, TEN)
 - Chris Bell (WR, MIA)
@@ -1168,6 +1172,7 @@ SF
 - Jalen McMillan (WR, TB)
 - Jalon Daniels (QB, TB)
 - Jordyn Tyson (WR, NO)
+- Josiah Trotter (LB, TB)
 - Kyler Murray (QB, MIN)
 - MarShawn Lloyd (RB, GB)
 - Oscar Delp (TE, NO)
