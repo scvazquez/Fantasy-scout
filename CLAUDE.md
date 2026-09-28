@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-09-27 12:48 PM UTC (auto sync)
+Last synced: 2026-09-28 12:48 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -514,7 +514,6 @@ Last synced: 2026-09-27 12:48 PM UTC (auto sync)
 12482
 12483
 12484
-12486
 12487
 12489
 12490
@@ -710,7 +709,7 @@ SF
 - Joe Burrow (QB, CIN)
 - Jahmyr Gibbs (RB, DET)
 - Bucky Irving (RB, TB)
-- Puka Nacua (WR, LAR)
+- Ted Hurst (WR, TB)
 - DeVonta Smith (WR, PHI)
 - George Kittle (TE, SF)
 - TreVeyon Henderson (RB, NE)
@@ -740,22 +739,19 @@ SF
 - Chris Brazzell (WR, CAR)
 - Emari Demercado (RB, DAL)
 - Isaac TeSlaa (WR, DET)
-- J'Mari Taylor (RB, JAX)
 - Jake Tonges (TE, SF)
 - Jalen Brooks (WR, ARI)
 - Jayden Reed (WR, GB)
 - Jaydon Blue (RB, PHI)
 - Jordan Love (QB, GB)
-- Malik Benson (WR, LV)
 - Ollie Gordon (RB, MIA)
+- Puka Nacua (WR, LAR)
 - Savion Williams (WR, GB)
 - Shedeur Sanders (QB, CLE)
 - Skyler Bell (WR, BUF)
-- Ted Hurst (WR, TB)
 - Tory Horton (WR, SEA)
 - Tutu Atwell (WR, LAR)
 - Tyreek Hill (WR, FA)
-- Zavion Thomas (WR, CHI)
 
 ### JQuinna10 (Roster 2)
 
@@ -791,11 +787,8 @@ SF
 
 **Bench depth:**
 - Blake Corum (RB, LAR)
-- Carson Beck (QB, ARI)
 - Dallas Goedert (TE, PHI)
 - Dontayvion Wicks (WR, PHI)
-- Eli Raridon (TE, NE)
-- Eli Stowers (TE, PHI)
 - Emmett Johnson (RB, KC)
 - Houston Texans (DEF, HOU)
 - Jacoby Brissett (QB, ARI)
@@ -831,14 +824,12 @@ SF
 - Cole Bishop (DB, BUF)
 - Dillon Thieneman (DB, CHI)
 
-**QB Room (3 QBs):**
-- Dillon Gabriel (CLE)
+**QB Room (2 QBs):**
 - Jared Goff (DET)
 - Jaxson Dart (NYG)
 
 **Positional Surplus (3+ players at same position):**
 - LB (3): Jordyn Brooks, Sonny Styles, Zaire Franklin
-- QB (3): Dillon Gabriel, Jared Goff, Jaxson Dart
 - RB (7): Bhayshul Tuten, Jacob Saylors, Jadarian Price, James Cook, Kyle Monangai, Tyjae Spears, Woody Marks
 - TE (3): Brock Bowers, Charlie Kolar, Travis Kelce
 - WR (15): Antonio Williams, Brian Thomas, Camden Brown, Carnell Tate, Darius Cooper, Devaughn Vele, Dohnte Meyers, Isaiah Williams, Ja'Kobi Lane, Kayshon Boutte, Lewis Bond, Matthew Golden, Quentin Johnston, Ricky Pearsall, Rome Odunze
@@ -846,14 +837,11 @@ SF
 **Bench depth:**
 - Antonio Williams (WR, WAS)
 - Brian Thomas (WR, JAX)
-- Camden Brown (WR, DAL)
 - Carnell Tate (WR, TEN)
 - Charlie Kolar (TE, LAC)
 - Darius Cooper (WR, PHI)
-- Dillon Gabriel (QB, CLE)
 - Dohnte Meyers (WR, CIN)
 - Isaiah Williams (WR, NYJ)
-- Ja'Kobi Lane (WR, BAL)
 - Jacob Saylors (RB, DET)
 - Jaxson Dart (QB, NYG)
 - Kayshon Boutte (WR, HOU)
@@ -872,10 +860,10 @@ SF
 - RJ Harvey (RB, DEN)
 - Tank Bigsby (RB, PHI)
 - KC Concepcion (WR, CLE)
-- Adonai Mitchell (WR, NYJ)
-- Oronde Gadsden (TE, LAC)
-- Jack Bech (WR, LV)
 - Tre Tucker (WR, LV)
+- Oronde Gadsden (TE, LAC)
+- Kenyon Sadiq (TE, NYJ)
+- Keon Coleman (WR, BUF)
 - Rashod Bateman (WR, BAL)
 - Cairo Santos (K, CHI)
 - Dallas Cowboys (DEF, DAL)
@@ -897,6 +885,7 @@ SF
 - WR (13): Adonai Mitchell, Calvin Ridley, Demarcus Robinson, Germie Bernard, Jack Bech, Josh Cameron, KC Concepcion, Keon Coleman, Malachi Fields, Omar Cooper, Rashod Bateman, Tre Tucker, Troy Franklin
 
 **Bench depth:**
+- Adonai Mitchell (WR, NYJ)
 - Braelon Allen (RB, NYJ)
 - Calvin Ridley (WR, TEN)
 - Darnell Washington (TE, PIT)
@@ -904,17 +893,13 @@ SF
 - Demond Claiborne (RB, MIN)
 - Dylan Sampson (RB, CLE)
 - Fernando Mendoza (QB, LV)
-- Germie Bernard (WR, PIT)
-- Josh Cameron (WR, JAX)
+- Jack Bech (WR, LV)
 - Kaleb Johnson (RB, GB)
 - Kaytron Allen (RB, WAS)
 - Kendre Miller (RB, NO)
-- Kenyon Sadiq (TE, NYJ)
-- Keon Coleman (WR, BUF)
 - Malachi Fields (WR, NYG)
 - Malik Willis (QB, MIA)
 - Michael Penix (QB, ATL)
-- Omar Cooper (WR, NYJ)
 - Roschon Johnson (RB, CHI)
 - Troy Franklin (WR, DEN)
 
@@ -960,7 +945,6 @@ SF
 - Chig Okonkwo (TE, WAS)
 - Colbie Young (WR, CIN)
 - Dak Prescott (QB, DAL)
-- Elijah Sarratt (WR, BAL)
 - Jahan Dotson (WR, ATL)
 - Jalen Milroe (QB, SEA)
 - Jonah Coleman (RB, DEN)
@@ -970,9 +954,7 @@ SF
 - Makai Lemon (WR, PHI)
 - Michael Mayer (TE, LV)
 - Sam Howell (QB, DAL)
-- Taylen Green (QB, CLE)
 - Terrance Ferguson (TE, LAR)
-- Ty Simpson (QB, LAR)
 - Wan'Dale Robinson (WR, TEN)
 
 ### DopeOne83 (Roster 6)
@@ -1052,7 +1034,6 @@ SF
 - Bryce Lance (WR, NO)
 - Caleb Williams (QB, CHI)
 - Denver Broncos (DEF, DEN)
-- Drew Allar (QB, PIT)
 - Emanuel Wilson (RB, SEA)
 - Gunnar Helm (TE, TEN)
 - J.K. Dobbins (RB, DEN)
@@ -1064,8 +1045,6 @@ SF
 - Mack Hollins (WR, NE)
 - Malik Washington (WR, MIA)
 - Marlin Klein (TE, HOU)
-- Matt Hibner (TE, BAL)
-- Max Klare (TE, LAR)
 - Pittsburgh Steelers (DEF, PIT)
 - Rashid Shaheed (WR, SEA)
 - Sam Darnold (QB, SEA)
@@ -1120,11 +1099,9 @@ SF
 - Jerry Jeudy (WR, CLE)
 - Kirk Cousins (QB, LV)
 - Mason Taylor (TE, NYJ)
-- Mike Washington (RB, LV)
 - Pat Freiermuth (TE, PIT)
 - Tank Dell (WR, HOU)
 - Xavier Worthy (WR, KC)
-- Zachariah Branch (WR, ATL)
 
 ### Jdunn502 (Roster 10)
 
@@ -1137,7 +1114,7 @@ SF
 - Colston Loveland (TE, CHI)
 - Tucker Kraft (TE, GB)
 - Christian Watson (WR, GB)
-- Caleb Douglas (WR, MIA)
+- Tony Pollard (RB, TEN)
 - Trey Smack (K, GB)
 - Kansas City Chiefs (DEF, KC)
 - T.J. Watt (LB, PIT)
@@ -1164,10 +1141,10 @@ SF
 
 **Bench depth:**
 - Cade Klubnik (QB, NYJ)
+- Caleb Douglas (WR, MIA)
 - Cam Ward (QB, TEN)
 - Chris Bell (WR, MIA)
 - Chris Rodriguez (RB, JAX)
-- Cole Payton (QB, PHI)
 - Deshaun Watson (QB, CLE)
 - Jalen McMillan (WR, TB)
 - Jalon Daniels (QB, TB)
@@ -1175,12 +1152,9 @@ SF
 - Josiah Trotter (LB, TB)
 - Kyler Murray (QB, MIN)
 - MarShawn Lloyd (RB, GB)
-- Oscar Delp (TE, NO)
 - Ray Davis (RB, BUF)
 - San Francisco 49ers (DEF, SF)
-- Seth McGowan (RB, IND)
 - Theo Johnson (TE, NYG)
-- Tony Pollard (RB, TEN)
 - Tyrone Tracy (RB, NYG)
 - Will Howard (QB, PIT)
 
@@ -1218,8 +1192,6 @@ SF
 **Bench depth:**
 - A.J. Brown (WR, NE)
 - Arvell Reese (LB, NYG)
-- Brenen Thompson (WR, LAC)
-- CJ Daniels (WR, LAR)
 - Courtland Sutton (WR, DEN)
 - DJ Giddens (RB, IND)
 - David Njoku (TE, LAC)
@@ -1230,7 +1202,6 @@ SF
 - Kevin Coleman (WR, MIA)
 - Micah Parsons (LB, GB)
 - Mike Gesicki (TE, CIN)
-- Nate Boerkircher (TE, JAX)
 - Ryan Flournoy (WR, DAL)
 - Sean Tucker (RB, TB)
 - Trey Benson (RB, ARI)
@@ -1274,8 +1245,6 @@ SF
 - Chimere Dike (WR, TEN)
 - Cooper Kupp (WR, SEA)
 - Darnell Mooney (WR, NYG)
-- De'Zhaun Stribling (WR, SF)
-- Eli Heidenreich (RB, PIT)
 - George Holani (RB, SEA)
 - Isaiah Davis (RB, NYJ)
 - J.J. McCarthy (QB, MIN)
@@ -1283,7 +1252,6 @@ SF
 - Justice Hill (RB, BAL)
 - Kimani Vidal (RB, LAC)
 - Mac Jones (QB, SF)
-- Michael Trigg (TE, DAL)
 - Minnesota Vikings (DEF, MIN)
 - Najee Harris (RB, NYG)
 - Odell Beckham (WR, NYG)
