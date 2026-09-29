@@ -866,11 +866,11 @@ SF
 **Starters:**
 - Trevor Lawrence (QB, JAX)
 - RJ Harvey (RB, DEN)
-- Tank Bigsby (RB, PHI)
+- Braelon Allen (RB, NYJ)
 - KC Concepcion (WR, CLE)
 - Tre Tucker (WR, LV)
-- Oronde Gadsden (TE, LAC)
 - Kenyon Sadiq (TE, NYJ)
+- Tank Bigsby (RB, PHI)
 - Keon Coleman (WR, BUF)
 - Rashod Bateman (WR, BAL)
 - Cairo Santos (K, CHI)
@@ -894,7 +894,6 @@ SF
 
 **Bench depth:**
 - Adonai Mitchell (WR, NYJ)
-- Braelon Allen (RB, NYJ)
 - Calvin Ridley (WR, TEN)
 - Darnell Washington (TE, PIT)
 - Demarcus Robinson (WR, SF)
@@ -913,7 +912,6 @@ SF
 - Omar Cooper (WR, NYJ)
 - Oronde Gadsden (TE, LAC)
 - Roschon Johnson (RB, CHI)
-- Tank Bigsby (RB, PHI)
 - Troy Franklin (WR, DEN)
 
 ### Larz1111 (Roster 5)
