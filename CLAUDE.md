@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-09-30 12:46 PM UTC (auto sync)
+Last synced: 2026-10-01 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -298,6 +298,7 @@ Last synced: 2026-09-30 12:46 PM UTC (auto sync)
 5022
 5041
 5045
+5189
 5332
 5346
 5726
@@ -315,8 +316,9 @@ Last synced: 2026-09-30 12:46 PM UTC (auto sync)
 5967
 5995
 6083
-6183
 6217
+6416
+6485
 6650
 6711
 6768
@@ -457,7 +459,6 @@ Last synced: 2026-09-30 12:46 PM UTC (auto sync)
 11370
 11435
 11533
-11539
 11559
 11560
 11563
@@ -495,7 +496,6 @@ Last synced: 2026-09-30 12:46 PM UTC (auto sync)
 11655
 11678
 11682
-11685
 11687
 11705
 11731
@@ -632,6 +632,7 @@ Last synced: 2026-09-30 12:46 PM UTC (auto sync)
 13423
 13424
 13425
+13453
 13477
 13533
 13541
@@ -640,7 +641,7 @@ Last synced: 2026-09-30 12:46 PM UTC (auto sync)
 BAL
 CAR
 CIN
-DAL
+CLE
 DEN
 DET
 GB
@@ -664,14 +665,14 @@ SF
 | Slot | Player | Pos | Team | Age |
 |------|--------|-----|------|-----|
 | QB | Matthew Stafford | QB | LAR | 38 |
-| RB | David Montgomery | RB | HOU | 29 |
 | RB | Saquon Barkley | RB | PHI | 29 |
+| RB | David Montgomery | RB | HOU | 29 |
+| WR | CeeDee Lamb | WR | DAL | 27 |
 | WR | Terry McLaurin | WR | WAS | 31 |
-| WR | Ladd McConkey | WR | LAC | 24 |
 | TE | Mark Andrews | TE | BAL | 31 |
-| FLEX | CeeDee Lamb | WR | DAL | 27 |
-| FLEX | Justin Jefferson | WR | MIN | 27 |
+| FLEX | Ladd McConkey | WR | LAC | 24 |
 | FLEX | Jordan Addison | WR | MIN | 24 |
+| FLEX | Darren Waller | TE | CAR | 34 |
 | K | Will Reichard | K | MIN | 25 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Zack Baun | LB | PHI | 29 |
@@ -682,12 +683,12 @@ SF
 ### Bench
 
 - Alvin Kamara (RB, NO, Age 31, 9 yr exp)
-- Darren Waller (TE, CAR, Age 34, 11 yr exp)
 - Donovan Edwards (RB, FA, Age 23, 1 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
 - Jayden Daniels (QB, WAS, Age 25, 2 yr exp)
 - Jaylin Noel (WR, HOU, Age 24, 1 yr exp)
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
+- Justin Jefferson (WR, MIN, Age 27, 6 yr exp)
 - Kyle Pitts (TE, ATL, Age 25, 5 yr exp)
 - LeQuint Allen (RB, JAX, Age 22, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
@@ -711,13 +712,13 @@ SF
 - Joe Burrow (QB, CIN)
 - Jahmyr Gibbs (RB, DET)
 - Bucky Irving (RB, TB)
-- Ted Hurst (WR, TB)
+- Puka Nacua (WR, LAR)
 - DeVonta Smith (WR, PHI)
 - George Kittle (TE, SF)
 - TreVeyon Henderson (RB, NE)
 - DJ Moore (WR, BUF)
 - Michael Wilson (WR, ARI)
-- Jake Bates (K, DET)
+- Eddy Pineiro (K, SF)
 - Los Angeles Rams (DEF, LAR)
 - Nakobe Dean (LB, LV)
 - Devin Lloyd (LB, CAR)
@@ -749,10 +750,10 @@ SF
 - Jordan Love (QB, GB)
 - Malik Benson (WR, LV)
 - Ollie Gordon (RB, MIA)
-- Puka Nacua (WR, LAR)
 - Savion Williams (WR, GB)
 - Shedeur Sanders (QB, CLE)
 - Skyler Bell (WR, BUF)
+- Ted Hurst (WR, TB)
 - Tory Horton (WR, SEA)
 - Tutu Atwell (WR, LAR)
 - Tyreek Hill (WR, FA)
@@ -876,7 +877,7 @@ SF
 - Keon Coleman (WR, BUF)
 - Rashod Bateman (WR, BAL)
 - Cairo Santos (K, CHI)
-- Dallas Cowboys (DEF, DAL)
+- Cleveland Browns (DEF, CLE)
 - Ventrell Miller (LB, JAX)
 - Daiyan Henley (LB, LAC)
 - Jalen Thompson (DB, DAL)
@@ -931,7 +932,7 @@ SF
 - Parker Washington (WR, JAX)
 - Cameron Dicker (K, LAC)
 - Jacksonville Jaguars (DEF, JAX)
-- Andrew Van Ginkel (LB, MIN)
+- Azeez Al-Shaair (LB, HOU)
 - Alex Singleton (LB, DEN)
 - Tykee Smith (DB, TB)
 - Cooper DeJean (DB, PHI)
@@ -1032,6 +1033,7 @@ SF
 - Greg Rousseau (DE, BUF)
 - Jihaad Campbell (LB, PHI)
 - Quentin Lake (DB, LAR)
+- Evan Williams (DB, GB)
 
 **QB Room (4 QBs):**
 - Caleb Williams (CHI)
@@ -1054,7 +1056,6 @@ SF
 - Denver Broncos (DEF, DEN)
 - Drew Allar (QB, PIT)
 - Emanuel Wilson (RB, SEA)
-- Evan Williams (DB, GB)
 - Gunnar Helm (TE, TEN)
 - Jaylen Wright (RB, MIA)
 - Jordan Mason (RB, MIN)
@@ -1143,7 +1144,7 @@ SF
 - T.J. Watt (LB, PIT)
 - Josiah Trotter (LB, TB)
 - Talanoa Hufanga (DB, DEN)
-- Kamari Lassiter (DB, HOU)
+- Andrew Wingard (DB, ARI)
 
 **QB Room (8 QBs):**
 - Cade Klubnik (NYJ)
@@ -1156,7 +1157,7 @@ SF
 - Will Howard (PIT)
 
 **Positional Surplus (3+ players at same position):**
-- LB (3): Anthony Hill, Josiah Trotter, T.J. Watt
+- LB (4): Anthony Hill, Jacob Rodriguez, Josiah Trotter, T.J. Watt
 - QB (8): Cade Klubnik, Cam Ward, Cole Payton, Deshaun Watson, Geno Smith, Jalon Daniels, Kyler Murray, Will Howard
 - RB (8): Ashton Jeanty, Cam Skattebo, Chris Rodriguez, MarShawn Lloyd, Ray Davis, Seth McGowan, Tony Pollard, Tyrone Tracy
 - TE (4): Colston Loveland, Oscar Delp, Theo Johnson, Tucker Kraft
@@ -1171,6 +1172,7 @@ SF
 - Chris Rodriguez (RB, JAX)
 - Cole Payton (QB, PHI)
 - Deshaun Watson (QB, CLE)
+- Jacob Rodriguez (LB, MIA)
 - Jalen McMillan (WR, TB)
 - Jalon Daniels (QB, TB)
 - Jordyn Tyson (WR, NO)
@@ -1286,7 +1288,7 @@ SF
 - Michael Trigg (TE, DAL)
 - Minnesota Vikings (DEF, MIN)
 - Najee Harris (RB, NYG)
-- Odell Beckham (WR, NYG)
+- Odell Beckham (WR, FA)
 - Roman Wilson (WR, PIT)
 - Samaje Perine (RB, CIN)
 
