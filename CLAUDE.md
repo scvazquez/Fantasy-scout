@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-01 12:46 PM UTC (auto sync)
+Last synced: 2026-10-02 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -301,7 +301,6 @@ Last synced: 2026-10-01 12:46 PM UTC (auto sync)
 5189
 5332
 5346
-5726
 5843
 5844
 5846
@@ -310,6 +309,7 @@ Last synced: 2026-10-01 12:46 PM UTC (auto sync)
 5859
 5870
 5872
+5876
 5892
 5927
 5947
@@ -320,7 +320,6 @@ Last synced: 2026-10-01 12:46 PM UTC (auto sync)
 6416
 6485
 6650
-6711
 6768
 6770
 6783
@@ -617,7 +616,6 @@ Last synced: 2026-10-01 12:46 PM UTC (auto sync)
 13377
 13379
 13380
-13389
 13394
 13401
 13402
@@ -672,7 +670,7 @@ SF
 | TE | Mark Andrews | TE | BAL | 31 |
 | FLEX | Ladd McConkey | WR | LAC | 24 |
 | FLEX | Jordan Addison | WR | MIN | 24 |
-| FLEX | Darren Waller | TE | CAR | 34 |
+| FLEX | Alvin Kamara | RB | NO | 31 |
 | K | Will Reichard | K | MIN | 25 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Zack Baun | LB | PHI | 29 |
@@ -682,7 +680,7 @@ SF
 
 ### Bench
 
-- Alvin Kamara (RB, NO, Age 31, 9 yr exp)
+- Darren Waller (TE, CAR, Age 34, 11 yr exp)
 - Donovan Edwards (RB, FA, Age 23, 1 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
 - Jayden Daniels (QB, WAS, Age 25, 2 yr exp)
@@ -766,9 +764,9 @@ SF
 - Kenneth Walker (RB, KC)
 - Jeremiyah Love (RB, ARI)
 - Tetairoa McMillan (WR, CAR)
-- Luther Burden (WR, CHI)
-- T.J. Hockenson (TE, MIN)
 - Denzel Boston (WR, CLE)
+- T.J. Hockenson (TE, MIN)
+- Luther Burden (WR, CHI)
 - Rhamondre Stevenson (RB, NE)
 - Romeo Doubs (WR, NE)
 - Cam Little (K, JAX)
@@ -819,7 +817,7 @@ SF
 **Starters:**
 - Jared Goff (QB, DET)
 - James Cook (RB, BUF)
-- Jadarian Price (RB, SEA)
+- Kyle Monangai (RB, CHI)
 - Devaughn Vele (WR, NO)
 - Matthew Golden (WR, GB)
 - Travis Kelce (TE, KC)
@@ -854,9 +852,9 @@ SF
 - Isaiah Williams (WR, NYJ)
 - Ja'Kobi Lane (WR, BAL)
 - Jacob Saylors (RB, DET)
+- Jadarian Price (RB, SEA)
 - Jaxson Dart (QB, NYG)
 - Kayshon Boutte (WR, HOU)
-- Kyle Monangai (RB, CHI)
 - Lewis Bond (WR, HOU)
 - Ricky Pearsall (WR, SF)
 - Rome Odunze (WR, CHI)
@@ -880,7 +878,7 @@ SF
 - Cleveland Browns (DEF, CLE)
 - Ventrell Miller (LB, JAX)
 - Daiyan Henley (LB, LAC)
-- Jalen Thompson (DB, DAL)
+- Julian Love (DB, SEA)
 - Malik Mustapha (DB, SF)
 
 **QB Room (4 QBs):**
@@ -984,13 +982,13 @@ SF
 - Tee Higgins (WR, CIN)
 - Jaylen Waddle (WR, DEN)
 - Trey McBride (TE, ARI)
-- Chris Godwin (WR, TB)
 - DK Metcalf (WR, PIT)
+- Josh Downs (WR, IND)
 - Stefon Diggs (WR, WAS)
 - Evan McPherson (K, CIN)
 - Seattle Seahawks (DEF, SEA)
 - Foyesade Oluokun (LB, JAX)
-- Ernest Jones (LB, SEA)
+- Nick Bolton (LB, KC)
 - Jaquan Brisker (DB, PIT)
 - Dax Hill (DB, CIN)
 
@@ -999,22 +997,19 @@ SF
 - Josh Allen (BUF)
 
 **Positional Surplus (3+ players at same position):**
-- DB (3): Avieon Terrell, Dax Hill, Jaquan Brisker
-- LB (4): Ernest Jones, Foyesade Oluokun, Nick Bolton, Robert Spillane
+- LB (3): Ernest Jones, Foyesade Oluokun, Nick Bolton
 - RB (3): Bijan Robinson, Jacory Croskey-Merritt, Josh Jacobs
 - WR (8): Chris Godwin, DK Metcalf, Jaylen Waddle, Josh Downs, Kalif Raymond, Michael Pittman, Stefon Diggs, Tee Higgins
 
 **Bench depth:**
-- Avieon Terrell (DB, ATL)
 - Chase McLaughlin (K, TB)
+- Chris Godwin (WR, TB)
+- Ernest Jones (LB, SEA)
 - Jalen Hurts (QB, PHI)
-- Josh Downs (WR, IND)
 - Josh Jacobs (RB, GB)
 - Juwan Johnson (TE, NO)
 - Kalif Raymond (WR, CHI)
 - Michael Pittman (WR, PIT)
-- Nick Bolton (LB, KC)
-- Robert Spillane (LB, NE)
 
 ### Darkkaze (Roster 7)
 
@@ -1027,7 +1022,7 @@ SF
 - Tyler Warren (TE, IND)
 - Drake London (WR, ATL)
 - J.K. Dobbins (RB, DEN)
-- Malik Washington (WR, MIA)
+- Mack Hollins (WR, NE)
 - Ka'imi Fairbairn (K, HOU)
 - Pittsburgh Steelers (DEF, PIT)
 - Greg Rousseau (DE, BUF)
@@ -1062,7 +1057,7 @@ SF
 - Keenan Allen (WR, IND)
 - Kenny Gainwell (RB, TB)
 - Khalil Shakir (WR, BUF)
-- Mack Hollins (WR, NE)
+- Malik Washington (WR, MIA)
 - Marlin Klein (TE, HOU)
 - Matt Hibner (TE, BAL)
 - Max Klare (TE, LAR)
