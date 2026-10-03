@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-02 12:47 PM UTC (auto sync)
+Last synced: 2026-10-03 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -246,7 +246,6 @@ Last synced: 2026-10-02 12:47 PM UTC (auto sync)
 96
 421
 1166
-1339
 1373
 1466
 1479
@@ -263,6 +262,7 @@ Last synced: 2026-10-02 12:47 PM UTC (auto sync)
 3198
 3214
 3257
+3271
 3286
 3294
 3321
@@ -283,6 +283,7 @@ Last synced: 2026-10-02 12:47 PM UTC (auto sync)
 4199
 4217
 4227
+4663
 4866
 4881
 4892
@@ -318,7 +319,6 @@ Last synced: 2026-10-02 12:47 PM UTC (auto sync)
 6083
 6217
 6416
-6485
 6650
 6768
 6770
@@ -334,6 +334,7 @@ Last synced: 2026-10-02 12:47 PM UTC (auto sync)
 6813
 6815
 6819
+6860
 6904
 6949
 7002
@@ -439,7 +440,6 @@ Last synced: 2026-10-02 12:47 PM UTC (auto sync)
 9758
 9997
 10213
-10218
 10219
 10222
 10229
@@ -768,7 +768,7 @@ SF
 - T.J. Hockenson (TE, MIN)
 - Luther Burden (WR, CHI)
 - Rhamondre Stevenson (RB, NE)
-- Romeo Doubs (WR, NE)
+- Dontayvion Wicks (WR, PHI)
 - Cam Little (K, JAX)
 - Houston Texans (DEF, HOU)
 - Carson Schwesinger (LB, CLE)
@@ -785,16 +785,16 @@ SF
 **Positional Surplus (3+ players at same position):**
 - DEF (3): Cincinnati Bengals, Houston Texans, New England Patriots
 - QB (4): Carson Beck, Drake Maye, Jacoby Brissett, Jameis Winston
-- RB (9): Blake Corum, Emmett Johnson, Jeremiyah Love, Kenneth Walker, Nicholas Singleton, Raheim Sanders, Rhamondre Stevenson, Tyler Allgeier, Zach Charbonnet
-- TE (5): Dallas Goedert, Eli Raridon, Eli Stowers, T.J. Hockenson, Zach Ertz
-- WR (10): Denzel Boston, Dontayvion Wicks, Jayden Higgins, Kyle Williams, Luther Burden, Marvin Harrison, Pat Bryant, Romeo Doubs, Tetairoa McMillan, Xavier Hutchinson
+- RB (10): Austin Ekeler, Blake Corum, Emmett Johnson, Jeremiyah Love, Kenneth Walker, Nicholas Singleton, Raheim Sanders, Rhamondre Stevenson, Tyler Allgeier, Zach Charbonnet
+- TE (5): Dallas Goedert, Eli Raridon, Eli Stowers, T.J. Hockenson, Tyler Higbee
+- WR (9): Denzel Boston, Dontayvion Wicks, Jayden Higgins, Kyle Williams, Luther Burden, Marvin Harrison, Pat Bryant, Romeo Doubs, Tetairoa McMillan
 
 **Bench depth:**
+- Austin Ekeler (RB, WAS)
 - Blake Corum (RB, LAR)
 - Carson Beck (QB, ARI)
 - Cincinnati Bengals (DEF, CIN)
 - Dallas Goedert (TE, PHI)
-- Dontayvion Wicks (WR, PHI)
 - Eli Raridon (TE, NE)
 - Eli Stowers (TE, PHI)
 - Emmett Johnson (RB, KC)
@@ -807,10 +807,10 @@ SF
 - Nicholas Singleton (RB, TEN)
 - Pat Bryant (WR, DEN)
 - Raheim Sanders (RB, CLE)
+- Romeo Doubs (WR, NE)
 - Tyler Allgeier (RB, ARI)
-- Xavier Hutchinson (WR, HOU)
+- Tyler Higbee (TE, LAR)
 - Zach Charbonnet (RB, SEA)
-- Zach Ertz (TE, PHI)
 
 ### WOODYWOOD1978 (Roster 3)
 
@@ -871,7 +871,7 @@ SF
 - KC Concepcion (WR, CLE)
 - Tre Tucker (WR, LV)
 - Kenyon Sadiq (TE, NYJ)
-- Adonai Mitchell (WR, NYJ)
+- Kendre Miller (RB, NO)
 - Keon Coleman (WR, BUF)
 - Rashod Bateman (WR, BAL)
 - Cairo Santos (K, CHI)
@@ -894,6 +894,7 @@ SF
 - WR (12): Adonai Mitchell, Demarcus Robinson, Germie Bernard, Jack Bech, Josh Cameron, KC Concepcion, Keon Coleman, Malachi Fields, Omar Cooper, Rashod Bateman, Tre Tucker, Troy Franklin
 
 **Bench depth:**
+- Adonai Mitchell (WR, NYJ)
 - Chris Brooks (RB, GB)
 - Darnell Washington (TE, PIT)
 - Demarcus Robinson (WR, SF)
@@ -906,7 +907,6 @@ SF
 - Josh Cameron (WR, JAX)
 - Kaleb Johnson (RB, GB)
 - Kaytron Allen (RB, WAS)
-- Kendre Miller (RB, NO)
 - Malachi Fields (WR, NYG)
 - Malik Willis (QB, MIA)
 - Michael Penix (QB, ATL)
@@ -920,17 +920,17 @@ SF
 
 **Starters:**
 - Lamar Jackson (QB, BAL)
-- Omarion Hampton (RB, LAC)
+- Chuba Hubbard (RB, CAR)
 - Javonte Williams (RB, DAL)
 - Jaxon Smith-Njigba (WR, SEA)
 - Rashee Rice (WR, KC)
 - Dalton Schultz (TE, HOU)
-- Chuba Hubbard (RB, CAR)
+- Omarion Hampton (RB, LAC)
 - Jalen Coker (WR, CAR)
 - Parker Washington (WR, JAX)
 - Cameron Dicker (K, LAC)
 - Jacksonville Jaguars (DEF, JAX)
-- Azeez Al-Shaair (LB, HOU)
+- Akeem Davis-Gaither (LB, IND)
 - Alex Singleton (LB, DEN)
 - Tykee Smith (DB, TB)
 - Cooper DeJean (DB, PHI)
