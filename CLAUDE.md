@@ -638,8 +638,8 @@ Last synced: 2026-10-04 12:46 PM UTC (auto sync)
 13726
 ARI
 BAL
-CIN
 CHI
+CIN
 CLE
 DEN
 DET
@@ -1284,8 +1284,6 @@ SF
 - Minnesota Vikings (DEF, MIN)
 - Najee Harris (RB, NYG)
 - Odell Beckham (WR, FA)
-- Philadelphia Eagles (DEF, PHI)
-- Rachaad White (RB, WAS)
 - Roman Wilson (WR, PIT)
 - Samaje Perine (RB, CIN)
 
