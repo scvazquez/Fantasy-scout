@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-03 12:46 PM UTC (auto sync)
+Last synced: 2026-10-04 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -302,7 +302,6 @@ Last synced: 2026-10-03 12:46 PM UTC (auto sync)
 5189
 5332
 5346
-5843
 5844
 5846
 5849
@@ -313,6 +312,7 @@ Last synced: 2026-10-03 12:46 PM UTC (auto sync)
 5876
 5892
 5927
+5944
 5947
 5967
 5995
@@ -367,6 +367,7 @@ Last synced: 2026-10-03 12:46 PM UTC (auto sync)
 7715
 7811
 7839
+7841
 8110
 8111
 8112
@@ -499,7 +500,6 @@ Last synced: 2026-10-03 12:46 PM UTC (auto sync)
 11705
 11731
 11739
-11742
 11783
 11786
 11792
@@ -636,8 +636,9 @@ Last synced: 2026-10-03 12:46 PM UTC (auto sync)
 13541
 13602
 13726
+ARI
 BAL
-CAR
+CHI
 CIN
 CLE
 DEN
@@ -649,7 +650,6 @@ KC
 LAR
 MIN
 NE
-NYG
 PHI
 PIT
 SEA
@@ -666,21 +666,20 @@ SF
 | RB | Saquon Barkley | RB | PHI | 29 |
 | RB | David Montgomery | RB | HOU | 29 |
 | WR | CeeDee Lamb | WR | DAL | 27 |
-| WR | Terry McLaurin | WR | WAS | 31 |
+| WR | Jordan Addison | WR | MIN | 24 |
 | TE | Mark Andrews | TE | BAL | 31 |
 | FLEX | Ladd McConkey | WR | LAC | 24 |
-| FLEX | Jordan Addison | WR | MIN | 24 |
 | FLEX | Alvin Kamara | RB | NO | 31 |
+| FLEX | Darren Waller | TE | CAR | 34 |
 | K | Will Reichard | K | MIN | 25 |
 | DEF | Detroit Lions | DEF | DET | ? |
-| LB | Zack Baun | LB | PHI | 29 |
 | LB | Edgerrin Cooper | LB | GB | 24 |
+| LB | Quay Walker | LB | LV | 26 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
 | DB | Derwin James | DB | LAC | 30 |
 
 ### Bench
 
-- Darren Waller (TE, CAR, Age 34, 11 yr exp)
 - Donovan Edwards (RB, FA, Age 23, 1 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
 - Jayden Daniels (QB, WAS, Age 25, 2 yr exp)
@@ -690,12 +689,13 @@ SF
 - Kyle Pitts (TE, ATL, Age 25, 5 yr exp)
 - LeQuint Allen (RB, JAX, Age 22, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
-- Quay Walker (LB, LV, Age 26, 4 yr exp)
 - Rico Dowdle (RB, PIT, Age 28, 6 yr exp)
 - Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
+- Terry McLaurin (WR, WAS, Age 31, 7 yr exp)
 - Tre' Harris (WR, LAC, Age 24, 1 yr exp)
 - Will Anderson (DL, HOU, Age 25, 3 yr exp)
 - Xavier McKinney (DB, GB, Age 28, 6 yr exp)
+- Zack Baun (LB, PHI, Age 29, 6 yr exp)
 
 ### Taxi Squad
 
@@ -1037,7 +1037,7 @@ SF
 - Tyler Shough (NO)
 
 **Positional Surplus (3+ players at same position):**
-- DEF (3): Denver Broncos, New York Giants, Pittsburgh Steelers
+- DEF (3): Chicago Bears, Denver Broncos, Pittsburgh Steelers
 - QB (4): Caleb Williams, Drew Allar, Sam Darnold, Tyler Shough
 - RB (10): CJ Donaldson, Chase Brown, De'Von Achane, Emanuel Wilson, J.K. Dobbins, Jaylen Warren, Jaylen Wright, Jordan Mason, Kenny Gainwell, Travis Etienne
 - TE (5): Gunnar Helm, Marlin Klein, Matt Hibner, Max Klare, Tyler Warren
@@ -1047,6 +1047,7 @@ SF
 - Bryce Lance (WR, NO)
 - CJ Donaldson (RB, NO)
 - Caleb Williams (QB, CHI)
+- Chicago Bears (DEF, CHI)
 - De'Von Achane (RB, MIA)
 - Denver Broncos (DEF, DEN)
 - Drew Allar (QB, PIT)
@@ -1061,7 +1062,6 @@ SF
 - Marlin Klein (TE, HOU)
 - Matt Hibner (TE, BAL)
 - Max Klare (TE, LAR)
-- New York Giants (DEF, NYG)
 - Rashid Shaheed (WR, SEA)
 - Sam Darnold (QB, SEA)
 - Travis Etienne (RB, NO)
@@ -1079,9 +1079,9 @@ SF
 - Harold Fannin (TE, CLE)
 - Sam LaPorta (TE, DET)
 - Matt Gay (K, LV)
-- Carolina Panthers (DEF, CAR)
-- Devin Bush (LB, CHI)
-- Cedric Gray (LB, TEN)
+- Arizona Cardinals (DEF, ARI)
+- Jamien Sherwood (LB, NYJ)
+- Bobby Okereke (LB, CAR)
 - Malaki Starks (DB, BAL)
 - Cam Bynum (DB, IND)
 
@@ -1239,7 +1239,7 @@ SF
 **Starters:**
 - Brock Purdy (QB, SF)
 - Derrick Henry (RB, BAL)
-- Rachaad White (RB, WAS)
+- Isaiah Davis (RB, NYJ)
 - Zay Flowers (WR, BAL)
 - Emeka Egbuka (WR, TB)
 - Isaiah Likely (TE, NYG)
@@ -1247,7 +1247,7 @@ SF
 - Dalton Kincaid (TE, BUF)
 - Jakobi Meyers (WR, JAX)
 - Brandon Aubrey (K, DAL)
-- Philadelphia Eagles (DEF, PHI)
+- Minnesota Vikings (DEF, MIN)
 - Demetrius Knight (LB, CIN)
 - Fred Warner (LB, SF)
 - Budda Baker (DB, ARI)
@@ -1274,16 +1274,16 @@ SF
 - De'Zhaun Stribling (WR, SF)
 - Eli Heidenreich (RB, PIT)
 - George Holani (RB, SEA)
-- Isaiah Davis (RB, NYJ)
 - J.J. McCarthy (QB, NYG)
 - Jauan Jennings (WR, MIN)
 - Justice Hill (RB, BAL)
 - Kimani Vidal (RB, LAC)
 - Mac Jones (QB, SF)
 - Michael Trigg (TE, DAL)
-- Minnesota Vikings (DEF, MIN)
 - Najee Harris (RB, NYG)
 - Odell Beckham (WR, FA)
+- Philadelphia Eagles (DEF, PHI)
+- Rachaad White (RB, WAS)
 - Roman Wilson (WR, PIT)
 - Samaje Perine (RB, CIN)
 
