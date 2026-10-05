@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-04 12:46 PM UTC (auto sync)
+Last synced: 2026-10-05 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -457,6 +457,7 @@ Last synced: 2026-10-04 12:46 PM UTC (auto sync)
 11199
 11237
 11370
+11427
 11435
 11533
 11559
@@ -535,7 +536,6 @@ Last synced: 2026-10-04 12:46 PM UTC (auto sync)
 12511
 12512
 12514
-12515
 12517
 12518
 12519
@@ -676,11 +676,11 @@ SF
 | LB | Edgerrin Cooper | LB | GB | 24 |
 | LB | Quay Walker | LB | LV | 26 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
-| DB | Derwin James | DB | LAC | 30 |
+| DB | Christian Izien | DB | DET | 26 |
 
 ### Bench
 
-- Donovan Edwards (RB, FA, Age 23, 1 yr exp)
+- Derwin James (DB, LAC, Age 30, 8 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
 - Jayden Daniels (QB, WAS, Age 25, 2 yr exp)
 - Jaylin Noel (WR, HOU, Age 24, 1 yr exp)
@@ -821,7 +821,7 @@ SF
 - Devaughn Vele (WR, NO)
 - Matthew Golden (WR, GB)
 - Travis Kelce (TE, KC)
-- Quentin Johnston (WR, LAC)
+- Carnell Tate (WR, TEN)
 - Brock Bowers (TE, LV)
 - Bhayshul Tuten (RB, JAX)
 - Tyler Loop (K, BAL)
@@ -845,7 +845,6 @@ SF
 - Antonio Williams (WR, WAS)
 - Brian Thomas (WR, JAX)
 - Camden Brown (WR, DAL)
-- Carnell Tate (WR, TEN)
 - Charlie Kolar (TE, LAC)
 - Darius Cooper (WR, PHI)
 - Dohnte Meyers (WR, CIN)
@@ -856,6 +855,7 @@ SF
 - Jaxson Dart (QB, NYG)
 - Kayshon Boutte (WR, HOU)
 - Lewis Bond (WR, HOU)
+- Quentin Johnston (WR, LAC)
 - Ricky Pearsall (WR, SF)
 - Rome Odunze (WR, CHI)
 - Tyjae Spears (RB, TEN)
@@ -926,7 +926,7 @@ SF
 - Rashee Rice (WR, KC)
 - Dalton Schultz (TE, HOU)
 - Omarion Hampton (RB, LAC)
-- Jalen Coker (WR, CAR)
+- Makai Lemon (WR, PHI)
 - Parker Washington (WR, JAX)
 - Cameron Dicker (K, LAC)
 - Jacksonville Jaguars (DEF, JAX)
@@ -960,12 +960,12 @@ SF
 - Dak Prescott (QB, DAL)
 - Elijah Sarratt (WR, BAL)
 - Jahan Dotson (WR, ATL)
+- Jalen Coker (WR, CAR)
 - Jalen Milroe (QB, SEA)
 - Jonah Coleman (RB, DEN)
 - Jonathon Brooks (RB, CAR)
 - Kaelon Black (RB, SF)
 - Keaton Mitchell (RB, LAC)
-- Makai Lemon (WR, PHI)
 - Michael Mayer (TE, LV)
 - Sam Howell (QB, DAL)
 - Taylen Green (QB, CLE)
