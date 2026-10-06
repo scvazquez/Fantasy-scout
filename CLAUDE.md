@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-04 12:46 PM UTC (auto sync)
+Last synced: 2026-10-06 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -263,12 +263,12 @@ Last synced: 2026-10-04 12:46 PM UTC (auto sync)
 3214
 3257
 3271
-3286
 3294
 3321
 3451
 3634
 4017
+4018
 4033
 4034
 4035
@@ -393,7 +393,6 @@ Last synced: 2026-10-04 12:46 PM UTC (auto sync)
 8161
 8162
 8167
-8172
 8180
 8183
 8188
@@ -414,7 +413,6 @@ Last synced: 2026-10-04 12:46 PM UTC (auto sync)
 8800
 9221
 9224
-9225
 9226
 9228
 9229
@@ -457,6 +455,7 @@ Last synced: 2026-10-04 12:46 PM UTC (auto sync)
 11199
 11237
 11370
+11427
 11435
 11533
 11559
@@ -535,7 +534,6 @@ Last synced: 2026-10-04 12:46 PM UTC (auto sync)
 12511
 12512
 12514
-12515
 12517
 12518
 12519
@@ -676,17 +674,17 @@ SF
 | LB | Edgerrin Cooper | LB | GB | 24 |
 | LB | Quay Walker | LB | LV | 26 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
-| DB | Derwin James | DB | LAC | 30 |
+| DB | Christian Izien | DB | DET | 26 |
 
 ### Bench
 
-- Donovan Edwards (RB, FA, Age 23, 1 yr exp)
+- Derwin James (DB, LAC, Age 30, 8 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
 - Jayden Daniels (QB, WAS, Age 25, 2 yr exp)
 - Jaylin Noel (WR, HOU, Age 24, 1 yr exp)
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
 - Justin Jefferson (WR, MIN, Age 27, 6 yr exp)
-- Kyle Pitts (TE, ATL, Age 25, 5 yr exp)
+- Kyle Pitts (TE, ATL, Age 26, 5 yr exp)
 - LeQuint Allen (RB, JAX, Age 22, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
 - Rico Dowdle (RB, PIT, Age 28, 6 yr exp)
@@ -821,7 +819,7 @@ SF
 - Devaughn Vele (WR, NO)
 - Matthew Golden (WR, GB)
 - Travis Kelce (TE, KC)
-- Quentin Johnston (WR, LAC)
+- Carnell Tate (WR, TEN)
 - Brock Bowers (TE, LV)
 - Bhayshul Tuten (RB, JAX)
 - Tyler Loop (K, BAL)
@@ -845,7 +843,6 @@ SF
 - Antonio Williams (WR, WAS)
 - Brian Thomas (WR, JAX)
 - Camden Brown (WR, DAL)
-- Carnell Tate (WR, TEN)
 - Charlie Kolar (TE, LAC)
 - Darius Cooper (WR, PHI)
 - Dohnte Meyers (WR, CIN)
@@ -856,6 +853,7 @@ SF
 - Jaxson Dart (QB, NYG)
 - Kayshon Boutte (WR, HOU)
 - Lewis Bond (WR, HOU)
+- Quentin Johnston (WR, LAC)
 - Ricky Pearsall (WR, SF)
 - Rome Odunze (WR, CHI)
 - Tyjae Spears (RB, TEN)
@@ -889,21 +887,20 @@ SF
 
 **Positional Surplus (3+ players at same position):**
 - QB (4): Fernando Mendoza, Malik Willis, Michael Penix, Trevor Lawrence
-- RB (10): Braelon Allen, Chris Brooks, Demond Claiborne, Dylan Sampson, Kaleb Johnson, Kaytron Allen, Kendre Miller, RJ Harvey, Roschon Johnson, Tank Bigsby
-- TE (4): Darnell Washington, Greg Dulcich, Kenyon Sadiq, Oronde Gadsden
-- WR (12): Adonai Mitchell, Demarcus Robinson, Germie Bernard, Jack Bech, Josh Cameron, KC Concepcion, Keon Coleman, Malachi Fields, Omar Cooper, Rashod Bateman, Tre Tucker, Troy Franklin
+- RB (10): Braelon Allen, Chris Brooks, Demond Claiborne, Dylan Sampson, Joe Mixon, Kaleb Johnson, Kaytron Allen, Kendre Miller, RJ Harvey, Roschon Johnson
+- TE (3): Darnell Washington, Kenyon Sadiq, Oronde Gadsden
+- WR (11): Adonai Mitchell, Germie Bernard, Jack Bech, Josh Cameron, KC Concepcion, Keon Coleman, Malachi Fields, Omar Cooper, Rashod Bateman, Tre Tucker, Troy Franklin
 
 **Bench depth:**
 - Adonai Mitchell (WR, NYJ)
 - Chris Brooks (RB, GB)
 - Darnell Washington (TE, PIT)
-- Demarcus Robinson (WR, SF)
 - Demond Claiborne (RB, MIN)
 - Dylan Sampson (RB, CLE)
 - Fernando Mendoza (QB, LV)
 - Germie Bernard (WR, PIT)
-- Greg Dulcich (TE, MIA)
 - Jack Bech (WR, LV)
+- Joe Mixon (RB, SEA)
 - Josh Cameron (WR, JAX)
 - Kaleb Johnson (RB, GB)
 - Kaytron Allen (RB, WAS)
@@ -913,7 +910,6 @@ SF
 - Omar Cooper (WR, NYJ)
 - Oronde Gadsden (TE, LAC)
 - Roschon Johnson (RB, CHI)
-- Tank Bigsby (RB, PHI)
 - Troy Franklin (WR, DEN)
 
 ### Larz1111 (Roster 5)
@@ -926,7 +922,7 @@ SF
 - Rashee Rice (WR, KC)
 - Dalton Schultz (TE, HOU)
 - Omarion Hampton (RB, LAC)
-- Jalen Coker (WR, CAR)
+- Makai Lemon (WR, PHI)
 - Parker Washington (WR, JAX)
 - Cameron Dicker (K, LAC)
 - Jacksonville Jaguars (DEF, JAX)
@@ -960,12 +956,12 @@ SF
 - Dak Prescott (QB, DAL)
 - Elijah Sarratt (WR, BAL)
 - Jahan Dotson (WR, ATL)
+- Jalen Coker (WR, CAR)
 - Jalen Milroe (QB, SEA)
 - Jonah Coleman (RB, DEN)
 - Jonathon Brooks (RB, CAR)
 - Kaelon Black (RB, SF)
 - Keaton Mitchell (RB, LAC)
-- Makai Lemon (WR, PHI)
 - Michael Mayer (TE, LV)
 - Sam Howell (QB, DAL)
 - Taylen Green (QB, CLE)
