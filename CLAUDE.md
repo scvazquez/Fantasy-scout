@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-05 12:47 PM UTC (auto sync)
+Last synced: 2026-10-06 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -263,12 +263,12 @@ Last synced: 2026-10-05 12:47 PM UTC (auto sync)
 3214
 3257
 3271
-3286
 3294
 3321
 3451
 3634
 4017
+4018
 4033
 4034
 4035
@@ -393,7 +393,6 @@ Last synced: 2026-10-05 12:47 PM UTC (auto sync)
 8161
 8162
 8167
-8172
 8180
 8183
 8188
@@ -414,7 +413,6 @@ Last synced: 2026-10-05 12:47 PM UTC (auto sync)
 8800
 9221
 9224
-9225
 9226
 9228
 9229
@@ -686,7 +684,7 @@ SF
 - Jaylin Noel (WR, HOU, Age 24, 1 yr exp)
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
 - Justin Jefferson (WR, MIN, Age 27, 6 yr exp)
-- Kyle Pitts (TE, ATL, Age 25, 5 yr exp)
+- Kyle Pitts (TE, ATL, Age 26, 5 yr exp)
 - LeQuint Allen (RB, JAX, Age 22, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
 - Rico Dowdle (RB, PIT, Age 28, 6 yr exp)
@@ -889,21 +887,20 @@ SF
 
 **Positional Surplus (3+ players at same position):**
 - QB (4): Fernando Mendoza, Malik Willis, Michael Penix, Trevor Lawrence
-- RB (10): Braelon Allen, Chris Brooks, Demond Claiborne, Dylan Sampson, Kaleb Johnson, Kaytron Allen, Kendre Miller, RJ Harvey, Roschon Johnson, Tank Bigsby
-- TE (4): Darnell Washington, Greg Dulcich, Kenyon Sadiq, Oronde Gadsden
-- WR (12): Adonai Mitchell, Demarcus Robinson, Germie Bernard, Jack Bech, Josh Cameron, KC Concepcion, Keon Coleman, Malachi Fields, Omar Cooper, Rashod Bateman, Tre Tucker, Troy Franklin
+- RB (10): Braelon Allen, Chris Brooks, Demond Claiborne, Dylan Sampson, Joe Mixon, Kaleb Johnson, Kaytron Allen, Kendre Miller, RJ Harvey, Roschon Johnson
+- TE (3): Darnell Washington, Kenyon Sadiq, Oronde Gadsden
+- WR (11): Adonai Mitchell, Germie Bernard, Jack Bech, Josh Cameron, KC Concepcion, Keon Coleman, Malachi Fields, Omar Cooper, Rashod Bateman, Tre Tucker, Troy Franklin
 
 **Bench depth:**
 - Adonai Mitchell (WR, NYJ)
 - Chris Brooks (RB, GB)
 - Darnell Washington (TE, PIT)
-- Demarcus Robinson (WR, SF)
 - Demond Claiborne (RB, MIN)
 - Dylan Sampson (RB, CLE)
 - Fernando Mendoza (QB, LV)
 - Germie Bernard (WR, PIT)
-- Greg Dulcich (TE, MIA)
 - Jack Bech (WR, LV)
+- Joe Mixon (RB, SEA)
 - Josh Cameron (WR, JAX)
 - Kaleb Johnson (RB, GB)
 - Kaytron Allen (RB, WAS)
@@ -913,7 +910,6 @@ SF
 - Omar Cooper (WR, NYJ)
 - Oronde Gadsden (TE, LAC)
 - Roschon Johnson (RB, CHI)
-- Tank Bigsby (RB, PHI)
 - Troy Franklin (WR, DEN)
 
 ### Larz1111 (Roster 5)
