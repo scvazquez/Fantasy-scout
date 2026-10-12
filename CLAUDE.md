@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-11 12:46 PM UTC (auto sync)
+Last synced: 2026-10-12 12:55 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -281,6 +281,7 @@ Last synced: 2026-10-11 12:46 PM UTC (auto sync)
 4199
 4217
 4227
+4454
 4663
 4866
 4881
@@ -378,6 +379,7 @@ Last synced: 2026-10-11 12:46 PM UTC (auto sync)
 8131
 8132
 8134
+8135
 8136
 8137
 8138
@@ -458,6 +460,7 @@ Last synced: 2026-10-11 12:46 PM UTC (auto sync)
 11427
 11435
 11533
+11539
 11559
 11560
 11563
@@ -560,7 +563,6 @@ Last synced: 2026-10-11 12:46 PM UTC (auto sync)
 12591
 12597
 12617
-12711
 13150
 13264
 13268
@@ -665,15 +667,15 @@ SF
 | RB | David Montgomery | RB | HOU | 29 |
 | RB | Alvin Kamara | RB | NO | 31 |
 | WR | CeeDee Lamb | WR | DAL | 27 |
-| WR | Jordan Addison | WR | MIN | 24 |
+| WR | Justin Jefferson | WR | MIN | 27 |
 | TE | Mark Andrews | TE | BAL | 31 |
 | FLEX | Tre' Harris | WR | LAC | 24 |
-| FLEX | Justin Jefferson | WR | MIN | 27 |
 | FLEX | Terry McLaurin | WR | WAS | 31 |
+| FLEX | Kendrick Bourne | WR | ARI | 31 |
 | K | Will Reichard | K | MIN | 25 |
 | DEF | Detroit Lions | DEF | DET | ? |
-| LB | Quay Walker | LB | LV | 26 |
 | LB | Zack Baun | LB | PHI | 29 |
+| LB | Quay Walker | LB | LV | 26 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
 | DB | Christian Izien | DB | DET | 26 |
 
@@ -685,6 +687,7 @@ SF
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
 - Jayden Daniels (QB, WAS, Age 25, 2 yr exp)
 - Jaylin Noel (WR, HOU, Age 24, 1 yr exp)
+- Jordan Addison (WR, MIN, Age 24, 3 yr exp)
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
 - Kyle Pitts (TE, ATL, Age 26, 5 yr exp)
 - Ladd McConkey (WR, LAC, Age 24, 2 yr exp)
@@ -801,7 +804,7 @@ SF
 - Jayden Higgins (WR, HOU)
 - Kenneth Walker (RB, KC)
 - Kyle Williams (WR, NE)
-- Marvin Harrison (WR, ARI)
+- Marvin Harrison (WR, HOU)
 - New England Patriots (DEF, NE)
 - Nicholas Singleton (RB, TEN)
 - Pat Bryant (WR, DEN)
@@ -816,14 +819,14 @@ SF
 **Starters:**
 - Jared Goff (QB, DET)
 - James Cook (RB, BUF)
-- Kyle Monangai (RB, CHI)
+- Woody Marks (RB, HOU)
 - Devaughn Vele (WR, NO)
 - Matthew Golden (WR, GB)
 - Brock Bowers (TE, LV)
 - Carnell Tate (WR, TEN)
 - Rome Odunze (WR, CHI)
 - Bhayshul Tuten (RB, JAX)
-- Tyler Loop (K, BAL)
+- Jake Bates (K, DET)
 - New York Jets (DEF, NYJ)
 - Jordyn Brooks (LB, MIA)
 - Sonny Styles (LB, WAS)
@@ -838,7 +841,7 @@ SF
 - LB (3): Jordyn Brooks, Sonny Styles, Zaire Franklin
 - RB (7): Bhayshul Tuten, Jacob Saylors, Jadarian Price, James Cook, Kyle Monangai, Tyjae Spears, Woody Marks
 - TE (3): Brock Bowers, Charlie Kolar, Travis Kelce
-- WR (15): Antonio Williams, Brian Thomas, Camden Brown, Carnell Tate, Darius Cooper, Devaughn Vele, Dohnte Meyers, Isaiah Williams, Ja'Kobi Lane, Kayshon Boutte, Lewis Bond, Matthew Golden, Quentin Johnston, Ricky Pearsall, Rome Odunze
+- WR (16): Antonio Williams, Brian Thomas, Camden Brown, Carnell Tate, Darius Cooper, Devaughn Vele, Dohnte Meyers, Isaiah Williams, Ja'Kobi Lane, Kayshon Boutte, Lewis Bond, Matthew Golden, Quentin Johnston, Ricky Pearsall, Rome Odunze, Treylon Burks
 
 **Bench depth:**
 - Antonio Williams (WR, WAS)
@@ -854,12 +857,13 @@ SF
 - Jadarian Price (RB, SEA)
 - Jaxson Dart (QB, NYG)
 - Kayshon Boutte (WR, HOU)
+- Kyle Monangai (RB, CHI)
 - Lewis Bond (WR, HOU)
 - Quentin Johnston (WR, LAC)
 - Ricky Pearsall (WR, SF)
 - Travis Kelce (TE, KC)
+- Treylon Burks (WR, WAS)
 - Tyjae Spears (RB, TEN)
-- Woody Marks (RB, HOU)
 - Zaire Franklin (LB, GB)
 
 ### Bombas (Roster 4)
@@ -871,9 +875,9 @@ SF
 - KC Concepcion (WR, CLE)
 - Tre Tucker (WR, LV)
 - Kenyon Sadiq (TE, NYJ)
-- Kendre Miller (RB, NO)
+- Kaleb Johnson (RB, GB)
 - Keon Coleman (WR, BUF)
-- Rashod Bateman (WR, BAL)
+- Oronde Gadsden (TE, LAC)
 - Cairo Santos (K, CHI)
 - Cleveland Browns (DEF, CLE)
 - Ventrell Miller (LB, JAX)
@@ -904,13 +908,13 @@ SF
 - Germie Bernard (WR, PIT)
 - Jack Bech (WR, LV)
 - Josh Cameron (WR, JAX)
-- Kaleb Johnson (RB, GB)
 - Kaytron Allen (RB, MIA)
+- Kendre Miller (RB, NO)
 - Malachi Fields (WR, NYG)
 - Malik Willis (QB, MIA)
 - Michael Penix (QB, ATL)
 - Omar Cooper (WR, NYJ)
-- Oronde Gadsden (TE, LAC)
+- Rashod Bateman (WR, BAL)
 - Roschon Johnson (RB, CHI)
 - Troy Franklin (WR, DEN)
 
@@ -1012,7 +1016,7 @@ SF
 ### Darkkaze (Roster 7)
 
 **Starters:**
-- Sam Darnold (QB, SEA)
+- Tyler Shough (QB, NO)
 - Jaylen Warren (RB, PIT)
 - Chase Brown (RB, CIN)
 - Amon-Ra St. Brown (WR, DET)
@@ -1060,8 +1064,8 @@ SF
 - Max Klare (TE, LAR)
 - Pittsburgh Steelers (DEF, PIT)
 - Rashid Shaheed (WR, SEA)
+- Sam Darnold (QB, SEA)
 - Travis Etienne (RB, NO)
-- Tyler Shough (QB, NO)
 - Will Shipley (RB, PHI)
 
 ### DRoj (Roster 8)
@@ -1126,12 +1130,12 @@ SF
 - Geno Smith (QB, NYJ)
 - Ashton Jeanty (RB, LV)
 - Cam Skattebo (RB, NYG)
-- Chris Bell (WR, MIA)
+- Ja'Marr Chase (WR, CIN)
 - Malik Nabers (WR, NYG)
 - Colston Loveland (TE, CHI)
 - Tucker Kraft (TE, GB)
 - Christian Watson (WR, GB)
-- Ja'Marr Chase (WR, CIN)
+- Chris Bell (WR, MIA)
 - Spencer Shrader (K, IND)
 - San Francisco 49ers (DEF, SF)
 - T.J. Watt (LB, PIT)
