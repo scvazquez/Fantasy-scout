@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-12 12:55 PM UTC (auto sync)
+Last synced: 2026-10-13 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -871,13 +871,13 @@ SF
 **Starters:**
 - Trevor Lawrence (QB, JAX)
 - RJ Harvey (RB, DEN)
-- Braelon Allen (RB, NYJ)
+- Kendre Miller (RB, NO)
 - KC Concepcion (WR, CLE)
 - Tre Tucker (WR, LV)
 - Kenyon Sadiq (TE, NYJ)
 - Kaleb Johnson (RB, GB)
 - Keon Coleman (WR, BUF)
-- Oronde Gadsden (TE, LAC)
+- Dameon Pierce (RB, PHI)
 - Cairo Santos (K, CHI)
 - Cleveland Browns (DEF, CLE)
 - Ventrell Miller (LB, JAX)
@@ -899,8 +899,8 @@ SF
 
 **Bench depth:**
 - Adonai Mitchell (WR, NYJ)
+- Braelon Allen (RB, NYJ)
 - Chris Brooks (RB, GB)
-- Dameon Pierce (RB, PHI)
 - Darnell Washington (TE, PIT)
 - Demond Claiborne (RB, MIN)
 - Dylan Sampson (RB, CLE)
@@ -909,11 +909,11 @@ SF
 - Jack Bech (WR, LV)
 - Josh Cameron (WR, JAX)
 - Kaytron Allen (RB, MIA)
-- Kendre Miller (RB, NO)
 - Malachi Fields (WR, NYG)
 - Malik Willis (QB, MIA)
 - Michael Penix (QB, ATL)
 - Omar Cooper (WR, NYJ)
+- Oronde Gadsden (TE, LAC)
 - Rashod Bateman (WR, BAL)
 - Roschon Johnson (RB, CHI)
 - Troy Franklin (WR, DEN)
