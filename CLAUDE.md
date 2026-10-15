@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-14 12:47 PM UTC (auto sync)
+Last synced: 2026-10-15 12:48 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -500,6 +500,7 @@ Last synced: 2026-10-14 12:47 PM UTC (auto sync)
 11682
 11687
 11705
+11727
 11731
 11739
 11783
@@ -557,7 +558,6 @@ Last synced: 2026-10-14 12:47 PM UTC (auto sync)
 12544
 12545
 12547
-12566
 12567
 12578
 12591
@@ -664,40 +664,42 @@ SF
 | Slot | Player | Pos | Team | Age |
 |------|--------|-----|------|-----|
 | QB | Matthew Stafford | QB | LAR | 38 |
-| RB | David Montgomery | RB | HOU | 29 |
 | RB | Alvin Kamara | RB | NO | 31 |
+| RB | Rico Dowdle | RB | PIT | 28 |
 | WR | CeeDee Lamb | WR | DAL | 27 |
-| WR | Justin Jefferson | WR | MIN | 27 |
+| WR | Kendrick Bourne | WR | ARI | 31 |
 | TE | Mark Andrews | TE | BAL | 31 |
-| FLEX | Tre' Harris | WR | LAC | 24 |
 | FLEX | Terry McLaurin | WR | WAS | 31 |
-| FLEX | Kendrick Bourne | WR | ARI | 31 |
-| K | Will Reichard | K | MIN | 25 |
-| DEF | Detroit Lions | DEF | DET | ? |
+| FLEX | Kyle Pitts | TE | ATL | 26 |
+| FLEX | Darren Waller | TE | CAR | 34 |
+| K | (empty) | - | - | - |
+| DEF | (empty) | - | - | - |
 | LB | Zack Baun | LB | PHI | 29 |
 | LB | Quay Walker | LB | LV | 26 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
-| DB | Christian Izien | DB | DET | 26 |
+| DB | Xavier McKinney | DB | GB | 28 |
 
 ### Bench
 
-- Darren Waller (TE, CAR, Age 34, 11 yr exp)
+- Christian Izien (DB, DET, Age 26, 3 yr exp)
+- David Montgomery (RB, HOU, Age 29, 7 yr exp)
 - Derwin James (DB, LAC, Age 30, 8 yr exp)
+- Detroit Lions (DEF, DET, Age ?, 0 yr exp)
 - Edgerrin Cooper (LB, GB, Age 24, 2 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
 - Jayden Daniels (QB, WAS, Age 25, 2 yr exp)
 - Jaylin Noel (WR, HOU, Age 24, 1 yr exp)
 - Jordan Addison (WR, MIN, Age 24, 3 yr exp)
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
-- Kyle Pitts (TE, ATL, Age 26, 5 yr exp)
+- Justin Jefferson (WR, MIN, Age 27, 6 yr exp)
 - Ladd McConkey (WR, LAC, Age 24, 2 yr exp)
 - LeQuint Allen (RB, JAX, Age 22, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
-- Rico Dowdle (RB, PIT, Age 28, 6 yr exp)
 - Saquon Barkley (RB, PHI, Age 29, 8 yr exp)
 - Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
+- Tre' Harris (WR, LAC, Age 24, 1 yr exp)
 - Will Anderson (DL, HOU, Age 25, 3 yr exp)
-- Xavier McKinney (DB, GB, Age 28, 6 yr exp)
+- Will Reichard (K, MIN, Age 25, 2 yr exp)
 
 ### Taxi Squad
 
@@ -875,7 +877,7 @@ SF
 - KC Concepcion (WR, CLE)
 - Tre Tucker (WR, LV)
 - Kenyon Sadiq (TE, NYJ)
-- Adonai Mitchell (WR, NYJ)
+- Braelon Allen (RB, NYJ)
 - Keon Coleman (WR, BUF)
 - Dameon Pierce (RB, PHI)
 - Cairo Santos (K, CHI)
@@ -898,7 +900,7 @@ SF
 - WR (11): Adonai Mitchell, Germie Bernard, Jack Bech, Josh Cameron, KC Concepcion, Keon Coleman, Malachi Fields, Omar Cooper, Rashod Bateman, Tre Tucker, Troy Franklin
 
 **Bench depth:**
-- Braelon Allen (RB, NYJ)
+- Adonai Mitchell (WR, NYJ)
 - Chris Brooks (RB, GB)
 - Darnell Washington (TE, PIT)
 - Demond Claiborne (RB, MIN)
@@ -922,14 +924,14 @@ SF
 ### Larz1111 (Roster 5)
 
 **Starters:**
-- Dak Prescott (QB, DAL)
-- Keaton Mitchell (RB, LAC)
+- Lamar Jackson (QB, BAL)
+- Chuba Hubbard (RB, CAR)
 - Javonte Williams (RB, DAL)
 - Jaxon Smith-Njigba (WR, SEA)
 - Wan'Dale Robinson (WR, TEN)
 - Dalton Schultz (TE, HOU)
-- Omarion Hampton (RB, LAC)
-- Makai Lemon (WR, PHI)
+- Rashee Rice (WR, KC)
+- Jalen Coker (WR, CAR)
 - Parker Washington (WR, JAX)
 - Cameron Dicker (K, LAC)
 - Jacksonville Jaguars (DEF, JAX)
@@ -959,18 +961,18 @@ SF
 - Brian Robinson (RB, ATL)
 - Cade Otton (TE, TB)
 - Chig Okonkwo (TE, WAS)
-- Chuba Hubbard (RB, CAR)
 - Colbie Young (WR, CIN)
+- Dak Prescott (QB, DAL)
 - Elijah Sarratt (WR, BAL)
 - Jahan Dotson (WR, ATL)
-- Jalen Coker (WR, CAR)
 - Jalen Milroe (QB, SEA)
 - Jonah Coleman (RB, DEN)
 - Jonathon Brooks (RB, CAR)
 - Kaelon Black (RB, SF)
-- Lamar Jackson (QB, BAL)
+- Keaton Mitchell (RB, LAC)
+- Makai Lemon (WR, PHI)
 - Michael Mayer (TE, LV)
-- Rashee Rice (WR, KC)
+- Omarion Hampton (RB, LAC)
 - Sam Howell (QB, DAL)
 - Taylen Green (QB, CLE)
 - Terrance Ferguson (TE, LAR)
@@ -1029,7 +1031,7 @@ SF
 - Ka'imi Fairbairn (K, HOU)
 - Pittsburgh Steelers (DEF, PIT)
 - Greg Rousseau (DE, BUF)
-- Jihaad Campbell (LB, PHI)
+- Payton Wilson (LB, PIT)
 - Quentin Lake (DB, LAR)
 - Evan Williams (DB, GB)
 
@@ -1085,7 +1087,7 @@ SF
 - Jamien Sherwood (LB, NYJ)
 - Azeez Al-Shaair (LB, HOU)
 - Malaki Starks (DB, BAL)
-- Camryn Bynum (DB, IND)
+- Cam Bynum (DB, IND)
 
 **QB Room (7 QBs):**
 - Aaron Rodgers (PIT)
@@ -1288,5 +1290,4 @@ SF
 - Rachaad White (RB, WAS)
 - Roman Wilson (WR, PIT)
 - Samaje Perine (RB, CIN)
-
 <!-- END_AUTO_GENERATED -->
