@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-15 12:48 PM UTC (auto sync)
+Last synced: 2026-10-16 12:48 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -245,6 +245,7 @@ Last synced: 2026-10-15 12:48 PM UTC (auto sync)
 -->
 96
 421
+650
 1166
 1339
 1373
@@ -334,7 +335,7 @@ Last synced: 2026-10-15 12:48 PM UTC (auto sync)
 6819
 6860
 6904
-6949
+6911
 7002
 7021
 7049
@@ -363,7 +364,6 @@ Last synced: 2026-10-15 12:48 PM UTC (auto sync)
 7648
 7672
 7715
-7811
 7839
 7841
 8110
@@ -391,7 +391,6 @@ Last synced: 2026-10-15 12:48 PM UTC (auto sync)
 8154
 8155
 8161
-8162
 8167
 8180
 8183
@@ -418,6 +417,7 @@ Last synced: 2026-10-15 12:48 PM UTC (auto sync)
 9226
 9228
 9229
+9230
 9479
 9480
 9482
@@ -456,12 +456,10 @@ Last synced: 2026-10-15 12:48 PM UTC (auto sync)
 11034
 11199
 11237
-11370
 11427
 11435
 11439
 11533
-11539
 11559
 11560
 11563
@@ -572,6 +570,7 @@ Last synced: 2026-10-15 12:48 PM UTC (auto sync)
 13274
 13275
 13276
+13277
 13278
 13279
 13281
@@ -637,13 +636,13 @@ Last synced: 2026-10-15 12:48 PM UTC (auto sync)
 13602
 13726
 BAL
+CAR
 CHI
 CIN
 CLE
 DAL
 DEN
 DET
-GB
 HOU
 IND
 JAX
@@ -666,11 +665,11 @@ SF
 | QB | Matthew Stafford | QB | LAR | 38 |
 | RB | Alvin Kamara | RB | NO | 31 |
 | RB | Rico Dowdle | RB | PIT | 28 |
-| WR | CeeDee Lamb | WR | DAL | 27 |
 | WR | Kendrick Bourne | WR | ARI | 31 |
+| WR | Ladd McConkey | WR | LAC | 24 |
 | TE | Mark Andrews | TE | BAL | 31 |
 | FLEX | Terry McLaurin | WR | WAS | 31 |
-| FLEX | Kyle Pitts | TE | ATL | 26 |
+| FLEX | CeeDee Lamb | WR | DAL | 27 |
 | FLEX | Darren Waller | TE | CAR | 34 |
 | K | (empty) | - | - | - |
 | DEF | (empty) | - | - | - |
@@ -692,7 +691,7 @@ SF
 - Jordan Addison (WR, MIN, Age 24, 3 yr exp)
 - Justin Fields (QB, KC, Age 27, 5 yr exp)
 - Justin Jefferson (WR, MIN, Age 27, 6 yr exp)
-- Ladd McConkey (WR, LAC, Age 24, 2 yr exp)
+- Kyle Pitts (TE, ATL, Age 26, 5 yr exp)
 - LeQuint Allen (RB, JAX, Age 22, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
 - Saquon Barkley (RB, PHI, Age 29, 8 yr exp)
@@ -713,7 +712,7 @@ SF
 **Starters:**
 - Jordan Love (QB, GB)
 - Bucky Irving (RB, TB)
-- Jahmyr Gibbs (RB, DET)
+- Jaleel McLaughlin (RB, CLE)
 - Puka Nacua (WR, LAR)
 - DeVonta Smith (WR, PHI)
 - George Kittle (TE, SF)
@@ -744,8 +743,8 @@ SF
 - Emari Demercado (RB, DAL)
 - Isaac TeSlaa (WR, DET)
 - J'Mari Taylor (RB, JAX)
+- Jahmyr Gibbs (RB, DET)
 - Jake Tonges (TE, SF)
-- Jaleel McLaughlin (RB, CLE)
 - Jalen Brooks (WR, ARI)
 - Jayden Reed (WR, GB)
 - Jaydon Blue (RB, PHI)
@@ -819,7 +818,6 @@ SF
 ### WOODYWOOD1978 (Roster 3)
 
 **Starters:**
-- Jared Goff (QB, DET)
 - James Cook (RB, BUF)
 - Woody Marks (RB, HOU)
 - Devaughn Vele (WR, NO)
@@ -828,8 +826,9 @@ SF
 - Carnell Tate (WR, TEN)
 - Rome Odunze (WR, CHI)
 - Bhayshul Tuten (RB, JAX)
-- Jake Bates (K, DET)
-- Jordyn Brooks (LB, MIA)
+- Nick Folk (K, ATL)
+- Carolina Panthers (DEF, CAR)
+- Zaire Franklin (LB, GB)
 - Sonny Styles (LB, WAS)
 - Cole Bishop (DB, BUF)
 - Dillon Thieneman (DB, CHI)
@@ -839,7 +838,6 @@ SF
 - Jaxson Dart (NYG)
 
 **Positional Surplus (3+ players at same position):**
-- LB (3): Jordyn Brooks, Sonny Styles, Zaire Franklin
 - RB (7): Bhayshul Tuten, Jacob Saylors, Jadarian Price, James Cook, Kyle Monangai, Tyjae Spears, Woody Marks
 - TE (3): Brock Bowers, Charlie Kolar, Travis Kelce
 - WR (16): Antonio Williams, Brian Thomas, Camden Brown, Carnell Tate, Darius Cooper, Devaughn Vele, Dohnte Meyers, Isaiah Williams, Ja'Kobi Lane, Kayshon Boutte, Lewis Bond, Matthew Golden, Quentin Johnston, Ricky Pearsall, Rome Odunze, Treylon Burks
@@ -851,12 +849,12 @@ SF
 - Charlie Kolar (TE, LAC)
 - Darius Cooper (WR, PHI)
 - Dohnte Meyers (WR, CIN)
-- Green Bay Packers (DEF, GB)
 - Indianapolis Colts (DEF, IND)
 - Isaiah Williams (WR, NYJ)
 - Ja'Kobi Lane (WR, BAL)
 - Jacob Saylors (RB, DET)
 - Jadarian Price (RB, SEA)
+- Jared Goff (QB, DET)
 - Jaxson Dart (QB, NYG)
 - Kayshon Boutte (WR, HOU)
 - Kyle Monangai (RB, CHI)
@@ -866,7 +864,6 @@ SF
 - Travis Kelce (TE, KC)
 - Treylon Burks (WR, WAS)
 - Tyjae Spears (RB, TEN)
-- Zaire Franklin (LB, GB)
 
 ### Bombas (Roster 4)
 
@@ -878,7 +875,7 @@ SF
 - Tre Tucker (WR, LV)
 - Kenyon Sadiq (TE, NYJ)
 - Braelon Allen (RB, NYJ)
-- Keon Coleman (WR, BUF)
+- Germie Bernard (WR, PIT)
 - Dameon Pierce (RB, PHI)
 - Cairo Santos (K, CHI)
 - Cleveland Browns (DEF, CLE)
@@ -895,22 +892,22 @@ SF
 
 **Positional Surplus (3+ players at same position):**
 - QB (4): Fernando Mendoza, Malik Willis, Michael Penix, Trevor Lawrence
-- RB (10): Braelon Allen, Chris Brooks, Dameon Pierce, Demond Claiborne, Dylan Sampson, Kaleb Johnson, Kaytron Allen, Kendre Miller, RJ Harvey, Roschon Johnson
+- RB (10): Braelon Allen, CJ Donaldson, Dameon Pierce, Demond Claiborne, Dylan Sampson, Kaleb Johnson, Kaytron Allen, Kendre Miller, RJ Harvey, Roschon Johnson
 - TE (4): Darnell Washington, Kenyon Sadiq, Oronde Gadsden, Tyler Higbee
 - WR (11): Adonai Mitchell, Germie Bernard, Jack Bech, Josh Cameron, KC Concepcion, Keon Coleman, Malachi Fields, Omar Cooper, Rashod Bateman, Tre Tucker, Troy Franklin
 
 **Bench depth:**
 - Adonai Mitchell (WR, NYJ)
-- Chris Brooks (RB, GB)
+- CJ Donaldson (RB, NO)
 - Darnell Washington (TE, PIT)
 - Demond Claiborne (RB, MIN)
 - Dylan Sampson (RB, CLE)
 - Fernando Mendoza (QB, LV)
-- Germie Bernard (WR, PIT)
 - Jack Bech (WR, LV)
 - Josh Cameron (WR, JAX)
 - Kaleb Johnson (RB, GB)
 - Kaytron Allen (RB, MIA)
+- Keon Coleman (WR, BUF)
 - Malachi Fields (WR, NYG)
 - Malik Willis (QB, MIA)
 - Michael Penix (QB, ATL)
@@ -945,12 +942,12 @@ SF
 - Dak Prescott (DAL)
 - Jalen Milroe (SEA)
 - Lamar Jackson (BAL)
-- Sam Howell (DAL)
+- Tanner McKee (PHI)
 - Taylen Green (CLE)
 - Ty Simpson (LAR)
 
 **Positional Surplus (3+ players at same position):**
-- QB (7): Anthony Richardson, Dak Prescott, Jalen Milroe, Lamar Jackson, Sam Howell, Taylen Green, Ty Simpson
+- QB (7): Anthony Richardson, Dak Prescott, Jalen Milroe, Lamar Jackson, Tanner McKee, Taylen Green, Ty Simpson
 - RB (8): Brian Robinson, Chuba Hubbard, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
 - TE (5): Cade Otton, Chig Okonkwo, Dalton Schultz, Michael Mayer, Terrance Ferguson
 - WR (10): Alec Pierce, Colbie Young, Elijah Sarratt, Jahan Dotson, Jalen Coker, Jaxon Smith-Njigba, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
@@ -973,7 +970,7 @@ SF
 - Makai Lemon (WR, PHI)
 - Michael Mayer (TE, LV)
 - Omarion Hampton (RB, LAC)
-- Sam Howell (QB, DAL)
+- Tanner McKee (QB, PHI)
 - Taylen Green (QB, CLE)
 - Terrance Ferguson (TE, LAR)
 - Ty Simpson (QB, LAR)
@@ -1078,10 +1075,10 @@ SF
 - Kyren Williams (RB, LAR)
 - Chris Olave (WR, NO)
 - Garrett Wilson (WR, NYJ)
-- Sam LaPorta (TE, DET)
-- Deebo Samuel (WR, SF)
+- Brenton Strange (TE, JAX)
+- Xavier Worthy (WR, KC)
 - Harold Fannin (TE, CLE)
-- Aaron Jones (RB, MIN)
+- Jake Ferguson (TE, DAL)
 - Matt Gay (K, LV)
 - Dallas Cowboys (DEF, DAL)
 - Jamien Sherwood (LB, NYJ)
@@ -1105,24 +1102,24 @@ SF
 - WR (9): Chris Olave, Deebo Samuel, Elic Ayomanor, Garrett Wilson, Jalen Nailor, Jerry Jeudy, Tank Dell, Xavier Worthy, Zachariah Branch
 
 **Bench depth:**
+- Aaron Jones (RB, MIN)
 - Aaron Rodgers (QB, PIT)
 - Breece Hall (RB, NYJ)
-- Brenton Strange (TE, JAX)
 - Bryce Young (QB, CAR)
 - C.J. Stroud (QB, HOU)
 - Daniel Jones (QB, IND)
+- Deebo Samuel (WR, SF)
 - Elic Ayomanor (WR, TEN)
 - Harrison Butker (K, KC)
 - Isiah Pacheco (RB, DET)
-- Jake Ferguson (TE, DAL)
 - Jalen Nailor (WR, LV)
 - Jerry Jeudy (WR, CLE)
 - Kirk Cousins (QB, LV)
 - Mike Washington (RB, LV)
 - Pat Freiermuth (TE, PIT)
 - Patrick Mahomes (QB, KC)
+- Sam LaPorta (TE, DET)
 - Tank Dell (WR, HOU)
-- Xavier Worthy (WR, KC)
 - Zach Ertz (TE, PHI)
 - Zachariah Branch (WR, ATL)
 
@@ -1143,7 +1140,7 @@ SF
 - T.J. Watt (LB, PIT)
 - Josiah Trotter (LB, TB)
 - C.J. Henderson (CB, ATL)
-- Talanoa Hufanga (DB, DEN)
+- Brandon Jones (DB, DEN)
 
 **QB Room (8 QBs):**
 - Cade Klubnik (NYJ)
