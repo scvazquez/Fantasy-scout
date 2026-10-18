@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-17 12:47 PM UTC (auto sync)
+Last synced: 2026-10-18 12:48 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -821,6 +821,7 @@ SF
 ### WOODYWOOD1978 (Roster 3)
 
 **Starters:**
+- Michael Penix (QB, ATL)
 - James Cook (RB, BUF)
 - Woody Marks (RB, HOU)
 - Devaughn Vele (WR, NO)
@@ -864,7 +865,6 @@ SF
 - Kayshon Boutte (WR, HOU)
 - Kyle Monangai (RB, CHI)
 - Lewis Bond (WR, HOU)
-- Michael Penix (QB, ATL)
 - Quentin Johnston (WR, LAC)
 - Ricky Pearsall (WR, SF)
 - Travis Kelce (TE, KC)
@@ -927,13 +927,13 @@ SF
 ### Larz1111 (Roster 5)
 
 **Starters:**
-- Tyler Huntley (QB, BAL)
+- Dak Prescott (QB, DAL)
 - Chuba Hubbard (RB, CAR)
 - Javonte Williams (RB, DAL)
 - Jaxon Smith-Njigba (WR, SEA)
 - Wan'Dale Robinson (WR, TEN)
 - Dalton Schultz (TE, HOU)
-- Rashee Rice (WR, KC)
+- Omarion Hampton (RB, LAC)
 - Jalen Coker (WR, CAR)
 - Parker Washington (WR, JAX)
 - Cameron Dicker (K, LAC)
@@ -965,7 +965,6 @@ SF
 - Brian Robinson (RB, ATL)
 - Cade Otton (TE, TB)
 - Chig Okonkwo (TE, WAS)
-- Dak Prescott (QB, DAL)
 - Elijah Sarratt (WR, BAL)
 - Jahan Dotson (WR, ATL)
 - Jalen Milroe (QB, SEA)
@@ -976,11 +975,12 @@ SF
 - Lamar Jackson (QB, BAL)
 - Makai Lemon (WR, PHI)
 - Michael Mayer (TE, LV)
-- Omarion Hampton (RB, LAC)
+- Rashee Rice (WR, KC)
 - Tanner McKee (QB, PHI)
 - Taylen Green (QB, CLE)
 - Terrance Ferguson (TE, LAR)
 - Ty Simpson (QB, LAR)
+- Tyler Huntley (QB, BAL)
 
 ### DopeOne83 (Roster 6)
 
