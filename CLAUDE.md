@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-18 12:48 PM UTC (auto sync)
+Last synced: 2026-10-19 12:48 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -247,7 +247,6 @@ Last synced: 2026-10-18 12:48 PM UTC (auto sync)
 421
 650
 1166
-1339
 1373
 1466
 1479
@@ -325,7 +324,6 @@ Last synced: 2026-10-18 12:48 PM UTC (auto sync)
 6786
 6788
 6790
-6791
 6794
 6797
 6801
@@ -338,7 +336,9 @@ Last synced: 2026-10-18 12:48 PM UTC (auto sync)
 6904
 6911
 7002
+7016
 7021
+7042
 7049
 7069
 7083
@@ -357,7 +357,6 @@ Last synced: 2026-10-18 12:48 PM UTC (auto sync)
 7569
 7571
 7588
-7591
 7594
 7600
 7611
@@ -365,7 +364,6 @@ Last synced: 2026-10-18 12:48 PM UTC (auto sync)
 7640
 7648
 7672
-7715
 7839
 7841
 8110
@@ -374,6 +372,7 @@ Last synced: 2026-10-18 12:48 PM UTC (auto sync)
 8116
 8119
 8121
+8122
 8126
 8127
 8129
@@ -565,6 +564,7 @@ Last synced: 2026-10-18 12:48 PM UTC (auto sync)
 12591
 12597
 12617
+12619
 13150
 13264
 13268
@@ -657,6 +657,7 @@ PHI
 PIT
 SEA
 SF
+TB
 ```
 
 ## My Roster — Scvazquez (Roster 9)
@@ -674,8 +675,8 @@ SF
 | FLEX | Terry McLaurin | WR | WAS | 31 |
 | FLEX | CeeDee Lamb | WR | DAL | 27 |
 | FLEX | Kyle Pitts | TE | ATL | 26 |
-| K | (empty) | - | - | - |
-| DEF | (empty) | - | - | - |
+| K | Tyler Bass | K | BUF | 29 |
+| DEF | Tampa Bay Buccaneers | DEF | TB | ? |
 | LB | Zack Baun | LB | PHI | 29 |
 | LB | Quay Walker | LB | LV | 26 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
@@ -687,13 +688,12 @@ SF
 - Darren Waller (TE, CAR, Age 34, 11 yr exp)
 - David Montgomery (RB, HOU, Age 29, 7 yr exp)
 - Derwin James (DB, LAC, Age 30, 8 yr exp)
-- Detroit Lions (DEF, DET, Age ?, 0 yr exp)
+- Detroit Lions (DEF, DET, Age ?, ? yr exp)
 - Edgerrin Cooper (LB, GB, Age 24, 2 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
 - Jayden Daniels (QB, WAS, Age 25, 2 yr exp)
 - Jaylin Noel (WR, HOU, Age 24, 1 yr exp)
 - Jordan Addison (WR, MIN, Age 24, 3 yr exp)
-- Justin Fields (QB, KC, Age 27, 5 yr exp)
 - Justin Jefferson (WR, MIN, Age 27, 6 yr exp)
 - LeQuint Allen (RB, JAX, Age 22, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
@@ -828,7 +828,7 @@ SF
 - Matthew Golden (WR, GB)
 - Brock Bowers (TE, LV)
 - Carnell Tate (WR, TEN)
-- Rome Odunze (WR, CHI)
+- Travis Kelce (TE, KC)
 - Bhayshul Tuten (RB, JAX)
 - Nick Folk (K, ATL)
 - Carolina Panthers (DEF, CAR)
@@ -867,7 +867,7 @@ SF
 - Lewis Bond (WR, HOU)
 - Quentin Johnston (WR, LAC)
 - Ricky Pearsall (WR, SF)
-- Travis Kelce (TE, KC)
+- Rome Odunze (WR, CHI)
 - Treylon Burks (WR, WAS)
 - Tyjae Spears (RB, TEN)
 
@@ -1023,12 +1023,12 @@ SF
 ### Darkkaze (Roster 7)
 
 **Starters:**
-- Tyler Shough (QB, NO)
+- Caleb Williams (QB, CHI)
 - Jaylen Warren (RB, PIT)
 - Emanuel Wilson (RB, SEA)
 - Drake London (WR, ATL)
 - George Pickens (WR, DAL)
-- Tyler Warren (TE, IND)
+- Gunnar Helm (TE, TEN)
 - Keenan Allen (WR, IND)
 - J.K. Dobbins (RB, DEN)
 - Kenny Gainwell (RB, TB)
@@ -1056,13 +1056,11 @@ SF
 - Amon-Ra St. Brown (WR, DET)
 - Brandin Cooks (WR, SF)
 - Bryce Lance (WR, NO)
-- Caleb Williams (QB, CHI)
 - Chase Brown (RB, CIN)
 - Chicago Bears (DEF, CHI)
 - De'Von Achane (RB, MIA)
 - Denver Broncos (DEF, DEN)
 - Drew Allar (QB, PIT)
-- Gunnar Helm (TE, TEN)
 - Jaylen Wright (RB, MIA)
 - Jordan Mason (RB, MIN)
 - Khalil Shakir (WR, BUF)
@@ -1074,6 +1072,8 @@ SF
 - Rashid Shaheed (WR, SEA)
 - Sam Darnold (QB, SEA)
 - Travis Etienne (RB, NO)
+- Tyler Shough (QB, NO)
+- Tyler Warren (TE, IND)
 
 ### DRoj (Roster 8)
 
@@ -1092,7 +1092,7 @@ SF
 - Jamien Sherwood (LB, NYJ)
 - Azeez Al-Shaair (LB, HOU)
 - Malaki Starks (DB, BAL)
-- Cam Bynum (DB, IND)
+- Jeremy Chinn (DB, LV)
 
 **QB Room (7 QBs):**
 - Aaron Rodgers (PIT)
@@ -1105,8 +1105,8 @@ SF
 
 **Positional Surplus (3+ players at same position):**
 - QB (7): Aaron Rodgers, Bo Nix, Bryce Young, C.J. Stroud, Daniel Jones, Kirk Cousins, Patrick Mahomes
-- RB (6): Aaron Jones, Breece Hall, Isiah Pacheco, Kyren Williams, Mike Washington, Quinshon Judkins
-- TE (6): Brenton Strange, Harold Fannin, Jake Ferguson, Pat Freiermuth, Sam LaPorta, Zach Ertz
+- RB (7): Aaron Jones, Breece Hall, Isiah Pacheco, Kyren Williams, Mike Washington, Quinshon Judkins, Zonovan Knight
+- TE (5): Brenton Strange, Harold Fannin, Jake Ferguson, Pat Freiermuth, Sam LaPorta
 - WR (9): Chris Olave, Deebo Samuel, Elic Ayomanor, Garrett Wilson, Jalen Nailor, Jerry Jeudy, Tank Dell, Xavier Worthy, Zachariah Branch
 
 **Bench depth:**
@@ -1128,8 +1128,8 @@ SF
 - Patrick Mahomes (QB, KC)
 - Sam LaPorta (TE, DET)
 - Tank Dell (WR, HOU)
-- Zach Ertz (TE, PHI)
 - Zachariah Branch (WR, ATL)
+- Zonovan Knight (RB, ARI)
 
 ### Jdunn502 (Roster 10)
 
@@ -1147,7 +1147,7 @@ SF
 - Kansas City Chiefs (DEF, KC)
 - T.J. Watt (LB, PIT)
 - Josiah Trotter (LB, TB)
-- C.J. Henderson (CB, ATL)
+- Jonas Sanker (DB, NO)
 - Brandon Jones (DB, DEN)
 
 **QB Room (9 QBs):**
@@ -1202,10 +1202,10 @@ SF
 - Hunter Henry (TE, NE)
 - Davante Adams (WR, LAR)
 - D'Andre Swift (RB, CHI)
-- Jameson Williams (WR, DET)
+- A.J. Brown (WR, NE)
 - Jason Myers (K, SEA)
 - Baltimore Ravens (DEF, BAL)
-- Jack Campbell (LB, DET)
+- Arvell Reese (LB, NYG)
 - Roquan Smith (LB, BAL)
 - Caleb Downs (DB, DAL)
 - Chamarri Conner (DB, KC)
@@ -1223,8 +1223,6 @@ SF
 - WR (12): A.J. Brown, Brenen Thompson, CJ Daniels, Courtland Sutton, Davante Adams, DeMario Douglas, Deion Burks, Jameson Williams, Kevin Coleman, Nico Collins, Ryan Flournoy, Tyquan Thornton
 
 **Bench depth:**
-- A.J. Brown (WR, NE)
-- Arvell Reese (LB, NYG)
 - Brenen Thompson (WR, LAC)
 - CJ Daniels (WR, LAR)
 - Courtland Sutton (WR, DEN)
@@ -1232,7 +1230,9 @@ SF
 - David Njoku (TE, LAC)
 - Deion Burks (WR, IND)
 - Garrett Nussmeier (QB, KC)
+- Jack Campbell (LB, DET)
 - James Conner (RB, ARI)
+- Jameson Williams (WR, DET)
 - John Michael Gyllenborg (TE, KC)
 - Kevin Coleman (WR, MIA)
 - Micah Parsons (LB, GB)
