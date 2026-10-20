@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-19 12:48 PM UTC (auto sync)
+Last synced: 2026-10-20 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -639,7 +639,6 @@ Last synced: 2026-10-19 12:48 PM UTC (auto sync)
 13602
 13726
 BAL
-CAR
 CHI
 CIN
 CLE
@@ -831,7 +830,6 @@ TB
 - Travis Kelce (TE, KC)
 - Bhayshul Tuten (RB, JAX)
 - Nick Folk (K, ATL)
-- Carolina Panthers (DEF, CAR)
 - Zaire Franklin (LB, GB)
 - Sonny Styles (LB, WAS)
 - Cole Bishop (DB, BUF)
@@ -874,7 +872,7 @@ TB
 ### Bombas (Roster 4)
 
 **Starters:**
-- Trevor Lawrence (QB, JAX)
+- Malik Willis (QB, MIA)
 - RJ Harvey (RB, DEN)
 - Kendre Miller (RB, NO)
 - KC Concepcion (WR, CLE)
@@ -882,7 +880,7 @@ TB
 - Kenyon Sadiq (TE, NYJ)
 - Braelon Allen (RB, NYJ)
 - Germie Bernard (WR, PIT)
-- Dameon Pierce (RB, PHI)
+- Omar Cooper (WR, NYJ)
 - Cairo Santos (K, CHI)
 - Cleveland Browns (DEF, CLE)
 - Ventrell Miller (LB, JAX)
@@ -904,6 +902,7 @@ TB
 **Bench depth:**
 - Adonai Mitchell (WR, NYJ)
 - CJ Donaldson (RB, NO)
+- Dameon Pierce (RB, PHI)
 - Darnell Washington (TE, PIT)
 - Demond Claiborne (RB, MIN)
 - Dylan Sampson (RB, CLE)
@@ -914,12 +913,11 @@ TB
 - Kaytron Allen (RB, MIA)
 - Keon Coleman (WR, BUF)
 - Malachi Fields (WR, NYG)
-- Malik Willis (QB, MIA)
-- Omar Cooper (WR, NYJ)
 - Oronde Gadsden (TE, LAC)
 - Pierre Strong (RB, GB)
 - Rashod Bateman (WR, BAL)
 - Roschon Johnson (RB, CHI)
+- Trevor Lawrence (QB, JAX)
 - Troy Franklin (WR, DEN)
 - Tyler Goodson (RB, DAL)
 - Tyler Higbee (TE, LAR)
@@ -1142,9 +1140,9 @@ TB
 - Tucker Kraft (TE, GB)
 - Colston Loveland (TE, CHI)
 - Tony Pollard (RB, TEN)
-- MarShawn Lloyd (RB, GB)
+- Ja'Marr Chase (WR, CIN)
 - Spencer Shrader (K, IND)
-- Kansas City Chiefs (DEF, KC)
+- San Francisco 49ers (DEF, SF)
 - T.J. Watt (LB, PIT)
 - Josiah Trotter (LB, TB)
 - Jonas Sanker (DB, NO)
@@ -1176,17 +1174,17 @@ TB
 - Chris Rodriguez (RB, JAX)
 - Cole Payton (QB, PHI)
 - Geno Smith (QB, NYJ)
-- Ja'Marr Chase (WR, CIN)
 - Jacob Rodriguez (LB, MIA)
 - Jalen McMillan (WR, TB)
 - Jalon Daniels (QB, TB)
 - Joe Milton (QB, PHI)
 - Jordyn Tyson (WR, NO)
+- Kansas City Chiefs (DEF, KC)
 - Kyler Murray (QB, MIN)
+- MarShawn Lloyd (RB, GB)
 - Oscar Delp (TE, NO)
 - Ray Davis (RB, BUF)
 - Reggie Virgil (WR, ARI)
-- San Francisco 49ers (DEF, SF)
 - Seth McGowan (RB, IND)
 - Tyrone Tracy (RB, NYG)
 - Will Howard (QB, PIT)
