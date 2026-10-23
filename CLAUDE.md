@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-22 12:47 PM UTC (auto sync)
+Last synced: 2026-10-23 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -645,7 +645,6 @@ CLE
 DEN
 DET
 HOU
-IND
 JAX
 KC
 LAR
@@ -752,7 +751,7 @@ TEN
 - Jaleel McLaughlin (RB, CLE)
 - Jalen Brooks (WR, ARI)
 - Jayden Reed (WR, GB)
-- Jaydon Blue (RB, FA)
+- Jaydon Blue (RB, PHI)
 - Joe Burrow (QB, CIN)
 - Malik Benson (WR, LV)
 - Savion Williams (WR, GB)
@@ -820,7 +819,7 @@ TEN
 ### WOODYWOOD1978 (Roster 3)
 
 **Starters:**
-- Michael Penix Jr. (QB, ATL)
+- Jared Goff (QB, DET)
 - Woody Marks (RB, HOU)
 - Tyjae Spears (RB, TEN)
 - Devaughn Vele (WR, NO)
@@ -828,7 +827,7 @@ TEN
 - Brock Bowers (TE, LV)
 - Carnell Tate (WR, TEN)
 - Travis Kelce (TE, KC)
-- Bhayshul Tuten (RB, JAX)
+- Rome Odunze (WR, CHI)
 - Nick Folk (K, ATL)
 - Tennessee Titans (DEF, TEN)
 - Zaire Franklin (LB, GB)
@@ -849,25 +848,24 @@ TEN
 
 **Bench depth:**
 - Antonio Williams (WR, WAS)
+- Bhayshul Tuten (RB, JAX)
 - Brian Thomas Jr. (WR, JAX)
 - Camden Brown (WR, DAL)
 - Charlie Kolar (TE, LAC)
 - Darius Cooper (WR, PHI)
 - Dohnte Meyers (WR, CIN)
-- Indianapolis Colts (DEF, IND)
 - Isaiah Williams (WR, NYJ)
 - Ja'Kobi Lane (WR, BAL)
 - Jacob Saylors (RB, DET)
 - Jadarian Price (RB, SEA)
 - James Cook III (RB, BUF)
-- Jared Goff (QB, DET)
 - Jaxson Dart (QB, NYG)
 - Kayshon Boutte (WR, HOU)
 - Kyle Monangai (RB, CHI)
 - Lewis Bond (WR, HOU)
+- Michael Penix Jr. (QB, ATL)
 - Quentin Johnston (WR, LAC)
 - Ricky Pearsall (WR, SF)
-- Rome Odunze (WR, CHI)
 - Treylon Burks (WR, WAS)
 
 ### Bombas (Roster 4)
@@ -1077,14 +1075,14 @@ TEN
 
 **Starters:**
 - Kirk Cousins (QB, LV)
-- Aaron Jones Sr. (RB, MIN)
+- Breece Hall (RB, NYJ)
 - Kyren Williams (RB, LAR)
 - Chris Olave (WR, NO)
 - Garrett Wilson (WR, NYJ)
 - Sam LaPorta (TE, DET)
-- Xavier Worthy (WR, KC)
+- Aaron Jones Sr. (RB, MIN)
 - Harold Fannin Jr. (TE, CLE)
-- Jake Ferguson (TE, DAL)
+- Quinshon Judkins (RB, CLE)
 - Matt Gay (K, LV)
 - New York Jets (DEF, NYJ)
 - Jamien Sherwood (LB, NYJ)
@@ -1110,7 +1108,6 @@ TEN
 **Bench depth:**
 - Aaron Rodgers (QB, PIT)
 - Bo Nix (QB, DEN)
-- Breece Hall (RB, NYJ)
 - Brenton Strange (TE, JAX)
 - Bryce Young (QB, CAR)
 - C.J. Stroud (QB, HOU)
@@ -1119,13 +1116,14 @@ TEN
 - Elic Ayomanor (WR, TEN)
 - Harrison Butker (K, KC)
 - Isiah Pacheco (RB, DET)
+- Jake Ferguson (TE, DAL)
 - Jalen Nailor (WR, LV)
 - Jerry Jeudy (WR, CLE)
 - Mike Washington Jr. (RB, LV)
 - Pat Freiermuth (TE, PIT)
 - Patrick Mahomes (QB, KC)
-- Quinshon Judkins (RB, CLE)
 - Tank Dell (WR, HOU)
+- Xavier Worthy (WR, KC)
 - Zachariah Branch (WR, ATL)
 - Zonovan Knight (RB, ARI)
 
@@ -1143,7 +1141,7 @@ TEN
 - Colston Loveland (TE, CHI)
 - Spencer Shrader (K, IND)
 - San Francisco 49ers (DEF, SF)
-- T.J. Watt (LB, PIT)
+- Josiah Trotter (LB, TB)
 - Jacob Rodriguez (LB, MIA)
 - Jonas Sanker (DB, NO)
 - Brandon Jones (DB, DEN)
@@ -1178,7 +1176,6 @@ TEN
 - Jalon Daniels (QB, TB)
 - Joe Milton (QB, PHI)
 - Jordyn Tyson (WR, NO)
-- Josiah Trotter (LB, TB)
 - Kansas City Chiefs (DEF, KC)
 - Kyler Murray (QB, MIN)
 - MarShawn Lloyd (RB, GB)
@@ -1186,6 +1183,7 @@ TEN
 - Ray Davis (RB, BUF)
 - Reggie Virgil (WR, ARI)
 - Seth McGowan (RB, IND)
+- T.J. Watt (LB, PIT)
 - Tyrone Tracy Jr. (RB, NYG)
 - Will Howard (QB, PIT)
 
@@ -1294,5 +1292,4 @@ TEN
 - Rachaad White (RB, WAS)
 - Roman Wilson (WR, PIT)
 - Samaje Perine (RB, CIN)
-
 <!-- END_AUTO_GENERATED -->
