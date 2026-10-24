@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-23 12:47 PM UTC (auto sync)
+Last synced: 2026-10-24 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -667,13 +667,13 @@ TEN
 |------|--------|-----|------|-----|
 | QB | Matthew Stafford | QB | LAR | 38 |
 | RB | Alvin Kamara | RB | NO | 31 |
-| RB | Rico Dowdle | RB | PIT | 28 |
+| RB | Saquon Barkley | RB | PHI | 29 |
+| WR | Jordan Addison | WR | MIN | 24 |
 | WR | Justin Jefferson | WR | MIN | 27 |
-| WR | Jaylin Noel | WR | HOU | 24 |
 | TE | Kyle Pitts Sr. | TE | ATL | 26 |
 | FLEX | CeeDee Lamb | WR | DAL | 27 |
+| FLEX | Jaylin Noel | WR | HOU | 24 |
 | FLEX | Mark Andrews | TE | BAL | 31 |
-| FLEX | Jordan Addison | WR | MIN | 24 |
 | K | Will Reichard | K | MIN | 25 |
 | DEF | Tampa Bay Buccaneers | DEF | TB | ? |
 | LB | Zack Baun | LB | PHI | 29 |
@@ -695,7 +695,7 @@ TEN
 - Ladd McConkey (WR, LAC, Age 24, 2 yr exp)
 - LeQuint Allen Jr. (RB, JAX, Age 22, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
-- Saquon Barkley (RB, PHI, Age 29, 8 yr exp)
+- Rico Dowdle (RB, PIT, Age 28, 6 yr exp)
 - Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
 - Terry McLaurin (WR, WAS, Age 31, 7 yr exp)
 - Tre' Harris (WR, LAC, Age 24, 1 yr exp)
@@ -737,7 +737,7 @@ TEN
 - QB (3): Joe Burrow, Jordan Love, Shedeur Sanders
 - RB (8): Bucky Irving, Emari Demercado, J'Mari Taylor, Jahmyr Gibbs, Jaleel McLaughlin, Jaydon Blue, Ollie Gordon II, TreVeyon Henderson
 - TE (3): AJ Barner, George Kittle, Jake Tonges
-- WR (16): Barion Brown, Chris Brazzell II, DJ Moore, DeVonta Smith, Isaac TeSlaa, Jalen Brooks, Jayden Reed, Malik Benson, Michael Wilson, Puka Nacua, Savion Williams, Skyler Bell, Ted Hurst III, Tory Horton, Tutu Atwell, Zavion Thomas
+- WR (16): Barion Brown, Chris Brazzell II, DeVonta Smith, DJ Moore, Isaac TeSlaa, Jalen Brooks, Jayden Reed, Malik Benson, Michael Wilson, Puka Nacua, Savion Williams, Skyler Bell, Ted Hurst III, Tory Horton, Tutu Atwell, Zavion Thomas
 
 **Bench depth:**
 - AJ Barner (TE, SEA)
@@ -1024,7 +1024,7 @@ TEN
 - Chase Brown (RB, CIN)
 - Drake London (WR, ATL)
 - Amon-Ra St. Brown (WR, DET)
-- Tyler Warren (TE, IND)
+- Mason Taylor (TE, NYJ)
 - George Pickens (WR, DAL)
 - J.K. Dobbins (RB, DEN)
 - Malik Washington (WR, MIA)
@@ -1062,7 +1062,6 @@ TEN
 - Keenan Allen (WR, IND)
 - Kenny Gainwell (RB, TB)
 - Khalil Shakir (WR, BUF)
-- Mason Taylor (TE, NYJ)
 - Matt Hibner (TE, BAL)
 - Max Klare (TE, LAR)
 - Noah Fant (TE, NO)
@@ -1070,6 +1069,7 @@ TEN
 - Sam Darnold (QB, SEA)
 - Travis Etienne Jr. (RB, NO)
 - Tyler Shough (QB, NO)
+- Tyler Warren (TE, IND)
 
 ### DRoj (Roster 8)
 
@@ -1216,15 +1216,15 @@ TEN
 - QB (3): Garrett Nussmeier, Justin Herbert, Tua Tagovailoa
 - RB (7): Christian McCaffrey, D'Andre Swift, DJ Giddens, James Conner, Jonathan Taylor, Sean Tucker, Trey Benson
 - TE (5): David Njoku, Hunter Henry, John Michael Gyllenborg, Mike Gesicki, Nate Boerkircher
-- WR (12): A.J. Brown, Brenen Thompson, CJ Daniels, Courtland Sutton, Davante Adams, DeMario Douglas, Deion Burks, Jameson Williams, Kevin Coleman Jr., Nico Collins, Ryan Flournoy, Tyquan Thornton
+- WR (12): A.J. Brown, Brenen Thompson, CJ Daniels, Courtland Sutton, Davante Adams, Deion Burks, DeMario Douglas, Jameson Williams, Kevin Coleman Jr., Nico Collins, Ryan Flournoy, Tyquan Thornton
 
 **Bench depth:**
 - Brenen Thompson (WR, LAC)
 - CJ Daniels (WR, LAR)
 - Courtland Sutton (WR, DEN)
-- DJ Giddens (RB, IND)
 - David Njoku (TE, LAC)
 - Deion Burks (WR, IND)
+- DJ Giddens (RB, IND)
 - Garrett Nussmeier (QB, KC)
 - Jack Campbell (LB, DET)
 - James Conner (RB, ARI)
@@ -1292,4 +1292,5 @@ TEN
 - Rachaad White (RB, WAS)
 - Roman Wilson (WR, PIT)
 - Samaje Perine (RB, CIN)
+
 <!-- END_AUTO_GENERATED -->
