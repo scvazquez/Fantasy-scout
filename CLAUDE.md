@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-10-28 1:03 PM UTC (auto sync)
+Last synced: 2026-10-29 12:55 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -299,7 +299,6 @@ Last synced: 2026-10-28 1:03 PM UTC (auto sync)
 5022
 5041
 5045
-5189
 5332
 5372
 5843
@@ -644,6 +643,7 @@ Last synced: 2026-10-28 1:03 PM UTC (auto sync)
 13424
 13453
 13533
+13545
 13602
 13726
 BAL
@@ -674,41 +674,41 @@ WAS
 | Slot | Player | Pos | Team | Age |
 |------|--------|-----|------|-----|
 | QB | Matthew Stafford | QB | LAR | 38 |
-| RB | Alvin Kamara | RB | NO | 31 |
+| RB | Rico Dowdle | RB | PIT | 28 |
 | RB | Saquon Barkley | RB | PHI | 29 |
+| WR | CeeDee Lamb | WR | DAL | 27 |
 | WR | Justin Jefferson | WR | MIN | 27 |
-| WR | Jordan Addison | WR | MIN | 24 |
 | TE | Kyle Pitts Sr. | TE | ATL | 26 |
-| FLEX | CeeDee Lamb | WR | DAL | 27 |
+| FLEX | Ladd McConkey | WR | LAC | 24 |
+| FLEX | Jordan Addison | WR | MIN | 24 |
 | FLEX | Mark Andrews | TE | BAL | 31 |
-| FLEX | Jaylin Noel | WR | HOU | 24 |
 | K | Will Reichard | K | MIN | 25 |
-| DEF | Tampa Bay Buccaneers | DEF | TB | ? |
+| DEF | Detroit Lions | DEF | DET | ? |
 | LB | Zack Baun | LB | PHI | 29 |
-| LB | Will Anderson Jr. | DL | HOU | 25 |
+| LB | Quay Walker | LB | LV | 26 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
 | DB | Xavier McKinney | DB | GB | 28 |
 
 ### Bench
 
+- Alvin Kamara (RB, NO, Age 31, 9 yr exp)
 - Christian Izien (DB, DET, Age 26, 3 yr exp)
 - Darren Waller (TE, CAR, Age 34, 11 yr exp)
 - David Montgomery (RB, HOU, Age 29, 7 yr exp)
 - Derwin James Jr. (DB, LAC, Age 30, 8 yr exp)
-- Detroit Lions (DEF, DET, Age ?, ? yr exp)
 - Edgerrin Cooper (LB, GB, Age 24, 2 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
 - Jayden Daniels (QB, WAS, Age 25, 2 yr exp)
+- Jaylin Noel (WR, HOU, Age 24, 1 yr exp)
 - Kendrick Bourne (WR, ARI, Age 31, 9 yr exp)
-- Ladd McConkey (WR, LAC, Age 24, 2 yr exp)
 - LeQuint Allen Jr. (RB, JAX, Age 22, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
-- Quay Walker (LB, LV, Age 26, 4 yr exp)
-- Rico Dowdle (RB, PIT, Age 28, 6 yr exp)
 - Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
+- Tampa Bay Buccaneers (DEF, TB, Age ?, ? yr exp)
 - Terry McLaurin (WR, WAS, Age 31, 7 yr exp)
 - Tre' Harris (WR, LAC, Age 24, 1 yr exp)
 - Tyler Bass (K, BUF, Age 29, 6 yr exp)
+- Will Anderson Jr. (DL, HOU, Age 25, 3 yr exp)
 
 ### Taxi Squad
 
@@ -724,12 +724,12 @@ WAS
 - Bucky Irving (RB, TB)
 - Jahmyr Gibbs (RB, DET)
 - Michael Wilson (WR, ARI)
-- Ted Hurst III (WR, TB)
+- DeVonta Smith (WR, PHI)
 - AJ Barner (TE, SEA)
 - TreVeyon Henderson (RB, NE)
 - Ollie Gordon II (RB, MIA)
 - Puka Nacua (WR, LAR)
-- Eddy Pineiro (K, SF)
+- Trey Smack (K, GB)
 - Los Angeles Rams (DEF, LAR)
 - Nakobe Dean (LB, LV)
 - Devin Lloyd (LB, CAR)
@@ -751,8 +751,7 @@ WAS
 - Barion Brown (WR, NO)
 - Chris Brazzell II (WR, CAR)
 - DJ Moore (WR, BUF)
-- DeVonta Smith (WR, PHI)
-- Emari Demercado (RB, DAL)
+- Emari Demercado (RB, HOU)
 - George Kittle (TE, SF)
 - Isaac TeSlaa (WR, DET)
 - J'Mari Taylor (RB, JAX)
@@ -766,6 +765,7 @@ WAS
 - Savion Williams (WR, GB)
 - Shedeur Sanders (QB, CLE)
 - Skyler Bell (WR, BUF)
+- Ted Hurst III (WR, TB)
 - Tory Horton (WR, SEA)
 - Tutu Atwell (WR, LAR)
 - Zavion Thomas (WR, CHI)
@@ -777,9 +777,9 @@ WAS
 - Kenneth Walker III (RB, KC)
 - Rhamondre Stevenson (RB, NE)
 - Tetairoa McMillan (WR, CAR)
-- Luther Burden III (WR, CHI)
-- Dallas Goedert (TE, PHI)
 - Denzel Boston (WR, CLE)
+- Dallas Goedert (TE, PHI)
+- Luther Burden III (WR, CHI)
 - Jeremiyah Love (RB, ARI)
 - Blake Corum (RB, LAR)
 - Cam Little (K, JAX)
@@ -936,9 +936,9 @@ WAS
 - Chuba Hubbard (RB, CAR)
 - Javonte Williams (RB, DAL)
 - Jaxon Smith-Njigba (WR, SEA)
-- Wan'Dale Robinson (WR, TEN)
+- Rashee Rice (WR, KC)
 - Cade Otton (TE, TB)
-- Makai Lemon (WR, PHI)
+- Jonah Coleman (RB, DEN)
 - Jalen Coker (WR, CAR)
 - Parker Washington (WR, JAX)
 - Jake Bates (K, DET)
@@ -972,19 +972,19 @@ WAS
 - Dalton Schultz (TE, HOU)
 - Elijah Sarratt (WR, BAL)
 - Jahan Dotson (WR, ATL)
-- Jonah Coleman (RB, DEN)
 - Jonathon Brooks (RB, CAR)
 - Kaelon Black (RB, SF)
 - Keaton Mitchell (RB, LAC)
 - Lamar Jackson (QB, BAL)
+- Makai Lemon (WR, PHI)
 - Michael Mayer (TE, LV)
 - Omarion Hampton (RB, LAC)
-- Rashee Rice (WR, KC)
 - Tanner McKee (QB, PHI)
 - Taylen Green (QB, CLE)
 - Terrance Ferguson (TE, LAR)
 - Ty Simpson (QB, LAR)
 - Tyler Huntley (QB, BAL)
+- Wan'Dale Robinson (WR, TEN)
 
 ### SnaggyNoDiploma (Roster 6)
 
