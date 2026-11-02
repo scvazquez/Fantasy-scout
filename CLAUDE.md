@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-01 12:48 PM UTC (auto sync)
+Last synced: 2026-11-02 12:54 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -304,6 +304,7 @@ Last synced: 2026-11-01 12:48 PM UTC (auto sync)
 5843
 5844
 5846
+5848
 5849
 5850
 5859
@@ -723,11 +724,11 @@ WAS
 - Bucky Irving (RB, TB)
 - Jahmyr Gibbs (RB, DET)
 - Michael Wilson (WR, ARI)
-- DeVonta Smith (WR, PHI)
-- AJ Barner (TE, SEA)
-- TreVeyon Henderson (RB, NE)
-- Ollie Gordon II (RB, MIA)
 - Puka Nacua (WR, LAR)
+- AJ Barner (TE, SEA)
+- Tutu Atwell (WR, LAR)
+- Ollie Gordon II (RB, MIA)
+- Tory Horton (WR, SEA)
 - Trey Smack (K, GB)
 - Los Angeles Rams (DEF, LAR)
 - Nakobe Dean (LB, LV)
@@ -750,6 +751,7 @@ WAS
 - Barion Brown (WR, NO)
 - Chris Brazzell II (WR, CAR)
 - DJ Moore (WR, BUF)
+- DeVonta Smith (WR, PHI)
 - Emari Demercado (RB, HOU)
 - George Kittle (TE, SF)
 - Isaac TeSlaa (WR, DET)
@@ -765,8 +767,7 @@ WAS
 - Shedeur Sanders (QB, CLE)
 - Skyler Bell (WR, BUF)
 - Ted Hurst III (WR, TB)
-- Tory Horton (WR, SEA)
-- Tutu Atwell (WR, LAR)
+- TreVeyon Henderson (RB, NE)
 - Zavion Thomas (WR, CHI)
 
 ### JQuinna10 (Roster 2)
@@ -902,7 +903,7 @@ WAS
 
 **Positional Surplus (3+ players at same position):**
 - QB (3): Fernando Mendoza, Malik Willis, Trevor Lawrence
-- RB (8): Braelon Allen, Dameon Pierce, Demond Claiborne, J.K. Dobbins, Kaleb Johnson, Kaytron Allen, Kendre Miller, RJ Harvey
+- RB (9): Braelon Allen, Dameon Pierce, Demond Claiborne, J.K. Dobbins, Kaleb Johnson, Kaytron Allen, Kendre Miller, RJ Harvey, Travis Etienne Jr.
 - TE (4): Darnell Washington, Kenyon Sadiq, Oronde Gadsden, Tyler Higbee
 - WR (14): Adonai Mitchell, Dontayvion Wicks, Germie Bernard, Jack Bech, Jayden Higgins, Jordan Watkins, Josh Cameron, KC Concepcion Jr., Keon Coleman, Malachi Fields, Omar Cooper Jr., Rashod Bateman, Tre Tucker, Troy Franklin
 
@@ -926,6 +927,7 @@ WAS
 - Oronde Gadsden (TE, LAC)
 - RJ Harvey (RB, DEN)
 - Rashod Bateman (WR, BAL)
+- Travis Etienne Jr. (RB, NO)
 - Troy Franklin (WR, DEN)
 
 ### Larz1111 (Roster 5)
@@ -1064,7 +1066,7 @@ WAS
 **Positional Surplus (3+ players at same position):**
 - DEF (3): Cincinnati Bengals, Denver Broncos, Pittsburgh Steelers
 - QB (4): Caleb Williams, Drew Allar, Sam Darnold, Tyler Shough
-- RB (8): Chase Brown, De'Von Achane, Emanuel Wilson, Jaylen Warren, Jaylen Wright, Jordan Mason, Kenny Gainwell, Travis Etienne Jr.
+- RB (7): Chase Brown, De'Von Achane, Emanuel Wilson, Jaylen Warren, Jaylen Wright, Jordan Mason, Kenny Gainwell
 - TE (5): Gunnar Helm, Mason Taylor, Matt Hibner, Max Klare, Tyler Warren
 - WR (8): Amon-Ra St. Brown, Bryce Lance, Drake London, George Pickens, Keenan Allen, Khalil Shakir, Malik Washington, Rashid Shaheed
 
@@ -1086,7 +1088,6 @@ WAS
 - Pittsburgh Steelers (DEF, PIT)
 - Rashid Shaheed (WR, SEA)
 - Sam Darnold (QB, SEA)
-- Travis Etienne Jr. (RB, NO)
 - Tyler Shough (QB, NO)
 
 ### DRoj (Roster 8)
@@ -1098,7 +1099,7 @@ WAS
 - Xavier Worthy (WR, KC)
 - Garrett Wilson (WR, NYJ)
 - Sam LaPorta (TE, DET)
-- Breece Hall (RB, NYJ)
+- Elic Ayomanor (WR, TEN)
 - Harold Fannin Jr. (TE, CLE)
 - Brenton Strange (TE, JAX)
 - Matt Gay (K, LV)
@@ -1127,12 +1128,12 @@ WAS
 - Aaron Jones Sr. (RB, MIN)
 - Aaron Rodgers (QB, PIT)
 - Bo Nix (QB, DEN)
+- Breece Hall (RB, NYJ)
 - Bryce Young (QB, CAR)
 - C.J. Stroud (QB, HOU)
 - Chris Olave (WR, NO)
 - Daniel Jones (QB, IND)
 - Deebo Samuel Sr. (WR, SF)
-- Elic Ayomanor (WR, TEN)
 - Isiah Pacheco (RB, DET)
 - Jake Ferguson (TE, DAL)
 - Jalen Nailor (WR, LV)
@@ -1209,11 +1210,11 @@ WAS
 - Jonathan Taylor (RB, IND)
 - D'Andre Swift (RB, CHI)
 - Jameson Williams (WR, DET)
-- A.J. Brown (WR, NE)
+- DeMario Douglas (WR, NE)
 - Hunter Henry (TE, NE)
 - Ryan Flournoy (WR, DAL)
 - Courtland Sutton (WR, DEN)
-- DeMario Douglas (WR, NE)
+- Marquise Brown (WR, PHI)
 - Jason Myers (K, SEA)
 - Las Vegas Raiders (DEF, LV)
 - Jack Campbell (LB, DET)
@@ -1231,9 +1232,10 @@ WAS
 - QB (3): Garrett Nussmeier, Justin Herbert, Tua Tagovailoa
 - RB (7): Christian McCaffrey, D'Andre Swift, DJ Giddens, James Conner, Jonathan Taylor, Sean Tucker, Trey Benson
 - TE (4): David Njoku, Hunter Henry, Mike Gesicki, Nate Boerkircher
-- WR (12): A.J. Brown, Brenen Thompson, CJ Daniels, Courtland Sutton, Davante Adams, DeMario Douglas, Deion Burks, Jameson Williams, Kevin Coleman Jr., Nico Collins, Ryan Flournoy, Tyquan Thornton
+- WR (13): A.J. Brown, Brenen Thompson, CJ Daniels, Courtland Sutton, Davante Adams, DeMario Douglas, Deion Burks, Jameson Williams, Kevin Coleman Jr., Marquise Brown, Nico Collins, Ryan Flournoy, Tyquan Thornton
 
 **Bench depth:**
+- A.J. Brown (WR, NE)
 - Arvell Reese (LB, NYG)
 - Baltimore Ravens (DEF, BAL)
 - Brenen Thompson (WR, LAC)
