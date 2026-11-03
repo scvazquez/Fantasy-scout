@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-02 12:54 PM UTC (auto sync)
+Last synced: 2026-11-03 12:48 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -885,10 +885,10 @@ WAS
 - Braelon Allen (RB, NYJ)
 - KC Concepcion Jr. (WR, CLE)
 - Tre Tucker (WR, LV)
-- Tyler Higbee (TE, LAR)
+- Oronde Gadsden (TE, LAC)
 - Keon Coleman (WR, BUF)
-- Germie Bernard (WR, PIT)
-- Omar Cooper Jr. (WR, NYJ)
+- Travis Etienne Jr. (RB, NO)
+- Adonai Mitchell (WR, NYJ)
 - Cairo Santos (K, CHI)
 - Cleveland Browns (DEF, CLE)
 - Devin Bush (LB, CHI)
@@ -908,12 +908,12 @@ WAS
 - WR (14): Adonai Mitchell, Dontayvion Wicks, Germie Bernard, Jack Bech, Jayden Higgins, Jordan Watkins, Josh Cameron, KC Concepcion Jr., Keon Coleman, Malachi Fields, Omar Cooper Jr., Rashod Bateman, Tre Tucker, Troy Franklin
 
 **Bench depth:**
-- Adonai Mitchell (WR, NYJ)
 - Dameon Pierce (RB, PHI)
 - Darnell Washington (TE, PIT)
 - Demond Claiborne (RB, MIN)
 - Dontayvion Wicks (WR, PHI)
 - Fernando Mendoza (QB, LV)
+- Germie Bernard (WR, PIT)
 - Jack Bech (WR, LV)
 - Jayden Higgins (WR, HOU)
 - Jordan Watkins (WR, SF)
@@ -924,11 +924,11 @@ WAS
 - Kenyon Sadiq (TE, NYJ)
 - Malachi Fields (WR, NYG)
 - Malik Willis (QB, MIA)
-- Oronde Gadsden (TE, LAC)
+- Omar Cooper Jr. (WR, NYJ)
 - RJ Harvey (RB, DEN)
 - Rashod Bateman (WR, BAL)
-- Travis Etienne Jr. (RB, NO)
 - Troy Franklin (WR, DEN)
+- Tyler Higbee (TE, LAR)
 
 ### Larz1111 (Roster 5)
 
