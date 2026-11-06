@@ -657,7 +657,6 @@ HOU
 JAX
 KC
 LAR
-LV
 MIN
 NE
 NO
@@ -747,7 +746,7 @@ TB
 - QB (3): Joe Burrow, Jordan Love, Shedeur Sanders
 - RB (8): Bucky Irving, Emari Demercado, J'Mari Taylor, Jahmyr Gibbs, Jaleel McLaughlin, Jaydon Blue, Ollie Gordon II, TreVeyon Henderson
 - TE (3): AJ Barner, George Kittle, Jake Tonges
-- WR (16): Barion Brown, Chris Brazzell II, DeVonta Smith, DJ Moore, Isaac TeSlaa, Jalen Brooks, Jayden Reed, Malik Benson, Michael Wilson, Puka Nacua, Savion Williams, Skyler Bell, Ted Hurst III, Tory Horton, Tutu Atwell, Zavion Thomas
+- WR (16): Barion Brown, Chris Brazzell II, DJ Moore, DeVonta Smith, Isaac TeSlaa, Jalen Brooks, Jayden Reed, Malik Benson, Michael Wilson, Puka Nacua, Savion Williams, Skyler Bell, Ted Hurst III, Tory Horton, Tutu Atwell, Zavion Thomas
 
 **Bench depth:**
 - AJ Barner (TE, SEA)
