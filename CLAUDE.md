@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-06 12:47 PM UTC (auto sync)
+Last synced: 2026-11-07 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -265,6 +265,7 @@ Last synced: 2026-11-06 12:47 PM UTC (auto sync)
 3271
 3286
 3294
+3321
 3451
 3634
 4017
@@ -466,7 +467,6 @@ Last synced: 2026-11-06 12:47 PM UTC (auto sync)
 11237
 11427
 11435
-11439
 11533
 11539
 11557
@@ -744,9 +744,9 @@ TB
 
 **Positional Surplus (3+ players at same position):**
 - QB (3): Joe Burrow, Jordan Love, Shedeur Sanders
-- RB (8): Bucky Irving, Emari Demercado, J'Mari Taylor, Jahmyr Gibbs, Jaleel McLaughlin, Jaydon Blue, Ollie Gordon II, TreVeyon Henderson
+- RB (7): Bucky Irving, Emari Demercado, J'Mari Taylor, Jahmyr Gibbs, Jaydon Blue, Ollie Gordon II, TreVeyon Henderson
 - TE (3): AJ Barner, George Kittle, Jake Tonges
-- WR (16): Barion Brown, Chris Brazzell II, DJ Moore, DeVonta Smith, Isaac TeSlaa, Jalen Brooks, Jayden Reed, Malik Benson, Michael Wilson, Puka Nacua, Savion Williams, Skyler Bell, Ted Hurst III, Tory Horton, Tutu Atwell, Zavion Thomas
+- WR (17): Barion Brown, Chris Brazzell II, DJ Moore, DeVonta Smith, Isaac TeSlaa, Jalen Brooks, Jayden Reed, Malik Benson, Michael Wilson, Puka Nacua, Savion Williams, Skyler Bell, Ted Hurst III, Tory Horton, Tutu Atwell, Tyreek Hill, Zavion Thomas
 
 **Bench depth:**
 - AJ Barner (TE, SEA)
@@ -756,7 +756,6 @@ TB
 - Isaac TeSlaa (WR, DET)
 - J'Mari Taylor (RB, JAX)
 - Jake Tonges (TE, SF)
-- Jaleel McLaughlin (RB, CLE)
 - Jalen Brooks (WR, ARI)
 - Jayden Reed (WR, GB)
 - Jaydon Blue (RB, PHI)
@@ -769,6 +768,7 @@ TB
 - Tory Horton (WR, SEA)
 - TreVeyon Henderson (RB, NE)
 - Tutu Atwell (WR, LAR)
+- Tyreek Hill (WR, FA)
 - Zavion Thomas (WR, CHI)
 
 ### JQuinna10 (Roster 2)
@@ -887,7 +887,7 @@ TB
 - Braelon Allen (RB, NYJ)
 - KC Concepcion Jr. (WR, CLE)
 - Tre Tucker (WR, LV)
-- Oronde Gadsden (TE, LAC)
+- Kenyon Sadiq (TE, NYJ)
 - Keon Coleman (WR, BUF)
 - Omar Cooper Jr. (WR, NYJ)
 - Adonai Mitchell (WR, NYJ)
@@ -923,9 +923,9 @@ TB
 - Kaleb Johnson (RB, GB)
 - Kaytron Allen (RB, MIA)
 - Kendre Miller (RB, NO)
-- Kenyon Sadiq (TE, NYJ)
 - Malachi Fields (WR, NYG)
 - Malik Willis (QB, MIA)
+- Oronde Gadsden (TE, LAC)
 - RJ Harvey (RB, DEN)
 - Rashod Bateman (WR, BAL)
 - Travis Etienne Jr. (RB, NO)
@@ -1154,7 +1154,7 @@ TB
 **Starters:**
 - Geno Smith (QB, NYJ)
 - Ashton Jeanty (RB, LV)
-- Cam Skattebo (RB, NYG)
+- Devin Singletary (RB, NYG)
 - Ja'Marr Chase (WR, CIN)
 - Malik Nabers (WR, NYG)
 - Tucker Kraft (TE, GB)
@@ -1186,12 +1186,12 @@ TB
 
 **Bench depth:**
 - Cade Klubnik (QB, NYJ)
+- Cam Skattebo (RB, NYG)
 - Cam Ward (QB, TEN)
 - Chris Bell (WR, MIA)
 - Chris Rodriguez Jr. (RB, JAX)
 - Cole Payton (QB, PHI)
 - Deshaun Watson (QB, CLE)
-- Devin Singletary (RB, NYG)
 - Jalen McMillan (WR, TB)
 - Jason Sanders (K, NYJ)
 - Jordyn Tyson (WR, NO)
