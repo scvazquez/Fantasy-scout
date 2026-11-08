@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-07 12:46 PM UTC (auto sync)
+Last synced: 2026-11-08 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -323,7 +323,6 @@ Last synced: 2026-11-07 12:46 PM UTC (auto sync)
 6183
 6214
 6217
-6333
 6485
 6650
 6770
@@ -401,7 +400,6 @@ Last synced: 2026-11-07 12:46 PM UTC (auto sync)
 8161
 8167
 8172
-8180
 8183
 8188
 8205
@@ -479,6 +477,7 @@ Last synced: 2026-11-07 12:46 PM UTC (auto sync)
 11571
 11575
 11576
+11579
 11581
 11583
 11584
@@ -544,7 +543,6 @@ Last synced: 2026-11-07 12:46 PM UTC (auto sync)
 12508
 12509
 12510
-12511
 12512
 12514
 12517
@@ -572,6 +570,7 @@ Last synced: 2026-11-07 12:46 PM UTC (auto sync)
 12578
 12591
 12597
+12605
 12617
 12634
 13150
@@ -910,7 +909,7 @@ TB
 - WR (14): Adonai Mitchell, Dontayvion Wicks, Germie Bernard, Jack Bech, Jayden Higgins, Jordan Watkins, Josh Cameron, KC Concepcion Jr., Keon Coleman, Malachi Fields, Omar Cooper Jr., Rashod Bateman, Tre Tucker, Troy Franklin
 
 **Bench depth:**
-- Dameon Pierce (RB, PHI)
+- Dameon Pierce (RB, FA)
 - Darnell Washington (TE, PIT)
 - Demond Claiborne (RB, MIN)
 - Dontayvion Wicks (WR, PHI)
@@ -940,7 +939,7 @@ TB
 - Javonte Williams (RB, DAL)
 - Jaxon Smith-Njigba (WR, SEA)
 - Rashee Rice (WR, KC)
-- Cade Otton (TE, TB)
+- Chig Okonkwo (TE, WAS)
 - Jonah Coleman (RB, DEN)
 - Jalen Coker (WR, CAR)
 - Parker Washington (WR, JAX)
@@ -970,8 +969,8 @@ TB
 - Alec Pierce (WR, IND)
 - Anthony Richardson Sr. (QB, IND)
 - Brian Robinson Jr. (RB, ATL)
+- Cade Otton (TE, TB)
 - Carolina Panthers (DEF, CAR)
-- Chig Okonkwo (TE, WAS)
 - Dalton Schultz (TE, HOU)
 - Elijah Sarratt (WR, BAL)
 - Gardner Minshew II (QB, ARI)
@@ -1101,11 +1100,11 @@ TB
 - Quinshon Judkins (RB, CLE)
 - Kyren Williams (RB, LAR)
 - Chris Olave (WR, NO)
-- Garrett Wilson (WR, NYJ)
+- Xavier Worthy (WR, KC)
 - Sam LaPorta (TE, DET)
 - Breece Hall (RB, NYJ)
 - Harold Fannin Jr. (TE, CLE)
-- Deebo Samuel Sr. (WR, SF)
+- Mike Washington Jr. (RB, LV)
 - Matt Gay (K, LV)
 - New Orleans Saints (DEF, NO)
 - Jamien Sherwood (LB, NYJ)
@@ -1126,7 +1125,7 @@ TB
 - QB (7): Aaron Rodgers, Bo Nix, Bryce Young, C.J. Stroud, Daniel Jones, Kirk Cousins, Patrick Mahomes
 - RB (7): Aaron Jones Sr., Breece Hall, Isiah Pacheco, Kyren Williams, Mike Washington Jr., Quinshon Judkins, Zonovan Knight
 - TE (5): Brenton Strange, Harold Fannin Jr., Jake Ferguson, Pat Freiermuth, Sam LaPorta
-- WR (9): Chris Olave, Deebo Samuel Sr., Elic Ayomanor, Garrett Wilson, Jalen Nailor, Jerry Jeudy, Tank Dell, Xavier Worthy, Zachariah Branch
+- WR (8): Chris Olave, Deebo Samuel Sr., Elic Ayomanor, Garrett Wilson, Jerry Jeudy, Tank Dell, Xavier Worthy, Zachariah Branch
 
 **Bench depth:**
 - Aaron Jones Sr. (RB, MIN)
@@ -1136,16 +1135,15 @@ TB
 - Bryce Young (QB, CAR)
 - C.J. Stroud (QB, HOU)
 - Daniel Jones (QB, IND)
+- Deebo Samuel Sr. (WR, SF)
 - Elic Ayomanor (WR, TEN)
+- Garrett Wilson (WR, NYJ)
 - Isiah Pacheco (RB, DET)
 - Jake Ferguson (TE, DAL)
-- Jalen Nailor (WR, LV)
 - Jerry Jeudy (WR, CLE)
 - Kirk Cousins (QB, LV)
-- Mike Washington Jr. (RB, LV)
 - Pat Freiermuth (TE, PIT)
 - Tank Dell (WR, HOU)
-- Xavier Worthy (WR, KC)
 - Zachariah Branch (WR, ATL)
 - Zonovan Knight (RB, ARI)
 
@@ -1161,30 +1159,30 @@ TB
 - Caleb Douglas (WR, MIA)
 - Christian Watson (WR, GB)
 - Colston Loveland (TE, CHI)
-- Spencer Shrader (K, IND)
-- Kansas City Chiefs (DEF, KC)
+- Jason Sanders (K, NYJ)
+- San Francisco 49ers (DEF, SF)
 - Josiah Trotter (LB, TB)
 - Jacob Rodriguez (LB, MIA)
-- Keisean Nixon (CB, GB)
+- Jacob Parrish (DB, TB)
 - Dane Belton (DB, NYJ)
 
-**QB Room (7 QBs):**
+**QB Room (6 QBs):**
 - Cade Klubnik (NYJ)
 - Cam Ward (TEN)
 - Cole Payton (PHI)
 - Deshaun Watson (CLE)
 - Geno Smith (NYJ)
 - Kyler Murray (MIN)
-- Will Howard (PIT)
 
 **Positional Surplus (3+ players at same position):**
 - LB (3): Jacob Rodriguez, Josiah Trotter, T.J. Watt
-- QB (7): Cade Klubnik, Cam Ward, Cole Payton, Deshaun Watson, Geno Smith, Kyler Murray, Will Howard
-- RB (9): Ashton Jeanty, Cam Skattebo, Chris Rodriguez Jr., Devin Singletary, MarShawn Lloyd, Ray Davis, Seth McGowan, Tony Pollard, Tyrone Tracy Jr.
+- QB (6): Cade Klubnik, Cam Ward, Cole Payton, Deshaun Watson, Geno Smith, Kyler Murray
+- RB (10): Ashton Jeanty, Audric Estime, Cam Skattebo, Chris Rodriguez Jr., Devin Singletary, MarShawn Lloyd, Ray Davis, Seth McGowan, Tony Pollard, Tyrone Tracy Jr.
 - TE (3): Colston Loveland, Oscar Delp, Tucker Kraft
 - WR (8): Caleb Douglas, Chris Bell, Christian Watson, Ja'Marr Chase, Jalen McMillan, Jordyn Tyson, Malik Nabers, Reggie Virgil
 
 **Bench depth:**
+- Audric Estime (RB, NO)
 - Cade Klubnik (QB, NYJ)
 - Cam Skattebo (RB, NYG)
 - Cam Ward (QB, TEN)
@@ -1193,19 +1191,18 @@ TB
 - Cole Payton (QB, PHI)
 - Deshaun Watson (QB, CLE)
 - Jalen McMillan (WR, TB)
-- Jason Sanders (K, NYJ)
 - Jordyn Tyson (WR, NO)
+- Kansas City Chiefs (DEF, KC)
 - Kyler Murray (QB, MIN)
 - MarShawn Lloyd (RB, GB)
 - Oscar Delp (TE, NO)
 - Ray Davis (RB, BUF)
 - Reggie Virgil (WR, ARI)
-- San Francisco 49ers (DEF, SF)
 - Seth McGowan (RB, IND)
+- Spencer Shrader (K, IND)
 - T.J. Watt (LB, PIT)
 - Tony Pollard (RB, TEN)
 - Tyrone Tracy Jr. (RB, NYG)
-- Will Howard (QB, PIT)
 
 ### nicoyepes (Roster 11)
 
@@ -1214,7 +1211,7 @@ TB
 - Jonathan Taylor (RB, IND)
 - Christian McCaffrey (RB, SF)
 - Jameson Williams (WR, DET)
-- A.J. Brown (WR, NE)
+- DeMario Douglas (WR, NE)
 - Mike Gesicki (TE, CIN)
 - Ryan Flournoy (WR, DAL)
 - Nico Collins (WR, HOU)
@@ -1239,6 +1236,7 @@ TB
 - WR (13): A.J. Brown, Brenen Thompson, CJ Daniels, Courtland Sutton, Davante Adams, DeMario Douglas, Demarcus Robinson, Jameson Williams, Kevin Coleman Jr., Marquise Brown, Nico Collins, Ryan Flournoy, Tyquan Thornton
 
 **Bench depth:**
+- A.J. Brown (WR, NE)
 - Baltimore Ravens (DEF, BAL)
 - Brenen Thompson (WR, LAC)
 - CJ Daniels (WR, LAR)
@@ -1246,7 +1244,6 @@ TB
 - DJ Giddens (RB, IND)
 - Davante Adams (WR, LAR)
 - David Njoku (TE, LAC)
-- DeMario Douglas (WR, NE)
 - Demarcus Robinson (WR, SF)
 - Garrett Nussmeier (QB, KC)
 - Hunter Henry (TE, NE)
