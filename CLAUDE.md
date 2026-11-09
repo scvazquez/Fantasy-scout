@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-08 12:46 PM UTC (auto sync)
+Last synced: 2026-11-09 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -320,6 +320,7 @@ Last synced: 2026-11-08 12:46 PM UTC (auto sync)
 6039
 6083
 6130
+6141
 6183
 6214
 6217
@@ -338,7 +339,6 @@ Last synced: 2026-11-08 12:46 PM UTC (auto sync)
 6813
 6815
 6819
-6860
 6865
 6904
 6949
@@ -921,7 +921,7 @@ TB
 - Josh Cameron (WR, JAX)
 - Kaleb Johnson (RB, GB)
 - Kaytron Allen (RB, MIA)
-- Kendre Miller (RB, NO)
+- Kendre Miller (RB, FA)
 - Malachi Fields (WR, NYG)
 - Malik Willis (QB, MIA)
 - Oronde Gadsden (TE, LAC)
@@ -945,7 +945,7 @@ TB
 - Parker Washington (WR, JAX)
 - Jake Bates (K, DET)
 - Jacksonville Jaguars (DEF, JAX)
-- Akeem Davis-Gaither (LB, IND)
+- Drue Tranquill (LB, KC)
 - Alex Singleton (LB, DEN)
 - Tykee Smith (DB, TB)
 - Cooper DeJean (DB, PHI)
@@ -1048,7 +1048,7 @@ TB
 - Drake London (WR, ATL)
 - Amon-Ra St. Brown (WR, DET)
 - Tyler Warren (TE, IND)
-- George Pickens (WR, DAL)
+- Khalil Shakir (WR, BUF)
 - Keenan Allen (WR, IND)
 - Malik Washington (WR, MIA)
 - Ka'imi Fairbairn (K, HOU)
@@ -1079,11 +1079,11 @@ TB
 - De'Von Achane (RB, MIA)
 - Drew Allar (QB, PIT)
 - Emanuel Wilson (RB, SEA)
+- George Pickens (WR, DAL)
 - Gunnar Helm (TE, TEN)
 - Jaylen Warren (RB, PIT)
 - Jaylen Wright (RB, MIA)
 - Kenny Gainwell (RB, TB)
-- Khalil Shakir (WR, BUF)
 - Mason Taylor (TE, NYJ)
 - Matt Hibner (TE, BAL)
 - Max Klare (TE, LAR)
