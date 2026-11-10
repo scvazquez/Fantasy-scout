@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-09 12:47 PM UTC (auto sync)
+Last synced: 2026-11-10 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -734,7 +734,7 @@ TB
 - Nakobe Dean (LB, LV)
 - Devin Lloyd (LB, CAR)
 - Alohi Gilman (DB, KC)
-- Jessie Bates III (DB, ATL)
+- Jessie Bates III (DB, JAX)
 
 **QB Room (3 QBs):**
 - Joe Burrow (CIN)
@@ -775,12 +775,12 @@ TB
 **Starters:**
 - Drake Maye (QB, NE)
 - Kenneth Walker III (RB, KC)
-- Rhamondre Stevenson (RB, NE)
-- Tetairoa McMillan (WR, CAR)
-- Luther Burden III (WR, CHI)
-- T.J. Hockenson (TE, MIN)
-- Denzel Boston (WR, CLE)
 - Tyler Allgeier (RB, ARI)
+- Tetairoa McMillan (WR, CAR)
+- Denzel Boston (WR, CLE)
+- T.J. Hockenson (TE, MIN)
+- Dylan Sampson (RB, CLE)
+- Corey Kiner (RB, NE)
 - Blake Corum (RB, LAR)
 - Cam Little (K, JAX)
 - Houston Texans (DEF, HOU)
@@ -807,9 +807,7 @@ TB
 - Carson Beck (QB, ARI)
 - Carson Wentz (QB, MIN)
 - Chicago Bears (DEF, CHI)
-- Corey Kiner (RB, NE)
 - Dallas Goedert (TE, PHI)
-- Dylan Sampson (RB, CLE)
 - Efton Chism III (WR, NE)
 - Eli Raridon (TE, NE)
 - Eli Stowers (TE, PHI)
@@ -818,10 +816,12 @@ TB
 - Jeremiyah Love (RB, ARI)
 - Joe Milton (QB, PHI)
 - Kyle Williams (WR, NE)
+- Luther Burden III (WR, CHI)
 - Marvin Harrison Jr. (WR, HOU)
 - New England Patriots (DEF, NE)
 - Nicholas Singleton (RB, TEN)
 - Pat Bryant (WR, DEN)
+- Rhamondre Stevenson (RB, NE)
 - Romeo Doubs (WR, NE)
 - Tank Bigsby (RB, PHI)
 - Zach Charbonnet (RB, SEA)
