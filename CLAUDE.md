@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-11 12:46 PM UTC (auto sync)
+Last synced: 2026-11-12 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -250,7 +250,7 @@ Last synced: 2026-11-11 12:46 PM UTC (auto sync)
 1373
 1466
 1479
-2020
+1945
 2133
 2216
 2449
@@ -302,7 +302,6 @@ Last synced: 2026-11-11 12:46 PM UTC (auto sync)
 5119
 5332
 5372
-5843
 5844
 5846
 5848
@@ -462,6 +461,7 @@ Last synced: 2026-11-11 12:46 PM UTC (auto sync)
 10891
 10892
 10927
+10947
 10949
 11034
 11199
@@ -674,42 +674,42 @@ SF
 
 | Slot | Player | Pos | Team | Age |
 |------|--------|-----|------|-----|
-| QB | Matthew Stafford | QB | LAR | 38 |
-| RB | Saquon Barkley | RB | PHI | 29 |
+| QB | Jayden Daniels | QB | WAS | 25 |
 | RB | Alvin Kamara | RB | NO | 31 |
-| WR | CeeDee Lamb | WR | DAL | 27 |
-| WR | Ladd McConkey | WR | LAC | 25 |
+| RB | Rico Dowdle | RB | PIT | 28 |
+| WR | Jordan Addison | WR | MIN | 24 |
+| WR | Justin Jefferson | WR | MIN | 27 |
 | TE | Kyle Pitts Sr. | TE | ATL | 26 |
-| FLEX | Justin Jefferson | WR | MIN | 27 |
-| FLEX | Jordan Addison | WR | MIN | 24 |
-| FLEX | Tre' Harris | WR | LAC | 24 |
-| K | Will Reichard | K | MIN | 25 |
+| FLEX | CeeDee Lamb | WR | DAL | 27 |
+| FLEX | Darren Waller | TE | CAR | 34 |
+| FLEX | Ladd McConkey | WR | LAC | 25 |
+| K | Tyler Bass | K | BUF | 29 |
 | DEF | Detroit Lions | DEF | DET | ? |
-| LB | Zack Baun | LB | PHI | 29 |
 | LB | Quay Walker | LB | LV | 26 |
+| LB | Will Anderson Jr. | DL | HOU | 25 |
 | DB | Kyle Hamilton | DB | BAL | 25 |
 | DB | Xavier McKinney | DB | GB | 28 |
 
 ### Bench
 
 - Christian Izien (DB, DET, Age 26, 3 yr exp)
-- Darren Waller (TE, CAR, Age 34, 11 yr exp)
 - David Montgomery (RB, HOU, Age 29, 7 yr exp)
 - Derwin James Jr. (DB, LAC, Age 30, 8 yr exp)
 - Edgerrin Cooper (LB, GB, Age 24, 2 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
-- Jayden Daniels (QB, WAS, Age 25, 2 yr exp)
 - Jaylin Noel (WR, HOU, Age 24, 1 yr exp)
 - Kendrick Bourne (WR, ARI, Age 31, 9 yr exp)
 - Kyle McCord (QB, MIA, Age 24, 1 yr exp)
 - LeQuint Allen Jr. (RB, JAX, Age 22, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
 - Mark Andrews (TE, BAL, Age 31, 8 yr exp)
-- Rico Dowdle (RB, PIT, Age 28, 6 yr exp)
+- Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
+- Saquon Barkley (RB, PHI, Age 29, 8 yr exp)
 - Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
 - Terry McLaurin (WR, WAS, Age 31, 7 yr exp)
-- Tyler Bass (K, BUF, Age 29, 6 yr exp)
-- Will Anderson Jr. (DL, HOU, Age 25, 3 yr exp)
+- Tre' Harris (WR, LAC, Age 24, 1 yr exp)
+- Will Reichard (K, MIN, Age 25, 2 yr exp)
+- Zack Baun (LB, PHI, Age 29, 6 yr exp)
 
 ### Taxi Squad
 
@@ -722,14 +722,14 @@ SF
 
 **Starters:**
 - Joe Burrow (QB, CIN)
-- Bucky Irving (RB, TB)
 - Jahmyr Gibbs (RB, DET)
+- Ollie Gordon II (RB, MIA)
 - Michael Wilson (WR, ARI)
 - Puka Nacua (WR, LAR)
 - George Kittle (TE, SF)
 - DJ Moore (WR, BUF)
-- Ollie Gordon II (RB, MIA)
-- DeVonta Smith (WR, PHI)
+- Tutu Atwell (WR, LAR)
+- AJ Barner (TE, SEA)
 - Trey Smack (K, GB)
 - Los Angeles Rams (DEF, LAR)
 - Nakobe Dean (LB, LV)
@@ -749,16 +749,17 @@ SF
 - WR (17): Barion Brown, Chris Brazzell II, DJ Moore, DeVonta Smith, Isaac TeSlaa, Jalen Brooks, Jayden Reed, Malik Benson, Michael Wilson, Puka Nacua, Savion Williams, Skyler Bell, Ted Hurst III, Tory Horton, Tutu Atwell, Tyreek Hill, Zavion Thomas
 
 **Bench depth:**
-- AJ Barner (TE, SEA)
 - Barion Brown (WR, NO)
+- Bucky Irving (RB, TB)
 - Chris Brazzell II (WR, CAR)
+- DeVonta Smith (WR, PHI)
 - Emari Demercado (RB, HOU)
 - Isaac TeSlaa (WR, DET)
 - J'Mari Taylor (RB, JAX)
 - Jake Tonges (TE, SF)
 - Jalen Brooks (WR, ARI)
 - Jayden Reed (WR, GB)
-- Jaydon Blue (RB, PHI)
+- Jaydon Blue (RB, FA)
 - Jordan Love (QB, GB)
 - Malik Benson (WR, LV)
 - Savion Williams (WR, GB)
@@ -767,7 +768,6 @@ SF
 - Ted Hurst III (WR, TB)
 - Tory Horton (WR, SEA)
 - TreVeyon Henderson (RB, NE)
-- Tutu Atwell (WR, LAR)
 - Tyreek Hill (WR, FA)
 - Zavion Thomas (WR, CHI)
 
@@ -776,12 +776,12 @@ SF
 **Starters:**
 - Drake Maye (QB, NE)
 - Kenneth Walker III (RB, KC)
-- Zach Charbonnet (RB, SEA)
+- Corey Kiner (RB, NE)
 - Tetairoa McMillan (WR, CAR)
 - Denzel Boston (WR, CLE)
 - T.J. Hockenson (TE, MIN)
 - Tyler Allgeier (RB, ARI)
-- Corey Kiner (RB, NE)
+- Zach Charbonnet (RB, SEA)
 - Blake Corum (RB, LAR)
 - Cam Little (K, JAX)
 - Houston Texans (DEF, HOU)
@@ -882,17 +882,17 @@ SF
 
 **Starters:**
 - Trevor Lawrence (QB, JAX)
-- J.K. Dobbins (RB, DEN)
+- Kaleb Johnson (RB, GB)
 - Braelon Allen (RB, NYJ)
 - KC Concepcion Jr. (WR, CLE)
 - Tre Tucker (WR, LV)
 - Kenyon Sadiq (TE, NYJ)
 - Keon Coleman (WR, BUF)
-- Omar Cooper Jr. (WR, NYJ)
-- Adonai Mitchell (WR, NYJ)
-- Cairo Santos (K, CHI)
+- Jordan Watkins (WR, SF)
+- Germie Bernard (WR, PIT)
+- Chris Boswell (K, PIT)
 - Cleveland Browns (DEF, CLE)
-- Devin Bush (LB, CHI)
+- Ventrell Miller (LB, JAX)
 - Jordyn Brooks (LB, MIA)
 - Jordan Battle (DB, CIN)
 - Nick Cross (DB, WAS)
@@ -909,21 +909,21 @@ SF
 - WR (14): Adonai Mitchell, Dontayvion Wicks, Germie Bernard, Jack Bech, Jayden Higgins, Jordan Watkins, Josh Cameron, KC Concepcion Jr., Keon Coleman, Malachi Fields, Omar Cooper Jr., Rashod Bateman, Tre Tucker, Troy Franklin
 
 **Bench depth:**
+- Adonai Mitchell (WR, NYJ)
 - Dameon Pierce (RB, FA)
 - Darnell Washington (TE, PIT)
 - Demond Claiborne (RB, MIN)
 - Dontayvion Wicks (WR, PHI)
 - Fernando Mendoza (QB, LV)
-- Germie Bernard (WR, PIT)
+- J.K. Dobbins (RB, DEN)
 - Jack Bech (WR, LV)
 - Jayden Higgins (WR, HOU)
-- Jordan Watkins (WR, SF)
 - Josh Cameron (WR, JAX)
-- Kaleb Johnson (RB, GB)
 - Kaytron Allen (RB, MIA)
 - Kendre Miller (RB, DAL)
 - Malachi Fields (WR, NYG)
 - Malik Willis (QB, MIA)
+- Omar Cooper Jr. (WR, NYJ)
 - Oronde Gadsden (TE, LAC)
 - RJ Harvey (RB, DEN)
 - Rashod Bateman (WR, BAL)
@@ -1050,9 +1050,9 @@ SF
 - Tyler Warren (TE, IND)
 - George Pickens (WR, DAL)
 - Keenan Allen (WR, SF)
-- Malik Washington (WR, MIA)
+- Konata Mumpfield (WR, LAR)
 - Ka'imi Fairbairn (K, HOU)
-- Denver Broncos (DEF, DEN)
+- Cincinnati Bengals (DEF, CIN)
 - Anthony Hill Jr. (LB, TEN)
 - Payton Wilson (LB, PIT)
 - Quentin Lake (DB, LAR)
@@ -1074,8 +1074,8 @@ SF
 **Bench depth:**
 - Bryce Lance (WR, NO)
 - Caleb Williams (QB, CHI)
-- Cincinnati Bengals (DEF, CIN)
 - De'Von Achane (RB, MIA)
+- Denver Broncos (DEF, DEN)
 - Drew Allar (QB, PIT)
 - Emanuel Wilson (RB, SEA)
 - Green Bay Packers (DEF, GB)
@@ -1084,7 +1084,7 @@ SF
 - Jordan Mason (RB, MIN)
 - Kenny Gainwell (RB, TB)
 - Khalil Shakir (WR, BUF)
-- Konata Mumpfield (WR, LAR)
+- Malik Washington (WR, MIA)
 - Mason Taylor (TE, NYJ)
 - Matt Hibner (TE, BAL)
 - Max Klare (TE, LAR)
