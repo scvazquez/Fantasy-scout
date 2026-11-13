@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-12 12:46 PM UTC (auto sync)
+Last synced: 2026-11-13 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -245,7 +245,6 @@ Last synced: 2026-11-12 12:46 PM UTC (auto sync)
 -->
 96
 421
-650
 1166
 1373
 1466
@@ -301,7 +300,6 @@ Last synced: 2026-11-12 12:46 PM UTC (auto sync)
 5045
 5119
 5332
-5372
 5844
 5846
 5848
@@ -311,6 +309,7 @@ Last synced: 2026-11-12 12:46 PM UTC (auto sync)
 5859
 5870
 5872
+5876
 5892
 5908
 5927
@@ -646,6 +645,7 @@ Last synced: 2026-11-12 12:46 PM UTC (auto sync)
 13545
 13602
 13726
+13833
 BAL
 BUF
 CAR
@@ -656,12 +656,12 @@ DEN
 DET
 GB
 HOU
+IND
 JAX
 LAR
 MIN
 NE
 NO
-NYG
 PHI
 PIT
 SEA
@@ -832,14 +832,14 @@ SF
 - Jared Goff (QB, DET)
 - Bhayshul Tuten (RB, JAX)
 - James Cook III (RB, BUF)
-- Quentin Johnston (WR, LAC)
+- Carnell Tate (WR, TEN)
 - Matthew Golden (WR, GB)
 - Brock Bowers (TE, LV)
 - Woody Marks (RB, HOU)
 - Travis Kelce (TE, KC)
-- Rome Odunze (WR, CHI)
-- Nick Folk (K, FA)
-- New York Giants (DEF, NYG)
+- Devaughn Vele (WR, NO)
+- Dominic Zvada (K, NYG)
+- Indianapolis Colts (DEF, IND)
 - Sonny Styles (LB, WAS)
 - Nate Landman (LB, LAR)
 - Cole Bishop (DB, BUF)
@@ -861,10 +861,8 @@ SF
 - Antonio Williams (WR, WAS)
 - Brian Thomas Jr. (WR, JAX)
 - Camden Brown (WR, DAL)
-- Carnell Tate (WR, TEN)
 - Dare Ogunbowale (RB, HOU)
 - Darius Cooper (WR, PHI)
-- Devaughn Vele (WR, NO)
 - Dohnte Meyers (WR, CIN)
 - Isaiah Williams (WR, NYJ)
 - Ja'Kobi Lane (WR, BAL)
@@ -874,7 +872,9 @@ SF
 - Kayshon Boutte (WR, HOU)
 - Kyle Monangai (RB, CHI)
 - Michael Penix Jr. (QB, ATL)
+- Quentin Johnston (WR, LAC)
 - Ricky Pearsall (WR, SF)
+- Rome Odunze (WR, CHI)
 - Treylon Burks (WR, WAS)
 - Tyjae Spears (RB, TEN)
 
@@ -948,7 +948,7 @@ SF
 - Drue Tranquill (LB, KC)
 - Terrel Bernard (LB, BUF)
 - Devon Witherspoon (DB, SEA)
-- D.J. Reed (CB, DET)
+- Julian Love (DB, SEA)
 
 **QB Room (7 QBs):**
 - Anthony Richardson Sr. (IND)
@@ -993,13 +993,13 @@ SF
 **Starters:**
 - Josh Allen (QB, BUF)
 - Bijan Robinson (RB, ATL)
-- Josh Jacobs (RB, GB)
+- Ty Johnson (RB, BUF)
 - Tee Higgins (WR, CIN)
 - Stefon Diggs (WR, WAS)
 - Trey McBride (TE, ARI)
-- Chris Godwin Jr. (WR, TB)
+- Juwan Johnson (TE, NO)
 - Josh Downs (WR, KC)
-- Jaylen Waddle (WR, DEN)
+- DK Metcalf (WR, PIT)
 - Evan McPherson (K, CIN)
 - Seattle Seahawks (DEF, SEA)
 - Foyesade Oluokun (LB, JAX)
@@ -1021,14 +1021,15 @@ SF
 
 **Bench depth:**
 - Chase McLaughlin (K, TB)
+- Chris Godwin Jr. (WR, TB)
 - Colby Parkinson (TE, LAR)
-- DK Metcalf (WR, PIT)
 - Dont'e Thornton Jr. (WR, LV)
 - Greg Dulcich (TE, MIA)
 - Jacory Croskey-Merritt (RB, WAS)
 - Jalen Hurts (QB, PHI)
+- Jaylen Waddle (WR, DEN)
 - John Metchie III (WR, CAR)
-- Juwan Johnson (TE, NO)
+- Josh Jacobs (RB, GB)
 - Kalif Raymond (WR, CHI)
 - Michael Pittman Jr. (WR, PIT)
 - Nick Bolton (LB, KC)
@@ -1036,7 +1037,6 @@ SF
 - Sione Vaki (RB, DET)
 - Stetson Bennett IV (QB, LAR)
 - Tez Johnson (WR, TB)
-- Ty Johnson (RB, BUF)
 - Tyler Goodson (RB, DAL)
 
 ### Darkkaze (Roster 7)
@@ -1208,7 +1208,7 @@ SF
 ### nicoyepes (Roster 11)
 
 **Starters:**
-- Joe Fagnano (QB, BAL)
+- Justin Herbert (QB, LAC)
 - Jonathan Taylor (RB, IND)
 - Christian McCaffrey (RB, SF)
 - Jameson Williams (WR, DET)
@@ -1216,7 +1216,7 @@ SF
 - Mike Gesicki (TE, CIN)
 - Ryan Flournoy (WR, DAL)
 - Nico Collins (WR, HOU)
-- D'Andre Swift (RB, CHI)
+- A.J. Brown (WR, NE)
 - Jason Myers (K, SEA)
 - Buffalo Bills (DEF, BUF)
 - Arvell Reese (LB, NYG)
@@ -1237,11 +1237,11 @@ SF
 - WR (13): A.J. Brown, Brenen Thompson, CJ Daniels, Courtland Sutton, Davante Adams, DeMario Douglas, Demarcus Robinson, Jameson Williams, Kevin Coleman Jr., Marquise Brown, Nico Collins, Ryan Flournoy, Tyquan Thornton
 
 **Bench depth:**
-- A.J. Brown (WR, NE)
 - Baltimore Ravens (DEF, BAL)
 - Brenen Thompson (WR, LAC)
 - CJ Daniels (WR, LAR)
 - Courtland Sutton (WR, DEN)
+- D'Andre Swift (RB, CHI)
 - DJ Giddens (RB, IND)
 - Davante Adams (WR, LAR)
 - David Njoku (TE, LAC)
@@ -1250,7 +1250,7 @@ SF
 - Hunter Henry (TE, NE)
 - Jack Campbell (LB, DET)
 - James Conner (RB, ARI)
-- Justin Herbert (QB, LAC)
+- Joe Fagnano (QB, BAL)
 - Kevin Coleman Jr. (WR, MIA)
 - Marquise Brown (WR, PHI)
 - Micah Parsons (LB, GB)
