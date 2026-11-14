@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-13 12:47 PM UTC (auto sync)
+Last synced: 2026-11-14 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -511,6 +511,7 @@ Last synced: 2026-11-13 12:47 PM UTC (auto sync)
 11727
 11729
 11739
+11742
 11783
 11786
 11792
@@ -620,7 +621,7 @@ Last synced: 2026-11-13 12:47 PM UTC (auto sync)
 13349
 13350
 13353
-13365
+13363
 13371
 13375
 13376
@@ -649,7 +650,6 @@ Last synced: 2026-11-13 12:47 PM UTC (auto sync)
 BAL
 BUF
 CAR
-CHI
 CIN
 CLE
 DEN
@@ -779,14 +779,14 @@ SF
 - Corey Kiner (RB, NE)
 - Tetairoa McMillan (WR, CAR)
 - Denzel Boston (WR, CLE)
-- T.J. Hockenson (TE, MIN)
+- Eli Raridon (TE, NE)
 - Tyler Allgeier (RB, ARI)
 - Zach Charbonnet (RB, SEA)
 - Blake Corum (RB, LAR)
 - Cam Little (K, JAX)
 - Houston Texans (DEF, HOU)
 - Carson Schwesinger (LB, CLE)
-- Blake Cashman (LB, MIN)
+- Cedric Gray (LB, TEN)
 - Travis Hunter (DB, JAX)
 - Amani Hooker (DB, BUF)
 
@@ -797,20 +797,19 @@ SF
 - Joe Milton (PHI)
 
 **Positional Surplus (3+ players at same position):**
-- DEF (3): Chicago Bears, Houston Texans, New England Patriots
+- LB (3): Blake Cashman, Carson Schwesinger, Cedric Gray
 - QB (4): Carson Beck, Drake Maye, Jalen Milroe, Joe Milton
 - RB (11): Blake Corum, Corey Kiner, Dylan Sampson, Emmett Johnson, Jeremiyah Love, Kenneth Walker III, Nicholas Singleton, Rhamondre Stevenson, Tank Bigsby, Tyler Allgeier, Zach Charbonnet
 - TE (4): Dallas Goedert, Eli Raridon, Eli Stowers, T.J. Hockenson
 - WR (9): Brandon Aiyuk, Denzel Boston, Efton Chism III, Kyle Williams, Luther Burden III, Marvin Harrison Jr., Pat Bryant, Romeo Doubs, Tetairoa McMillan
 
 **Bench depth:**
+- Blake Cashman (LB, MIN)
 - Brandon Aiyuk (WR, SF)
 - Carson Beck (QB, ARI)
-- Chicago Bears (DEF, CHI)
 - Dallas Goedert (TE, PHI)
 - Dylan Sampson (RB, CLE)
 - Efton Chism III (WR, NE)
-- Eli Raridon (TE, NE)
 - Eli Stowers (TE, PHI)
 - Emmett Johnson (RB, KC)
 - Jalen Milroe (QB, SEA)
@@ -824,6 +823,7 @@ SF
 - Pat Bryant (WR, DEN)
 - Rhamondre Stevenson (RB, NE)
 - Romeo Doubs (WR, NE)
+- T.J. Hockenson (TE, MIN)
 - Tank Bigsby (RB, PHI)
 
 ### WOODYWOOD1978 (Roster 3)
@@ -1053,7 +1053,7 @@ SF
 - Konata Mumpfield (WR, LAR)
 - Ka'imi Fairbairn (K, HOU)
 - Cincinnati Bengals (DEF, CIN)
-- Anthony Hill Jr. (LB, TEN)
+- David Bailey (LB, NYJ)
 - Payton Wilson (LB, PIT)
 - Quentin Lake (DB, LAR)
 - Evan Williams (DB, GB)
@@ -1097,12 +1097,12 @@ SF
 
 **Starters:**
 - Patrick Mahomes (QB, KC)
-- Quinshon Judkins (RB, CLE)
+- Breece Hall (RB, NYJ)
 - Kyren Williams (RB, LAR)
 - Chris Olave (WR, NO)
 - Garrett Wilson (WR, NYJ)
 - Sam LaPorta (TE, DET)
-- Breece Hall (RB, NYJ)
+- Quinshon Judkins (RB, CLE)
 - Harold Fannin Jr. (TE, CLE)
 - Brenton Strange (TE, JAX)
 - Matt Gay (K, LV)
@@ -1112,18 +1112,17 @@ SF
 - Malaki Starks (DB, BAL)
 - Jeremy Chinn (DB, LV)
 
-**QB Room (7 QBs):**
+**QB Room (6 QBs):**
 - Aaron Rodgers (PIT)
 - Bo Nix (DEN)
-- Bryce Young (CAR)
 - C.J. Stroud (HOU)
 - Daniel Jones (IND)
 - Kirk Cousins (MIN)
 - Patrick Mahomes (KC)
 
 **Positional Surplus (3+ players at same position):**
-- QB (7): Aaron Rodgers, Bo Nix, Bryce Young, C.J. Stroud, Daniel Jones, Kirk Cousins, Patrick Mahomes
-- RB (7): Aaron Jones Sr., Breece Hall, Isiah Pacheco, Kyren Williams, Mike Washington Jr., Quinshon Judkins, Zonovan Knight
+- QB (6): Aaron Rodgers, Bo Nix, C.J. Stroud, Daniel Jones, Kirk Cousins, Patrick Mahomes
+- RB (8): Aaron Jones Sr., Breece Hall, Isiah Pacheco, Kyren Williams, Mike Washington Jr., Quinshon Judkins, Tony Pollard, Zonovan Knight
 - TE (5): Brenton Strange, Harold Fannin Jr., Jake Ferguson, Pat Freiermuth, Sam LaPorta
 - WR (8): Chris Olave, Deebo Samuel Sr., Elic Ayomanor, Garrett Wilson, Jerry Jeudy, Tank Dell, Xavier Worthy, Zachariah Branch
 
@@ -1131,7 +1130,6 @@ SF
 - Aaron Jones Sr. (RB, MIN)
 - Aaron Rodgers (QB, PIT)
 - Bo Nix (QB, DEN)
-- Bryce Young (QB, CAR)
 - C.J. Stroud (QB, HOU)
 - Daniel Jones (QB, IND)
 - Deebo Samuel Sr. (WR, SF)
@@ -1143,6 +1141,7 @@ SF
 - Mike Washington Jr. (RB, LV)
 - Pat Freiermuth (TE, PIT)
 - Tank Dell (WR, HOU)
+- Tony Pollard (RB, TEN)
 - Xavier Worthy (WR, KC)
 - Zachariah Branch (WR, ATL)
 - Zonovan Knight (RB, ARI)
@@ -1166,7 +1165,8 @@ SF
 - Kamari Lassiter (DB, HOU)
 - Dane Belton (DB, NYJ)
 
-**QB Room (6 QBs):**
+**QB Room (7 QBs):**
+- Bryce Young (CAR)
 - Cade Klubnik (NYJ)
 - Cam Ward (TEN)
 - Cole Payton (PHI)
@@ -1177,12 +1177,13 @@ SF
 **Positional Surplus (3+ players at same position):**
 - DB (3): Dane Belton, Jacob Parrish, Kamari Lassiter
 - LB (3): Jacob Rodriguez, Josiah Trotter, T.J. Watt
-- QB (6): Cade Klubnik, Cam Ward, Cole Payton, Deshaun Watson, Geno Smith, Kyler Murray
-- RB (10): Ashton Jeanty, Audric Estime, Cam Skattebo, Chris Rodriguez Jr., Devin Singletary, MarShawn Lloyd, Ray Davis, Seth McGowan, Tony Pollard, Tyrone Tracy Jr.
+- QB (7): Bryce Young, Cade Klubnik, Cam Ward, Cole Payton, Deshaun Watson, Geno Smith, Kyler Murray
+- RB (9): Ashton Jeanty, Audric Estime, Cam Skattebo, Chris Rodriguez Jr., Devin Singletary, MarShawn Lloyd, Ray Davis, Seth McGowan, Tyrone Tracy Jr.
 - TE (3): Colston Loveland, Oscar Delp, Tucker Kraft
 - WR (8): Caleb Douglas, Chris Bell, Christian Watson, Ja'Marr Chase, Jalen McMillan, Jordyn Tyson, Malik Nabers, Reggie Virgil
 
 **Bench depth:**
+- Bryce Young (QB, CAR)
 - Cade Klubnik (QB, NYJ)
 - Caleb Douglas (WR, MIA)
 - Cam Ward (QB, TEN)
@@ -1202,7 +1203,6 @@ SF
 - Reggie Virgil (WR, ARI)
 - Seth McGowan (RB, IND)
 - Spencer Shrader (K, IND)
-- Tony Pollard (RB, TEN)
 - Tyrone Tracy Jr. (RB, NYG)
 
 ### nicoyepes (Roster 11)
@@ -1252,7 +1252,7 @@ SF
 - James Conner (RB, ARI)
 - Joe Fagnano (QB, BAL)
 - Kevin Coleman Jr. (WR, MIA)
-- Marquise Brown (WR, PHI)
+- Marquise Brown (WR, FA)
 - Micah Parsons (LB, GB)
 - Nate Boerkircher (TE, JAX)
 - Sean Tucker (RB, TB)
