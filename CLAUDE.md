@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-14 12:46 PM UTC (auto sync)
+Last synced: 2026-11-15 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -294,7 +294,6 @@ Last synced: 2026-11-14 12:46 PM UTC (auto sync)
 4993
 5001
 5012
-5017
 5022
 5041
 5045
@@ -375,7 +374,6 @@ Last synced: 2026-11-14 12:46 PM UTC (auto sync)
 8111
 8112
 8116
-8119
 8121
 8122
 8126
@@ -572,9 +570,11 @@ Last synced: 2026-11-14 12:46 PM UTC (auto sync)
 12567
 12578
 12591
+12597
 12605
 12617
 12634
+12700
 12718
 13150
 13264
@@ -724,10 +724,10 @@ SF
 - Joe Burrow (QB, CIN)
 - Jahmyr Gibbs (RB, DET)
 - Ollie Gordon II (RB, MIA)
-- Michael Wilson (WR, ARI)
+- DJ Moore (WR, BUF)
 - Puka Nacua (WR, LAR)
 - George Kittle (TE, SF)
-- DJ Moore (WR, BUF)
+- Isaac TeSlaa (WR, DET)
 - Tutu Atwell (WR, LAR)
 - AJ Barner (TE, SEA)
 - Trey Smack (K, GB)
@@ -735,7 +735,7 @@ SF
 - Nakobe Dean (LB, LV)
 - Devin Lloyd (LB, CAR)
 - Alohi Gilman (DB, KC)
-- Jessie Bates III (DB, JAX)
+- Nick Emmanwori (DB, SEA)
 
 **QB Room (3 QBs):**
 - Joe Burrow (CIN)
@@ -754,7 +754,6 @@ SF
 - Chris Brazzell II (WR, CAR)
 - DeVonta Smith (WR, PHI)
 - Emari Demercado (RB, HOU)
-- Isaac TeSlaa (WR, DET)
 - J'Mari Taylor (RB, JAX)
 - Jake Tonges (TE, SF)
 - Jalen Brooks (WR, ARI)
@@ -762,6 +761,7 @@ SF
 - Jaydon Blue (RB, FA)
 - Jordan Love (QB, GB)
 - Malik Benson (WR, LV)
+- Michael Wilson (WR, ARI)
 - Savion Williams (WR, GB)
 - Shedeur Sanders (QB, CLE)
 - Skyler Bell (WR, BUF)
@@ -775,7 +775,7 @@ SF
 
 **Starters:**
 - Drake Maye (QB, NE)
-- Kenneth Walker III (RB, KC)
+- Emmett Johnson (RB, KC)
 - Corey Kiner (RB, NE)
 - Tetairoa McMillan (WR, CAR)
 - Denzel Boston (WR, CLE)
@@ -811,10 +811,10 @@ SF
 - Dylan Sampson (RB, CLE)
 - Efton Chism III (WR, NE)
 - Eli Stowers (TE, PHI)
-- Emmett Johnson (RB, KC)
 - Jalen Milroe (QB, SEA)
 - Jeremiyah Love (RB, ARI)
 - Joe Milton (QB, PHI)
+- Kenneth Walker III (RB, KC)
 - Kyle Williams (WR, NE)
 - Luther Burden III (WR, CHI)
 - Marvin Harrison Jr. (WR, HOU)
@@ -887,7 +887,7 @@ SF
 - KC Concepcion Jr. (WR, CLE)
 - Tre Tucker (WR, LV)
 - Kenyon Sadiq (TE, NYJ)
-- Keon Coleman (WR, BUF)
+- Travis Etienne Jr. (RB, NO)
 - Jordan Watkins (WR, SF)
 - Germie Bernard (WR, PIT)
 - Chris Boswell (K, PIT)
@@ -921,13 +921,13 @@ SF
 - Josh Cameron (WR, JAX)
 - Kaytron Allen (RB, MIA)
 - Kendre Miller (RB, DAL)
+- Keon Coleman (WR, BUF)
 - Malachi Fields (WR, NYG)
 - Malik Willis (QB, MIA)
 - Omar Cooper Jr. (WR, NYJ)
 - Oronde Gadsden (TE, LAC)
 - RJ Harvey (RB, DEN)
 - Rashod Bateman (WR, BAL)
-- Travis Etienne Jr. (RB, NO)
 - Troy Franklin (WR, DEN)
 - Tyler Higbee (TE, LAR)
 
@@ -962,8 +962,8 @@ SF
 **Positional Surplus (3+ players at same position):**
 - QB (7): Anthony Richardson Sr., Dak Prescott, Drew Lock, Jacoby Brissett, Lamar Jackson, Taylen Green, Ty Simpson
 - RB (8): Brian Robinson Jr., Chuba Hubbard, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
-- TE (5): Cade Otton, Chig Okonkwo, Dalton Schultz, Michael Mayer, Terrance Ferguson
-- WR (9): Alec Pierce, Elijah Sarratt, Jahan Dotson, Jalen Coker, Jaxon Smith-Njigba, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
+- TE (6): Cade Otton, Chig Okonkwo, Dalton Schultz, Gavin Bartholomew, Michael Mayer, Terrance Ferguson
+- WR (8): Alec Pierce, Elijah Sarratt, Jalen Coker, Jaxon Smith-Njigba, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
 
 **Bench depth:**
 - Alec Pierce (WR, IND)
@@ -974,8 +974,8 @@ SF
 - Dalton Schultz (TE, HOU)
 - Drew Lock (QB, SEA)
 - Elijah Sarratt (WR, BAL)
+- Gavin Bartholomew (TE, MIN)
 - Jacoby Brissett (QB, BAL)
-- Jahan Dotson (WR, ATL)
 - Jonah Coleman (RB, DEN)
 - Jonathon Brooks (RB, CAR)
 - Kaelon Black (RB, SF)
@@ -1103,7 +1103,7 @@ SF
 - Garrett Wilson (WR, NYJ)
 - Sam LaPorta (TE, DET)
 - Quinshon Judkins (RB, CLE)
-- Harold Fannin Jr. (TE, CLE)
+- Tony Pollard (RB, TEN)
 - Brenton Strange (TE, JAX)
 - Matt Gay (K, LV)
 - New Orleans Saints (DEF, NO)
@@ -1134,6 +1134,7 @@ SF
 - Daniel Jones (QB, IND)
 - Deebo Samuel Sr. (WR, SF)
 - Elic Ayomanor (WR, TEN)
+- Harold Fannin Jr. (TE, CLE)
 - Isiah Pacheco (RB, DET)
 - Jake Ferguson (TE, DAL)
 - Jerry Jeudy (WR, CLE)
@@ -1141,7 +1142,6 @@ SF
 - Mike Washington Jr. (RB, LV)
 - Pat Freiermuth (TE, PIT)
 - Tank Dell (WR, HOU)
-- Tony Pollard (RB, TEN)
 - Xavier Worthy (WR, KC)
 - Zachariah Branch (WR, ATL)
 - Zonovan Knight (RB, ARI)
