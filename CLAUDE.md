@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-16 12:47 PM UTC (auto sync)
+Last synced: 2026-11-17 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -694,7 +694,7 @@ TB
 - Christian Izien (DB, DET, Age 26, 3 yr exp)
 - David Montgomery (RB, HOU, Age 29, 7 yr exp)
 - Derwin James Jr. (DB, LAC, Age 30, 8 yr exp)
-- Edgerrin Cooper (LB, GB, Age 24, 2 yr exp)
+- Edgerrin Cooper (LB, GB, Age 25, 2 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
 - Jaylin Noel (WR, HOU, Age 24, 1 yr exp)
 - Jordan Addison (WR, MIN, Age 24, 3 yr exp)
@@ -757,7 +757,7 @@ TB
 - Jake Tonges (TE, SF)
 - Jalen Brooks (WR, ARI)
 - Jayden Reed (WR, GB)
-- Jaydon Blue (RB, FA)
+- Jaydon Blue (RB, PHI)
 - Jordan Love (QB, GB)
 - Malik Benson (WR, LV)
 - Michael Wilson (WR, ARI)
@@ -880,11 +880,12 @@ TB
 
 **Starters:**
 - Trevor Lawrence (QB, JAX)
-- Kaleb Johnson (RB, GB)
+- J.K. Dobbins (RB, DEN)
 - Braelon Allen (RB, NYJ)
-- KC Concepcion Jr. (WR, CLE)
+- Adonai Mitchell (WR, NYJ)
 - Jordan Watkins (WR, SF)
 - Kenyon Sadiq (TE, NYJ)
+- Keon Coleman (WR, BUF)
 - Omar Cooper Jr. (WR, NYJ)
 - Germie Bernard (WR, PIT)
 - Chris Boswell (K, PIT)
@@ -906,19 +907,18 @@ TB
 - WR (14): Adonai Mitchell, Dontayvion Wicks, Germie Bernard, Jack Bech, Jayden Higgins, Jordan Watkins, Josh Cameron, KC Concepcion Jr., Keon Coleman, Malachi Fields, Omar Cooper Jr., Rashod Bateman, Tre Tucker, Troy Franklin
 
 **Bench depth:**
-- Adonai Mitchell (WR, NYJ)
 - Dameon Pierce (RB, FA)
 - Darnell Washington (TE, PIT)
 - Demond Claiborne (RB, MIN)
 - Dontayvion Wicks (WR, PHI)
 - Fernando Mendoza (QB, LV)
-- J.K. Dobbins (RB, DEN)
 - Jack Bech (WR, LV)
 - Jayden Higgins (WR, HOU)
 - Josh Cameron (WR, JAX)
+- KC Concepcion Jr. (WR, CLE)
+- Kaleb Johnson (RB, GB)
 - Kaytron Allen (RB, MIA)
 - Kendre Miller (RB, DAL)
-- Keon Coleman (WR, BUF)
 - Malachi Fields (WR, NYG)
 - Malik Willis (QB, MIA)
 - Oronde Gadsden (TE, LAC)
