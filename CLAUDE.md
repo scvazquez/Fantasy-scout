@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-19 12:46 PM UTC (auto sync)
+Last synced: 2026-11-20 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -255,6 +255,7 @@ Last synced: 2026-11-19 12:46 PM UTC (auto sync)
 2216
 2449
 2505
+2617
 2747
 3155
 3160
@@ -456,7 +457,6 @@ Last synced: 2026-11-19 12:46 PM UTC (auto sync)
 10880
 10892
 10927
-10947
 10949
 11034
 11199
@@ -675,15 +675,15 @@ TB
 | Slot | Player | Pos | Team | Age |
 |------|--------|-----|------|-----|
 | QB | Jayden Daniels | QB | WAS | 25 |
-| RB | Rico Dowdle | RB | PIT | 28 |
 | RB | David Montgomery | RB | HOU | 29 |
+| RB | Saquon Barkley | RB | PHI | 29 |
 | WR | CeeDee Lamb | WR | DAL | 27 |
 | WR | Tre' Harris | WR | LAC | 24 |
-| TE | Darren Waller | TE | CAR | 34 |
-| FLEX | Saquon Barkley | RB | PHI | 29 |
+| TE | Mark Andrews | TE | BAL | 31 |
 | FLEX | Justin Jefferson | WR | MIN | 27 |
+| FLEX | Rico Dowdle | RB | PIT | 28 |
 | FLEX | Alvin Kamara | RB | NO | 31 |
-| K | Will Reichard | K | MIN | 25 |
+| K | Tyler Bass | K | BUF | 29 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Quay Walker | LB | LV | 26 |
 | LB | Zack Baun | LB | PHI | 29 |
@@ -692,6 +692,7 @@ TB
 
 ### Bench
 
+- Darren Waller (TE, CAR, Age 34, 11 yr exp)
 - Derwin James Jr. (DB, LAC, Age 30, 8 yr exp)
 - Edgerrin Cooper (LB, GB, Age 25, 2 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
@@ -703,12 +704,11 @@ TB
 - Ladd McConkey (WR, LAC, Age 25, 2 yr exp)
 - LeQuint Allen Jr. (RB, JAX, Age 22, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
-- Mark Andrews (TE, BAL, Age 31, 8 yr exp)
 - Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
 - Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
 - Terry McLaurin (WR, WAS, Age 31, 7 yr exp)
-- Tyler Bass (K, BUF, Age 29, 6 yr exp)
 - Will Anderson Jr. (DL, HOU, Age 25, 3 yr exp)
+- Will Reichard (K, MIN, Age 25, 2 yr exp)
 - Xavier McKinney (DB, GB, Age 28, 6 yr exp)
 
 ### Taxi Squad
@@ -774,15 +774,15 @@ TB
 ### JQuinna10 (Roster 2)
 
 **Starters:**
-- Joe Milton (QB, PHI)
+- Trevor Lawrence (QB, JAX)
 - Kenneth Walker III (RB, KC)
 - Travis Etienne Jr. (RB, NO)
 - Tetairoa McMillan (WR, CAR)
 - Luther Burden III (WR, CHI)
 - Dallas Goedert (TE, PHI)
 - Pat Bryant (WR, DEN)
+- Tyler Allgeier (RB, ARI)
 - Xavier Hutchinson (WR, HOU)
-- T.J. Hockenson (TE, MIN)
 - Cam Little (K, JAX)
 - Houston Texans (DEF, HOU)
 - Blake Cashman (LB, MIN)
@@ -790,20 +790,19 @@ TB
 - Amani Hooker (DB, BUF)
 
 **QB Room (4 QBs):**
-- Carson Beck (ARI)
 - Drake Maye (NE)
 - Joe Milton (PHI)
 - Tommy DeVito (NE)
+- Trevor Lawrence (JAX)
 
 **Positional Surplus (3+ players at same position):**
-- QB (4): Carson Beck, Drake Maye, Joe Milton, Tommy DeVito
+- QB (4): Drake Maye, Joe Milton, Tommy DeVito, Trevor Lawrence
 - RB (12): Blake Corum, Corey Kiner, Dylan Sampson, Emmett Johnson, Jeremiyah Love, Kenneth Walker III, Nicholas Singleton, Rhamondre Stevenson, Tank Bigsby, Travis Etienne Jr., Tyler Allgeier, Zach Charbonnet
 - TE (4): Dallas Goedert, Eli Raridon, Eli Stowers, T.J. Hockenson
 - WR (9): Denzel Boston, Kyle Williams, Luther Burden III, Marvin Harrison Jr., Myles Price, Pat Bryant, Romeo Doubs, Tetairoa McMillan, Xavier Hutchinson
 
 **Bench depth:**
 - Blake Corum (RB, LAR)
-- Carson Beck (QB, ARI)
 - Carson Schwesinger (LB, CLE)
 - Corey Kiner (RB, NE)
 - Denzel Boston (WR, CLE)
@@ -813,6 +812,7 @@ TB
 - Eli Stowers (TE, PHI)
 - Emmett Johnson (RB, KC)
 - Jeremiyah Love (RB, ARI)
+- Joe Milton (QB, PHI)
 - Kyle Williams (WR, NE)
 - Marvin Harrison Jr. (WR, HOU)
 - Myles Price (WR, MIN)
@@ -820,9 +820,9 @@ TB
 - Nicholas Singleton (RB, TEN)
 - Rhamondre Stevenson (RB, NE)
 - Romeo Doubs (WR, NE)
+- T.J. Hockenson (TE, MIN)
 - Tank Bigsby (RB, PHI)
 - Tommy DeVito (QB, NE)
-- Tyler Allgeier (RB, ARI)
 - Zach Charbonnet (RB, SEA)
 
 ### WOODYWOOD1978 (Roster 3)
@@ -831,16 +831,16 @@ TB
 - Jared Goff (QB, DET)
 - Bhayshul Tuten (RB, JAX)
 - James Cook III (RB, BUF)
-- Kayshon Boutte (WR, HOU)
-- Matthew Golden (WR, GB)
+- Quentin Johnston (WR, LAC)
+- Carnell Tate (WR, TEN)
 - Brock Bowers (TE, LV)
-- Woody Marks (RB, HOU)
+- Rome Odunze (WR, CHI)
 - Travis Kelce (TE, KC)
-- Devaughn Vele (WR, NO)
+- Kyle Monangai (RB, CHI)
 - Dominic Zvada (K, NYG)
 - Indianapolis Colts (DEF, IND)
 - Sonny Styles (LB, WAS)
-- Nate Landman (LB, LAR)
+- Andrew Van Ginkel (LB, MIN)
 - Jaquan Brisker (DB, PIT)
 - Cole Bishop (DB, BUF)
 
@@ -856,26 +856,26 @@ TB
 - WR (15): Antonio Williams, Brian Thomas Jr., Camden Brown, Carnell Tate, Darius Cooper, Devaughn Vele, Dohnte Meyers, Isaiah Williams, Ja'Kobi Lane, Kayshon Boutte, Matthew Golden, Quentin Johnston, Ricky Pearsall, Rome Odunze, Treylon Burks
 
 **Bench depth:**
-- Andrew Van Ginkel (LB, MIN)
 - Antonio Williams (WR, WAS)
 - Brian Thomas Jr. (WR, JAX)
 - Camden Brown (WR, DAL)
-- Carnell Tate (WR, TEN)
 - Dare Ogunbowale (RB, HOU)
 - Darius Cooper (WR, PHI)
+- Devaughn Vele (WR, NO)
 - Dohnte Meyers (WR, CIN)
 - Isaiah Williams (WR, NYJ)
 - Ja'Kobi Lane (WR, BAL)
 - Jacob Saylors (RB, DET)
 - Jadarian Price (RB, SEA)
 - Jaxson Dart (QB, NYG)
-- Kyle Monangai (RB, CHI)
+- Kayshon Boutte (WR, HOU)
+- Matthew Golden (WR, GB)
 - Michael Penix Jr. (QB, ATL)
-- Quentin Johnston (WR, LAC)
+- Nate Landman (LB, LAR)
 - Ricky Pearsall (WR, SF)
-- Rome Odunze (WR, CHI)
 - Treylon Burks (WR, WAS)
 - Tyjae Spears (RB, TEN)
+- Woody Marks (RB, HOU)
 
 ### Bombas (Roster 4)
 
@@ -891,23 +891,24 @@ TB
 - Germie Bernard (WR, PIT)
 - Chris Boswell (K, PIT)
 - Dallas Cowboys (DEF, DAL)
-- Ventrell Miller (LB, JAX)
+- Alex Singleton (LB, DEN)
 - Jordyn Brooks (LB, MIA)
 - Jordan Battle (DB, CIN)
 - Nick Cross (DB, WAS)
 
 **QB Room (3 QBs):**
+- Carson Beck (ARI)
 - Fernando Mendoza (LV)
 - Malik Willis (MIA)
-- Trevor Lawrence (JAX)
 
 **Positional Surplus (3+ players at same position):**
-- QB (3): Fernando Mendoza, Malik Willis, Trevor Lawrence
+- QB (3): Carson Beck, Fernando Mendoza, Malik Willis
 - RB (7): Braelon Allen, Demond Claiborne, J.K. Dobbins, Kaleb Johnson, Kaytron Allen, Kendre Miller, RJ Harvey
 - TE (4): Darnell Washington, Kenyon Sadiq, Oronde Gadsden, Tyler Higbee
 - WR (15): Adonai Mitchell, Dontayvion Wicks, Germie Bernard, Jack Bech, Jayden Higgins, Jordan Watkins, Josh Cameron, KC Concepcion Jr., Keon Coleman, Malachi Fields, Omar Cooper Jr., Rashod Bateman, Reggie Virgil, Tre Tucker, Troy Franklin
 
 **Bench depth:**
+- Carson Beck (QB, ARI)
 - Cleveland Browns (DEF, CLE)
 - Darnell Washington (TE, PIT)
 - Demond Claiborne (RB, MIN)
@@ -926,7 +927,6 @@ TB
 - Rashod Bateman (WR, BAL)
 - Reggie Virgil (WR, ARI)
 - Tre Tucker (WR, LV)
-- Trevor Lawrence (QB, JAX)
 - Troy Franklin (WR, DEN)
 - Tyler Higbee (TE, LAR)
 
@@ -936,14 +936,14 @@ TB
 - Dak Prescott (QB, DAL)
 - Chuba Hubbard (RB, CAR)
 - Javonte Williams (RB, DAL)
-- Jaxon Smith-Njigba (WR, SEA)
+- Parker Washington (WR, JAX)
 - Rashee Rice (WR, KC)
 - Chig Okonkwo (TE, WAS)
-- Wan'Dale Robinson (WR, TEN)
+- Jonah Coleman (RB, DEN)
 - Jalen Coker (WR, CAR)
-- Parker Washington (WR, JAX)
+- Omarion Hampton (RB, LAC)
 - Jake Bates (K, DET)
-- Jacksonville Jaguars (DEF, JAX)
+- Kansas City Chiefs (DEF, KC)
 - Drue Tranquill (LB, KC)
 - Terrel Bernard (LB, BUF)
 
@@ -974,20 +974,20 @@ TB
 - Drew Lock (QB, SEA)
 - Elijah Sarratt (WR, BAL)
 - Gavin Bartholomew (TE, MIN)
+- Jacksonville Jaguars (DEF, JAX)
 - Jacoby Brissett (QB, BAL)
 - Jalon Daniels (QB, TB)
-- Jonah Coleman (RB, DEN)
+- Jaxon Smith-Njigba (WR, SEA)
 - Jonathon Brooks (RB, CAR)
 - Kaelon Black (RB, SF)
-- Kansas City Chiefs (DEF, KC)
 - Keaton Mitchell (RB, LAC)
 - Lamar Jackson (QB, BAL)
 - Makai Lemon (WR, PHI)
 - Michael Mayer (TE, LV)
-- Omarion Hampton (RB, LAC)
 - Taylen Green (QB, CLE)
 - Terrance Ferguson (TE, LAR)
 - Ty Simpson (QB, LAR)
+- Wan'Dale Robinson (WR, TEN)
 
 ### SnaggyNoDiploma (Roster 6)
 
