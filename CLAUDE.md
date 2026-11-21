@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-20 12:46 PM UTC (auto sync)
+Last synced: 2026-11-21 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -326,6 +326,7 @@ Last synced: 2026-11-20 12:46 PM UTC (auto sync)
 6183
 6214
 6217
+6302
 6650
 6770
 6783
@@ -571,7 +572,6 @@ Last synced: 2026-11-20 12:46 PM UTC (auto sync)
 12634
 12700
 12718
-13075
 13150
 13264
 13268
@@ -682,17 +682,17 @@ TB
 | TE | Mark Andrews | TE | BAL | 31 |
 | FLEX | Justin Jefferson | WR | MIN | 27 |
 | FLEX | Rico Dowdle | RB | PIT | 28 |
-| FLEX | Alvin Kamara | RB | NO | 31 |
+| FLEX | Darren Waller | TE | CAR | 34 |
 | K | Tyler Bass | K | BUF | 29 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Quay Walker | LB | LV | 26 |
-| LB | Zack Baun | LB | PHI | 29 |
+| LB | (empty) | - | - | - |
 | DB | Kyle Hamilton | DB | BAL | 25 |
 | DB | Christian Izien | DB | DET | 26 |
 
 ### Bench
 
-- Darren Waller (TE, CAR, Age 34, 11 yr exp)
+- Alvin Kamara (RB, NO, Age 31, 9 yr exp)
 - Derwin James Jr. (DB, LAC, Age 30, 8 yr exp)
 - Edgerrin Cooper (LB, GB, Age 25, 2 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
@@ -710,6 +710,7 @@ TB
 - Will Anderson Jr. (DL, HOU, Age 25, 3 yr exp)
 - Will Reichard (K, MIN, Age 25, 2 yr exp)
 - Xavier McKinney (DB, GB, Age 28, 6 yr exp)
+- Zack Baun (LB, PHI, Age 29, 6 yr exp)
 
 ### Taxi Squad
 
@@ -775,7 +776,7 @@ TB
 
 **Starters:**
 - Trevor Lawrence (QB, JAX)
-- Kenneth Walker III (RB, KC)
+- Emmett Johnson (RB, KC)
 - Travis Etienne Jr. (RB, NO)
 - Tetairoa McMillan (WR, CAR)
 - Luther Burden III (WR, CHI)
@@ -786,6 +787,7 @@ TB
 - Cam Little (K, JAX)
 - Houston Texans (DEF, HOU)
 - Blake Cashman (LB, MIN)
+- Kaden Elliss (LB, NO)
 - Travis Hunter (DB, JAX)
 - Amani Hooker (DB, BUF)
 
@@ -796,10 +798,11 @@ TB
 - Trevor Lawrence (JAX)
 
 **Positional Surplus (3+ players at same position):**
+- LB (3): Blake Cashman, Carson Schwesinger, Kaden Elliss
 - QB (4): Drake Maye, Joe Milton, Tommy DeVito, Trevor Lawrence
 - RB (12): Blake Corum, Corey Kiner, Dylan Sampson, Emmett Johnson, Jeremiyah Love, Kenneth Walker III, Nicholas Singleton, Rhamondre Stevenson, Tank Bigsby, Travis Etienne Jr., Tyler Allgeier, Zach Charbonnet
 - TE (4): Dallas Goedert, Eli Raridon, Eli Stowers, T.J. Hockenson
-- WR (9): Denzel Boston, Kyle Williams, Luther Burden III, Marvin Harrison Jr., Myles Price, Pat Bryant, Romeo Doubs, Tetairoa McMillan, Xavier Hutchinson
+- WR (8): Denzel Boston, Kyle Williams, Luther Burden III, Marvin Harrison Jr., Pat Bryant, Romeo Doubs, Tetairoa McMillan, Xavier Hutchinson
 
 **Bench depth:**
 - Blake Corum (RB, LAR)
@@ -810,12 +813,11 @@ TB
 - Dylan Sampson (RB, CLE)
 - Eli Raridon (TE, NE)
 - Eli Stowers (TE, PHI)
-- Emmett Johnson (RB, KC)
 - Jeremiyah Love (RB, ARI)
 - Joe Milton (QB, PHI)
+- Kenneth Walker III (RB, KC)
 - Kyle Williams (WR, NE)
 - Marvin Harrison Jr. (WR, HOU)
-- Myles Price (WR, MIN)
 - New England Patriots (DEF, NE)
 - Nicholas Singleton (RB, TEN)
 - Rhamondre Stevenson (RB, NE)
@@ -887,7 +889,7 @@ TB
 - Jordan Watkins (WR, SF)
 - Kenyon Sadiq (TE, NYJ)
 - Keon Coleman (WR, BUF)
-- Omar Cooper Jr. (WR, NYJ)
+- Tre Tucker (WR, LV)
 - Germie Bernard (WR, PIT)
 - Chris Boswell (K, PIT)
 - Dallas Cowboys (DEF, DAL)
@@ -922,11 +924,11 @@ TB
 - Kendre Miller (RB, DAL)
 - Malachi Fields (WR, NYG)
 - Malik Willis (QB, MIA)
+- Omar Cooper Jr. (WR, NYJ)
 - Oronde Gadsden (TE, LAC)
 - RJ Harvey (RB, DEN)
 - Rashod Bateman (WR, BAL)
 - Reggie Virgil (WR, ARI)
-- Tre Tucker (WR, LV)
 - Troy Franklin (WR, DEN)
 - Tyler Higbee (TE, LAR)
 
@@ -1090,7 +1092,7 @@ TB
 - Mason Taylor (TE, NYJ)
 - Matt Hibner (TE, BAL)
 - Max Klare (TE, LAR)
-- Pierre Strong Jr. (RB, GB)
+- Pierre Strong Jr. (RB, FA)
 - Rashid Shaheed (WR, SEA)
 - Sam Darnold (QB, SEA)
 - Tyler Shough (QB, NO)
