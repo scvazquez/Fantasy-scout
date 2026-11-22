@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-21 12:46 PM UTC (auto sync)
+Last synced: 2026-11-22 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -686,7 +686,6 @@ TB
 | K | Tyler Bass | K | BUF | 29 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Quay Walker | LB | LV | 26 |
-| LB | (empty) | - | - | - |
 | DB | Kyle Hamilton | DB | BAL | 25 |
 | DB | Christian Izien | DB | DET | 26 |
 
@@ -1092,7 +1091,7 @@ TB
 - Mason Taylor (TE, NYJ)
 - Matt Hibner (TE, BAL)
 - Max Klare (TE, LAR)
-- Pierre Strong Jr. (RB, FA)
+- Pierre Strong Jr. (RB, GB)
 - Rashid Shaheed (WR, SEA)
 - Sam Darnold (QB, SEA)
 - Tyler Shough (QB, NO)
@@ -1120,7 +1119,7 @@ TB
 - Aaron Rodgers (PIT)
 - Bo Nix (DEN)
 - C.J. Stroud (HOU)
-- Daniel Jones (IND)
+- Daniel Jones (FA)
 - Kirk Cousins (MIN)
 - Patrick Mahomes (KC)
 
@@ -1136,7 +1135,7 @@ TB
 - Bo Nix (QB, DEN)
 - Brenton Strange (TE, JAX)
 - C.J. Stroud (QB, HOU)
-- Daniel Jones (QB, IND)
+- Daniel Jones (QB, FA)
 - Elic Ayomanor (WR, TEN)
 - Isiah Pacheco (RB, DET)
 - Jake Ferguson (TE, DAL)
