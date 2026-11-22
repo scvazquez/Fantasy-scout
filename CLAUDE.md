@@ -1152,7 +1152,7 @@ TB
 ### Jdunn502 (Roster 10)
 
 **Starters:**
-- Bryce Young (QB, CAR)
+- Cam Ward (QB, TEN)
 - Ashton Jeanty (RB, LV)
 - Cam Skattebo (RB, NYG)
 - Ja'Marr Chase (WR, CIN)
@@ -1187,8 +1187,8 @@ TB
 
 **Bench depth:**
 - Audric Estime (RB, NO)
+- Bryce Young (QB, CAR)
 - Cade Klubnik (QB, NYJ)
-- Cam Ward (QB, TEN)
 - Chris Bell (WR, MIA)
 - Chris Rodriguez Jr. (RB, JAX)
 - Christian Watson (WR, GB)
