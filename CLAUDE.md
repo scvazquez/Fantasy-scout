@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-23 12:47 PM UTC (auto sync)
+Last synced: 2026-11-24 12:47 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -674,10 +674,8 @@ TB
 | QB | Jayden Daniels | QB | WAS | 25 |
 | RB | David Montgomery | RB | HOU | 29 |
 | RB | Saquon Barkley | RB | PHI | 29 |
-| WR | CeeDee Lamb | WR | DAL | 27 |
 | WR | Tre' Harris | WR | LAC | 24 |
 | TE | Mark Andrews | TE | BAL | 31 |
-| FLEX | Justin Jefferson | WR | MIN | 27 |
 | FLEX | Rico Dowdle | RB | PIT | 28 |
 | FLEX | Darren Waller | TE | CAR | 34 |
 | K | Tyler Bass | K | BUF | 29 |
@@ -700,6 +698,7 @@ TB
 - Ladd McConkey (WR, LAC, Age 25, 2 yr exp)
 - LeQuint Allen Jr. (RB, JAX, Age 22, 1 yr exp)
 - Malik Davis (RB, DAL, Age 27, 4 yr exp)
+- Marvin Harrison Jr. (WR, HOU, Age 24, 2 yr exp)
 - Matthew Stafford (QB, LAR, Age 38, 17 yr exp)
 - Tahj Brooks (RB, CIN, Age 24, 1 yr exp)
 - Terry McLaurin (WR, WAS, Age 31, 7 yr exp)
@@ -772,17 +771,18 @@ TB
 
 **Starters:**
 - Trevor Lawrence (QB, JAX)
-- Emmett Johnson (RB, KC)
-- Travis Etienne Jr. (RB, NO)
+- Kenneth Walker III (RB, KC)
+- Rhamondre Stevenson (RB, NE)
+- Justin Jefferson (WR, MIN)
 - Tetairoa McMillan (WR, CAR)
-- Luther Burden III (WR, CHI)
-- Dallas Goedert (TE, PHI)
-- Pat Bryant (WR, DEN)
 - T.J. Hockenson (TE, MIN)
+- Travis Etienne Jr. (RB, NO)
+- Mike Evans (WR, SF)
+- Luther Burden III (WR, CHI)
 - Cam Little (K, JAX)
 - Houston Texans (DEF, HOU)
 - Blake Cashman (LB, MIN)
-- Kaden Elliss (LB, NO)
+- Carson Schwesinger (LB, CLE)
 - Travis Hunter (DB, JAX)
 - Amani Hooker (DB, BUF)
 
@@ -797,26 +797,25 @@ TB
 - QB (4): Drake Maye, Joe Milton, Tommy DeVito, Trevor Lawrence
 - RB (12): Blake Corum, Corey Kiner, Dylan Sampson, Emmett Johnson, Jeremiyah Love, Kenneth Walker III, Nicholas Singleton, Rhamondre Stevenson, Tank Bigsby, Travis Etienne Jr., Tyler Allgeier, Zach Charbonnet
 - TE (4): Dallas Goedert, Eli Raridon, Eli Stowers, T.J. Hockenson
-- WR (8): Denzel Boston, Kyle Williams, Luther Burden III, Marvin Harrison Jr., Mike Evans, Pat Bryant, Romeo Doubs, Tetairoa McMillan
+- WR (8): Denzel Boston, Justin Jefferson, Kyle Williams, Luther Burden III, Mike Evans, Pat Bryant, Romeo Doubs, Tetairoa McMillan
 
 **Bench depth:**
 - Blake Corum (RB, LAR)
-- Carson Schwesinger (LB, CLE)
 - Corey Kiner (RB, NE)
+- Dallas Goedert (TE, PHI)
 - Denzel Boston (WR, CLE)
 - Drake Maye (QB, NE)
 - Dylan Sampson (RB, CLE)
 - Eli Raridon (TE, NE)
 - Eli Stowers (TE, PHI)
+- Emmett Johnson (RB, KC)
 - Jeremiyah Love (RB, ARI)
 - Joe Milton (QB, PHI)
-- Kenneth Walker III (RB, KC)
+- Kaden Elliss (LB, NO)
 - Kyle Williams (WR, NE)
-- Marvin Harrison Jr. (WR, HOU)
-- Mike Evans (WR, SF)
 - New England Patriots (DEF, NE)
 - Nicholas Singleton (RB, TEN)
-- Rhamondre Stevenson (RB, NE)
+- Pat Bryant (WR, DEN)
 - Romeo Doubs (WR, NE)
 - Tank Bigsby (RB, PHI)
 - Tommy DeVito (QB, NE)
@@ -1068,10 +1067,11 @@ TB
 - QB (4): Caleb Williams, Drew Allar, Sam Darnold, Tyler Shough
 - RB (7): Chase Brown, De'Von Achane, Jaylen Warren, Jaylen Wright, Jordan Mason, Kenny Gainwell, Pierre Strong Jr.
 - TE (5): Gunnar Helm, Mason Taylor, Matt Hibner, Max Klare, Tyler Warren
-- WR (9): Amon-Ra St. Brown, Bryce Lance, Drake London, George Pickens, Keenan Allen, Khalil Shakir, Konata Mumpfield, Malik Washington, Rashid Shaheed
+- WR (10): Amon-Ra St. Brown, Bryce Lance, CeeDee Lamb, Drake London, George Pickens, Keenan Allen, Khalil Shakir, Konata Mumpfield, Malik Washington, Rashid Shaheed
 
 **Bench depth:**
 - Bryce Lance (WR, NO)
+- CeeDee Lamb (WR, DAL)
 - Cincinnati Bengals (DEF, CIN)
 - De'Von Achane (RB, MIA)
 - Denver Broncos (DEF, DEN)
