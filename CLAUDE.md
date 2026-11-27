@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-26 12:46 PM UTC (auto sync)
+Last synced: 2026-11-27 12:46 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -309,7 +309,6 @@ Last synced: 2026-11-26 12:46 PM UTC (auto sync)
 5848
 5849
 5850
-5854
 5859
 5870
 5872
@@ -855,7 +854,7 @@ WAS
 **Bench depth:**
 - Brian Thomas Jr. (WR, JAX)
 - Camden Brown (WR, DAL)
-- Dare Ogunbowale (RB, HOU)
+- Dare Ogunbowale (RB, FA)
 - Darius Cooper (WR, PHI)
 - Devaughn Vele (WR, NO)
 - Dohnte Meyers (WR, CIN)
@@ -937,8 +936,8 @@ WAS
 - Rashee Rice (WR, KC)
 - Chig Okonkwo (TE, WAS)
 - Jonah Coleman (RB, DEN)
-- Jalen Coker (WR, CAR)
-- Omarion Hampton (RB, LAC)
+- Jaxon Smith-Njigba (WR, SEA)
+- Derrick Henry (RB, BAL)
 - Jake Bates (K, DET)
 - Kansas City Chiefs (DEF, KC)
 - Drue Tranquill (LB, KC)
@@ -946,10 +945,9 @@ WAS
 - Tykee Smith (DB, TB)
 - Joshua Metellus (DB, MIN)
 
-**QB Room (8 QBs):**
+**QB Room (7 QBs):**
 - Anthony Richardson Sr. (IND)
 - Dak Prescott (DAL)
-- Drew Lock (SEA)
 - Jacoby Brissett (BAL)
 - Jalon Daniels (TB)
 - Lamar Jackson (BAL)
@@ -957,7 +955,7 @@ WAS
 - Ty Simpson (LAR)
 
 **Positional Surplus (3+ players at same position):**
-- QB (8): Anthony Richardson Sr., Dak Prescott, Drew Lock, Jacoby Brissett, Jalon Daniels, Lamar Jackson, Taylen Green, Ty Simpson
+- QB (7): Anthony Richardson Sr., Dak Prescott, Jacoby Brissett, Jalon Daniels, Lamar Jackson, Taylen Green, Ty Simpson
 - RB (9): Brian Robinson Jr., Chuba Hubbard, Derrick Henry, Javonte Williams, Jonah Coleman, Jonathon Brooks, Kaelon Black, Keaton Mitchell, Omarion Hampton
 - TE (5): Cade Otton, Chig Okonkwo, Dalton Schultz, Michael Mayer, Terrance Ferguson
 - WR (8): Alec Pierce, Elijah Sarratt, Jalen Coker, Jaxon Smith-Njigba, Makai Lemon, Parker Washington, Rashee Rice, Wan'Dale Robinson
@@ -968,19 +966,18 @@ WAS
 - Brian Robinson Jr. (RB, ATL)
 - Cade Otton (TE, TB)
 - Dalton Schultz (TE, HOU)
-- Derrick Henry (RB, BAL)
-- Drew Lock (QB, SEA)
 - Elijah Sarratt (WR, BAL)
 - Jacksonville Jaguars (DEF, JAX)
 - Jacoby Brissett (QB, BAL)
+- Jalen Coker (WR, CAR)
 - Jalon Daniels (QB, TB)
-- Jaxon Smith-Njigba (WR, SEA)
 - Jonathon Brooks (RB, CAR)
 - Kaelon Black (RB, SF)
 - Keaton Mitchell (RB, LAC)
 - Lamar Jackson (QB, BAL)
 - Makai Lemon (WR, PHI)
 - Michael Mayer (TE, LV)
+- Omarion Hampton (RB, LAC)
 - Taylen Green (QB, CLE)
 - Terrance Ferguson (TE, LAR)
 - Ty Simpson (QB, LAR)
@@ -990,8 +987,8 @@ WAS
 
 **Starters:**
 - Josh Allen (QB, BUF)
-- Sione Vaki (RB, DET)
-- Ty Johnson (RB, BUF)
+- Jacory Croskey-Merritt (RB, WAS)
+- Bijan Robinson (RB, ATL)
 - Tee Higgins (WR, CIN)
 - Stefon Diggs (WR, WAS)
 - Trey McBride (TE, ARI)
@@ -1018,13 +1015,11 @@ WAS
 - WR (11): Chris Godwin Jr., DK Metcalf, Dont'e Thornton Jr., Jaylen Waddle, Josh Downs, Kalif Raymond, Laquon Treadwell, Michael Pittman Jr., Stefon Diggs, Tee Higgins, Tez Johnson
 
 **Bench depth:**
-- Bijan Robinson (RB, ATL)
 - Chase McLaughlin (K, TB)
 - Chris Godwin Jr. (WR, TB)
 - Colby Parkinson (TE, LAR)
 - Dont'e Thornton Jr. (WR, LV)
 - Greg Dulcich (TE, MIA)
-- Jacory Croskey-Merritt (RB, WAS)
 - Jalen Hurts (QB, PHI)
 - Josh Jacobs (RB, GB)
 - Juwan Johnson (TE, NO)
@@ -1033,8 +1028,10 @@ WAS
 - Michael Pittman Jr. (WR, PIT)
 - Nick Bolton (LB, KC)
 - Roschon Johnson (RB, CHI)
+- Sione Vaki (RB, DET)
 - Stetson Bennett IV (QB, LAR)
 - Tez Johnson (WR, TB)
+- Ty Johnson (RB, BUF)
 - Tyler Goodson (RB, DAL)
 
 ### Darkkaze (Roster 7)
@@ -1112,7 +1109,7 @@ WAS
 - Jeremy Chinn (DB, LV)
 
 **QB Room (6 QBs):**
-- Aaron Rodgers (PIT)
+- Aaron Rodgers (FA)
 - Bo Nix (DEN)
 - C.J. Stroud (HOU)
 - Daniel Jones (FA)
@@ -1127,7 +1124,7 @@ WAS
 
 **Bench depth:**
 - Aaron Jones Sr. (RB, MIN)
-- Aaron Rodgers (QB, PIT)
+- Aaron Rodgers (QB, FA)
 - Bo Nix (QB, DEN)
 - C.J. Stroud (QB, HOU)
 - Daniel Jones (QB, FA)
@@ -1262,15 +1259,17 @@ WAS
 ### BedStuyBallers21 (Roster 12)
 
 **Starters:**
-- Brock Purdy (QB, SF)
-- Rachaad White (RB, WAS)
+- J.J. McCarthy (QB, NYG)
+- Justice Hill (RB, BAL)
+- Samaje Perine (RB, CIN)
 - Zay Flowers (WR, BAL)
 - Jakobi Meyers (WR, JAX)
 - Isaiah Likely (TE, NYG)
 - Chimere Dike (WR, TEN)
+- Dylan Sampson (RB, CLE)
 - Emeka Egbuka (WR, TB)
 - Brandon Aubrey (K, DAL)
-- Philadelphia Eagles (DEF, PHI)
+- Minnesota Vikings (DEF, MIN)
 - Demetrius Knight Jr. (LB, CIN)
 - Fred Warner (LB, SF)
 - Budda Baker (DB, ARI)
@@ -1291,23 +1290,21 @@ WAS
 **Bench depth:**
 - Adam Randall (RB, BAL)
 - Austin Ekeler (RB, WAS)
+- Brock Purdy (QB, SF)
 - Cooper Kupp (WR, SEA)
 - Dalton Kincaid (TE, BUF)
 - Darnell Mooney (WR, NYG)
 - De'Zhaun Stribling (WR, SF)
-- Dylan Sampson (RB, CLE)
 - Eli Heidenreich (RB, PIT)
 - Isaiah Davis (RB, NYJ)
-- J.J. McCarthy (QB, NYG)
 - Jauan Jennings (WR, MIN)
 - Joe Milton (QB, PHI)
-- Justice Hill (RB, BAL)
 - Kimani Vidal (RB, LAC)
 - Mac Jones (QB, SF)
 - Michael Trigg (TE, DAL)
-- Minnesota Vikings (DEF, MIN)
+- Philadelphia Eagles (DEF, PHI)
+- Rachaad White (RB, WAS)
 - Roman Wilson (WR, PIT)
-- Samaje Perine (RB, CIN)
 - Xavier Hutchinson (WR, HOU)
 
 <!-- END_AUTO_GENERATED -->
