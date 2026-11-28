@@ -234,7 +234,7 @@ replacements mid-season.
 <!-- ============================================================ -->
 <!-- BEGIN_AUTO_GENERATED -->
 ## Roster State
-Last synced: 2026-11-27 12:46 PM UTC (auto sync)
+Last synced: 2026-11-28 12:45 PM UTC (auto sync)
 
 ## Ownership Index
 ```
@@ -278,7 +278,6 @@ Last synced: 2026-11-27 12:46 PM UTC (auto sync)
 4066
 4070
 4081
-4137
 4147
 4199
 4217
@@ -306,7 +305,6 @@ Last synced: 2026-11-27 12:46 PM UTC (auto sync)
 5332
 5844
 5846
-5848
 5849
 5850
 5859
@@ -567,6 +565,7 @@ Last synced: 2026-11-27 12:46 PM UTC (auto sync)
 12634
 12646
 12718
+12773
 13150
 13264
 13268
@@ -610,7 +609,6 @@ Last synced: 2026-11-27 12:46 PM UTC (auto sync)
 13347
 13348
 13349
-13350
 13353
 13363
 13371
@@ -677,19 +675,19 @@ WAS
 | WR | Tre' Harris | WR | LAC | 24 |
 | TE | Kyle Pitts Sr. | TE | ATL | 26 |
 | FLEX | David Montgomery | RB | HOU | 29 |
-| FLEX | Alvin Kamara | RB | NO | 31 |
 | FLEX | Mark Andrews | TE | BAL | 31 |
+| FLEX | Darren Waller | TE | CAR | 34 |
 | K | Will Reichard | K | MIN | 25 |
 | DEF | Detroit Lions | DEF | DET | ? |
 | LB | Quay Walker | LB | LV | 26 |
 | LB | Will Anderson Jr. | DL | HOU | 25 |
-| DB | Kyle Hamilton | DB | BAL | 25 |
 | DB | Xavier McKinney | DB | GB | 28 |
+| DB | Kyle Hamilton | DB | BAL | 25 |
 
 ### Bench
 
+- Alvin Kamara (RB, NO, Age 31, 9 yr exp)
 - Christian Izien (DB, DET, Age 26, 3 yr exp)
-- Darren Waller (TE, CAR, Age 34, 11 yr exp)
 - Derwin James Jr. (DB, LAC, Age 30, 8 yr exp)
 - Edgerrin Cooper (LB, GB, Age 25, 2 yr exp)
 - Elijah Arroyo (TE, SEA, Age 23, 1 yr exp)
@@ -1205,15 +1203,15 @@ WAS
 ### nicoyepes (Roster 11)
 
 **Starters:**
-- Justin Herbert (QB, LAC)
+- DJ Uiagalelei (QB, LAC)
 - Jonathan Taylor (RB, IND)
 - Christian McCaffrey (RB, SF)
 - Jameson Williams (WR, DET)
+- Nico Collins (WR, HOU)
+- Hunter Henry (TE, NE)
+- Ryan Flournoy (WR, DAL)
 - DeMario Douglas (WR, NE)
 - Mike Gesicki (TE, CIN)
-- Ryan Flournoy (WR, DAL)
-- Nico Collins (WR, HOU)
-- A.J. Brown (WR, NE)
 - Jason Myers (K, SEA)
 - Buffalo Bills (DEF, BUF)
 - Arvell Reese (LB, NYG)
@@ -1222,18 +1220,19 @@ WAS
 - Chamarri Conner (DB, KC)
 
 **QB Room (3 QBs):**
+- DJ Uiagalelei (LAC)
 - Garrett Nussmeier (KC)
-- Joe Fagnano (BAL)
 - Justin Herbert (LAC)
 
 **Positional Surplus (3+ players at same position):**
 - LB (4): Arvell Reese, Jack Campbell, Micah Parsons, Roquan Smith
-- QB (3): Garrett Nussmeier, Joe Fagnano, Justin Herbert
-- RB (7): Christian McCaffrey, D'Andre Swift, DJ Giddens, James Conner, Jonathan Taylor, Sean Tucker, Trey Benson
+- QB (3): DJ Uiagalelei, Garrett Nussmeier, Justin Herbert
+- RB (6): Christian McCaffrey, D'Andre Swift, DJ Giddens, Jonathan Taylor, Sean Tucker, Trey Benson
 - TE (4): David Njoku, Hunter Henry, Mike Gesicki, Nate Boerkircher
-- WR (13): A.J. Brown, Brenen Thompson, CJ Daniels, Courtland Sutton, Davante Adams, DeMario Douglas, Demarcus Robinson, Jameson Williams, Kevin Coleman Jr., Marquise Brown, Nico Collins, Ryan Flournoy, Tyquan Thornton
+- WR (12): A.J. Brown, Brenen Thompson, CJ Daniels, Courtland Sutton, Davante Adams, DeMario Douglas, Demarcus Robinson, Jameson Williams, Kevin Coleman Jr., Nico Collins, Ryan Flournoy, Tyquan Thornton
 
 **Bench depth:**
+- A.J. Brown (WR, NE)
 - Baltimore Ravens (DEF, BAL)
 - Brenen Thompson (WR, LAC)
 - CJ Daniels (WR, LAR)
@@ -1244,12 +1243,9 @@ WAS
 - David Njoku (TE, LAC)
 - Demarcus Robinson (WR, SF)
 - Garrett Nussmeier (QB, KC)
-- Hunter Henry (TE, NE)
 - Jack Campbell (LB, DET)
-- James Conner (RB, ARI)
-- Joe Fagnano (QB, BAL)
+- Justin Herbert (QB, LAC)
 - Kevin Coleman Jr. (WR, MIA)
-- Marquise Brown (WR, FA)
 - Micah Parsons (LB, GB)
 - Nate Boerkircher (TE, JAX)
 - Sean Tucker (RB, TB)
